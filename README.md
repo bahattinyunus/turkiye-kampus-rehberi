@@ -42,6 +42,10 @@ YKS ve yatay geçiş tercih dönemleri, adaylar için bir bilinmezlikler okyanus
 
 Bu depo; Türkiye'nin dört bir yanındaki KYK yurtlarında kalmış, kampüslerin havasını solumuş öğrencilerin kolektif hafızasıdır. Amacımız, tercih yapacak adaylara **veriye dayalı, objektif ve şeffaf** bir rehber sunmaktır.
 
+<p align="center">
+  <img src="./assets/campus-hero.jpg" alt="Türkiye Üniversite Kampüs Yaşamı" width="100%" style="border-radius: 14px;" />
+</p>
+
 ---
 
 ## ⚡ Ekosistem ve Mimari
@@ -89,6 +93,10 @@ Rehberin web sürümü **GitHub Pages** üzerinde canlı olarak yayınlanmaktad�
 * 📊 **Detay Modalı:** Sayfadan ayrılmadan tüm metrikleri, artıları, eksileri ve öğrenci notunu inceleme.
 * ⚖️ **Kampüs Kıyaslama:** İki yerleşkeyi seçip yan yana avantajlarını kıyaslama.
 
+<p align="center">
+  <img src="./assets/campus-life.jpg" alt="3D Kampüs Yaşamı ve Ulaşım Ekosistemi" width="100%" style="border-radius: 14px;" />
+</p>
+
 ---
 
 ## 🐍 Python SDK & Kütüphane Kullanımı
@@ -126,6 +134,10 @@ print(karsilastirma["karsilastirma"])
 ---
 
 ## 🤖 Akıllı Tercih Danışmanı (CLI)
+
+<p align="center">
+  <img src="./assets/ai-advisor.jpg" alt="AI Tercih Danışmanı ve Kampüs Analitiği" width="100%" style="border-radius: 14px;" />
+</p>
 
 Terminal üzerinden doğal dilde tercih soruları sorabilir ve yerleşkeleri kıyaslayabilirsiniz:
 
