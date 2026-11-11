@@ -91,10 +91,11 @@
 * Uluslararası düzeyde %100 İngilizce akademik eğitim, güçlü mezun ağı (networking) ve eşsiz kulüp kültürü.
 * Levent-Maslak iş merkezlerine 5-10 dakika uzaklıkta olması sayesinde sınırsız staj ve kariyer imkanı.
 
-### ❌ Eksileri
-* Kampüs içi yurt kapasitesinin sınırlı olması ve Hisarüstü/Beşiktaş çevresinde eski binalara rağmen çok yüksek kira fiyatları.
-* Hazırlık yılını Kilyos (Sarıtepe) Kampüsü'nde okuyanlar için şehir merkezine uzaklık (ancak güçlü yurt arkadaşlığı ortamı sunar).
-* Zorlu akademik müfredat ve yüksek rekabet temposu.
+### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+* **Kilyos (Sarıtepe) Sürgünü ve Ulaşım İzolasyonu:** Hazırlık sınıfının İstanbul merkezinden 35 km uzaktaki Kilyos'ta olması; kışın dondurucu Karadeniz fırtınaları, haftasonu Beşiktaş'a inmek için çekilen 1.5 saatlik otobüs yolu ve sosyal izolasyon hissi.
+* **Yurt Kapasitesi Krizi ve Hisarüstü Rantı:** Son yıllarda yurt kapasitelerinin daralması yüzünden açıkta kalan öğrencilerin Hisarüstü'ndeki eski, depreme dayanıksız 1+1 dairelere fahiş kiralar ödemek zorunda kalması.
+* **Güney-Kuzey Ring Çilesi:** Güney Kampüs ile Kuzey Kampüs arasındaki dar sokaklarda ders değişim saatlerinde ringlerin yetersiz kalması ve dik Hisarüstü yokuşunu yürümek zorunda kalmak.
+* **Yoğun Akademik Rekabet ve Çan Baskısı:** Türkiye derecesiyle gelen binlerce öğrenci arasında çan eğrisi yüzünden yaşanan akademik tükenmişlik ve ders notu stresleri.
 
 ---
 

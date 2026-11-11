@@ -53,8 +53,8 @@ def parse_campus_file(file_path):
         }
 
     # Extract Highlights
-    artilar = re.findall(r'###\s*✅\s*Artıları\s*\n((?:\s*\*\s*.*?\n)+)', content)
-    eksiler = re.findall(r'###\s*❌\s*Eksileri\s*\n((?:\s*\*\s*.*?\n)+)', content)
+    artilar = re.findall(r'###\s*✅\s*Artıları[^\n]*\n((?:\s*\*\s*.*?\n)+)', content)
+    eksiler = re.findall(r'###\s*❌\s*Eksileri[^\n]*\n((?:\s*\*\s*.*?\n)+)', content)
     
     parsed_artilar = []
     if artilar:

@@ -99,3 +99,10 @@
 
 > 💬 **Öğrenci Notu:**  
 > "KTÜ Yazılım Mühendisliği veya diğer Teknoloji Fakültesi bölümlerini yazarken **fakültenin Of'ta olduğunu** mutlaka bilerek tercih yapın. Eğer İngilizce hazırlık okursanız ilk senenizi Trabzon merkezdeki Kanuni Kampüsü'nde geçirirsiniz. Of'a geçtiğinizde ise ilçenin sakinliğini şikayet etmek yerine kendi lehinize çevirin: 4 yıl boyunca laboratuvarlardan ve GitHub'dan çıkmayıp sağlam projeler geliştirirseniz KTÜ etiketiyle mezun olduğunuz gün işiniz hazırdır!"
+
+---
+
+## ⚠️ Adayların Bilmesi Gereken Acı Gerçek: Merkezden 55 KM Uzaklık!
+* **Trabzon Merkez Değil, Bağımsız İlçe:** Birçok aday "KTÜ kazandım" diyerek Trabzon merkeze gideceğini zanneder ancak Of ilçesi Trabzon merkeze tam 55 kilometre mesafededir!
+* **Sosyal İmkansızlıklar:** İlçede tek bir ana cadde, çay ocakları ve sınırlı sayıda kafe bulunur; üniversite gençlik hayatı beklentisiyle gelenler ilk haftadan büyük hayal kırıklığı yaşar.
+* **Kış Yağmuru ve Nem:** Yılın büyük bölümünde şiddetli Karadeniz yağmuru ve rutubet hakimdir.

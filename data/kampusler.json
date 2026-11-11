@@ -903,8 +903,10 @@
       "Güçlü Akademik İtibar: Mühendislik, Hukuk, Psikoloji, İngilizce Mütercim-Tercümanlık ve temel bilimlerde Türkiye'nin en üst düzey bölümlerine sahiptir."
     ],
     "eksiler": [
-      "550 Ring Sırası ve Metro Aktarması: Kampüs dışında yaşayanlar için her sabah Beytepe metrosunda inip 550 otobüs sırasına girmek (özellikle kış soğuğunda) en büyük zorluktur.",
-      "Sert Beytepe İklimi: Kışın rüzgarı, sisi ve ayazı şehir merkezinden çok daha serttir."
+      "550 Ring Çilesi ve Sabah Kuyrukları: Beytepe Köprüsü Metro çıkışında sabah 08:00 - 09:15 arasında 30-45 dakikayı bulan dondurucu EGO ring kuyrukları. Körüklü otobüslere balık istifi binilmesi ve sınav haftalarında ring yetersizliği en çok şikayet edilen konudur.",
+      "Dondurucu Rüzgar Koridoru ve Sert Bozkır Ayazı: Kızılay'da hava 10 dereceyken Beytepe'de karla karışık tipi ve -5 derece ayaz yaşanabilir; kampüsteki açık alanlarda yürürken rüzgar iliklerinize işler.",
+      "Yabancı Diller Yüksekokulu (Hazırlık) Baskısı: İngilizce hazırlıkta devamsızlık sınırı son derece katıdır; her modül yapılan pop-quizler ve yüksek barajlar öğrencileri ilk yıldan ciddi biçimde yıpratır.",
+      "Yemekhanede Öğle Saati İzdihamı: 12:00 - 13:00 arası Merkezi Yemekhane'de turnikelerden dışarı taşan uzun kuyruklar; ders aralığı 45 dakika olan öğrenciler için yemek yemek yarışa dönüşür."
     ],
     "ogrenci_notu": "Beytepe'yi kazandıysan Ankara merkezde tişörtle gezilirken bile çantanda mutlaka bir polar veya yağmurluk bulundur, çünkü Beytepe'nin havası 15 dakikada değişir! Şehir dışından geliyorsan hem KYK'ya hem de Hacettepe'nin kendi Öğrenci Evleri/Yurtları başvurularına mutlaka ayrı ayrı başvur; bahar geldiğinde ise Yeşil Vadi'de çimlere uzanmanın keyfini çıkar."
   },
@@ -1005,8 +1007,10 @@
       "Şehir Merkezinde Orman Kampüs: Hem 45 bin dönüm ormanın içinde olup hem de Kızılay'a metroyla 15 dakika mesafede olmak büyük bir lükstür."
     ],
     "eksiler": [
-      "Çok Ağır Akademik Yük ve Çan Eğrisi: Sınavlar gerçekten zordur; düzenli çalışmayan bir öğrenci için \"ODTÜ'de 4 yılda bitirmek\" ciddi bir mücadeledir.",
-      "Yurt ve Ring Yoğunluğu: İlk aylarda kampüs içi yurtlarda yedek sırası beklemek ve sabah 08:40 dersleri öncesi A1 kapısında ring kuyruğuna girmek yorucu olabilir."
+      "Devasa Arazide Kış Yürüyüşleri & Ring Yetersizliği: 45 milyon metrekarelik arazide kışın -15 derece Ankara ayazında, özellikle 19. Yurt ve Faika Demiray bölgesinden Mühendislik binalarına rüzgara karşı yürümek zordur; sabah 08:40 dersi öncesinde A1 kapısı ve yurtlar ring kuyruklarında uzun beklemeler yaşanır.",
+      "DBE (Hazırlık) Baskısı ve Ağır Çan Eğrisi: İngilizce hazırlıkta (Temel Yabancı Diller Bölümü) her hafta yapılan habersiz pop-quizler, ağır geçme barajları ve bölümlerdeki acımasız bağıl değerlendirme (çan eğrisi) nedeniyle okulun 5-6 yılda bitmesi oldukça yaygındır.",
+      "Sınav Döneminde Kütüphanede Yer Kapma Savaşı: Kütüphane 7/24 açıktır ancak vize ve final haftalarında sabah 08:00'de masa tutulmazsa gün boyu oturacak yer bulunamaz; priz ve masa paylaşımı tartışmaları sıktır.",
+      "100. Yıl Mahallesi Kira Artışları: Eskiden öğrenci dostu olan 100. Yıl Mahallesi'nde kiraların hızla yükselmesi ve eski binaların kışın yüksek doğalgaz faturaları çıkarması."
     ],
     "ogrenci_notu": "ODTÜ'ye adım attığın ilk gün kütüphaneciye de, otobüs şoförüne de, profesöre de 'Hocam' demeye alış! Hazırlık yılını (DBE) sadece İngilizce geçmek için değil, en az 2 öğrenci topluluğuna katılıp ömürlük dostluklar kurmak için değerlendir; sabah A1'de ring sırası çok uzunsa da otostop noktasında el kaldırmaktan çekinme!"
   },
@@ -1189,18 +1193,57 @@
   },
   {
     "id": "09-Aydin/Nazilli/ADU-Nazilli-Isabeyli-IIBF",
-    "baslik": "ADÜ - Nazilli İsabeyli İİBF Yerleşkesi",
+    "baslik": "Aydın Adnan Menderes Üniversitesi (ADÜ) - Nazilli İsabeyli Kampüsü",
     "dosya_yolu": "09-Aydin/Nazilli/ADU-Nazilli-Isabeyli-IIBF.md",
     "plaka": "09",
     "il": "Aydin",
     "ilce": "Nazilli",
     "universite_turu": "Devlet",
-    "ogrenci_dostu_puani": "⭐️⭐️⭐️⭐️☆ (4.1/5)",
+    "ogrenci_dostu_puani": "⭐️⭐️⭐️☆☆ (3.3/5)",
     "son_guncelleme": "Kasım 2026",
-    "metrikler": {},
-    "artilar": [],
-    "eksiler": [],
-    "ogrenci_notu": ""
+    "metrikler": {
+      "🚇 i̇l merkezine uzaklık": {
+        "degerlendirme": "45 km / ~45-50 dk",
+        "detay": "Nazilli İlçe Merkezine 6 km; Aydın - Denizli treni ve sarı dolmuşlar"
+      },
+      "🏠 kyk yurt i̇mkanı": {
+        "degerlendirme": "Yüksek",
+        "detay": "İsabeyli yerleşkesinde ve Nazilli merkezde KYK yurtları"
+      },
+      "💸 aylık ortalama kira (öğrenci evi)": {
+        "degerlendirme": "7.000 - 11.000 TL",
+        "detay": "İsabeyli apartları ve Nazilli Merkez (Sümer, Yeşil Mahalle)"
+      },
+      "🍽️ yemekhane ücreti & kalitesi": {
+        "degerlendirme": "20 - 25 TL / Standart",
+        "detay": "İİBF yemekhanesinde uygun fiyatlı sıcak tabldot"
+      },
+      "📚 kütüphane kapasitesi": {
+        "degerlendirme": "Orta",
+        "detay": "İİBF Kütüphanesi ve bilgisayar laboratuvarları"
+      },
+      "🌐 i̇nternet (eduroam)": {
+        "degerlendirme": "Standart",
+        "detay": "Fakülte binalarında aktif"
+      },
+      "🌆 sosyal yaşam & çevre": {
+        "degerlendirme": "Kasaba / Köy Havası",
+        "detay": "İsabeyli kafe caddesi, Nazilli Uzun Çarşı, trenle Pamukkale/Denizli ve Aydın"
+      }
+    },
+    "artilar": [
+      "Ege Bölgesi'nin en köklü ve mezun sayısı en yüksek İktisadi ve İdari Bilimler fakültelerinden birine sahip olması.",
+      "Yaşam maliyetinin çok düşük olması; ucuz kiralar, Ege pazarlarının tazeliği ve uygun kafe fiyatları.",
+      "Tren istasyonuna yakınlık sayesinde Aydın, İzmir ve Denizli'ye trenle çok ucuza seyahat imkanı.",
+      "Küçük bir beldede herkesin birbirini tanıdığı samimi, sakin öğrenci kasabası ortamı."
+    ],
+    "eksiler": [
+      "İl Merkezine 45 Kilometre Uzaklık ve İlçe İçi Köy Konumu: \"Aydın'ı kazandım\" diyerek gelen öğrencilerin Aydın merkez yerine Nazilli'nin küçük bir mahallesi olan İsabeyli köyüne gelmesi ilk hafta ciddi bir hayal kırıklığı yaratır. Şehir merkezindeki kültürel ve sosyal olanaklar burada yoktur.",
+      "Tek Caddeye Sıkışan Sosyal Hayat: İsabeyli'de sosyal hayat fakülte önündeki birkaç kafe, kırtasiye ve çiğ köfteciden ibarettir. Akşam saatlerinde sokaklar tamamen ıssızlaşır; farklı bir şey yapmak için Nazilli merkeze dolmuşla gitmek gerekir.",
+      "Bunaltıcı Yaz Sıcakları: Nazilli ve Aydın ovası, mayıs ayından itibaren 40-44 dereceleri bulan aşırı kuru sıcaklarla kavrulur. Fakülte binalarında ve evlerde klimasız ders çalışmak imkansız hale gelir.",
+      "Mezun Sayısının Çokluğu ve KPSS Rekabeti: İİBF bölümlerindeki (İktisat, İşletme, Maliye, Kamu Yönetimi) aşırı öğrenci mevcudu nedeniyle mezuniyet sonrası iş bulma ve KPSS yarışında bireysel çaba göstermek zorunludur."
+    ],
+    "ogrenci_notu": "Buraya geliyorsan büyükşehir hayallerini bir kenara bırak; İsabeyli sakin, ucuz ve kafa dinleyip ders çalışmalık bir öğrenci köyüdür. Tren saatlerini mutlaka ezberle, hafta sonları Denizli veya İzmir'e trenle gitmek moralini yüksek tutar. Sıcağa hazırlıklı ol, kliması olan bir apart tutmaya çalış!"
   },
   {
     "id": "09-Aydin/Efeler/ADU-Aytepe-Merkez-Kampusu",
@@ -2291,9 +2334,10 @@
       "Bitişiğindeki Görükle ve Nilüfer ilçesinin sunduğu Türkiye'nin en canlı öğrenci sosyal hayatlarından biri."
     ],
     "eksiler": [
-      "Kampüsün çok büyük olması nedeniyle metro/yurt ile fakülteler arasında yürüme mesafelerinin uzunluğu ve ring yoğunluğu.",
-      "Görükle'de bazı eski apartlarda ses yalıtımı sorunu ve kalabalık gece gürültüsü.",
-      "Bursa genelinde yaşam ve kira maliyetlerinin büyükşehir seviyesinde olması."
+      "Bursaray'ın Görükle Yerleşimine Girmemesi Çilesi: Bursaray sadece kampüs girişindeki 'Üniversite' durağına kadar gelir. Görükle yerleşiminde oturan bir öğrenci kampüse veya metroya gitmek için her gün sarı minibüslere binmek ya da 25 dakika rüzgara karşı yürümek zorundadır.",
+      "Görükle Emlakçı & Esnaf Rantı: \"Öğrenciye her şey pahalı\" yaklaşımı; faturalarda süzme sayaç kavgaları, depozito iadelerinde çıkarılan pürüzler ve apartlarda yetersiz ses/ısı yalıtımı öğrencilerin en çok yakındığı konular arasındadır.",
+      "Kampüs İçi Mesafe ve Ringlerin Tıklım Tıklım Olması: Tıp Fakültesi, İİBF ve Mühendislik binaları birbirinden uzaktır; sabah ve akşam saatlerinde kampüs içi ringlere binmek adeta bir güreş müsabakasına döner.",
+      "Uludağ'ın Dondurucu Kış Ayazı: Kış aylarında Uludağ'dan ovaya inen dondurucu rüzgar yüzünden açık kampüste yürümek oldukça zordur."
     ],
     "ogrenci_notu": "Uludağ Üniversitesi Görükle Kampüsü, Türkiye'de gerçek 'kampüs üniversitesi' ruhunu iliklerine kadar yaşayacağın nadir yerlerden biridir. İlk yıl kampüs içindeki KYK yurtlarında kalıp ortamı tanı; Görükle'de eve çıkacaksan da gürültüden uzak ama 35/G otobüs durağına yakın (Dumlupınar veya Göçmen Konutları tarafı) yalıtımlı bir apart seç!"
   },
@@ -3971,7 +4015,7 @@
     "plaka": "26",
     "il": "Eskisehir",
     "ilce": "Tepebasi",
-    "universite_turu": "Devlet",
+    "universite_turu": "Devlet (Teknik Üniversite)",
     "ogrenci_dostu_puani": "⭐️⭐️⭐️⭐️☆ (4.3/5)",
     "son_guncelleme": "Kasım 2026",
     "metrikler": {
@@ -3988,7 +4032,7 @@
         "detay": "Yenibağlar, Eskibağlar, Şirintepe, Uluönder"
       },
       "🍽️ yemekhane ücreti & kalitesi": {
-        "degerlendirme": "30 TL / Yüksek Kalite",
+        "degerlendirme": "25 - 30 TL / Yüksek Kalite",
         "detay": "Modern yemekhane, mühendislik öğrencileri için doyurucu porsiyonlar"
       },
       "📚 kütüphane kapasitesi": {
@@ -4005,15 +4049,17 @@
       }
     },
     "artilar": [
-      "Kendi havalimanı ve pistine sahip dünyadaki nadir üniversitelerden biri olması.",
-      "Güçlü mühendislik geleneği, sanayi stajları ve TEKNOFEST başarıları.",
-      "Kampüs içinde modern KYK yurdu imkanı."
+      "Kendi havalimanı ve pistine sahip dünyadaki nadir üniversitelerden biri olması; havacılık ve mühendislikte üst düzey altyapı.",
+      "Güçlü mühendislik geleneği, sanayi stajları ve TEKNOFEST takımlarının sağladığı laboratuvar imkanları.",
+      "Kampüs içinde modern KYK yurdu imkanı ve Eskişehir'in genel öğrenci dostu sosyal yaşamına 20 dakika mesafede olması."
     ],
     "eksiler": [
-      "Doğrudan tramvay hattının olmaması; otobüs yoğunluğu yaşanabilmesi.",
-      "Havalimanı arazisi kenarında açık alanda olduğu için kışın rüzgarlı ve soğuk olması."
+      "Tramvaysızlık ve Sabah Otobüs İzdihamı: Eskişehir denilince akla tramvay konforu gelse de ESTÜ, Anadolu ve Osmangazi üniversitelerinin aksine tramvay hattından tamamen yoksundur. Espark önü (Üniversite Caddesi) ve Gar civarındaki Kırmızı 4, Siyah 4 ve Express duraklarında sabah 08:00 - 09:00 arası yüzlerce metreyi bulan öğrenci kuyrukları oluşur; soğukta gelen otobüsler balık istifi dolar ve arka arkaya 2-3 otobüs kaçırmak zorunda kalınabilir.",
+      "Meşhur \"ESTÜ Ayazı ve Havalimanı Rüzgarı\": Hasan Polatkan Havalimanı pistinin kenarında, tamamen ağaçsız ve açık ovada kurulduğu için kampüs kış aylarında dondurucu bir rüzgar koridoruna döner. Eskişehir'in zaten sert olan karasal soğuğu burada 3 kat daha fazla hissedilir; binalar arasında yürürken şemsiyeler parçalanır, öğrenciler kışın yüz felci geçirmemek için boyunluksuz kampüse adım atamaz.",
+      "Ders Bitimi Issızlaşan \"Hayalet Kampüs\": Saat 17:00'den sonra derslerin bitmesiyle birlikte kampüs adeta terk edilmiş bir askeri üsse döner. Kampüs KYK'da kalan öğrenciler için akşam vakit geçirilecek sinema, kaliteli kafe veya sosyal alan yoktur; kahve içmek veya sosyalleşmek için her seferinde Bağlar'a veya Adalar'a gitmek şarttır.",
+      "Anadolu Üniversitesi'nden Ayrılma Sendromu: 2018 yılında Anadolu Üniversitesi'nden koparılarak kurulması sebebiyle bazı idari, kültürel ve bürokratik mekanizmalarda yaşanan bölünme sancıları ve Anadolu Üniversitesi Yunus Emre Kampüsü'nün yeşil ortamına kıyasla daha çıplak/soğuk bir kampüs algısı sürmektedir."
     ],
-    "ogrenci_notu": "Mühendislik, havacılık veya tasarım düşünüyorsan ESTÜ tam bir üretim cennetidir. Kampüste tramvay olmaması başta gözünü korkutmasın, Espark önünden otobüsler 15 dakikada kampüsün içine atıyor."
+    "ogrenci_notu": "Mühendislik, havacılık veya tasarım düşünüyorsan ESTÜ tam bir üretim cennetidir. Ancak Eskişehir'e gelip tramvayla kampüse gitmeyi hayal etme; kışın Kırmızı 4 ve Siyah 4 duraklarında sabah kuyruğunda titreyeceksin! Kampüse gelirken rüzgar geçirmeyen dağcı montu ve termal içlik almayı asla ihmal etme. Espark civarında ev tutarsan otobüs ilk duraktan kalktığı için oturarak gitme şansın artar."
   },
   {
     "id": "27-Gaziantep/Sahinbey/GAUN-Merkez-Kampusu",
@@ -4789,21 +4835,6 @@
     "ogrenci_notu": "Toros Üniversitesi'ni seçersen dağ başında bir kampüse gitmek yerine Mersin'in en güzel yeri olan Pozcu'da, Forum AVM ve sahilin dibinde okuyacaksın. MEÜ Erdemli veya Silifke'deki 4 yıllık Bilişim / İşletme bölümlerini kazandıysan da özellikle Erdemli'ye Mersin Mezitli/Pozcu'dan tek otobüsle 30-35 dakikada gidip gelebileceğini veya ilçede çok ucuza deniz kenarında yaşayabileceğini unutma!"
   },
   {
-    "id": "34-Istanbul/Tuzla/Sabanci-Universitesi-Tuzla-ve-Ozyegin-Universitesi-Cekmekoy-Kampusleri",
-    "baslik": "Anadolu Yakası Dev Kampüsleri: Sabancı Üniversitesi (Tuzla) ve Özyeğin Üniversitesi (Çekmeköy)",
-    "dosya_yolu": "34-Istanbul/Tuzla/Sabanci-Universitesi-Tuzla-ve-Ozyegin-Universitesi-Cekmekoy-Kampusleri.md",
-    "plaka": "34",
-    "il": "Istanbul",
-    "ilce": "Tuzla",
-    "universite_turu": "Vakıf",
-    "ogrenci_dostu_puani": "⭐️⭐️⭐️⭐️⭐️ (4.8/5)",
-    "son_guncelleme": "Kasım 2026",
-    "metrikler": {},
-    "artilar": [],
-    "eksiler": [],
-    "ogrenci_notu": ""
-  },
-  {
     "id": "34-Istanbul/Besiktas/Galatasaray-Universitesi-ve-Bahcesehir-Universitesi-Kampusleri",
     "baslik": "Boğaz Kıyısında Üniversite: Galatasaray (GSÜ) ve Bahçeşehir (BAU) Beşiktaş Kampüsleri",
     "dosya_yolu": "34-Istanbul/Besiktas/Galatasaray-Universitesi-ve-Bahcesehir-Universitesi-Kampusleri.md",
@@ -4864,9 +4895,10 @@
       "Levent-Maslak iş merkezlerine 5-10 dakika uzaklıkta olması sayesinde sınırsız staj ve kariyer imkanı."
     ],
     "eksiler": [
-      "Kampüs içi yurt kapasitesinin sınırlı olması ve Hisarüstü/Beşiktaş çevresinde eski binalara rağmen çok yüksek kira fiyatları.",
-      "Hazırlık yılını Kilyos (Sarıtepe) Kampüsü'nde okuyanlar için şehir merkezine uzaklık (ancak güçlü yurt arkadaşlığı ortamı sunar).",
-      "Zorlu akademik müfredat ve yüksek rekabet temposu."
+      "Kilyos (Sarıtepe) Sürgünü ve Ulaşım İzolasyonu: Hazırlık sınıfının İstanbul merkezinden 35 km uzaktaki Kilyos'ta olması; kışın dondurucu Karadeniz fırtınaları, haftasonu Beşiktaş'a inmek için çekilen 1.5 saatlik otobüs yolu ve sosyal izolasyon hissi.",
+      "Yurt Kapasitesi Krizi ve Hisarüstü Rantı: Son yıllarda yurt kapasitelerinin daralması yüzünden açıkta kalan öğrencilerin Hisarüstü'ndeki eski, depreme dayanıksız 1+1 dairelere fahiş kiralar ödemek zorunda kalması.",
+      "Güney-Kuzey Ring Çilesi: Güney Kampüs ile Kuzey Kampüs arasındaki dar sokaklarda ders değişim saatlerinde ringlerin yetersiz kalması ve dik Hisarüstü yokuşunu yürümek zorunda kalmak.",
+      "Yoğun Akademik Rekabet ve Çan Baskısı: Türkiye derecesiyle gelen binlerce öğrenci arasında çan eğrisi yüzünden yaşanan akademik tükenmişlik ve ders notu stresleri."
     ],
     "ogrenci_notu": "Boğaziçi'ni kazandığında sadece derslere girip çıkan bir öğrenci olma; ilk haftadan Oryantasyon Günleri'nde en az iki kulübe (Taşoda, BÜDAK, COMPEC veya BÜİK gibi) aktif üye ol çünkü Boğaziçi'nin asıl okulu kulüp odaları ve Güney çimleridir. Hazırlıkta Kilyos çıkarsa da hiç üzülme; hayatının en sıkı dostluklarını o rüzgarlı sahil kampüsünde kuracaksın!"
   },
@@ -4877,13 +4909,52 @@
     "plaka": "34",
     "il": "Istanbul",
     "ilce": "Sariyer",
-    "universite_turu": "Vakıf",
-    "ogrenci_dostu_puani": "⭐️⭐️⭐️⭐️⭐️ (4.9/5 - Altyapı)",
+    "universite_turu": "Vakıf (Araştırma Üniversitesi)",
+    "ogrenci_dostu_puani": "⭐️⭐️⭐️⭐️⭐️ (4.8/5)",
     "son_guncelleme": "Kasım 2026",
-    "metrikler": {},
-    "artilar": [],
-    "eksiler": [],
-    "ogrenci_notu": ""
+    "metrikler": {
+      "🚇 şehir merkezine uzaklık": {
+        "degerlendirme": "Sarıyer Merkez 15 dk / Maslak 30 dk",
+        "detay": "M2 Hacıosman Metrosu'ndan 154 İETT ve saat başı kampüs servisleri"
+      },
+      "🏠 yurt i̇mkanı": {
+        "degerlendirme": "Çok Yüksek (%75+ Konaklama)",
+        "detay": "Kampüs içinde lüks yurt binaları ve Batı Kampüsü lojmanları"
+      },
+      "💸 aylık ortalama kira (öğrenci evi)": {
+        "degerlendirme": "35.000 - 65.000 TL",
+        "detay": "Sarıyer Merkez, Maden, Zekeriyaköy, Uskumruköy"
+      },
+      "🍽️ yemekhane & yeme-i̇çme": {
+        "degerlendirme": "Özel Menüler / Yüksek Maliyet",
+        "detay": "Yemekhane, Öğrenci Merkezi restoranları, Divan, zincir kafeler"
+      },
+      "📚 kütüphane kapasitesi": {
+        "degerlendirme": "7/24 Kesintisiz & Dünyaca Ünlü",
+        "detay": "Suna Kıraç Kütüphanesi, nadir eserler koleksiyonu ve bireysel çalışma odaları"
+      },
+      "🌐 i̇nternet (eduroam)": {
+        "degerlendirme": "Ultra Hızlı",
+        "detay": "Kampüs genelinde gigabit seviyesinde kablosuz internet ve laboratuvar bant genişliği"
+      },
+      "🌆 sosyal yaşam & çevre": {
+        "degerlendirme": "İzole Amerikan Kampüsü",
+        "detay": "Orman içinde yürüyüş, buz pateni pisti, havuz, amfi konserleri, Kule Meydanı"
+      }
+    },
+    "artilar": [
+      "Dünya standartlarında akademisyen kadrosu, üst düzey araştırma imkanları ve uluslararası diploma prestiji.",
+      "Türkiye'nin en donanımlı ve lüks kampüs olanakları (buz pateni pisti, olimpik havuz, orman içi mimari).",
+      "Çok güçlü küresel mezun ağı ve yurt dışı yüksek lisans/iş kabul oranları.",
+      "Kampüs içinde barınma olanaklarının yaygınlığı ve güvenli kapalı yaşam ekosistemi."
+    ],
+    "eksiler": [
+      "İstanbul'un Bittiği Yerdeki \"Altın Kafes\" İzolasyonu: Kampüs Karadeniz kıyısındaki ormanların içine gömülü olduğundan İstanbul'un sosyal hayatından (Kadıköy, Beşiktaş, Taksim) tamamen kopuktur. Beşiktaş veya Kadıköy'e gitmek aktarmalarla 1.5 - 2 saati bulur. Hafta içi kampüsten çıkmak büyük bir lojistik operasyona dönüşür; öğrenciler kendilerini dış dünyadan izole bir fanusta hisseder.",
+      "Sarıyer Orman Sisi ve Sert Mikroklima: Kampüsün konumu gereği kışın İstanbul'un merkezinden 4-5 derece daha soğuktur. Karadeniz'den gelen yoğun sis, fırtına ve erken bastıran kış şartları nedeniyle bazen yollar kapanabilir veya servisler aksayabilir.",
+      "Yüksek Yaşam ve Beslenme Maliyeti: Vakıf üniversitesi olması sebebiyle kampüs içindeki yeme-içme, kahve, market ve fotokopi harcamaları devlet üniversitelerine kıyasla çok pahalıdır. Burslu okuyan öğrenciler için kampüs içi sosyal harcamaları dengelemek ciddi bir bütçe disiplini gerektirir.",
+      "Burslu - Burssuz Sosyolojik Uçurumu: Tam burslu derece öğrencileri ile Türkiye'nin en varlıklı ailelerinin çocuklarının aynı ortamda bulunması zaman zaman sosyal uyum ve yaşam tarzı farklılıkları yaratabilir. Kampüs otoparkındaki lüks spor arabalar ile burslu öğrencilerin harçlık hesabı arasındaki tezat forumlarda sıkça konu edilir."
+    ],
+    "ogrenci_notu": "Akademik kariyer, yurt dışı olanakları ve araştırma vizyonu için Türkiye'nin zirvesidir. Ama İstanbul'a gelip Taksim'de, Kadıköy'de sabahlayacağını sanıyorsan unut; burası ormanın içinde kendi kendine yeten lüks bir ada gibidir. Bursluysan bütçeni iyi yönet, kışın Sarıyer ayazına karşı termal kıyafetlerini hazırla ve Suna Kıraç Kütüphanesi'nin nimetlerinden sonuna kadar faydalan!"
   },
   {
     "id": "34-Istanbul/Kadikoy/Marmara-Universitesi-Goztepe-ve-Maltepe-RTE-Kulliyesi",
@@ -4937,19 +5008,112 @@
     "ogrenci_notu": ""
   },
   {
+    "id": "34-Istanbul/Tuzla/Sabanci-Universitesi-Tuzla-ve-Ozyegin-Universitesi-Cekmekoy-Kampusleri",
+    "baslik": "Sabancı Üniversitesi (Tuzla) ve Özyeğin Üniversitesi (Çekmeköy)",
+    "dosya_yolu": "34-Istanbul/Tuzla/Sabanci-Universitesi-Tuzla-ve-Ozyegin-Universitesi-Cekmekoy-Kampusleri.md",
+    "plaka": "34",
+    "il": "Istanbul",
+    "ilce": "Tuzla",
+    "universite_turu": "Vakıf (Araştırma & İnovasyon Odaklı)",
+    "ogrenci_dostu_puani": "⭐️⭐️⭐️⭐️⭐️ (4.8/5)",
+    "son_guncelleme": "Kasım 2026",
+    "metrikler": {
+      "🚇 şehir merkezine uzaklık": {
+        "degerlendirme": "40 - 55 km / ~60-90 dk",
+        "detay": "Kadıköy, Üsküdar ve Bostancı'dan üniversite servisleri (shuttle) ve ekspres hatlar"
+      },
+      "🏠 yurt i̇mkanı": {
+        "degerlendirme": "Çok Yüksek (%80+ Konaklama)",
+        "detay": "Sabancı'da gölet kıyısı modern yurtlar; Özyeğin'de LEED Gold sertifikalı rezidanslar"
+      },
+      "💸 aylık ortalama kira (öğrenci evi)": {
+        "degerlendirme": "22.000 - 38.000 TL",
+        "detay": "Sabancı için Kurtköy/Pendik/Tuzla; Özyeğin için Çekmeköy/Taşdelen/Sancaktepe"
+      },
+      "🍽️ yemekhane & restoranlar": {
+        "degerlendirme": "Zengin Çeşit / Yüksek Fiyat",
+        "detay": "Kampüs yemekhaneleri, bistro/kafeler, zincir restoranlar"
+      },
+      "📚 kütüphane kapasitesi": {
+        "degerlendirme": "7/24 Kesintisiz & Dijital",
+        "detay": "Sabancı Bilgi Merkezi ve Özyeğin Kütüphanesi modern bireysel ve grup çalışma alanları"
+      },
+      "🌐 i̇nternet (eduroam)": {
+        "degerlendirme": "Ultra Hızlı",
+        "detay": "Fiber altyapı, açık alanda kesintisiz Wi-Fi, araştırma laboratuvarları"
+      },
+      "🌆 sosyal yaşam & çevre": {
+        "degerlendirme": "Kendi Kendine Yeten Eko-Kampüs",
+        "detay": "Gölet çevresi, modern spor merkezleri, öğrenci kulüpleri, açık amfiler"
+      }
+    },
+    "artilar": [
+      "Sabancı'da bölüm seçme özgürlüğü; Özyeğin'de girişimcilik ve sektör içi staj/iş birlikleri.",
+      "Türkiye'nin en güvenli, yeşil, çevre dostu ve modern yurt altyapılarına sahip olmaları.",
+      "Sabiha Gökçen Havalimanı'na yakınlık sebebiyle şehir dışından gelen öğrencilere hızlı lojistik avantajı.",
+      "Kütüphane, spor salonları ve sosyal tesislerin 7/24 yaşayan bir Amerikan kampüsü havası vermesi."
+    ],
+    "eksiler": [
+      "İstanbul Dışında Yaşama Gerçeği (Coğrafi İzolasyon): Her iki üniversite de haritada İstanbul olarak görünse de fiiliyatta şehir merkezine 40-55 km uzaklıktadır. Sabancı Üniversitesi Tuzla/Orhanlı'da neredeyse Gebze-Kocaeli sınırındadır; Kadıköy'e veya Beşiktaş'a gitmek git-gel 3-4 saatlik çileli bir yolculuktur. Öğrenciler haftalarca kampüs sınırları dışına çıkmadan \"fanusta\" yaşamak zorunda kalır.",
+      "Shuttle (Servis) Bağımlılığı ve Fiyatları: Toplu taşıma seçenekleri kısıtlı ve aktarmalı olduğu için öğrenciler üniversitenin özel servislerine mahkumdur. Servis ücretlerinin dönemlik maliyetleri bütçeleri zorlar; akşam son servis saatini kaçıran bir öğrencinin kampüse taksiyle dönmesi ise servet harcamak demektir.",
+      "Tuzla Organize Sanayi ve Koku Problemi (Sabancı): Sabancı Kampüsü'nün yakın çevresinde yer alan Tuzla ve Gebze sanayi tesisleri, rüzgarın tersten estiği bazı günlerde kampüse kimyasal veya atık kokusu taşıyabilmektedir; bu durum açık alanda vakit geçirmeyi olumsuz etkileyebilir.",
+      "Yüksek Kampüs İçi Maliyetler ve Sınıfsal Farklar: Vakıf üniversitesi ekosistemi içinde yemek, kahve, kırtasiye ve sosyal harcamalar oldukça yüksektir. Burslu okuyan öğrenciler ile zengin öğrenci profili arasındaki harcama kapasitesi uçurumu kampüs hayatında hissedilir."
+    ],
+    "ogrenci_notu": "Sabancı'da bölüm seçme özgürlüğü ve Özyeğin'de girişimcilik ruhu Türkiye'nin en iyisidir; eğitim kalitesine kimse laf edemez. Ama 'İstanbul'da okuyup her akşam Moda'da çimlere oturacağım' kafasındaysan fena yanılırsın! Burası kendi kuralı olan kapalı bir cumhuriyettir; yurt çıkmazsa dışarıda ev tutmak veya her gün saatlerce yol çekmek hayatını karartır. Mutlaka yurt başvurusunu ilk gün yap ve kampüs içi sosyal kulüplerde aktif ol!"
+  },
+  {
     "id": "34-Istanbul/Atasehir/Yeditepe-Universitesi-Turk-Alman-ve-Medeniyet-Saglik-Bilimleri-Kampusleri",
-    "baslik": "Yeditepe, Türk-Alman, İstanbul Medeniyet ve Sağlık Bilimleri Üniversiteleri",
+    "baslik": "Yeditepe Üniversitesi (26 Ağustos Kampüsü) ve Türk-Alman Üniversitesi (Beykoz)",
     "dosya_yolu": "34-Istanbul/Atasehir/Yeditepe-Universitesi-Turk-Alman-ve-Medeniyet-Saglik-Bilimleri-Kampusleri.md",
     "plaka": "34",
     "il": "Istanbul",
     "ilce": "Atasehir",
     "universite_turu": "Devlet",
-    "ogrenci_dostu_puani": "⭐️⭐️⭐️⭐️☆ (4.2/5)",
+    "ogrenci_dostu_puani": "⭐️⭐️⭐️⭐️☆ (4.3/5)",
     "son_guncelleme": "Kasım 2026",
-    "metrikler": {},
-    "artilar": [],
-    "eksiler": [],
-    "ogrenci_notu": ""
+    "metrikler": {
+      "🚇 şehir merkezine uzaklık": {
+        "degerlendirme": "Yeditepe: Kadıköy 30 dk / TAÜ: Kavacık 15 dk",
+        "detay": "M8 Dudullu-Bostancı ve M4 Kadıköy bağlantılı otobüsler (Yeditepe); Kavacık otobüsleri (TAÜ)"
+      },
+      "🏠 yurt i̇mkanı": {
+        "degerlendirme": "Çok Yüksek (Yeditepe) / Gelişiyor (TAÜ)",
+        "detay": "Yeditepe kampüsünde 4.000+ kişilik lüks yurtlar; Beykoz KYK yurtları"
+      },
+      "💸 aylık ortalama kira (öğrenci evi)": {
+        "degerlendirme": "20.000 - 35.000 TL",
+        "detay": "Ataşehir, Kayışdağı, İnönü Mahallesi, Beykoz Kavacık"
+      },
+      "🍽️ yemekhane & restoranlar": {
+        "degerlendirme": "Çok Zengin",
+        "detay": "Yeditepe Sosyal Tesisleri, gurme restoranlar, zincir kafeler"
+      },
+      "📚 kütüphane kapasitesi": {
+        "degerlendirme": "Çok Geniş",
+        "detay": "Yeditepe Bilgi Merkezi ve TAÜ Kütüphanesi"
+      },
+      "🌐 i̇nternet (eduroam)": {
+        "degerlendirme": "Ultra Hızlı",
+        "detay": "Her iki üniversitede de yüksek hızlı araştırma ağı"
+      },
+      "🌆 sosyal yaşam & çevre": {
+        "degerlendirme": "Dinamik & Doğal",
+        "detay": "Yeditepe Festival Çimleri, Bağdat Caddesi ve Beykoz sahil rotaları"
+      }
+    },
+    "artilar": [
+      "Yeditepe'de Selçuklu taş mimarili tek parça devasa kampüs, güçlü spor ve sosyal tesisler.",
+      "Türk-Alman Üniversitesi'nde çift diploma imkanı, ücretsiz Almanca eğitim ve Almanya staj/yüksek lisans kolaylığı.",
+      "Yeditepe'nin tıp, diş hekimliği ve eczacılık alanındaki hastane ve laboratuvar donanımları.",
+      "Ataşehir ve Kadıköy eğlence merkezlerine erişim kolaylığı (Yeditepe)."
+    ],
+    "eksiler": [
+      "Kayışdağı Yokuşu ve Yoğun Trafik (Yeditepe): Kampüs dik bir yamaca kurulu olduğu için binalar arası merdivenler ve dik yokuşlar öğrencileri bedenen yorar. Akşam saatlerinde Kayışdağı Caddesi ve Ataşehir çıkış trafiği kilitlenebilir.",
+      "Beykoz Ormanında İzolasyon ve Kavacık Bağımlılığı (TAÜ): Türk-Alman Üniversitesi Beykoz'un tepesinde orman içinde kaldığı için Kavacık ve sahil hattı dışında sosyalleşme alanı yoktur. Hafta içi kampüsten Beşiktaş veya Kadıköy'e gitmek en az 1.5 saat sürer; Kavacık otobüsleri sabah ve akşam tıklım tıklım dolar.",
+      "Ağır Almanca Hazırlık Baskısı (TAÜ): TAÜ'de Almanca hazırlık sınıfı Türkiye'nin en zor dil programlarından biridir. Hazırlığı 2 yılda geçemeyip Türkçe programlara yatay geçiş yapmak zorunda kalan öğrenci oranı azımsanmayacak düzeydedir.",
+      "Yeditepe'de Yüksek Kampüs Maliyetleri: Kampüs içi kafeler, marketler ve yemek mekanları İstanbul'un pahalı semtleriyle yarışır düzeydedir."
+    ],
+    "ogrenci_notu": "Yeditepe tam bir Amerikanvari kampüs üniversitesidir; festivalleri, çimleri ve sosyal ortamı çok iyidir ama Kayışdağı yokuşunu tırmanırken ciğer bırakırsın. TAÜ ise Almanya kapısını aralamak isteyenler için bulunmaz nimettir; ancak Beykoz'un ormanında izole kalmayı ve çok ağır bir Almanca maratonuna girmeyi göze almalısın!"
   },
   {
     "id": "34-Istanbul/Esenler/Yildiz-Teknik-Universitesi-Davutpasa-ve-Yildiz-Kampusleri",
@@ -4992,16 +5156,18 @@
       }
     },
     "artilar": [
-      "Davutpaşa Kampüsü'nün kapısında M1A metrosu olması ve kampüs içinde/Cevizlibağ'da devasa KYK yurt imkanları.",
-      "Tarihi Davutpaşa Kışlası, Otağ-ı Hümayun ve Ortabahçe'nin sunduğu yemyeşil, ferah gerçek kampüs atmosferi.",
-      "Kampüs içindeki dev YTÜ Yıldız Teknopark sayesinde mühendislik ve İİBF öğrencileri için mükemmel staj ve iş bulma ağı."
+      "Davutpaşa Kampüsü'nün kapısında M1A metrosunun olması ve kampüs içinde FSM KYK, Cevizlibağ'da Atatürk KYK gibi devasa yurt avantajları.",
+      "Tarihi Davutpaşa Kışlası, Otağ-ı Hümayun ve Ortabahçe'nin sunduğu yemyeşil, gürültüden uzak gerçek kampüs atmosferi.",
+      "Kampüs içindeki dev YTÜ Yıldız Teknopark sayesinde mühendislik ve bilişim öğrencileri için yürüyerek staja gitme lüksü.",
+      "Beşiktaş Yıldız Kampüsü'nün Boğaz ve Beşiktaş Çarşı ile iç içe olan benzersiz konumu."
     ],
     "eksiler": [
-      "Davutpaşa Kampüsü'nün hemen dışındaki Esenler/Sanayi çevresinin sosyal mekan açısından zayıf olması (sosyalleşmenin kampüs içinde veya metroyla gidilen Beşiktaş/Kadıköy/Bakırköy'de yapılması).",
-      "Yıldız (Beşiktaş) Kampüsü'ndeki meşhur dik yokuş.",
-      "Popüler bölümlerde ve öğle yemekhanesi saatlerinde yaşanan kalabalık."
+      "Tarihi Kışla Sürgünü ve Dış Çevre Gerçeği: Yıldız Sarayı ve Beşiktaş'taki tarihi binaların zaman içinde rektörlük ve devlet kullanımına tahsis edilmesiyle bölümlerin büyük çoğunluğunun Davutpaşa'ya sürgün edildiği hissi öğrenciler arasında kronik bir sitemdir. Kampüs içi ne kadar yeşil ve genişse, Davutpaşa ana kapısından dışarı çıkıldığında Esenler, Otogar, Sanayi Siteleri ve Merter tekstil atölyelerinin boğucu gri atmosferiyle karşılaşılır; kampüs etrafında yürüyerek gidilebilecek kafe ve sosyal sokak kültürü sıfıra yakındır.",
+      "\"Davutpaşa Bozkır Rüzgarı\" ve Devasa Yürüme Mesafeleri: Kışla arazisi o kadar büyüktür ki metro istasyonundan Elektrik-Elektronik, Kimya-Metalurji veya Fen Edebiyat fakültelerine yürümek en az 15-20 dakika tempolu yürüyüş gerektirir. Kış aylarında açık arazide esen meşhur Davutpaşa ayazı ve fırtınası yürümeyi çileye çevirir; kampüs içi ringler ise ders başlangıç saatlerinde tıklım tıklım dolar.",
+      "USIS / OBS Ders Kayıt Kaosu: Her dönem başı Yıldızlıların korkulu rüyası haline gelen ders seçim sistemi, sunucuların çökmesi, kontenjanların saniyeler içinde tükenmesi ve öğrencilerin ders alabilmek için fakülte koridorlarında dilekçe kuyruğuna girmesiyle ünlüdür.",
+      "Yıldız Kampüsü'nün Ciğer Söken Yokuşu: Beşiktaş Kampüsü'nde okuyan Makine ve Mimarlık öğrencileri için Barbaros Bulvarı'ndan veya Beşiktaş Meydanı'ndan kampüse tırmanan dik Arnavut kaldırımlı yokuş, özellikle yaz sıcağında ve kışın buzlu havalarda fiziksel bir dayanıklılık testidir."
     ],
-    "ogrenci_notu": "İstanbul'da hem çok güçlü bir teknik üniversitede okumak hem de barınma/yurt derdi çekmemek istiyorsan YTÜ Davutpaşa Kampüsü en mantıklı tercihtir. Erkeksen kampüs içindeki FSM KYK, kızsan 10 dakika aşağıdaki Cevizlibağ Atatürk KYK yurdu hayatını kurtarır. Bahar aylarında Ortabahçe çimlerinin tadını çıkar, 2. sınıftan itibaren de hemen kampüsün içindeki Yıldız Teknopark şirketlerinin kapısını çal!"
+    "ogrenci_notu": "İstanbul'da hem çok güçlü bir teknik üniversitede okumak hem de barınma/yurt derdi çekmemek istiyorsan YTÜ Davutpaşa Kampüsü en mantıklı tercihtir. Erkeksen kampüs içindeki FSM KYK, kızsan 10 dakika aşağıdaki Cevizlibağ Atatürk KYK yurdu hayatını kurtarır. Bahar aylarında Ortabahçe çimlerinin tadını çıkar, ders seçimi gününde sabah erkenden internet kablosunu tak ve 2. sınıftan itibaren hemen kampüsün içindeki Yıldız Teknopark şirketlerinin kapısını çal!"
   },
   {
     "id": "34-Istanbul/Sariyer/ITU-Ayazaga-ve-Macka-Taskisla-Kampusleri",
@@ -5049,9 +5215,10 @@
       "Kampüs içinde 5.000'den fazla kapasiteli kendi öğrenci yurtlarının (Gölet, Vadi vb.) bulunması."
     ],
     "eksiler": [
-      "Maslak ve Sarıyer çevresindeki kiralık ev fiyatlarının yüksekliği (öğrencilerin Sanayi Mahallesi/Gültepe gibi sıkışık mahallelere yönelmesi).",
-      "Hazırlık (Maçka) sonrası fakülteye geçerken yaşanan yoğun akademik rekabet, \"çan eğrisi\" stresi ve CRN (ders seçimi) savaşları.",
-      "Ayazağa Kampüsü'nün büyüklüğü nedeniyle kışın rüzgarlı ve yağmurlu günlerde binalar arası yürümenin zorluğu."
+      "Ölüm Yokuşu Çilesi: Vadi Yurtları'ndan Merkezi Derslik Binası'na (MED) ve İnşaat/Maden fakültelerine çıkan aşırı dik yokuş (\"Ölüm Yokuşu\"). Özellikle kışın Maslak rüzgarında bu yokuşu sabah dersine tırmanmak tam bir hayatta kalma mücadelesidir.",
+      "CRN Ders Seçim Savaşları (\"Açlık Oyunları\"): Ders kayıt sisteminin (SIS/Kepler) açıldığı ilk 15 saniye içinde sunucuların kilitlenmesi, zorunlu havuz derslerinin saniyeler içinde tükenmesi ve mezuniyet için dönem uzatma riski her dönem öğrencileri yıpratır.",
+      "Merkezi Yemekhane İzdihamı: 12:00 - 13:00 arası binlerce mühendislik öğrencisinin aynı anda çıkmasıyla kuyruğun yemekhanenin dış bahçesine taşması; öğle arasında yemek yiyebilmek için dersi 10 dakika erken terk etmek yaygındır.",
+      "Maslak ve Sarıyer Fahiş Kira Çıkmazı: Kampüs çevresindeki 1+1 dairelerin asgari ücretin 2-3 katına fırlaması; öğrencilerin Kağıthane, Çeliktepe ve Seyrantepe'de sıkışık dairelere mahkum kalması."
     ],
     "ogrenci_notu": "İTÜ'yü kazandıysan ilk yılın Maçka'da hazırlık okuyup Beşiktaş-Nişantaşı üçgeninde sosyalleşerek geçecek; tadını çıkar! Ayazağa'ya geçtiğinde ise mutlaka Gölet veya Vadi yurtlarını zorla ya da M2 metrosu hattında (Sanayi Mah./Seyrantepe) arkadaşlarınla eve çık. İlk senenden bir proje takımına veya ARI Teknokent'teki bir girişime adım atarsan mezun olduğunda CV'n Türkiye'nin en güçlü mühendislerinden biri olarak hazır olur."
   },
@@ -5206,18 +5373,57 @@
   },
   {
     "id": "35-Izmir/Cigli/IKCU-Cigli-Balatcik-Kampusu",
-    "baslik": "İzmir Kâtip Çelebi Üniversitesi - Çiğli Balatçık Kampüsü",
+    "baslik": "İzmir Kâtip Çelebi Üniversitesi (İKÇÜ) - Çiğli Balatçık Ana Yerleşkesi",
     "dosya_yolu": "35-Izmir/Cigli/IKCU-Cigli-Balatcik-Kampusu.md",
     "plaka": "35",
     "il": "Izmir",
     "ilce": "Cigli",
     "universite_turu": "Devlet",
-    "ogrenci_dostu_puani": "⭐️⭐️⭐️⭐️☆ (4.2/5)",
+    "ogrenci_dostu_puani": "⭐️⭐️⭐️☆☆ (3.6/5)",
     "son_guncelleme": "Kasım 2026",
-    "metrikler": {},
-    "artilar": [],
-    "eksiler": [],
-    "ogrenci_notu": ""
+    "metrikler": {
+      "🚇 şehir merkezine uzaklık": {
+        "degerlendirme": "20 km / ~30-40 dk",
+        "detay": "İZBAN Egekent durağı ve Çiğli Tramvayı ile entegre"
+      },
+      "🏠 kyk yurt i̇mkanı": {
+        "degerlendirme": "Yüksek",
+        "detay": "Balatçık çevresinde KYK ve özel kız/erkek öğrenci yurtları"
+      },
+      "💸 aylık ortalama kira (öğrenci evi)": {
+        "degerlendirme": "13.000 - 18.000 TL",
+        "detay": "Balatçık (öğrenci bölgesi), Evka-5, Egekent, Çiğli Merkez"
+      },
+      "🍽️ yemekhane ücreti & kalitesi": {
+        "degerlendirme": "25 - 30 TL / Standart",
+        "detay": "Merkezi yemekhane binasında öğle/akşam menüleri"
+      },
+      "📚 kütüphane kapasitesi": {
+        "degerlendirme": "Orta Büyüklükte",
+        "detay": "Merkez Kütüphane ve fakülte okuma salonları"
+      },
+      "🌐 i̇nternet (eduroam)": {
+        "degerlendirme": "Standart",
+        "detay": "Kampüs genelinde eduroam bağlantısı"
+      },
+      "🌆 sosyal yaşam & çevre": {
+        "degerlendirme": "Balatçık Kafe Caddesi",
+        "detay": "Balatçık kafeler bölgesi, Bostanlı ve Karşıyaka sahili (tramvay/İZBAN ile 20 dk)"
+      }
+    },
+    "artilar": [
+      "Çiğli Tramvayı ve İZBAN Egekent durağı sayesinde İzmir raylı sistem ağına doğrudan bağlı olması.",
+      "Balatçık mahallesinin yürüme mesafesinde yüzlerce 1+1 daire ve öğrenci kafesi barındırması.",
+      "Karşıyaka ve Bostanlı gibi İzmir'in en canlı sosyal merkezlerine raylı sistemle 20-25 dakikada ulaşılabilmesi.",
+      "Sağlık, Mühendislik ve İslami İlimler fakültelerinde genç ve dinamik akademik kadro."
+    ],
+    "eksiler": [
+      "Organize Sanayi ve Askeri Hava Üssü Komşuluğu: Kampüs, İzmir Atatürk Organize Sanayi Bölgesi (İAOSB) ile Çiğli 2. Ana Jet Üs Komutanlığı'nın arasında sıkışmış bir arazidedir. Sanayi bölgesinden zaman zaman gelen koku ve egzoz dumanı ile askeri jetlerin eğitim uçuşları sırasındaki yoğun motor gürültüsü derslerde ve kütüphanede odaklanmayı zorlaştırabilir.",
+      "Betonarme ve Dağınık Kampüs Dokusu: Ege veya ODTÜ gibi geleneksel yeşil bir orman kampüsü bekleyenler için İKÇÜ hayal kırıklığı yaratabilir. Binalar birbirine yakın, yeşil alan ve gölgelik ağaç miktarı sınırlıdır; kampüs içi daha çok modern bir plaza veya kamu binaları kümesini andırır.",
+      "Meşhur \"Balatçık Rüzgarı ve Tozu\": Çiğli ovasının açık deniz ve körfez esintisi kış ve bahar aylarında sert rüzgarlara dönüşür; çevredeki inşaatlar ve açık araziler nedeniyle kampüste toz fırtınası sıkça yaşanır.",
+      "Sağlık Bölümlerinin Dağınıklığı: Tıp ve Diş Hekimliği öğrencilerinin bazı dönemlerde Çiğli ve Yeşilyurt/Karabağlar hastaneleri arasında mekik dokumak zorunda kalması ulaşım yorgunluğu yaratır."
+    ],
+    "ogrenci_notu": "İKÇÜ'ye gelirken devasa bir doğa kampüsü bekleme; burası şehir içi kompakt bir üniversitedir. En büyük avantajın Çiğli Tramvayı ile Bostanlı ve Karşıyaka sahiline 20 dakikada kaçabilmektir. Ev tutacaksan Balatçık'taki 1+1 apartlar kampüse yürüme mesafesindedir, sabah derslerine uykunu alarak gidersin!"
   },
   {
     "id": "35-Izmir/Urla/IYTE-Gulbahce-Kampusu",
@@ -5226,13 +5432,52 @@
     "plaka": "35",
     "il": "Izmir",
     "ilce": "Urla",
-    "universite_turu": "Devlet",
-    "ogrenci_dostu_puani": "⭐️⭐️⭐️⭐️⭐️ (4.7/5)",
+    "universite_turu": "Devlet (Teknoloji Enstitüsü / Araştırma Üniversitesi)",
+    "ogrenci_dostu_puani": "⭐️⭐️⭐️⭐️☆ (4.4/5)",
     "son_guncelleme": "Kasım 2026",
-    "metrikler": {},
-    "artilar": [],
-    "eksiler": [],
-    "ogrenci_notu": ""
+    "metrikler": {
+      "🚇 şehir merkezine uzaklık": {
+        "degerlendirme": "50 km / ~50-65 dk",
+        "detay": "F. Altay Aktarma Merkezi'nden 883 Ekspres ve 984 ESHOT otobüsleri"
+      },
+      "🏠 kyk yurt i̇mkanı": {
+        "degerlendirme": "Çok Yüksek",
+        "detay": "Kampüs içinde geniş kız ve erkek KYK yurtları ve Yaşam Merkezi özel yurtları"
+      },
+      "💸 aylık ortalama kira (öğrenci evi)": {
+        "degerlendirme": "16.000 - 25.000 TL",
+        "detay": "Gülbahçe Köyü apartları, Urla Merkez veya İçmeler mevkii"
+      },
+      "🍽️ yemekhane ücreti & kalitesi": {
+        "degerlendirme": "25 - 30 TL / Yüksek Kalite",
+        "detay": "Modern ana yemekhane, diyetisyen kontrolünde besleyici menüler"
+      },
+      "📚 kütüphane kapasitesi": {
+        "degerlendirme": "Çok Geniş & 7/24 Açık",
+        "detay": "İYTE Kütüphanesi dijital veri tabanları ve deniz manzaralı çalışma salonları"
+      },
+      "🌐 i̇nternet (eduroam)": {
+        "degerlendirme": "Türkiye'nin En İyilerinden",
+        "detay": "Fiber optik omurga, yüksek hızda eduroam ve araştırma ağı"
+      },
+      "🌆 sosyal yaşam & çevre": {
+        "degerlendirme": "Köy & Deniz & Teknopark",
+        "detay": "Rüzgar sörfü, kampüs festivalleri, Gülbahçe sahil yürüyüşleri, Urla bağ rotaları"
+      }
+    },
+    "artilar": [
+      "Üst düzey akademik kadro, %100 İngilizce eğitim ve lisans seviyesinde laboratuvar/proje üretme imkanı.",
+      "Kampüs içinde barınma garantisi sağlayan geniş KYK yurtları ve Teknopark İzmir ile iç içe kariyer ağı.",
+      "Deniz kenarında, şehrin gürültüsünden ve karmaşasından uzak, doğayla iç içe sakin araştırma ortamı.",
+      "Rüzgar sörfü, deniz sporları ve Urla bağ rotaları ile sıra dışı bir öğrenci hayatı."
+    ],
+    "eksiler": [
+      "İzmir Merkeze 50 Kilometrelik \"Sürgün\" Hissi: İYTE'yi kazanan pek çok öğrencinin düştüğü ilk yanılgı, \"İzmir'de Alsancak'ta Kordon boyunda gezeceğim\" hayalidir. Gülbahçe, İzmir merkezine 50 km uzaktadır; 883 Ekspres otobüsüyle bile Fahrettin Altay'a gitmek en az 50 dakika sürer. Alsancak veya Bornova'ya varmak gidiş-dönüş 3-4 saati bulur. Bu durum hafta içi öğrencileri tamamen kampüse ve köye hapseder.",
+      "Köy Hayatına Mecburiyet ve Sosyal Kısıtlılık: Gülbahçe özünde küçük bir sahil köyüdür. Birkaç kafe, market ve fırın dışında şehir hayatına dair hiçbir şey yoktur; sinema, AVM, konser salonu veya gece kulübü için Urla merkeze ya da İzmir'e gitmek şarttır. Sosyal hayat arayan hareketli öğrenciler için ilk aylar ciddi bir yalnızlık ve depresyon sebebi olabilir.",
+      "Acımasız Gülbahçe Rüzgarı ve Kış Şartları: Rüzgar sörfü için cennet olan Gülbahçe lodosu ve poyrazı, kış aylarında öğrencilerin kabusudur. Kampüste kışın şemsiyeyle yürümek imkansızdır; denizden esen tuzlu ve dondurucu fırtına binalar arasında öğrencileri savurur.",
+      "Ağır Akademik Yük ve Hazırlık Elemesi: İYTE'de eğitim %100 İngilizce olup hazırlık sınıfı Türkiye'nin en zor hazırlıklarından biri kabul edilir. Lisans eğitiminde ise hocaların yüksek beklentisi, zorlu quizler ve ağır proje teslimleri öğrencilerin \"social life vs. GPA\" ikileminde tükenmesine yol açabilir."
+    ],
+    "ogrenci_notu": "Ben buraya İzmir geceleri hayaliyle geldim, ilk hafta Gülbahçe Köyü'nün keçi seslerini duyunca şok geçirdim! Ama kafayı toplayıp mühendislik, kodlama ve bilim öğrenmek istiyorsan Türkiye'de İYTE'den iyisini zor bulursun. Yurt kampüsün içinde olduğu için sabah 5 dakika kala derse gidebilirsin. Rüzgara dayanıklı bir kaban al, hazırlık sınavını ciddiye al ve İzmir merkezine haftada bir gün kaçış planı yapmayı alışkanlık haline getir!"
   },
   {
     "id": "36-Kars/Merkez/Kafkas-Universitesi-Pasacayiri-Kampusu",
@@ -5242,12 +5487,51 @@
     "il": "Kars",
     "ilce": "Merkez",
     "universite_turu": "Devlet",
-    "ogrenci_dostu_puani": "⭐️⭐️⭐️☆☆ (3.5/5)",
+    "ogrenci_dostu_puani": "⭐️⭐️⭐️☆☆ (3.4/5)",
     "son_guncelleme": "Kasım 2026",
-    "metrikler": {},
-    "artilar": [],
-    "eksiler": [],
-    "ogrenci_notu": ""
+    "metrikler": {
+      "🚇 şehir merkezine uzaklık": {
+        "degerlendirme": "5 - 6 km / ~15 dk",
+        "detay": "Belediye otobüsleri ve dolmuş hatları düzenli çalışır"
+      },
+      "🏠 kyk yurt i̇mkanı": {
+        "degerlendirme": "Çok Yüksek",
+        "detay": "Kampüs içinde ve çevresinde çok sayıda KYK yurdu mevcuttur"
+      },
+      "💸 aylık ortalama kira (öğrenci evi)": {
+        "degerlendirme": "7.000 - 12.000 TL",
+        "detay": "Yenişehir, Faikbey Caddesi, Paşaçayırı Mahallesi"
+      },
+      "🍽️ yemekhane ücreti & kalitesi": {
+        "degerlendirme": "20 - 25 TL / Doyurucu",
+        "detay": "Merkezi yemekhanede sıcak öğle ve akşam yemekleri"
+      },
+      "📚 kütüphane kapasitesi": {
+        "degerlendirme": "Yeterli",
+        "detay": "Paşaçayırı Merkez Kütüphanesi"
+      },
+      "🌐 i̇nternet (eduroam)": {
+        "degerlendirme": "Standart",
+        "detay": "Fakültelerde ve idari birimlerde aktif"
+      },
+      "🌆 sosyal yaşam & çevre": {
+        "degerlendirme": "Tarihi ve Butik",
+        "detay": "Kars Kalesi, Baltık mimarisi taş sokaklar, Çıldır Gölü, Sarıkamış kayak"
+      }
+    },
+    "artilar": [
+      "Veterinerlik ve Sağlık alanlarında benzersiz klinik ve vaka çeşitliliği.",
+      "KYK yurtlarının bolluğu ve barınma sorununun sıfıra yakın olması.",
+      "Kars'ın tarihi dokusu, Rus mimarisi binaları, Sarıkamış kayak merkezi ve Doğu Ekspresi atmosferi.",
+      "Ucuz ve sakin şehir yapısı, samimi yerel halk."
+    ],
+    "eksiler": [
+      "-30 Dereceyi Bulan Aşırı Sert Sibirya Kışı: Kars'ta kış ekim ayında başlar ve mayıs ayına kadar devam eder. Gece sıcaklıklarının -25, -30 derecelere indiği dönemlerde kirpiklerin donması, telefon bataryalarının dışarıda 5 dakikada kapanması ve yüzü kesen ayaz gündelik hayatın parçasıdır. Sıcak iklimden gelen öğrenciler için iklim şoku kaçınılmazdır.",
+      "Erken Biten Gün ve Sosyal Kısıtlılık: Kışın saat 16:00'da havanın kararması ve dondurucu soğuk nedeniyle sokaklar erkenden boşalır. Faikbey Caddesi'ndeki birkaç kafe dışında sosyal mekan seçeneği kısıtlıdır; öğrenciler kış aylarını ev/yurt odalarında geçirmek durumunda kalır.",
+      "Uzaklık ve Ulaşım Bilet Fiyatları: Türkiye'nin en doğu ucunda olması sebebiyle batı illerinden otobüsle yolculuk 20-26 saat sürebilir. Uçak biletlerinin kışın Doğu Ekspresi turizmi sebebiyle fahiş fiyatlara çıkması memlekete gidiş-gelişleri bütçe açısından zorlaştırır.",
+      "Yüksek Kış Faturası: Kiralık evde kalan öğrenciler için kışın 6 ay boyunca kombiyi aralıksız yakmak zorunludur; kış aylarında doğalgaz faturası öğrenci bütçesini sarsar."
+    ],
+    "ogrenci_notu": "Veterinerlik kazanıp geldiysen klinik tecrübesi açısından Türkiye'nin en şanslı öğrencisisin demektir. Ama soğukla aran yoksa Kars seni çok zorlar. Buraya gelirken sıradan montlar yetmez; Sibirya standartlarında kaz tüyü kaban, termal içlik takımı ve kaymaz tabanlı kar botu şarttır. Sarıkamış'ta kaymayı öğren, Çıldır Gölü'nde sarı sazan ye; bu şehri ancak doğasını seversen keyifle bitirirsin!"
   },
   {
     "id": "36-Kars/Sarikamis/Kafkas-Universitesi-Sarikamis-Beden-Egitimi-ve-MYO",
@@ -6074,8 +6358,9 @@
       "Bütünleşik Dev Kampüs ve Yurt Kapasitesi: Tüm fakültelerin ve KYK yurtlarının Umuttepe'de bir arada olması."
     ],
     "eksiler": [
-      "Umuttepe Yokuşu ve Otobüs Yoğunluğu: İzmit merkezden kampüse çıkarken yaşanan dik yokuş yolculuğu ve pik saatlerdeki otobüs kalabalığı.",
-      "Sert Umuttepe Havası (Sis, Rüzgar ve Yağmur): Rakım farkı nedeniyle kampüsün yılın büyük bölümünde sisli, rüzgarlı ve merkezden 5-6 derece daha soğuk olması."
+      "33 Numara Dağ Tırmanışı ve Ulaşım Çilesi: İzmit merkezden kalkan 33 ve 133 numaralı otobüslerin dik Santral yokuşunda balık istifi tırmanması, motor sesinden konuşulamaması ve sabahları otobüs beklerken duraklarda yaşanan izdiham.",
+      "Kalıcı Sis, Buzlanma ve Şiddetli Rüzgar: İzmit merkezde güneş açarken Umuttepe'de görüş mesafesinin 5 metreye düştüğü sis ve dondurucu tipi yaşanır; kışın kar yağdığında yolların buzlanması yüzünden derslerin iptal olması olağandır.",
+      "Sosyal İzolasyon: Kampüs dağın başında olduğu için ders bitiminde kafeler sınırlıdır; gerçek bir şehir hayatı yaşamak isteyen öğrenci her gün 40 dakika yol çekip İzmit merkeze inmek zorundadır."
     ],
     "ogrenci_notu": "KOÜ Umuttepe'ye geliyorsan ilk öğreneceğin gerçek şudur: İzmit merkezde güneş parlıyor diye sakın Umuttepe'ye ince tişörtle çıkma, B Kapısı'ndan içeri adım attığında sisin ve yağmurun ortasında kalırsın! İlk senende Umuttepe'deki yurtlarda kalıp kampüs hayatına alış; mühendislik veya İİBF okuyorsan da 3. sınıftan itibaren Kocaeli ve Gebze'deki fabrikaların uzun dönem aday mühendislik ilanlarını kaçırma!"
   },
@@ -6349,18 +6634,57 @@
   },
   {
     "id": "43-Kutahya/Merkez/DPU-Evliya-Celebi-ve-Germiyan-Kampusleri",
-    "baslik": "Kütahya Dumlupınar Üniversitesi - Evliya Çelebi Ana Kampüsü",
+    "baslik": "Kütahya Dumlupınar Üniversitesi (DPÜ) - Evliya Çelebi ve Germiyan Kampüsleri",
     "dosya_yolu": "43-Kutahya/Merkez/DPU-Evliya-Celebi-ve-Germiyan-Kampusleri.md",
     "plaka": "43",
     "il": "Kutahya",
     "ilce": "Merkez",
     "universite_turu": "Devlet",
-    "ogrenci_dostu_puani": "⭐️⭐️⭐️⭐️☆ (4.3/5)",
+    "ogrenci_dostu_puani": "⭐️⭐️⭐️☆☆ (3.5/5)",
     "son_guncelleme": "Kasım 2026",
-    "metrikler": {},
-    "artilar": [],
-    "eksiler": [],
-    "ogrenci_notu": ""
+    "metrikler": {
+      "🚇 şehir merkezine uzaklık": {
+        "degerlendirme": "10 km / ~20-25 dk",
+        "detay": "Özel halk otobüsleri (1, 7, 7A) Zafer Meydanı'ndan kalkar"
+      },
+      "🏠 kyk yurt i̇mkanı": {
+        "degerlendirme": "Çok Yüksek",
+        "detay": "Kampüs içinde ve yakınında geniş kapasiteli KYK kız ve erkek yurtları"
+      },
+      "💸 aylık ortalama kira (öğrenci evi)": {
+        "degerlendirme": "8.000 - 14.000 TL",
+        "detay": "Meydan, Dumlupınar Mahallesi, Zafertepe, Germiyan"
+      },
+      "🍽️ yemekhane ücreti & kalitesi": {
+        "degerlendirme": "20 - 25 TL / Ortalama",
+        "detay": "Bedesten ve fakülte yemekhaneleri; uygun fiyatlı"
+      },
+      "📚 kütüphane kapasitesi": {
+        "degerlendirme": "Çok Geniş",
+        "detay": "Osmanlı-Selçuklu mimarili devasa Merkez Kütüphane"
+      },
+      "🌐 i̇nternet (eduroam)": {
+        "degerlendirme": "Standart",
+        "detay": "Fakültelerde ve kütüphanede eduroam bağlantısı"
+      },
+      "🌆 sosyal yaşam & çevre": {
+        "degerlendirme": "Kısıtlı / Öğrenci Odaklı",
+        "detay": "Sera AVM, Zafer Meydanı, Samanpazarı kafeleri, Bedesten"
+      }
+    },
+    "artilar": [
+      "Yaşam maliyetinin çok düşük olması; kira, yemek ve temel giderlerin öğrenci dostu bütçelerde kalması.",
+      "Kampüs içinde barınma (KYK) imkanlarının bol olması ve yurt sorununun neredeyse yaşanmaması.",
+      "Selçuklu tarzı anıtsal kampüs mimarisi, yapay göletler ve geniş rekreasyon alanları.",
+      "Eskişehir'e trenle 1 saat mesafede olması (öğrencilerin hafta sonu kaçış noktası)."
+    ],
+    "eksiler": [
+      "Dondurucu Kütahya Ayazı ve Kış Çilesi: Kütahya yüksek rakımlı bir plato şehridir; kış ayları kuru ayaz, yoğun kar ve buzlanmayla geçer. Evliya Çelebi Kampüsü açık arazide olduğu için rüzgar kesintisiz eser; göletlerin donduğu kış aylarında fakülteler arasında yürümek ciddi bir eziyettir.",
+      "10 Kilometrelik Yol ve Halk Otobüsü Balık İstifi: Kampüsün şehir dışında olması sebebiyle her gün 1 ve 7 numaralı halk otobüslerinde sabah ve akşam izdihamı yaşanır. Otobüslerin yetersiz kalması, kart basım ücretleri ve hafta sonu sefer aralıklarının uzaması öğrencilerin en büyük şikayetidir.",
+      "Şehirde Sosyal Hayat Yetersizliği: Kütahya tipik muhafazakar bir Anadolu kentidir; Sera AVM ve Zafer Meydanı'ndaki birkaç kafe dışında öğrencilerin vakit geçirebileceği kültürel etkinlik, konser, alternatif mekan veya gece hayatı yok denecek kadar azdır. Bu yüzden öğrencilerin en büyük aktivitesi cuma akşamı trenle Eskişehir'e kaçmaktır.",
+      "Akşamları Issızlaşan Kampüs: Dersler bittikten sonra kampüsteki Bedesten çarşısı ve kafeler hızla kapanır; kampüs içi KYK'da kalan öğrenciler için akşamları kampüs adeta açık hava cezaevi ıssızlığına bürünür."
+    ],
+    "ogrenci_notu": "Cebinde az parayla rahatça üniversite bitirmek istiyorsan Kütahya tam bir bütçe kurtarıcısıdır; kiralar ve yemek ucuzdur, KYK kolay çıkar. Ama sosyal hayat ve eğlence bekliyorsan hayal kırıklığına uğrarsın. En büyük kurtarıcın TCDD tren biletidir; hafta sonu 1 saatte Eskişehir'e geçip nefes alırsın. Bir de gelirken en kalın kabanını ve termal çoraplarını bavulun en üstüne koy!"
   },
   {
     "id": "43-Kutahya/Merkez/KSBU-Merkez-Kampusu",
@@ -6399,13 +6723,52 @@
     "plaka": "44",
     "il": "Malatya",
     "ilce": "Battalgazi",
-    "universite_turu": "Devlet",
-    "ogrenci_dostu_puani": "⭐️⭐️⭐️⭐️☆ (4.2/5)",
+    "universite_turu": "Devlet (Köklü Bölge Üniversitesi)",
+    "ogrenci_dostu_puani": "⭐️⭐️⭐️⭐️☆ (4.0/5)",
     "son_guncelleme": "Kasım 2026",
-    "metrikler": {},
-    "artilar": [],
-    "eksiler": [],
-    "ogrenci_notu": ""
+    "metrikler": {
+      "🚇 şehir merkezine uzaklık": {
+        "degerlendirme": "10 - 12 km / ~20 dk",
+        "detay": "Elektrikli Trambüs (Metrobüs benzeri troleybüs) hattı kapıdan geçer"
+      },
+      "🏠 kyk yurt i̇mkanı": {
+        "degerlendirme": "Yüksek",
+        "detay": "Kampüs içinde devasa KYK yurt kompleksleri"
+      },
+      "💸 aylık ortalama kira (öğrenci evi)": {
+        "degerlendirme": "10.000 - 16.000 TL",
+        "detay": "Şehir merkezindeki yeniden inşa edilen konutlar, Bostanbaşı ve çevre mahalleler"
+      },
+      "🍽️ yemekhane ücreti & kalitesi": {
+        "degerlendirme": "20 - 25 TL / İyi",
+        "detay": "Geniş merkezi yemekhane ve fakülte kafeleri"
+      },
+      "📚 kütüphane kapasitesi": {
+        "degerlendirme": "Çok Geniş",
+        "detay": "7/24 açık Merkez Kütüphane ve zengin kaynaklar"
+      },
+      "🌐 i̇nternet (eduroam)": {
+        "degerlendirme": "Güçlü",
+        "detay": "Kampüs binalarında ve hastane bölgesinde kesintisiz"
+      },
+      "🌆 sosyal yaşam & çevre": {
+        "degerlendirme": "Kampüs İçi Yoğun",
+        "detay": "Turgut Özal Tabiat Parkı komşuluğu, kampüs çarşısı ve yeşil amfiler"
+      }
+    },
+    "artilar": [
+      "Tıp ve sağlık bilimlerinde Türkiye'nin ve dünyanın sayılı klinik merkezlerinden birine sahip olması.",
+      "Elektrikli Trambüs sistemi ile şehirden kampüse aktarmasız ve ucuz toplu taşıma konforu.",
+      "7.000 dönümlük yeşil kampüs, Turgut Özal Tabiat Parkı manzarası ve zengin spor tesisleri.",
+      "Kampüs içindeki KYK yurtlarının geniş kapasitesi ve kampüs içi güvenli yaşam alanı."
+    ],
+    "eksiler": [
+      "Deprem Sonrası Şehir Hayatının Kısıtlılığı: 2023 depremi sonrası Malatya şehir merkezinin yeniden inşa süreci devam ettiğinden, öğrencilerin şehir merkezindeki sosyal, kültürel ve kafeler sokağı gibi alanları eskiye kıyasla daha sınırlıdır. Sosyal yaşam büyük oranda kampüs içine ve AVM çevresine çekilmiştir.",
+      "Sabah Trambüs İzdihamı: Trambüsler büyük ve modern olsa da şehir merkezinden kampüse 30 binden fazla öğrenci ve hastane personelini taşıdığı için sabah saatlerinde aşırı doluluk yaşanır; duraklarda bazen ilk trambüse binilemeyebilir.",
+      "Yazın Boğucu Sıcak, Kışın Kuru Soğuk: Doğu Anadolu'nun tipik karasal iklimi nedeniyle kışın dondurucu ayaz etkili olurken, haziran ve eylül aylarında kampüste gölge bulmak zorlaşabilir.",
+      "Devasa Kampüs Mesafeleri: Kampüs arazisi çok büyük olduğu için fakülteler, yurtlar ve spor tesisleri arasında ring beklemek veya 15-20 dakika tempolu yürümek gerekebilir."
+    ],
+    "ogrenci_notu": "Özellikle Tıp, Diş Hekimliği veya Hemşirelik düşünüyorsan Turgut Özal Tıp Merkezi sayesinde Türkiye'nin en iyi eğitimlerinden birini alırsın. Kampüs içi KYK yurduna yerleşirsen şehir merkezindeki ulaşım ve ev derdinden tamamen kurtulursun. Kampüs çok geniş ve yeşildir, kampüsün tadını çıkar!"
   },
   {
     "id": "45-Manisa/Turgutlu/MCBU-Hasan-Ferdi-Turgutlu-Teknoloji-Fakultesi",

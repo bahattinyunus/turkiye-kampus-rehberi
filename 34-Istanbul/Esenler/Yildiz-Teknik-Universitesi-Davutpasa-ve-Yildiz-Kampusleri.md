@@ -25,7 +25,7 @@
 ## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
 
 * **Şehir Merkezinden Ulaşım:**  
-  1911 yılında kurulan köklü **Yıldız Teknik Üniversitesi (YTÜ)**, birbirinden çok farklı ama ikisi de tarihi dokuya sahip iki ana kampüste eğitim verir:
+  1911 yılında kurulan köklü **Yıldız Teknik Üniversitesi (YTÜ)**, birbirinden çok farklı iki ana kampüste eğitim verir:
   * **Davutpaşa Kampüsü (Ana Kampüs - Esenler/Güngören sınırı):** Osmanlı döneminden kalma devasa tarihi **Davutpaşa Kışlası** ve Otağ-ı Hümayun'un etrafına kurulmuş, uçsuz bucaksız yeşil alanlara sahip dev bir kampüstür (Elektrik-Elektronik, Bilgisayar, İnşaat, Kimya-Metalurji, Fen-Edebiyat, İİBF, Eğitim, Sanat ve Tasarım, Yabancı Diller Hazırlık buradadır). Ulaşımı çok rahattır: **M1A (Yenikapı - Atatürk Havalimanı) Metrosu'nun "Davutpaşa - YTÜ" durağından** çıktığınız an kampüsün içindesiniz! Ayrıca Metrobüs ve T1 Tramvayı'nın kesiştiği **Cevizlibağ** durağından kampüs içine sürekli çalışan **41AT** İETT otobüsleri ve **YTÜ Cevizlibağ Ring** servisleri vardır.
   * **Yıldız Kampüsü (Beşiktaş):** Makine Fakültesi, Gemi İnşaatı ve Denizcilik Fakültesi ile Mimarlık Fakültesi'nin bulunduğu, Beşiktaş ile Ortaköy arasında **Yıldız Parkı ve Yıldız Sarayı** komşuluğundaki tarihi tepe kampüstür. Beşiktaş İskelesi ve Barbaros Bulvarı'ndan yürüyerek (meşhur **Yıldız Yokuşu**'nu çıkarak!) veya Barbaros Bulvarı İETT otobüsleriyle 5-10 dakikada ulaşılır.
 * **Kampüs İçi Ulaşım (Ring Seferleri):**  
@@ -53,14 +53,12 @@
 
 ## 3. 🎓 Akademik ve Fiziki Altyapı
 
-* **Kütüphane İmkanları:**  
-  Davutpaşa Kampüsü'nde yer alan **Merkez Kütüphane** ve tarihi kışla binasının (İİBF/Fen-Edebiyat) ferah çalışma salonları 7/24 çalışma imkanı, bireysel kabinler ve sınav haftalarında ücretsiz çorba ikramı sunar.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  YTÜ, hem teorik hem de sektörel pratiği birleştiren güçlü bir mühendislik geleneğine sahiptir. Tarihi **Davutpaşa Kışlası** (yüksek tavanlı taş koridorlar ve dev iç avlu / Ortabahçe) ve yeni inşa edilen modern **Elektrik-Elektronik (EEF)**, **İnşaat**, **Eğitim** ve **Merkezi Derslik** binaları son teknoloji laboratuvarlarla donatılmıştır. Yıldız Kampüsü'ndeki tarihi **Çukurحصار (Çukursaray)** ve **Hamam** binaları ise Mimarlık öğrencilerinin stüdyo merkezidir.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Kampüs genelinde **eduroam** hızlıdır; OBS ve online eğitim sistemleri sorunsuz çalışır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  YTÜ'de kulüpçülük çok güçlüdür: **IEEE YTÜ** (İletişim Günleri - İG), **Makine Teknolojileri Kulübü (MTK)**, **Kalite ve Verimlilik Kulübü (KVK)**, **Robotik ve Otomasyon (ROK)**, **AESK (Alternatif Enerjili Sistemler)**, **YÜciTA** ve **Müzik/Sanat** kulüpleri Türkiye'nin en büyük öğrenci kongrelerini ve **Yıldız'da Yılın En'leri** ödül törenini düzenler.
+* **Köklü Mühendislik ve Mimarlık Geleneği:**  
+  Yıldız Teknik Üniversitesi, Türkiye'nin en saygın teknik okullarından biridir. Sanayi ve özel sektörde devasa bir "Yıldızlılar" mezun ağı vardır.
+* **Kütüphaneler ve Çalışma Alanları:**  
+  Davutpaşa Şevket Sabancı Kütüphanesi 7/24 açıktır. Ayrıca Tarihi Hamam binası ve Kışla koridorlarındaki ders çalışma alanları mimari atmosferiyle öğrencilerin favorisidir.
+* **Yıldız Teknopark (Kampüs İçi İstihdam Cenneti):**  
+  Davutpaşa Kampüsü sınırları içinde faaliyet gösteren **YTÜ Yıldız Teknopark**, yüzlerce teknoloji, savunma sanayii ve yazılım şirketine ev sahipliği yapar. Öğrenciler 2. ve 3. sınıftan itibaren ders aralarında Teknopark şirketlerinde staj ve yarı zamanlı iş yapabilirler.
 
 ---
 
@@ -81,26 +79,26 @@
   Davutpaşa Kampüsü etrafı duvarlarla çevrili, yüksek güvenlikli ve kendi içinde tamamen öğrenci odaklı devasa bir vahadır. Yıldız Kampüsü ise doğrudan Beşiktaş'ın enerjik öğrenci sokaklarına açılır.
 * **Sosyal Alanlar ve Etkinlikler:**  
   Bahar geldiğinde Davutpaşa **Ortabahçe** ve **Şenlik Alanı** çimleri binlerce öğrencinin müzik yaptığı, frizbi oynadığı ve kamp sandalyeleriyle yayıldığı en keyifli alandır. Akşamları ise M1A metrosu + Yenikapı M2 veya Cevizlibağ üzerinden 25-30 dakikada Beşiktaş, Taksim veya Kadıköy'e geçilir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Davutpaşa Kampüsü içinde yer alan devasa **YTÜ Yıldız Teknopark**, Türkiye'nin en büyük ve en başarılı teknoparklarından biridir. Yüzlerce yazılım, savunma sanayii, elektronik ve oyun şirketi bizzat kampüs içindedir; YTÜ öğrencileri ders aralarında yürüyerek Teknopark'taki şirketlerde part-time çalışabilirler.
 
 ---
 
 ## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
 
 ### ✅ Artıları
-* Davutpaşa Kampüsü'nün kapısında M1A metrosu olması ve kampüs içinde/Cevizlibağ'da devasa KYK yurt imkanları.
-* Tarihi Davutpaşa Kışlası, Otağ-ı Hümayun ve Ortabahçe'nin sunduğu yemyeşil, ferah gerçek kampüs atmosferi.
-* Kampüs içindeki dev YTÜ Yıldız Teknopark sayesinde mühendislik ve İİBF öğrencileri için mükemmel staj ve iş bulma ağı.
+* Davutpaşa Kampüsü'nün kapısında M1A metrosunun olması ve kampüs içinde FSM KYK, Cevizlibağ'da Atatürk KYK gibi devasa yurt avantajları.
+* Tarihi Davutpaşa Kışlası, Otağ-ı Hümayun ve Ortabahçe'nin sunduğu yemyeşil, gürültüden uzak gerçek kampüs atmosferi.
+* Kampüs içindeki dev YTÜ Yıldız Teknopark sayesinde mühendislik ve bilişim öğrencileri için yürüyerek staja gitme lüksü.
+* Beşiktaş Yıldız Kampüsü'nün Boğaz ve Beşiktaş Çarşı ile iç içe olan benzersiz konumu.
 
-### ❌ Eksileri
-* Davutpaşa Kampüsü'nün hemen dışındaki Esenler/Sanayi çevresinin sosyal mekan açısından zayıf olması (sosyalleşmenin kampüs içinde veya metroyla gidilen Beşiktaş/Kadıköy/Bakırköy'de yapılması).
-* Yıldız (Beşiktaş) Kampüsü'ndeki meşhur dik yokuş.
-* Popüler bölümlerde ve öğle yemekhanesi saatlerinde yaşanan kalabalık.
+### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+* **Tarihi Kışla Sürgünü ve Dış Çevre Gerçeği:** Yıldız Sarayı ve Beşiktaş'taki tarihi binaların zaman içinde rektörlük ve devlet kullanımına tahsis edilmesiyle bölümlerin büyük çoğunluğunun Davutpaşa'ya sürgün edildiği hissi öğrenciler arasında kronik bir sitemdir. Kampüs içi ne kadar yeşil ve genişse, Davutpaşa ana kapısından dışarı çıkıldığında Esenler, Otogar, Sanayi Siteleri ve Merter tekstil atölyelerinin boğucu gri atmosferiyle karşılaşılır; kampüs etrafında yürüyerek gidilebilecek kafe ve sosyal sokak kültürü sıfıra yakındır.
+* **"Davutpaşa Bozkır Rüzgarı" ve Devasa Yürüme Mesafeleri:** Kışla arazisi o kadar büyüktür ki metro istasyonundan Elektrik-Elektronik, Kimya-Metalurji veya Fen Edebiyat fakültelerine yürümek en az 15-20 dakika tempolu yürüyüş gerektirir. Kış aylarında açık arazide esen meşhur Davutpaşa ayazı ve fırtınası yürümeyi çileye çevirir; kampüs içi ringler ise ders başlangıç saatlerinde tıklım tıklım dolar.
+* **USIS / OBS Ders Kayıt Kaosu:** Her dönem başı Yıldızlıların korkulu rüyası haline gelen ders seçim sistemi, sunucuların çökmesi, kontenjanların saniyeler içinde tükenmesi ve öğrencilerin ders alabilmek için fakülte koridorlarında dilekçe kuyruğuna girmesiyle ünlüdür.
+* **Yıldız Kampüsü'nün Ciğer Söken Yokuşu:** Beşiktaş Kampüsü'nde okuyan Makine ve Mimarlık öğrencileri için Barbaros Bulvarı'ndan veya Beşiktaş Meydanı'ndan kampüse tırmanan dik Arnavut kaldırımlı yokuş, özellikle yaz sıcağında ve kışın buzlu havalarda fiziksel bir dayanıklılık testidir.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "İstanbul'da hem çok güçlü bir teknik üniversitede okumak hem de barınma/yurt derdi çekmemek istiyorsan YTÜ Davutpaşa Kampüsü en mantıklı tercihtir. Erkeksen kampüs içindeki FSM KYK, kızsan 10 dakika aşağıdaki Cevizlibağ Atatürk KYK yurdu hayatını kurtarır. Bahar aylarında Ortabahçe çimlerinin tadını çıkar, 2. sınıftan itibaren de hemen kampüsün içindeki Yıldız Teknopark şirketlerinin kapısını çal!"
+> "İstanbul'da hem çok güçlü bir teknik üniversitede okumak hem de barınma/yurt derdi çekmemek istiyorsan YTÜ Davutpaşa Kampüsü en mantıklı tercihtir. Erkeksen kampüs içindeki FSM KYK, kızsan 10 dakika aşağıdaki Cevizlibağ Atatürk KYK yurdu hayatını kurtarır. Bahar aylarında Ortabahçe çimlerinin tadını çıkar, ders seçimi gününde sabah erkenden internet kablosunu tak ve 2. sınıftan itibaren hemen kampüsün içindeki Yıldız Teknopark şirketlerinin kapısını çal!"

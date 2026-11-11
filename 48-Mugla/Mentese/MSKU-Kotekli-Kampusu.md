@@ -103,3 +103,10 @@
 
 > 💬 **Öğrenci Notu:**  
 > "Muğla'yı kazanınca valizinize şort ve güneş gözlüğünden önce mutlaka **su geçirmez sağlam bir bot ve panço yağmurluk** koyun; çünkü Menteşe deniz kenarında değil, dağın tepesinde ve kışın bardaktan boşanırcasına yağmur yağar! İlk sene kesinlikle KYK yurduna başvurun, Kötekli'de ağustos-eylül telaşıyla emlakçıların fahiş fiyatlı rutubetli bodrum katı apartlarına paranızı kaptırmayın. Bir de ilk 1-2 sene Kötekli'nin kafe/gece hayatına kapılıp vizeleri boşlamayın; dengeyi kurarsanız hayatınızın en unutulmaz üniversite yıllarını burada yaşarsınız."
+
+---
+
+## ⚠️ Öğrenci İtirafları: Kötekli Kira Karteli ve İlçe Sürgünleri
+* **Kötekli Fahiş Kira Krizi:** Öğrenci yerleşimi olan Kötekli'de ev sahipleri ve emlakçıların 1+1 apartlara turizm bölgesi muamelesi yapması; yüksek depozitolar ve fahiş kira artışları her yıl yüzlerce öğrenciyi mağdur etmektedir.
+* **Kötekli Ayazı:** Muğla ılıman bilinir ancak Kötekli bir çanakta yer aldığı için kışın aşırı ayaz, sis ve don olur; kiralık apartların çoğunda yalıtım zayıftır.
+* **Bodrum ve Fethiye'deki Fakültelerde Barınma İmkansızlığı:** Bodrum Güzel Sanatlar veya Denizcilik kazanan öğrencilerin asgari ücretin 3 katına çıkan ev kiraları ve yetersiz yurt kapasitesi nedeniyle kaydını dondurmak zorunda kalması en acı gerçeklerdendir.

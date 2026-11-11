@@ -91,9 +91,11 @@
 * **Akademik Prestij ve ODTÜ Teknokent:** Hem yurt dışı yüksek lisans/doktora kabulünde hem de savunma sanayii ve teknoloji şirketlerinde en güçlü referanstır.
 * **Şehir Merkezinde Orman Kampüs:** Hem 45 bin dönüm ormanın içinde olup hem de Kızılay'a metroyla 15 dakika mesafede olmak büyük bir lükstür.
 
-### ❌ Eksileri
-* **Çok Ağır Akademik Yük ve Çan Eğrisi:** Sınavlar gerçekten zordur; düzenli çalışmayan bir öğrenci için "ODTÜ'de 4 yılda bitirmek" ciddi bir mücadeledir.
-* **Yurt ve Ring Yoğunluğu:** İlk aylarda kampüs içi yurtlarda yedek sırası beklemek ve sabah 08:40 dersleri öncesi A1 kapısında ring kuyruğuna girmek yorucu olabilir.
+### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+* **Devasa Arazide Kış Yürüyüşleri & Ring Yetersizliği:** 45 milyon metrekarelik arazide kışın -15 derece Ankara ayazında, özellikle 19. Yurt ve Faika Demiray bölgesinden Mühendislik binalarına rüzgara karşı yürümek zordur; sabah 08:40 dersi öncesinde A1 kapısı ve yurtlar ring kuyruklarında uzun beklemeler yaşanır.
+* **DBE (Hazırlık) Baskısı ve Ağır Çan Eğrisi:** İngilizce hazırlıkta (Temel Yabancı Diller Bölümü) her hafta yapılan habersiz pop-quizler, ağır geçme barajları ve bölümlerdeki acımasız bağıl değerlendirme (çan eğrisi) nedeniyle okulun 5-6 yılda bitmesi oldukça yaygındır.
+* **Sınav Döneminde Kütüphanede Yer Kapma Savaşı:** Kütüphane 7/24 açıktır ancak vize ve final haftalarında sabah 08:00'de masa tutulmazsa gün boyu oturacak yer bulunamaz; priz ve masa paylaşımı tartışmaları sıktır.
+* **100. Yıl Mahallesi Kira Artışları:** Eskiden öğrenci dostu olan 100. Yıl Mahallesi'nde kiraların hızla yükselmesi ve eski binaların kışın yüksek doğalgaz faturaları çıkarması.
 
 ---
 

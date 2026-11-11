@@ -89,10 +89,11 @@
 * Bursaray (Metro) hattının doğrudan kampüs içine kadar gelmesi ve kampüs içinde 6+ KYK yurdunun bulunması.
 * Bitişiğindeki Görükle ve Nilüfer ilçesinin sunduğu Türkiye'nin en canlı öğrenci sosyal hayatlarından biri.
 
-### ❌ Eksileri
-* Kampüsün çok büyük olması nedeniyle metro/yurt ile fakülteler arasında yürüme mesafelerinin uzunluğu ve ring yoğunluğu.
-* Görükle'de bazı eski apartlarda ses yalıtımı sorunu ve kalabalık gece gürültüsü.
-* Bursa genelinde yaşam ve kira maliyetlerinin büyükşehir seviyesinde olması.
+### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+* **Bursaray'ın Görükle Yerleşimine Girmemesi Çilesi:** Bursaray sadece kampüs girişindeki 'Üniversite' durağına kadar gelir. Görükle yerleşiminde oturan bir öğrenci kampüse veya metroya gitmek için her gün sarı minibüslere binmek ya da 25 dakika rüzgara karşı yürümek zorundadır.
+* **Görükle Emlakçı & Esnaf Rantı:** "Öğrenciye her şey pahalı" yaklaşımı; faturalarda süzme sayaç kavgaları, depozito iadelerinde çıkarılan pürüzler ve apartlarda yetersiz ses/ısı yalıtımı öğrencilerin en çok yakındığı konular arasındadır.
+* **Kampüs İçi Mesafe ve Ringlerin Tıklım Tıklım Olması:** Tıp Fakültesi, İİBF ve Mühendislik binaları birbirinden uzaktır; sabah ve akşam saatlerinde kampüs içi ringlere binmek adeta bir güreş müsabakasına döner.
+* **Uludağ'ın Dondurucu Kış Ayazı:** Kış aylarında Uludağ'dan ovaya inen dondurucu rüzgar yüzünden açık kampüste yürümek oldukça zordur.
 
 ---
 

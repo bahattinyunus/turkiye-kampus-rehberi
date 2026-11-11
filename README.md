@@ -23,6 +23,7 @@
 
 <p align="center">
   <a href="#-türkiyenin-zirvedeki-10-kampüsü-detaylı-inceleme">🏆 Zirvedeki 10 Kampüs</a> •
+  <a href="#-tercih-yapmadan-önce-okuyun-kampüslerin-kronik-sorunları-ve-olumsuz-öğrenci-yorumları">⚠️ Kronik Sorunlar</a> •
   <a href="#-canlı-web-uygulaması">🌐 Web Uygulaması</a> •
   <a href="#-python-sdk--kütüphane-kullanımı">🐍 Python SDK</a> •
   <a href="#-akıllı-tercih-danışmanı-ai">🤖 AI Tercih Danışmanı</a> •
@@ -344,6 +345,87 @@ python scripts/cli.py validate
 * **Karakteristik Ruh:** Karadeniz manzaralı sahil terasları, botanik bahçesi gibi yeşil peyzaj, 1955'ten bu yana süregelen Doğu Karadeniz'in ilk teknik üniversitesi gururu ve Aslanlı Yol.
 * 💬 **Öğrenci Tavsiyesi:** *"KTÜ'de okumak deniz havasını ciğerlerine çekerek mühendislik öğrenmektir. Kampüsün A kapısından çıkıp Forum'a, C kapısından çıkıp Kalkınma'ya yürümek buranın en büyük kolaylığıdır!"*
 * 📖 [**Tam KTÜ Kanuni Kampüs Rehberini Oku ➔**](./61-Trabzon/Ortahisar/KTU-Merkez.md)
+
+---
+
+
+---
+
+## ⚠️ Tercih Yapmadan Önce Okuyun: Kampüslerin Kronik Sorunları ve Olumsuz Öğrenci Yorumları
+
+> 📢 **"Resmi kataloglar binaları gösterir, açık kaynak kültürü ise o binaların içindeki gerçeği anlatır."**  
+> Bu bölüm; Ekşi Sözlük, Reddit, X (Twitter) ve üniversite itiraf sayfalarında öğrencilerin en çok yakındığı, resmi tanıtım günlerinde asla bahsedilmeyen **kronik sorunları ve olumsuz yorumları** şeffaflıkla belgeler.
+
+```mermaid
+mindmap
+  root((⚠️ Kronik Kampüs Sorunları))
+    (Ulaşım Çileleri)
+      ["Beytepe (Hacettepe): 550 Ring Kuyruğu & Ayaz"]
+      ["Umuttepe (Kocaeli): 33 Numara Dağ Tırmanışı & Sis"]
+      ["Tınaztepe (DEÜ): Buca Trafik Kilitlenmesi"]
+    (Coğrafi İzolasyon)
+      ["KTÜ Of Teknoloji: Merkezden 55 km Uzaklık"]
+      ["Balıkesir Çağış: 17 km Şehir Dışı Çölü"]
+      ["Boğaziçi Kilyos: Karadeniz Kıyısı Sürgünü"]
+    (Barınma & Kira Rantı)
+      ["Muğla Kötekli: Emlakçı Karteli & Çukur Ayazı"]
+      ["Bursa Görükle: Süzme Sayaç & Yüksek Kiralar"]
+      ["İTÜ Maslak: Asgari Ücreti Aşan Öğrenci Evleri"]
+    (Akademik & Bürokratik Stres)
+      ["İTÜ SIS/Kepler: 15 Saniyede Çöken Ders Kaydı"]
+      ["ODTÜ DBE: Pop-Quizler & Acımasız Çan Eğrisi"]
+      ["Taşra MYO: Tek Caddeli İlçelerde Hayal Kırıklığı"]
+```
+
+---
+
+### 1. 🚌 Ulaşım ve Ring Seferlerindeki Kronik Çileler
+
+* **Hacettepe Beytepe - "550 Numaralı Ring Sınavı":**  
+  Kampüs dışında (Kızılay, Bahçelievler, Eryaman) yaşayan öğrenciler için her sabah Beytepe Köprüsü metro çıkışında başlayan dondurucu sıra. 08:00 - 09:15 saatleri arasında yüzlerce metreyi bulan kuyrukta körüklü otobüse binebilmek için kış ayazında 30-45 dakika titremek Beytepe öğrenciliğinin en yıpratıcı rutinidir.
+* **Kocaeli Umuttepe - "33 Numara ile Dağa Tırmanış":**  
+  İzmit merkezden Umuttepe'ye çıkan otobüslerin dik Santral yokuşunda balık istifi tırmanması, aşırı motor gürültüsü ve kışın İzmit'te hava açıkken Umuttepe'de görüşün 5 metreye indiği dondurucu sis ve tipi. Yollar buzlandığında sınavların son anda ertelenmesi veya mahsur kalınması olağandır.
+* **Dokuz Eylül Üniversitesi - "Buca Trafiği ve Tınaztepe Rampası":**  
+  Şirinyer ile Tınaztepe arasındaki 5 kilometrelik mesafenin sabah saatlerinde dar sokaklar ve Heykel kavşağı trafiği yüzünden 50 dakikayı bulması. Tınaztepe'nin dik rampalarında yazın 40 derece İzmir sıcağında kan ter içinde amfi aramak.
+* **Eskişehir Teknik Üniversitesi (ESTÜ) - "Eskişehir'de Tramvaysız Kalmak":**  
+  Eskişehir denildiğinde akla gelen tramvay konforunun ESTÜ İki Eylül Kampüsü'nde bulunmaması. Espark önündeki Kırmızı 4 ve Siyah 4 duraklarında sabahları oluşan 100 metrelik kuyruklar ve Hasan Polatkan Havalimanı pistinin kenarında esen meşhur dondurucu "ESTÜ ayazı".
+
+---
+
+### 2. 🗺️ Coğrafi İzolasyon ve "Taşra Sürgünleri"
+
+* **KTÜ Of Teknoloji Fakültesi - "KTÜ Diye Tercih Edip 55 KM Uzağa Gitmek":**  
+  YKS kılavuzunda "Karadeniz Teknik Üniversitesi" ibaresini görüp Trabzon merkez kampüsüne gideceğini zanneden adayların en büyük şoku. Of ilçesi Trabzon merkeze tam 55 km uzaklıktadır; ilçede sosyal yaşam tek bir cadde, çay ocakları ve sınırlı sayıda lokantadan ibarettir.
+* **Balıkesir Üniversitesi Çağış Kampüsü - "Şehirden 17 KM Uzakta Bozkır":**  
+  Şehir merkezine 17 km uzaklıktaki Çağış Kampüsü'nde eğitim bittiğinde akşam 18:00'den sonra hayat tamamen durur. Şehir merkezinden kalkan halk otobüslerinde tek biniş ücretleri Türkiye ortalamasının üzerindedir ve yolculuk 40 dakika sürer.
+* **Boğaziçi Üniversitesi Kilyos (Sarıtepe) Kampüsü:**  
+  İstanbul'un kalbinde okuyacağını sanan hazırlık öğrencilerinin kendilerini Karadeniz kıyısında, Beşiktaş'a 35 km uzaklıkta, kışın fırtına ve rüzgardan yürünemeyen izole bir sahil kampüsünde bulması.
+* **İYTE Gülbahçe (İzmir) - "İzmir Diye Tercih Edip Urla Köyüne Düşmek":**  
+  İzmir kent merkezine (Konak/Alsancak) tam 50 km mesafede, Gülbahçe Köyü sahilinde yer alır. Şehre gitmek git-gel 3-4 saati bulduğundan öğrenciler adeta köye hapsolur; rüzgar sörfü için ideal olan sert fırtınalar kışın kampüste yürümeyi imkansız kılar.
+* **Koç & Sabancı Üniversiteleri - "Altın Kafes İzolasyonu":**  
+  Sarıyer'in kuzey ormanlarına gömülü Koç Rumelifeneri ile Tuzla/Kocaeli sınırındaki Sabancı Orhanlı kampüsleri, İstanbul merkezinden (Kadıköy/Taksim) 40-55 km uzaktadır. Özel servislere (shuttle) mahkumiyet, yüksek yaşam maliyeti ve şehre inmenin lojistik çilesi öğrencileri kapalı bir ada hayatına mahkum eder.
+
+---
+
+### 3. 💸 Barınma Krizleri ve Fahiş Kira Rantları
+
+* **Muğla Kötekli - "Kira Karteli ve Çukur Ayazı":**  
+  Tamamen öğrencilere tahsis edilen Kötekli bölgesinde ev sahipleri ve emlakçıların 1+1 apartlara turizm bölgesi tarifesi uygulaması, depozito iadelerinde çıkarılan zorluklar. Ayrıca Kötekli çukurda yer aldığı için kışın dondurucu bir ayaz ve kömür dumanı solunur.
+* **Bursa Görükle - "Bursaray Görükle'ye Girmiyor!":**  
+  Bursaray raylı sistemi Görükle yerleşimine girmez; yalnızca kampüs kapısında son bulur. Görükle'de ev tutan öğrenci metroya ve fakültesine gitmek için her gün ek minibüs ücreti ödemek veya 25 dakika rüzgara karşı yürümek zorundadır.
+* **Bodrum, Fethiye ve Marmaris Meslek Yüksekokulları:**  
+  Turizm merkezlerindeki fakülte ve MYO'ları kazanan öğrencilerin asgari ücreti aşan ev kiraları ve yetersiz yurt kapasiteleri sebebiyle kayıtlarını dondurmak veya okula gitmeden uzaktan sınavlara girmek zorunda kalması.
+
+---
+
+### 4. 📚 Akademik Tükenmişlik ve Bürokrasi Engelleri
+
+* **İTÜ - "CRN Ders Seçim Savaşları (Açlık Oyunları)":**  
+  Ders seçim sisteminin (SIS/Kepler) açıldığı ilk 15 saniye içinde sunucuların çökmesi; zorunlu havuz derslerinin saniyeler içinde tükenmesi sebebiyle öğrencilerin dönem uzatmak zorunda kalması ve dönem başlarında yaşanan yoğun stres.
+* **ODTÜ - "DBE Pop-Quizleri ve Acımasız Çan Eğrisi":**  
+  Hazırlık okulunda (DBE) her hafta yapılan habersiz sınavlar ve bölümlerdeki ağır çan eğrisi yüzünden 4 yıllık bölümlerin 5-6 yılda bitirilmesinin olağan hale gelmesi.
+* **İlçe MYO'ları Gerçeği - "Beklenti vs. Gerçek":**  
+  Taşradaki küçük ilçe meslek yüksekokullarına giden öğrencilerin "kampüs hayatı" yerine tek katlı bir bina, 2 kahvehane ve akşam 19:00'da kepenk indiren sessiz bir ilçe hayatıyla karşılaşması. Tercih yaparken sadece bölüm adına değil, **ilçenin haritadaki yerine ve sosyal imkanlarına** mutlaka bakılmalıdır!
 
 ---
 

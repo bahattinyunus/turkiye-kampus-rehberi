@@ -91,9 +91,11 @@
 * **Kampüs İçi Yurt ve Teknokent İmkanı:** Kampüs içindeki Öğrenci Evleri veya KYK yurtlarında kalanlar için hayat çok konforludur; Teknokent hemen yürüme mesafesindedir.
 * **Güçlü Akademik İtibar:** Mühendislik, Hukuk, Psikoloji, İngilizce Mütercim-Tercümanlık ve temel bilimlerde Türkiye'nin en üst düzey bölümlerine sahiptir.
 
-### ❌ Eksileri
-* **550 Ring Sırası ve Metro Aktarması:** Kampüs dışında yaşayanlar için her sabah Beytepe metrosunda inip 550 otobüs sırasına girmek (özellikle kış soğuğunda) en büyük zorluktur.
-* **Sert Beytepe İklimi:** Kışın rüzgarı, sisi ve ayazı şehir merkezinden çok daha serttir.
+### ❌ Eksileri ve Kronik Sorunları (Öğrenci Yorumları)
+* **550 Ring Çilesi ve Sabah Kuyrukları:** Beytepe Köprüsü Metro çıkışında sabah 08:00 - 09:15 arasında 30-45 dakikayı bulan dondurucu EGO ring kuyrukları. Körüklü otobüslere balık istifi binilmesi ve sınav haftalarında ring yetersizliği en çok şikayet edilen konudur.
+* **Dondurucu Rüzgar Koridoru ve Sert Bozkır Ayazı:** Kızılay'da hava 10 dereceyken Beytepe'de karla karışık tipi ve -5 derece ayaz yaşanabilir; kampüsteki açık alanlarda yürürken rüzgar iliklerinize işler.
+* **Yabancı Diller Yüksekokulu (Hazırlık) Baskısı:** İngilizce hazırlıkta devamsızlık sınırı son derece katıdır; her modül yapılan pop-quizler ve yüksek barajlar öğrencileri ilk yıldan ciddi biçimde yıpratır.
+* **Yemekhanede Öğle Saati İzdihamı:** 12:00 - 13:00 arası Merkezi Yemekhane'de turnikelerden dışarı taşan uzun kuyruklar; ders aralığı 45 dakika olan öğrenciler için yemek yemek yarışa dönüşür.
 
 ---
 

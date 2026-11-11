@@ -94,9 +94,10 @@
 * **İstanbul'a Komşu, Büyükşehir İmkanları:** İstanbul'un kaosu ve aşırı kira pahalılığı olmadan İstanbul'a 1 saat mesafede tam teşekküllü bir kampüs hayatı.
 * **Bütünleşik Dev Kampüs ve Yurt Kapasitesi:** Tüm fakültelerin ve KYK yurtlarının Umuttepe'de bir arada olması.
 
-### ❌ Eksileri
-* **Umuttepe Yokuşu ve Otobüs Yoğunluğu:** İzmit merkezden kampüse çıkarken yaşanan dik yokuş yolculuğu ve pik saatlerdeki otobüs kalabalığı.
-* **Sert Umuttepe Havası (Sis, Rüzgar ve Yağmur):** Rakım farkı nedeniyle kampüsün yılın büyük bölümünde sisli, rüzgarlı ve merkezden 5-6 derece daha soğuk olması.
+### ❌ Eksileri ve Kronik Sorunları (Öğrenci Yorumları)
+* **33 Numara Dağ Tırmanışı ve Ulaşım Çilesi:** İzmit merkezden kalkan 33 ve 133 numaralı otobüslerin dik Santral yokuşunda balık istifi tırmanması, motor sesinden konuşulamaması ve sabahları otobüs beklerken duraklarda yaşanan izdiham.
+* **Kalıcı Sis, Buzlanma ve Şiddetli Rüzgar:** İzmit merkezde güneş açarken Umuttepe'de görüş mesafesinin 5 metreye düştüğü sis ve dondurucu tipi yaşanır; kışın kar yağdığında yolların buzlanması yüzünden derslerin iptal olması olağandır.
+* **Sosyal İzolasyon:** Kampüs dağın başında olduğu için ders bitiminde kafeler sınırlıdır; gerçek bir şehir hayatı yaşamak isteyen öğrenci her gün 40 dakika yol çekip İzmit merkeze inmek zorundadır.
 
 ---
 

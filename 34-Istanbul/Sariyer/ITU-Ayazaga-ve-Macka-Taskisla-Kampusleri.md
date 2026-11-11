@@ -91,10 +91,11 @@
 * M2 Metrosu'nun doğrudan ana kampüs kapısına çıkması ve yeşil, göletli, tam donanımlı 7/24 yaşayan Ayazağa Kampüsü.
 * Kampüs içinde 5.000'den fazla kapasiteli kendi öğrenci yurtlarının (Gölet, Vadi vb.) bulunması.
 
-### ❌ Eksileri
-* Maslak ve Sarıyer çevresindeki kiralık ev fiyatlarının yüksekliği (öğrencilerin Sanayi Mahallesi/Gültepe gibi sıkışık mahallelere yönelmesi).
-* Hazırlık (Maçka) sonrası fakülteye geçerken yaşanan yoğun akademik rekabet, "çan eğrisi" stresi ve CRN (ders seçimi) savaşları.
-* Ayazağa Kampüsü'nün büyüklüğü nedeniyle kışın rüzgarlı ve yağmurlu günlerde binalar arası yürümenin zorluğu.
+### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+* **Ölüm Yokuşu Çilesi:** Vadi Yurtları'ndan Merkezi Derslik Binası'na (MED) ve İnşaat/Maden fakültelerine çıkan aşırı dik yokuş ("Ölüm Yokuşu"). Özellikle kışın Maslak rüzgarında bu yokuşu sabah dersine tırmanmak tam bir hayatta kalma mücadelesidir.
+* **CRN Ders Seçim Savaşları ("Açlık Oyunları"):** Ders kayıt sisteminin (SIS/Kepler) açıldığı ilk 15 saniye içinde sunucuların kilitlenmesi, zorunlu havuz derslerinin saniyeler içinde tükenmesi ve mezuniyet için dönem uzatma riski her dönem öğrencileri yıpratır.
+* **Merkezi Yemekhane İzdihamı:** 12:00 - 13:00 arası binlerce mühendislik öğrencisinin aynı anda çıkmasıyla kuyruğun yemekhanenin dış bahçesine taşması; öğle arasında yemek yiyebilmek için dersi 10 dakika erken terk etmek yaygındır.
+* **Maslak ve Sarıyer Fahiş Kira Çıkmazı:** Kampüs çevresindeki 1+1 dairelerin asgari ücretin 2-3 katına fırlaması; öğrencilerin Kağıthane, Çeliktepe ve Seyrantepe'de sıkışık dairelere mahkum kalması.
 
 ---
 
