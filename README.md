@@ -22,6 +22,7 @@
 </p>
 
 <p align="center">
+  <a href="#-türkiyenin-zirvedeki-10-kampüsü-detaylı-inceleme">🏆 Zirvedeki 10 Kampüs</a> •
   <a href="#-canlı-web-uygulaması">🌐 Web Uygulaması</a> •
   <a href="#-python-sdk--kütüphane-kullanımı">🐍 Python SDK</a> •
   <a href="#-akıllı-tercih-danışmanı-ai">🤖 AI Tercih Danışmanı</a> •
@@ -164,6 +165,185 @@ python scripts/cli.py serve --port 8000
 # 🛡️ Tüm bağlantıların ve Markdown dosyalarının bütünlüğünü test et
 python scripts/cli.py validate
 ```
+
+---
+
+
+---
+
+## 🏆 Türkiye'nin Zirvedeki 10 Kampüsü (Detaylı İnceleme)
+
+Öğrenci dostu endeksi, akademik araştırma altyapısı, ulaşım kolaylığı, barınma imkanları ve eşsiz kampüs kültürleriyle öne çıkan Türkiye'nin en seçkin 10 yerleşkesi:
+
+---
+
+### 1. 🌲 Orta Doğu Teknik Üniversitesi (ODTÜ) - Merkez Kampüsü (Ankara / Çankaya)
+
+<p align="center">
+  <img src="./assets/top10/01-odtu.jpg" alt="ODTÜ Merkez Kampüsü Ankara" width="100%" style="border-radius: 14px;" />
+</p>
+
+* **Şehir / İlçe:** Ankara / Çankaya
+* **Tür:** Devlet Araştırma Üniversitesi
+* **Öğrenci Dostu Puanı:** ⭐️⭐️⭐️⭐️⭐️ (4.9 / 5.0)
+* **Ulaşım:** M2 Çayyolu Metrosu (ODTÜ İstasyonu) doğrudan nizamiyededir; A1, A4 kapıları ve yurtlar bölgesi arasında kesintisiz ring seferleri çalışır.
+* **Barınma & Yaşam:** Kampüs içinde 19 kız/erkek öğrenci yurdu mevcuttur. 100. Yıl Mahallesi, ODTÜ öğrencilerinin yürüme mesafesinde yaşadığı bağımsız bir kültür merkezidir.
+* **Karakteristik Ruh:** Efsanevi **Devrim Stadyumu**, orman içi **Alle yürüyüş yolu**, Türkiye'nin ilk teknokenti **ODTÜ Teknokent** ve profesörden öğrenciye herkesin birbirine eşitlikle yaklaştığı meşhur *"Hocam"* kültürü.
+* 💬 **Öğrenci Tavsiyesi:** *"ODTÜ'de okumak bir diplomadan öte ömürlük bir aidiyettir. Bahar Şenliği'nde Devrim çimlerine uzanıp gökyüzünü izlemeden, Oryantasyon günlerinde topluluk stantlarını gezmeden asla mezun olma!"*
+* 📖 [**Tam ODTÜ Merkez Kampüs Rehberini Oku ➔**](./06-Ankara/Cankaya/ODTU-Merkez-Kampusu.md)
+
+---
+
+### 2. 🌊 Boğaziçi Üniversitesi - Güney, Kuzey ve Hisar Kampüsleri (İstanbul / Beşiktaş)
+
+<p align="center">
+  <img src="./assets/top10/02-bogazici.jpg" alt="Boğaziçi Üniversitesi Güney Kampüs" width="100%" style="border-radius: 14px;" />
+</p>
+
+* **Şehir / İlçe:** İstanbul / Beşiktaş (Bebek / Rumelihisarı)
+* **Tür:** Devlet Araştırma Üniversitesi
+* **Öğrenci Dostu Puanı:** ⭐️⭐️⭐️⭐️⭐️ (4.7 / 5.0)
+* **Ulaşım:** M6 Levent-Boğaziçi Metrosu ve F4 Boğaziçi-Aşiyan Füniküleri kapıdadır; Aşiyan İskelesi'nden vapurla Üsküdar/Kadıköy 10-15 dakikadır.
+* **Barınma & Yaşam:** Kuzey ve Kilyos kampüslerinde yurtlar yer alır; Hisarüstü (Rumelihisarı) mahallesi tamamen öğrencilerin kafe ve ev hayatıyla örülüdür.
+* **Karakteristik Ruh:** Tarihi sarmaşıklı taş binalar, Albert Long Hall klasik müzik konserleri, dünyanın en güzel manzaralarından biri olan **Güney Çimler** ve efsanevi öğrenci kulüpleri (BÜDAK, Taşoda, COMPEC, BÜİK).
+* 💬 **Öğrenci Tavsiyesi:** *"Boğaziçi'nde ders aralarında Güney Çimler'de kedilerle oturup Boğaz'ı izlemek bütün sınav stresini siler. Hazırlıkta Kilyos'a düşersen hiç üzülme, en sıkı dostluklar o sahil kampüsünde kurulur!"*
+* 📖 [**Tam Boğaziçi Üniversitesi Kampüs Rehberini Oku ➔**](./34-Istanbul/Besiktas/Bogazici-Universitesi-Guney-Kuzey-ve-Kilyos-Kampusleri.md)
+
+---
+
+### 3. ⚙️ İstanbul Teknik Üniversitesi (İTÜ) - Ayazağa ve Maçka Kampüsleri (İstanbul / Sarıyer)
+
+<p align="center">
+  <img src="./assets/top10/03-itu.jpg" alt="İTÜ Ayazağa Kampüsü Maslak" width="100%" style="border-radius: 14px;" />
+</p>
+
+* **Şehir / İlçe:** İstanbul / Sarıyer (Maslak)
+* **Tür:** Devlet Teknik Araştırma Üniversitesi
+* **Öğrenci Dostu Puanı:** ⭐️⭐️⭐️⭐️⭐️ (4.8 / 5.0)
+* **Ulaşım:** M2 Yenikapı-Hacıosman Metrosu (İTÜ-Ayazağa Durağı) doğrudan kampüs nizamiyesine açılır; Maslak plazalar bölgesine komşudur.
+* **Barınma & Yaşam:** Kampüs içinde Vadi Yurtları, Gölet Yurtları ve kız/erkek KYK yurtları yer alır; Ayazağa Göleti çevresi öğrencilerin spor ve dinlenme alanıdır.
+* **Karakteristik Ruh:** 250 yıllık mühendislik geleneği, dünya çapında akredite diplomalar (ABET), Türkiye'nin en büyük teknoloji geliştirme bölgesi **İTÜ ARI Teknokent** ve formula/roket/uydu Ar-Ge takımları.
+* 💬 **Öğrenci Tavsiyesi:** *"İTÜ'yü kazandıysan Maçka'da hazırlık okuyup Beşiktaş-Nişantaşı havasını solumak harikadır. Ayazağa'da ise mutlaka bir TEKNOFEST veya Ar-Ge takımına katıl; asıl mühendisliği orada öğreneceksin!"*
+* 📖 [**Tam İTÜ Ayazağa ve Maçka Kampüs Rehberini Oku ➔**](./34-Istanbul/Sariyer/ITU-Ayazaga-ve-Macka-Taskisla-Kampusleri.md)
+
+---
+
+### 4. 🌿 Hacettepe Üniversitesi - Beytepe Kampüsü (Ankara / Çankaya)
+
+<p align="center">
+  <img src="./assets/top10/04-hacettepe.jpg" alt="Hacettepe Üniversitesi Beytepe Kampüsü" width="100%" style="border-radius: 14px;" />
+</p>
+
+* **Şehir / İlçe:** Ankara / Çankaya
+* **Tür:** Devlet Araştırma Üniversitesi
+* **Öğrenci Dostu Puanı:** ⭐️⭐️⭐️⭐️☆ (4.5 / 5.0)
+* **Ulaşım:** M2 Çayyolu Metrosu (Beytepe Durağı) önünden kalkan ekspres körüklü EGO ring otobüsleri doğrudan kampüs içine girer.
+* **Barınma & Yaşam:** Kampüs sınırları içinde devasa Emine Şerife Hanım KYK Yurdu ve Hacettepe Öğrenci Evleri bulunur; Yeşil Vadi ve BAM Çarşısı sosyal merkezdir.
+* **Karakteristik Ruh:** Çam ormanları ile çevrili ferah yayla havası, vize haftalarında 7/24 hizmet veren devasa Merkez Kütüphanesi ve güçlü Tıp/Mühendislik/Edebiyat ekolü.
+* 💬 **Öğrenci Tavsiyesi:** *"Beytepe'de Ankara merkezde hava günlük güneşlikken bile serin bir rüzgar eser, çantanda daima bir hırka bulundur. Kütüphanede sabahlayıp BAM'da sıcak simit-çay yapmak buranın klasiğidir!"*
+* 📖 [**Tam Hacettepe Beytepe Kampüs Rehberini Oku ➔**](./06-Ankara/Cankaya/Hacettepe-Universitesi-Beytepe-Kampusu.md)
+
+---
+
+### 5. 🏛️ İhsan Doğramacı Bilkent Üniversitesi - Merkez Kampüsü (Ankara / Çankaya)
+
+<p align="center">
+  <img src="./assets/top10/05-bilkent.jpg" alt="Bilkent Üniversitesi Merkez Kampüsü" width="100%" style="border-radius: 14px;" />
+</p>
+
+* **Şehir / İlçe:** Ankara / Çankaya
+* **Tür:** Vakıf Üniversitesi
+* **Öğrenci Dostu Puanı:** ⭐️⭐️⭐️⭐️⭐️ (4.8 / 5.0)
+* **Ulaşım:** Tunalı Hilmi, Sıhhiye ve Bahçelievler güzergahlarından gün boyu kalkan ücretsiz Bilkent ring servisleri ile kolay ulaşım.
+* **Barınma & Yaşam:** Kampüs içinde otel konforunda 26 yurt binası mevcuttur; Bilkent Center ve Ankuva AVM kampüse yürüme mesafesindedir.
+* **Karakteristik Ruh:** Türkiye'nin ilk vakıf üniversitesi olmanın getirdiği yüksek kurumsal standartlar, Odeon Amfi Tiyatrosu, uluslararası düzeyde akademik yayın performansı ve düzenli peyzaj.
+* 💬 **Öğrenci Tavsiyesi:** *"Bilkent'te akademik tempo yoğundur ancak kütüphane ve laboratuvar imkanları kusursuzdur. Çim amfide düzenlenen açık hava konserlerini ve bahar şenliklerini kaçırma!"*
+* 📖 [**Tam Bilkent Üniversitesi Kampüs Rehberini Oku ➔**](./06-Ankara/Cankaya/Bilkent-Universitesi-Merkez-Kampusu.md)
+
+---
+
+### 6. 🌲 Koç Üniversitesi - Rumelifeneri Ana Kampüsü (İstanbul / Sarıyer)
+
+<p align="center">
+  <img src="./assets/top10/06-koc.jpg" alt="Koç Üniversitesi Rumelifeneri Kampüsü" width="100%" style="border-radius: 14px;" />
+</p>
+
+* **Şehir / İlçe:** İstanbul / Sarıyer
+* **Tür:** Vakıf Üniversitesi
+* **Öğrenci Dostu Puanı:** ⭐️⭐️⭐️⭐️⭐️ (4.9 / 5.0)
+* **Ulaşım:** M2 Hacıosman Metrosu'ndan kalkan 154 İETT ve üniversite ring servisleri ile Kuzey Ormanları içinden ulaşılır.
+* **Barınma & Yaşam:** Öğrencilerin %70'inden fazlası kampüs içindeki modern yurtlarda konaklar; kampüs içinde buz pateni pisti, olimpik kapalı havuz ve market yer alır.
+* **Karakteristik Ruh:** Karadeniz ve Sarıyer ormanlarının kesiştiği noktada neoklasik Selçuklu/Osmanlı taş mimarisi, Suna Kıraç Kütüphanesi kule saati ve dünya çapında bilimsel yayın üretimi.
+* 💬 **Öğrenci Tavsiyesi:** *"Şehir karmaşasından uzakta tamamen izole bir Amerikan kampüsü havası arıyorsan burası tam sana göre. 7/24 açık kütüphanesi ve hoca-öğrenci etkileşimi benzersizdir!"*
+* 📖 [**Tam Koç Üniversitesi Kampüs Rehberini Oku ➔**](./34-Istanbul/Sariyer/Koc-Universitesi-Rumelifeneri-Kampusu.md)
+
+---
+
+### 7. 🌴 Ege Üniversitesi - Bornova Merkez Kampüsü (İzmir / Bornova)
+
+<p align="center">
+  <img src="./assets/top10/07-ege.jpg" alt="Ege Üniversitesi Bornova Kampüsü" width="100%" style="border-radius: 14px;" />
+</p>
+
+* **Şehir / İlçe:** İzmir / Bornova
+* **Tür:** Devlet Araştırma Üniversitesi
+* **Öğrenci Dostu Puanı:** ⭐️⭐️⭐️⭐️⭐️ (5.0 / 5.0)
+* **Ulaşım:** Türkiye'de içinden doğrudan metro geçen nadir yerleşkelerdendir. **Ege Üniversitesi Metro İstasyonu** kütüphane ve yemekhanenin tam kalbine açılır.
+* **Barınma & Yaşam:** Kampüs içinde Ege KYK Yurdu ve Öğrenci Köyü bulunur; Küçükpark Kafeler Sokağı ve Büyükpark kampüsün hemen karşısındadır.
+* **Karakteristik Ruh:** Palmiyeler ve botanik bahçeleriyle bezeli ılıman Ege iklimi, Tıp ve Ziraat fakültelerinin devasa birikimi ve 24 saat yaşayan canlı öğrenci kültürü.
+* 💬 **Öğrenci Tavsiyesi:** *"Küçükpark'ta kahveni içip tek adımla kampüse girmek, metroyla 15 dakikada Alsancak Kordon'a inmek paha biçilemez bir lükstür. Ege'de okumak bir yaşam tarzıdır!"*
+* 📖 [**Tam Ege Üniversitesi Kampüs Rehberini Oku ➔**](./35-Izmir/Bornova/Ege-Universitesi-Bornova-Kampusu.md)
+
+---
+
+### 8. 🏰 Yıldız Teknik Üniversitesi (YTÜ) - Davutpaşa Kampüsü (İstanbul / Esenler)
+
+<p align="center">
+  <img src="./assets/top10/08-ytu.jpg" alt="Yıldız Teknik Üniversitesi Davutpaşa Kampüsü" width="100%" style="border-radius: 14px;" />
+</p>
+
+* **Şehir / İlçe:** İstanbul / Esenler & Güngören Sınırı
+* **Tür:** Devlet Teknik Araştırma Üniversitesi
+* **Öğrenci Dostu Puanı:** ⭐️⭐️⭐️⭐️⭐️ (4.6 / 5.0)
+* **Ulaşım:** M1A Yenikapı-Atatürk Havalimanı Metrosu (**YTÜ-Davutpaşa İstasyonu**) kampüs kapısındadır; metrobüs Cevizlibağ durağından ringlerle 5 dakikada varılır.
+* **Barınma & Yaşam:** Kampüs arazisi içinde FSM KYK Kız ve Erkek Yurtları yer alır; Cevizlibağ öğrenci aksına çok yakındır.
+* **Karakteristik Ruh:** Osmanlı ordugahı olan tarihi kışla taş binaları, Otağ-ı Hümayun padişah köşkü, 1.3 milyon metrekarelik devasa yeşil vaha ve YTÜ Yıldız Teknopark.
+* 💬 **Öğrenci Tavsiyesi:** *"İstanbul'da hem köklü bir teknik üniversitede okuyup hem de barınma derdi çekmek istemiyorsan Davutpaşa biçilmiş kaftandır. Tarihi Taş Bina avlusunda çay içmeden mezun olma!"*
+* 📖 [**Tam YTÜ Davutpaşa Kampüs Rehberini Oku ➔**](./34-Istanbul/Esenler/Yildiz-Teknik-Universitesi-Davutpasa-ve-Yildiz-Kampusleri.md)
+
+---
+
+### 9. 🏔️ Bursa Uludağ Üniversitesi (BUÜ) - Görükle Merkez Kampüsü (Bursa / Nilüfer)
+
+<p align="center">
+  <img src="./assets/top10/09-uludag.jpg" alt="Bursa Uludağ Üniversitesi Görükle Kampüsü" width="100%" style="border-radius: 14px;" />
+</p>
+
+* **Şehir / İlçe:** Bursa / Nilüfer (Görükle)
+* **Tür:** Devlet Araştırma Üniversitesi
+* **Öğrenci Dostu Puanı:** ⭐️⭐️⭐️⭐️⭐️ (4.6 / 5.0)
+* **Ulaşım:** Bursaray hafif raylı sisteminin son durağı (**Üniversite İstasyonu**) kampüs nizamiyesindedir.
+* **Barınma & Yaşam:** Kampüsün hemen bitişiğindeki **Görükle Yerleşimi**, Türkiye'nin en büyük bağımsız öğrenci kasabasıdır; on binlerce öğrenci apartı ve kafe yürüme mesafesindedir.
+* **Karakteristik Ruh:** Uludağ manzaralı çam ormanları, devasa Tıp Fakültesi Hastanesi, gölet çevresi ve kampüsten çıkınca tamamen gençlerin yönettiği Görükle sosyal hayatı.
+* 💬 **Öğrenci Tavsiyesi:** *"Görükle'de yaşamak bambaşka bir histir; gece 02:00'de bile sokaklarda öğrenciler ders notu fotokopisi çektirip çorba içer. Hafta sonu da Bursaray'a atlayıp Mudanya sahiline inebilirsin!"*
+* 📖 [**Tam Bursa Uludağ Üniversitesi Görükle Rehberini Oku ➔**](./16-Bursa/Nilufer/Bursa-Uludag-Universitesi-Gorukle-Merkez-Kampusu.md)
+
+---
+
+### 10. 🌊 Karadeniz Teknik Üniversitesi (KTÜ) - Kanuni Merkez Kampüsü (Trabzon / Ortahisar)
+
+<p align="center">
+  <img src="./assets/top10/10-ktu.jpg" alt="KTÜ Kanuni Kampüsü Trabzon" width="100%" style="border-radius: 14px;" />
+</p>
+
+* **Şehir / İlçe:** Trabzon / Ortahisar
+* **Tür:** Devlet Araştırma Üniversitesi
+* **Öğrenci Dostu Puanı:** ⭐️⭐️⭐️⭐️⭐️ (4.6 / 5.0)
+* **Ulaşım:** Trabzon Havalimanı'na ve Forum AVM'ye yürüme mesafesindedir; Meydan'dan kalkan belediye otobüsleri ve dolmuşlar kampüs içine kadar çıkar.
+* **Barınma & Yaşam:** Kampüs içinde ve Kalkınma Mahallesi'nde çok sayıda KYK yurdu bulunur; Kalkınma Caddesi öğrencilerin tüm sosyal ihtiyaçlarını karşılar.
+* **Karakteristik Ruh:** Karadeniz manzaralı sahil terasları, botanik bahçesi gibi yeşil peyzaj, 1955'ten bu yana süregelen Doğu Karadeniz'in ilk teknik üniversitesi gururu ve Aslanlı Yol.
+* 💬 **Öğrenci Tavsiyesi:** *"KTÜ'de okumak deniz havasını ciğerlerine çekerek mühendislik öğrenmektir. Kampüsün A kapısından çıkıp Forum'a, C kapısından çıkıp Kalkınma'ya yürümek buranın en büyük kolaylığıdır!"*
+* 📖 [**Tam KTÜ Kanuni Kampüs Rehberini Oku ➔**](./61-Trabzon/Ortahisar/KTU-Merkez.md)
 
 ---
 
