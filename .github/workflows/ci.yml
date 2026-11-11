@@ -1,0 +1,29 @@
+name: 🚀 CI - Doğrulama ve JSON Üretimi
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📥 Repoyu Klonla
+      uses: actions/checkout@v4
+
+    - name: 🐍 Python Kurulumu
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: 🔍 Bağlantı ve Bütünlük Doğrulaması
+      run: |
+        python scripts/cli.py validate
+
+    - name: 📊 JSON Veritabanı Üretimi ve Testi
+      run: |
+        python scripts/export_json.py
+        python scripts/cli.py stats

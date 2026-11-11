@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](./LICENSE)
 [![81 İl Kapsamı](https://img.shields.io/badge/Kapsam-81%20%C4%B0l%20%2F%20208%2B%20%C3%9Cniversite-8a2be2?style=flat-square)](#-81-il-hızlı-erişim-ve-üniversite-rehberi-indeksi)
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Participating-orange.svg?style=flat-square)](#)
-[![Katkıda Bulunanlar](https://img.shields.io/github/contributors/arch-yunus/turkiye-kampus-rehberi.svg?style=flat-square)](https://github.com/arch-yunus/turkiye-kampus-rehberi/graphs/contributors)
+[![Katkıda Bulunanlar](https://img.shields.io/github/contributors/bahattinyunus/turkiye-kampus-rehberi.svg?style=flat-square)](https://github.com/bahattinyunus/turkiye-kampus-rehberi/graphs/contributors)
 
 Türkiye'deki üniversitelerin, fakültelerin, merkez yerleşkelerin ve ilçe meslek yüksekokullarının (MYO) **gerçek yüzünü** yansıtan; öğrenciden öğrenciye, kitle kaynaklı (crowdsourced) ve filtresiz tercih rehberi.
 
@@ -163,6 +163,40 @@ Aşağıdaki tablodan incelemek istediğiniz ilin klasörüne doğrudan gidebili
 
 ---
 
+---
+
+## 💻 Komut Satırı Aracı (CLI), JSON API ve Web Arayüzü
+
+Rehbere yalnızca Markdown dosyaları üzerinden değil; terminalden, web arayüzünden veya kod içerisinden de erişebilirsiniz:
+
+### 1. Terminal CLI (`scripts/cli.py`)
+```bash
+# Genel depo istatistiklerini görüntüle
+python scripts/cli.py stats
+
+# Kampüs, üniversite veya anahtar kelime ara (örn: metro, tıp, kyk)
+python scripts/cli.py search "ODTÜ"
+python scripts/cli.py search "metro"
+
+# Şehir bazlı yerleşkeleri listele (plaka veya şehir adı ile)
+python scripts/cli.py city 06
+python scripts/cli.py city Izmir
+
+# Depodaki tüm bağlantıların ve Markdown dosyalarının bütünlüğünü test et
+python scripts/cli.py validate
+```
+
+### 2. Yapılandırılmış JSON API (`data/kampusler.json`)
+Ed-Tech girişimleri, tercih robotları ve mobil uygulamalar için tüm Markdown rehberleri ayrıştırılarak yapılandırılmış JSON veritabanına dönüştürülmüştür:
+* **Kampüs Veritabanı:** [`data/kampusler.json`](./data/kampusler.json) (250+ kampüsün metrikleri, puanları ve artıları/eksileri)
+* **İstatistikler:** [`data/istatistikler.json`](./data/istatistikler.json)
+* **Otomatik Üretim:** `python scripts/export_json.py`
+
+### 3. Web Arayüzü (Açık Kaynak Kampüs Arama Motoru)
+Depoda yer alan [`web/index.html`](./web/index.html) sayfasını doğrudan tarayıcınızda açarak tüm iller ve kampüsler arasında anlık filtreleme ve arama yapabilirsiniz (GitHub Pages uyumludur).
+
+---
+
 ## 🔍 İçerik Kapsamı: Bir Kampüs Dosyasında Neler Var?
 
 Repoya eklenen her `.md` dosyası belirli bir standardı takip eder ([`TEMPLATE.md`](./TEMPLATE.md)). Bir üniversite/kampüs incelenirken şu metrikler baz alınır:
@@ -183,7 +217,7 @@ Bu repo tamamen açık kaynaktır ve senin deneyimlerine ihtiyacı var! Kendi ü
 
 ```bash
 # 1. Repoyu kendi bilgisayarına klonla
-git clone https://github.com/arch-yunus/turkiye-kampus-rehberi.git
+git clone https://github.com/bahattinyunus/turkiye-kampus-rehberi.git
 cd turkiye-kampus-rehberi
 
 # 2. Yeni bir branch (dal) oluştur
@@ -228,14 +262,14 @@ Bu reponun kalbi **objektifliktir**. Detaylar için [`CODE_OF_CONDUCT.md`](./COD
 - [x] Temel depo mimarisinin ve klasör yapısının (81 İl) oluşturulması.
 - [x] Standart Markdown şablonlarının ([`TEMPLATE.md`](./TEMPLATE.md), [`CONTRIBUTING.md`](./CONTRIBUTING.md), [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md), `.github/ISSUE_TEMPLATE`) yazılması.
 - [x] 81 ilin tamamı için şehir öğrenci rehberlerinin (`README.md`) ve merkez/ilçe kampüs analizlerinin oluşturulması.
-- [ ] **Web Entegrasyonu (Faz 2):** Bu repodaki Markdown verilerini okuyan, filtreleme destekli modern bir statik web sitesinin (Next.js / Astro / Docusaurus) yayına alınması.
-- [ ] **API Geliştirme (Faz 3):** Ed-Tech girişimleri ve tercih botları için `kampus-rehberi-api` hizmetinin açık kaynak sunulması.
+- [x] **Web Entegrasyonu (Faz 2):** Markdown ve JSON verilerini okuyan, filtreleme ve arama destekli açık kaynak web arayüzü ([`web/index.html`](./web/index.html)).
+- [x] **API Geliştirme (Faz 3):** Tercih botları ve Ed-Tech girişimleri için yapılandırılmış JSON veritabanı ([`data/kampusler.json`](./data/kampusler.json)) ve terminal CLI aracı ([`scripts/cli.py`](./scripts/cli.py)).
 - [ ] **LLM Desteği (Faz 4):** Adayların doğal dilde *"Ankara'da KYK yurduna yürüme mesafesinde olan, kütüphanesi 7/24 açık bölümler"* şeklinde arama yapabileceği bir RAG (Retrieval-Augmented Generation) sisteminin kurulması.
 
 ---
 
 ## 📞 İletişim
 
-Fikirlerin, hata bildirimlerin veya özel projelerin için repoda [Issue açabilir](https://github.com/arch-yunus/turkiye-kampus-rehberi/issues) veya topluluk tartışmalarına ([Discussions](https://github.com/arch-yunus/turkiye-kampus-rehberi/discussions)) katılabilirsin.
+Fikirlerin, hata bildirimlerin veya özel projelerin için repoda [Issue açabilir](https://github.com/bahattinyunus/turkiye-kampus-rehberi/issues) veya topluluk tartışmalarına ([Discussions](https://github.com/bahattinyunus/turkiye-kampus-rehberi/discussions)) katılabilirsin.
 
 > *Resmi kataloglar binaları gösterir, açık kaynak kültürü ise o binaların içindeki gerçeği.*

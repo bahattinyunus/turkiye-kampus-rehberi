@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Türkiye Kampüs Rehberi - Öğrenciden Öğrenciye Açık Kaynak Rehber</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+    body { font-family: 'Inter', sans-serif; }
+  </style>
+</head>
+<body class="bg-slate-900 text-slate-100 min-h-screen flex flex-col">
+
+  <!-- Header -->
+  <header class="border-b border-slate-800 bg-slate-900/90 backdrop-blur sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+      <div class="flex items-center space-x-3">
+        <span class="text-3xl">🎓</span>
+        <div>
+          <h1 class="text-lg font-bold bg-gradient-to-r from-blue-400 via-indigo-300 to-purple-400 bg-clip-text text-transparent">Türkiye Kampüs Rehberi</h1>
+          <p class="text-xs text-slate-400">81 İl, 250+ Kampüs, 100% Açık Kaynak</p>
+        </div>
+      </div>
+      <div class="flex items-center space-x-4">
+        <a href="https://github.com/bahattinyunus/turkiye-kampus-rehberi" target="_blank" class="flex items-center space-x-2 bg-slate-800 hover:bg-slate-700 text-slate-200 px-3.5 py-1.5 rounded-lg border border-slate-700 text-sm font-medium transition">
+          <i class="fa-brands fa-github text-base"></i>
+          <span>GitHub'da İncele</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="max-w-5xl mx-auto px-4 pt-12 pb-8 text-center">
+    <span class="inline-block py-1 px-3 rounded-full text-xs font-semibold bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 mb-4">
+      🚀 Filtresiz ve Gerçekçi Tercih Rehberi
+    </span>
+    <h2 class="text-3xl sm:text-5xl font-extrabold tracking-tight mb-4">
+      Hayalindeki Kampüsün <br class="hidden sm:inline">
+      <span class="text-indigo-400">Gerçek Yüzünü</span> Keşfet
+    </h2>
+    <p class="text-base sm:text-lg text-slate-400 max-w-2xl mx-auto">
+      Ulaşım hatları, KYK yurt mesafeleri, yemekhane kalitesi, kira ortalamaları ve öğrencilerin samimi notları bir arada.
+    </p>
+
+    <!-- Search & Filters -->
+    <div class="mt-8 bg-slate-800/80 border border-slate-700 p-4 rounded-2xl shadow-xl flex flex-col md:flex-row gap-3">
+      <div class="relative flex-1">
+        <i class="fa-solid fa-magnifying-glass absolute left-4 top-3.5 text-slate-400"></i>
+        <input id="searchInput" type="text" placeholder="Üniversite, kampüs, metro, yurt veya şehir ara..." class="w-full bg-slate-900 border border-slate-700 rounded-xl pl-11 pr-4 py-2.5 text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:border-indigo-500 transition">
+      </div>
+      <div class="flex gap-2">
+        <select id="cityFilter" class="bg-slate-900 border border-slate-700 rounded-xl px-4 py-2.5 text-sm text-slate-300 focus:outline-none focus:border-indigo-500 transition">
+          <option value="">Tüm İller (81 İl)</option>
+        </select>
+        <select id="typeFilter" class="bg-slate-900 border border-slate-700 rounded-xl px-4 py-2.5 text-sm text-slate-300 focus:outline-none focus:border-indigo-500 transition">
+          <option value="">Tüm Türler</option>
+          <option value="Devlet">Devlet</option>
+          <option value="Vakıf">Vakıf</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Quick Stats -->
+    <div id="statsBanner" class="mt-4 flex items-center justify-center space-x-6 text-xs text-slate-400">
+      <span><i class="fa-solid fa-map-pin text-indigo-400 mr-1"></i> <strong id="statCities" class="text-slate-200">81</strong> İl</span>
+      <span><i class="fa-solid fa-building-columns text-indigo-400 mr-1"></i> <strong id="statCampuses" class="text-slate-200">250</strong> Yerleşke</span>
+      <span><i class="fa-solid fa-users text-indigo-400 mr-1"></i> %100 Kitle Kaynaklı</span>
+    </div>
+  </section>
+
+  <!-- Results Grid -->
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex-1 w-full">
+    <div class="flex items-center justify-between mb-4">
+      <h3 class="text-sm font-semibold uppercase tracking-wider text-slate-400">
+        Bulunan Yerleşkeler (<span id="resultCount">0</span>)
+      </h3>
+    </div>
+
+    <div id="grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+      <!-- Cards will be populated by JS -->
+    </div>
+
+    <div id="noResults" class="hidden text-center py-16">
+      <i class="fa-regular fa-face-frown text-4xl text-slate-500 mb-3"></i>
+      <p class="text-slate-400">Aramanıza uygun bir kampüs bulunamadı.</p>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-slate-800 py-6 text-center text-xs text-slate-500">
+    <p>Türkiye Kampüs Rehberi © 2026. MIT Lisansı ile açık kaynak olarak geliştirilmiştir.</p>
+    <p class="mt-1">Katkıda bulunmak için <a href="https://github.com/bahattinyunus/turkiye-kampus-rehberi" class="text-indigo-400 hover:underline">GitHub deposunu</a> ziyaret edin.</p>
+  </footer>
+
+  <script>
+    const GITHUB_REPO_URL = "https://github.com/bahattinyunus/turkiye-kampus-rehberi/blob/main/";
+    let allCampuses = [];
+
+    async function init() {
+      try {
+        const response = await fetch('../data/kampusler.json');
+        allCampuses = await response.json();
+      } catch (e) {
+        console.error("Veri yüklenemedi:", e);
+      }
+      populateCityFilter();
+      render();
+    }
+
+    function populateCityFilter() {
+      const citySelect = document.getElementById('cityFilter');
+      const cities = Array.from(new Set(allCampuses.map(c => c.il))).sort();
+      cities.forEach(city => {
+        const opt = document.createElement('option');
+        opt.value = city;
+        opt.textContent = city;
+        citySelect.appendChild(opt);
+      });
+    }
+
+    function render() {
+      const search = document.getElementById('searchInput').value.toLowerCase().trim();
+      const selectedCity = document.getElementById('cityFilter').value;
+      const selectedType = document.getElementById('typeFilter').value;
+
+      const filtered = allCampuses.filter(c => {
+        const matchesSearch = !search || 
+          c.baslik.toLowerCase().includes(search) ||
+          c.il.toLowerCase().includes(search) ||
+          c.ilce.toLowerCase().includes(search) ||
+          (c.ogrenci_notu && c.ogrenci_notu.toLowerCase().includes(search)) ||
+          c.artilar.some(a => a.toLowerCase().includes(search));
+
+        const matchesCity = !selectedCity || c.il === selectedCity;
+        const matchesType = !selectedType || (c.universite_turu && c.universite_turu.includes(selectedType));
+
+        return matchesSearch && matchesCity && matchesType;
+      });
+
+      document.getElementById('resultCount').textContent = filtered.length;
+      const grid = document.getElementById('grid');
+      const noResults = document.getElementById('noResults');
+
+      if (filtered.length === 0) {
+        grid.innerHTML = '';
+        noResults.classList.remove('hidden');
+        return;
+      }
+      noResults.classList.add('hidden');
+
+      grid.innerHTML = filtered.map(c => {
+        const fileUrl = GITHUB_REPO_URL + c.dosya_yolu;
+        const artilarHtml = c.artilar.slice(0, 2).map(a => 
+          `<span class="inline-block bg-emerald-500/10 text-emerald-400 text-[11px] px-2 py-0.5 rounded border border-emerald-500/20 mr-1 mb-1 truncate max-w-full">✓ ${a}</span>`
+        ).join('');
+
+        return `
+          <div class="bg-slate-800/70 border border-slate-700/80 hover:border-indigo-500/50 rounded-xl p-5 flex flex-col justify-between transition hover:-translate-y-0.5 shadow-lg">
+            <div>
+              <div class="flex items-start justify-between gap-2 mb-2">
+                <span class="inline-block text-[11px] font-semibold uppercase px-2 py-0.5 rounded bg-indigo-500/20 text-indigo-300">
+                  ${c.plaka} - ${c.il} / ${c.ilce}
+                </span>
+                <span class="text-xs text-amber-400 font-medium whitespace-nowrap">
+                  ${c.ogrenci_dostu_puani || '4.0/5'}
+                </span>
+              </div>
+              <h4 class="font-bold text-slate-100 text-base leading-snug mb-2 hover:text-indigo-300 transition">
+                <a href="${fileUrl}" target="_blank">${c.baslik}</a>
+              </h4>
+              ${c.ogrenci_notu ? `
+                <p class="text-xs text-slate-400 italic mb-3 line-clamp-3 bg-slate-900/60 p-2.5 rounded-lg border border-slate-800">
+                  "${c.ogrenci_notu}"
+                </p>
+              ` : ''}
+              <div class="mb-3">
+                ${artilarHtml}
+              </div>
+            </div>
+            <div class="pt-3 border-t border-slate-700/50 flex items-center justify-between text-xs">
+              <span class="text-slate-400">${c.universite_turu || 'Devlet'}</span>
+              <a href="${fileUrl}" target="_blank" class="text-indigo-400 hover:text-indigo-300 font-semibold flex items-center space-x-1">
+                <span>Tam Rehberi Oku</span>
+                <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+              </a>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    document.getElementById('searchInput').addEventListener('input', render);
+    document.getElementById('cityFilter').addEventListener('change', render);
+    document.getElementById('typeFilter').addEventListener('change', render);
+
+    init();
+  </script>
+</body>
+</html>
