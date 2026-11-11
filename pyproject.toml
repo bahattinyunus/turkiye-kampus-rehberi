@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kampus-rehberi"
+version = "1.0.0"
+authors = [
+  { name="Bahattin Yunus Çetin", email="bahattinyunuscetin@hotmail.com" },
+]
+description = "Türkiye'deki 81 il ve 250+ üniversite kampüsünün filtresiz, kitle kaynaklı veri tabanı ve Python SDK'sı."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Education",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+keywords = ["turkiye", "universite", "kampus", "yks", "tercih", "rehber", "ed-tech"]
+
+[project.urls]
+"Homepage" = "https://github.com/bahattinyunus/turkiye-kampus-rehberi"
+"Bug Tracker" = "https://github.com/bahattinyunus/turkiye-kampus-rehberi/issues"
+
+[project.scripts]
+kampus-rehberi = "kampus_rehberi.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["kampus_rehberi*"]

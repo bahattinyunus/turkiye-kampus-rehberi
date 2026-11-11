@@ -148,5 +148,14 @@ def main():
         json.dump(stats, f, ensure_ascii=False, indent=2)
     print(f"✓ İstatistikler {out_stats} dosyasına kaydedildi.")
 
+    # Mirror to web/data/ for GitHub Pages / web viewer
+    web_data_dir = os.path.join(root_dir, 'web', 'data')
+    os.makedirs(web_data_dir, exist_ok=True)
+    with open(os.path.join(web_data_dir, 'kampusler.json'), 'w', encoding='utf-8') as f:
+        json.dump(campuses, f, ensure_ascii=False, indent=2)
+    with open(os.path.join(web_data_dir, 'istatistikler.json'), 'w', encoding='utf-8') as f:
+        json.dump(stats, f, ensure_ascii=False, indent=2)
+    print(f"✓ web/data/ kopyası başarıyla güncellendi.")
+
 if __name__ == '__main__':
     main()

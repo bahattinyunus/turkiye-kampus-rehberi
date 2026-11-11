@@ -27,3 +27,7 @@ jobs:
       run: |
         python scripts/export_json.py
         python scripts/cli.py stats
+
+    - name: 🧪 Birim Testleri Çalıştır (Unit Tests)
+      run: |
+        python -m unittest discover tests

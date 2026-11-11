@@ -169,7 +169,37 @@ Aşağıdaki tablodan incelemek istediğiniz ilin klasörüne doğrudan gidebili
 
 Rehbere yalnızca Markdown dosyaları üzerinden değil; terminalden, web arayüzünden veya kod içerisinden de erişebilirsiniz:
 
-### 1. Terminal CLI (`scripts/cli.py`)
+### 1. Python SDK & Kütüphanesi (`kampus-rehberi`)
+Projeyi doğrudan Python uygulamalarınıza, tercih botlarınıza ve veri bilimi projelerinize dahil edebilirsiniz:
+```bash
+pip install .
+```
+```python
+from kampus_rehberi import KampusRehberi, TercihDanismani
+
+rehber = KampusRehberi()
+
+# Kampüs arama ve filtreleme
+odtu = rehber.get_by_id("06-Ankara/Cankaya/ODTU-Merkez-Kampusu")
+print(odtu.title, odtu.rating)
+
+# 81 ilin özeti
+sehirler = rehber.get_cities()
+
+# İki kampüsü kıyaslama
+karsilastirma = rehber.compare(
+    "06-Ankara/Cankaya/ODTU-Merkez-Kampusu",
+    "34-Istanbul/Sariyer/ITU-Ayazaga-ve-Macka-Taskisla-Kampusleri"
+)
+
+# Akıllı Tercih Danışmanı ile doğal dilde tavsiye alma
+danisman = TercihDanismani(rehber)
+oneriler = danisman.danis("Deniz kıyısında olan, KYK kampüs içinde ve kütüphanesi 7/24 açık üniversiteler")
+for o in oneriler:
+    print(o['kampus'], o['puan'], o['one_cikan_artilar'])
+```
+
+### 2. Terminal CLI (`scripts/cli.py` & `kampus-rehberi`)
 ```bash
 # Genel depo istatistiklerini görüntüle
 python scripts/cli.py stats
@@ -182,17 +212,26 @@ python scripts/cli.py search "metro"
 python scripts/cli.py city 06
 python scripts/cli.py city Izmir
 
+# Akıllı Tercih Danışmanına doğal dilde soru sor
+python scripts/cli.py ask "Deniz kenarında olan mühendislik kampüsleri"
+
+# İki kampüsü terminalden yan yana kıyasla
+python scripts/cli.py compare "06-Ankara/Cankaya/ODTU-Merkez-Kampusu" "34-Istanbul/Sariyer/ITU-Ayazaga-ve-Macka-Taskisla-Kampusleri"
+
+# Web arayüzünü ve yerel REST API'yi başlat
+python scripts/cli.py serve --port 8000
+
 # Depodaki tüm bağlantıların ve Markdown dosyalarının bütünlüğünü test et
 python scripts/cli.py validate
 ```
 
-### 2. Yapılandırılmış JSON API (`data/kampusler.json`)
+### 3. Yapılandırılmış JSON API (`data/kampusler.json`)
 Ed-Tech girişimleri, tercih robotları ve mobil uygulamalar için tüm Markdown rehberleri ayrıştırılarak yapılandırılmış JSON veritabanına dönüştürülmüştür:
 * **Kampüs Veritabanı:** [`data/kampusler.json`](./data/kampusler.json) (250+ kampüsün metrikleri, puanları ve artıları/eksileri)
 * **İstatistikler:** [`data/istatistikler.json`](./data/istatistikler.json)
 * **Otomatik Üretim:** `python scripts/export_json.py`
 
-### 3. Web Arayüzü (Açık Kaynak Kampüs Arama Motoru)
+### 4. Web Arayüzü (Açık Kaynak Kampüs Arama Motoru)
 Depoda yer alan [`web/index.html`](./web/index.html) sayfasını doğrudan tarayıcınızda açarak tüm iller ve kampüsler arasında anlık filtreleme ve arama yapabilirsiniz (GitHub Pages uyumludur).
 
 ---
@@ -264,7 +303,7 @@ Bu reponun kalbi **objektifliktir**. Detaylar için [`CODE_OF_CONDUCT.md`](./COD
 - [x] 81 ilin tamamı için şehir öğrenci rehberlerinin (`README.md`) ve merkez/ilçe kampüs analizlerinin oluşturulması.
 - [x] **Web Entegrasyonu (Faz 2):** Markdown ve JSON verilerini okuyan, filtreleme ve arama destekli açık kaynak web arayüzü ([`web/index.html`](./web/index.html)).
 - [x] **API Geliştirme (Faz 3):** Tercih botları ve Ed-Tech girişimleri için yapılandırılmış JSON veritabanı ([`data/kampusler.json`](./data/kampusler.json)) ve terminal CLI aracı ([`scripts/cli.py`](./scripts/cli.py)).
-- [ ] **LLM Desteği (Faz 4):** Adayların doğal dilde *"Ankara'da KYK yurduna yürüme mesafesinde olan, kütüphanesi 7/24 açık bölümler"* şeklinde arama yapabileceği bir RAG (Retrieval-Augmented Generation) sisteminin kurulması.
+- [x] **LLM ve Tercih Danışmanı (Faz 4):** Doğal dilde soru sorulabilen akıllı `TercihDanismani` motoru (`kampus-rehberi ask "..."`).
 
 ---
 

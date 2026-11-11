@@ -3,59 +3,61 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Türkiye Kampüs Rehberi - Öğrenciden Öğrenciye Açık Kaynak Rehber</title>
+  <title>Türkiye Kampüs Rehberi - Öğrenciden Öğrenciye Açık Kaynak Tercih Rehberi</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
-    body { font-family: 'Inter', sans-serif; }
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
+    body { font-family: 'Plus Jakarta Sans', sans-serif; }
+    .line-clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .line-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
   </style>
 </head>
-<body class="bg-slate-900 text-slate-100 min-h-screen flex flex-col">
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col antialiased selection:bg-indigo-500 selection:text-white">
 
   <!-- Header -->
-  <header class="border-b border-slate-800 bg-slate-900/90 backdrop-blur sticky top-0 z-50">
+  <header class="border-b border-slate-800/80 bg-slate-950/80 backdrop-blur-md sticky top-0 z-40">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-      <div class="flex items-center space-x-3">
+      <div class="flex items-center space-x-3 cursor-pointer" onclick="resetFilters()">
         <span class="text-3xl">🎓</span>
         <div>
           <h1 class="text-lg font-bold bg-gradient-to-r from-blue-400 via-indigo-300 to-purple-400 bg-clip-text text-transparent">Türkiye Kampüs Rehberi</h1>
-          <p class="text-xs text-slate-400">81 İl, 250+ Kampüs, 100% Açık Kaynak</p>
+          <p class="text-[11px] text-slate-400 font-medium">81 İl • 250+ Kampüs • 100% Filtresiz ve Açık Kaynak</p>
         </div>
       </div>
-      <div class="flex items-center space-x-4">
-        <a href="https://github.com/bahattinyunus/turkiye-kampus-rehberi" target="_blank" class="flex items-center space-x-2 bg-slate-800 hover:bg-slate-700 text-slate-200 px-3.5 py-1.5 rounded-lg border border-slate-700 text-sm font-medium transition">
-          <i class="fa-brands fa-github text-base"></i>
-          <span>GitHub'da İncele</span>
+      <div class="flex items-center space-x-3">
+        <a href="https://github.com/bahattinyunus/turkiye-kampus-rehberi" target="_blank" class="flex items-center space-x-2 bg-slate-900 hover:bg-slate-800 text-slate-200 px-3.5 py-1.5 rounded-lg border border-slate-700/80 text-xs font-semibold transition shadow-sm">
+          <i class="fa-brands fa-github text-sm"></i>
+          <span>GitHub</span>
         </a>
       </div>
     </div>
   </header>
 
   <!-- Hero Section -->
-  <section class="max-w-5xl mx-auto px-4 pt-12 pb-8 text-center">
-    <span class="inline-block py-1 px-3 rounded-full text-xs font-semibold bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 mb-4">
-      🚀 Filtresiz ve Gerçekçi Tercih Rehberi
+  <section class="max-w-6xl mx-auto px-4 pt-10 pb-6 text-center">
+    <span class="inline-flex items-center gap-1.5 py-1 px-3.5 rounded-full text-xs font-semibold bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 mb-3 shadow-inner">
+      <i class="fa-solid fa-graduation-cap text-indigo-400"></i> Üniversite ve Kampüslerin Gerçek Yüzü
     </span>
-    <h2 class="text-3xl sm:text-5xl font-extrabold tracking-tight mb-4">
-      Hayalindeki Kampüsün <br class="hidden sm:inline">
-      <span class="text-indigo-400">Gerçek Yüzünü</span> Keşfet
+    <h2 class="text-3xl sm:text-5xl font-black tracking-tight mb-3">
+      Tercih Yapmadan Önce <br class="hidden sm:inline">
+      <span class="bg-gradient-to-r from-indigo-400 via-sky-300 to-emerald-400 bg-clip-text text-transparent">Öğrencilerin Deneyimini</span> İncele
     </h2>
-    <p class="text-base sm:text-lg text-slate-400 max-w-2xl mx-auto">
-      Ulaşım hatları, KYK yurt mesafeleri, yemekhane kalitesi, kira ortalamaları ve öğrencilerin samimi notları bir arada.
+    <p class="text-sm sm:text-base text-slate-400 max-w-2xl mx-auto">
+      Ulaşım ağları, ring seferleri, KYK yurt mesafeleri, yemekhane kalitesi, kira ortalamaları ve öğrencilerin samimi altın tavsiyeleri bir arada.
     </p>
 
     <!-- Search & Filters -->
-    <div class="mt-8 bg-slate-800/80 border border-slate-700 p-4 rounded-2xl shadow-xl flex flex-col md:flex-row gap-3">
+    <div class="mt-8 bg-slate-900/90 border border-slate-800 p-4 rounded-2xl shadow-2xl flex flex-col md:flex-row gap-3">
       <div class="relative flex-1">
-        <i class="fa-solid fa-magnifying-glass absolute left-4 top-3.5 text-slate-400"></i>
-        <input id="searchInput" type="text" placeholder="Üniversite, kampüs, metro, yurt veya şehir ara..." class="w-full bg-slate-900 border border-slate-700 rounded-xl pl-11 pr-4 py-2.5 text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:border-indigo-500 transition">
+        <i class="fa-solid fa-magnifying-glass absolute left-4 top-3.5 text-slate-400 text-sm"></i>
+        <input id="searchInput" type="text" placeholder="Üniversite, kampüs adı, ilçe veya anahtar kelime (metro, sahil, kyk)..." class="w-full bg-slate-950 border border-slate-800 rounded-xl pl-11 pr-4 py-2.5 text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 transition">
       </div>
       <div class="flex gap-2">
-        <select id="cityFilter" class="bg-slate-900 border border-slate-700 rounded-xl px-4 py-2.5 text-sm text-slate-300 focus:outline-none focus:border-indigo-500 transition">
+        <select id="cityFilter" class="bg-slate-950 border border-slate-800 rounded-xl px-3 py-2.5 text-xs sm:text-sm text-slate-300 focus:outline-none focus:border-indigo-500 transition">
           <option value="">Tüm İller (81 İl)</option>
         </select>
-        <select id="typeFilter" class="bg-slate-900 border border-slate-700 rounded-xl px-4 py-2.5 text-sm text-slate-300 focus:outline-none focus:border-indigo-500 transition">
+        <select id="typeFilter" class="bg-slate-950 border border-slate-800 rounded-xl px-3 py-2.5 text-xs sm:text-sm text-slate-300 focus:outline-none focus:border-indigo-500 transition">
           <option value="">Tüm Türler</option>
           <option value="Devlet">Devlet</option>
           <option value="Vakıf">Vakıf</option>
@@ -63,48 +65,149 @@
       </div>
     </div>
 
-    <!-- Quick Stats -->
-    <div id="statsBanner" class="mt-4 flex items-center justify-center space-x-6 text-xs text-slate-400">
-      <span><i class="fa-solid fa-map-pin text-indigo-400 mr-1"></i> <strong id="statCities" class="text-slate-200">81</strong> İl</span>
-      <span><i class="fa-solid fa-building-columns text-indigo-400 mr-1"></i> <strong id="statCampuses" class="text-slate-200">250</strong> Yerleşke</span>
-      <span><i class="fa-solid fa-users text-indigo-400 mr-1"></i> %100 Kitle Kaynaklı</span>
+    <!-- Quick Tags -->
+    <div class="mt-4 flex flex-wrap items-center justify-center gap-2 text-xs">
+      <span class="text-slate-500 text-[11px] uppercase tracking-wider font-semibold mr-1">Hızlı Filtre:</span>
+      <button onclick="setSearch('metro')" class="px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-800 hover:border-indigo-500/60 text-slate-300 transition">🚇 Metrolu Kampüsler</button>
+      <button onclick="setSearch('deniz')" class="px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-800 hover:border-indigo-500/60 text-slate-300 transition">🌊 Deniz / Sahil Kıyısı</button>
+      <button onclick="setSearch('7/24')" class="px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-800 hover:border-indigo-500/60 text-slate-300 transition">📚 7/24 Kütüphane</button>
+      <button onclick="setSearch('tıp')" class="px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-800 hover:border-indigo-500/60 text-slate-300 transition">🩺 Tıp & Sağlık</button>
+      <button onclick="setSearch('mühendislik')" class="px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-800 hover:border-indigo-500/60 text-slate-300 transition">⚙️ Mühendislik & Teknoloji</button>
     </div>
   </section>
 
-  <!-- Results Grid -->
-  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex-1 w-full">
-    <div class="flex items-center justify-between mb-4">
-      <h3 class="text-sm font-semibold uppercase tracking-wider text-slate-400">
-        Bulunan Yerleşkeler (<span id="resultCount">0</span>)
-      </h3>
+  <!-- Main Grid Content -->
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex-1 w-full">
+    <div class="flex items-center justify-between mb-4 border-b border-slate-800 pb-3">
+      <div class="flex items-center space-x-2">
+        <h3 class="text-xs sm:text-sm font-bold uppercase tracking-wider text-slate-400">
+          Listelenen Yerleşkeler
+        </h3>
+        <span id="resultCount" class="bg-indigo-500/20 text-indigo-300 text-xs px-2.5 py-0.5 rounded-full font-bold">0</span>
+      </div>
+      <div id="statsSummary" class="text-xs text-slate-500 hidden sm:block">
+        Toplam 81 İl ve 250 Yerleşke Kayıtlı
+      </div>
     </div>
 
+    <!-- Cards Grid -->
     <div id="grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
-      <!-- Cards will be populated by JS -->
+      <!-- Injected by JS -->
     </div>
 
-    <div id="noResults" class="hidden text-center py-16">
-      <i class="fa-regular fa-face-frown text-4xl text-slate-500 mb-3"></i>
-      <p class="text-slate-400">Aramanıza uygun bir kampüs bulunamadı.</p>
+    <!-- No Results Placeholder -->
+    <div id="noResults" class="hidden text-center py-20">
+      <i class="fa-regular fa-face-frown text-5xl text-slate-600 mb-3"></i>
+      <h4 class="text-base font-semibold text-slate-300">Aramanıza uygun bir kampüs bulunamadı</h4>
+      <p class="text-xs text-slate-500 mt-1">Arama kelimesini değiştirebilir veya filtreleri sıfırlayabilirsiniz.</p>
+      <button onclick="resetFilters()" class="mt-4 px-4 py-2 bg-indigo-600 hover:bg-indigo-500 rounded-lg text-xs font-semibold transition">Filtreleri Temizle</button>
     </div>
   </main>
 
+  <!-- Campus Detail Modal -->
+  <div id="detailModal" class="fixed inset-0 z-50 hidden bg-black/80 backdrop-blur-sm flex items-center justify-center p-4">
+    <div class="bg-slate-900 border border-slate-800 w-full max-w-3xl max-h-[90vh] rounded-2xl flex flex-col shadow-2xl overflow-hidden animate-fade-in">
+      <!-- Modal Header -->
+      <div class="p-5 border-b border-slate-800 flex items-start justify-between bg-slate-950/60">
+        <div>
+          <div class="flex items-center gap-2 mb-1.5">
+            <span id="modalPlate" class="text-[11px] font-bold uppercase px-2 py-0.5 rounded bg-indigo-500/20 text-indigo-300"></span>
+            <span id="modalType" class="text-[11px] font-medium text-slate-400"></span>
+            <span id="modalRating" class="text-xs text-amber-400 font-bold ml-2"></span>
+          </div>
+          <h3 id="modalTitle" class="text-lg font-bold text-slate-100"></h3>
+        </div>
+        <button onclick="closeModal()" class="text-slate-400 hover:text-slate-200 p-2 rounded-lg hover:bg-slate-800 text-lg transition">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+
+      <!-- Modal Body -->
+      <div class="p-6 overflow-y-auto space-y-6 text-sm">
+        <!-- Student Advice Banner -->
+        <div id="modalAdviceBox" class="bg-indigo-950/30 border border-indigo-800/40 rounded-xl p-4">
+          <h5 class="text-xs font-bold uppercase tracking-wider text-indigo-400 mb-1 flex items-center gap-1.5">
+            <i class="fa-solid fa-quote-left"></i> Öğrenci Notu & Tercih Tavsiyesi
+          </h5>
+          <p id="modalAdvice" class="text-slate-300 italic text-xs leading-relaxed"></p>
+        </div>
+
+        <!-- Metrics Table -->
+        <div>
+          <h5 class="text-xs font-bold uppercase tracking-wider text-slate-400 mb-2.5">
+            📊 Hızlı Bakış Metrikleri
+          </h5>
+          <div class="border border-slate-800 rounded-xl overflow-hidden">
+            <table class="w-full text-xs text-left">
+              <tbody id="modalMetricsTable" class="divide-y divide-slate-800">
+                <!-- Dynamically populated -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Pros & Cons -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="bg-emerald-950/20 border border-emerald-800/30 rounded-xl p-4">
+            <h5 class="text-xs font-bold uppercase tracking-wider text-emerald-400 mb-2 flex items-center gap-1">
+              <i class="fa-solid fa-check"></i> Öne Çıkan Artıları
+            </h5>
+            <ul id="modalPros" class="space-y-1.5 text-xs text-slate-300 list-disc list-inside"></ul>
+          </div>
+          <div class="bg-rose-950/20 border border-rose-800/30 rounded-xl p-4">
+            <h5 class="text-xs font-bold uppercase tracking-wider text-rose-400 mb-2 flex items-center gap-1">
+              <i class="fa-solid fa-triangle-exclamation"></i> Bilinmesi Gereken Zorlukları
+            </h5>
+            <ul id="modalCons" class="space-y-1.5 text-xs text-slate-300 list-disc list-inside"></ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Modal Footer -->
+      <div class="p-4 border-t border-slate-800 bg-slate-950/60 flex items-center justify-between">
+        <span class="text-xs text-slate-500">Açık Kaynak Türkiye Kampüs Rehberi</span>
+        <a id="modalGithubLink" href="#" target="_blank" class="flex items-center space-x-1.5 bg-indigo-600 hover:bg-indigo-500 text-white px-4 py-2 rounded-xl text-xs font-semibold transition">
+          <span>GitHub'da Dosyayı Aç</span>
+          <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Comparison Floating Bar -->
+  <div id="compareBar" class="fixed bottom-4 left-1/2 -translate-x-1/2 z-30 hidden bg-slate-900 border border-slate-700 px-5 py-3 rounded-2xl shadow-2xl flex items-center space-x-4">
+    <div class="text-xs font-semibold">
+      <span id="compareCount" class="text-indigo-400">0</span> kampüs seçildi (Maksimum 2)
+    </div>
+    <button onclick="openCompareModal()" class="bg-indigo-600 hover:bg-indigo-500 text-white px-3.5 py-1.5 rounded-lg text-xs font-bold transition">
+      Kıyasla
+    </button>
+    <button onclick="clearCompare()" class="text-slate-400 hover:text-slate-200 text-xs">
+      Temizle
+    </button>
+  </div>
+
   <!-- Footer -->
-  <footer class="border-t border-slate-800 py-6 text-center text-xs text-slate-500">
+  <footer class="border-t border-slate-900 py-6 text-center text-xs text-slate-500 mt-auto">
     <p>Türkiye Kampüs Rehberi © 2026. MIT Lisansı ile açık kaynak olarak geliştirilmiştir.</p>
-    <p class="mt-1">Katkıda bulunmak için <a href="https://github.com/bahattinyunus/turkiye-kampus-rehberi" class="text-indigo-400 hover:underline">GitHub deposunu</a> ziyaret edin.</p>
+    <p class="mt-1">Katkıda bulunmak ve yeni yerleşke eklemek için <a href="https://github.com/bahattinyunus/turkiye-kampus-rehberi" class="text-indigo-400 hover:underline">GitHub deposunu</a> ziyaret edin.</p>
   </footer>
 
   <script>
     const GITHUB_REPO_URL = "https://github.com/bahattinyunus/turkiye-kampus-rehberi/blob/main/";
     let allCampuses = [];
+    let compareList = [];
 
     async function init() {
-      try {
-        const response = await fetch('../data/kampusler.json');
-        allCampuses = await response.json();
-      } catch (e) {
-        console.error("Veri yüklenemedi:", e);
+      const paths = ['data/kampusler.json', '../data/kampusler.json', './data/kampusler.json'];
+      for (const p of paths) {
+        try {
+          const res = await fetch(p);
+          if (res.ok) {
+            allCampuses = await res.json();
+            break;
+          }
+        } catch (e) {}
       }
       populateCityFilter();
       render();
@@ -121,21 +224,37 @@
       });
     }
 
+    function setSearch(term) {
+      document.getElementById('searchInput').value = term;
+      render();
+    }
+
+    function resetFilters() {
+      document.getElementById('searchInput').value = '';
+      document.getElementById('cityFilter').value = '';
+      document.getElementById('typeFilter').value = '';
+      render();
+    }
+
     function render() {
       const search = document.getElementById('searchInput').value.toLowerCase().trim();
       const selectedCity = document.getElementById('cityFilter').value;
       const selectedType = document.getElementById('typeFilter').value;
 
       const filtered = allCampuses.filter(c => {
-        const matchesSearch = !search || 
-          c.baslik.toLowerCase().includes(search) ||
-          c.il.toLowerCase().includes(search) ||
-          c.ilce.toLowerCase().includes(search) ||
-          (c.ogrenci_notu && c.ogrenci_notu.toLowerCase().includes(search)) ||
-          c.artilar.some(a => a.toLowerCase().includes(search));
+        const textToSearch = [
+          c.baslik,
+          c.il,
+          c.ilce,
+          c.ogrenci_notu || '',
+          ...c.artilar,
+          ...c.eksiler,
+          ...Object.keys(c.metrikler || {})
+        ].join(' ').toLowerCase();
 
+        const matchesSearch = !search || textToSearch.includes(search);
         const matchesCity = !selectedCity || c.il === selectedCity;
-        const matchesType = !selectedType || (c.universite_turu && c.universite_turu.includes(selectedType));
+        const matchesType = !selectedType || (c.universite_turu && c.universite_turu.toLowerCase().includes(selectedType.toLowerCase()));
 
         return matchesSearch && matchesCity && matchesType;
       });
@@ -152,27 +271,27 @@
       noResults.classList.add('hidden');
 
       grid.innerHTML = filtered.map(c => {
-        const fileUrl = GITHUB_REPO_URL + c.dosya_yolu;
+        const isCompared = compareList.includes(c.id);
         const artilarHtml = c.artilar.slice(0, 2).map(a => 
           `<span class="inline-block bg-emerald-500/10 text-emerald-400 text-[11px] px-2 py-0.5 rounded border border-emerald-500/20 mr-1 mb-1 truncate max-w-full">✓ ${a}</span>`
         ).join('');
 
         return `
-          <div class="bg-slate-800/70 border border-slate-700/80 hover:border-indigo-500/50 rounded-xl p-5 flex flex-col justify-between transition hover:-translate-y-0.5 shadow-lg">
+          <div class="bg-slate-900/70 border border-slate-800 hover:border-indigo-500/60 rounded-2xl p-5 flex flex-col justify-between transition hover:-translate-y-0.5 shadow-lg group">
             <div>
-              <div class="flex items-start justify-between gap-2 mb-2">
-                <span class="inline-block text-[11px] font-semibold uppercase px-2 py-0.5 rounded bg-indigo-500/20 text-indigo-300">
+              <div class="flex items-start justify-between gap-2 mb-2.5">
+                <span class="inline-block text-[10px] font-extrabold uppercase px-2.5 py-0.5 rounded-full bg-indigo-500/15 text-indigo-300 border border-indigo-500/20">
                   ${c.plaka} - ${c.il} / ${c.ilce}
                 </span>
-                <span class="text-xs text-amber-400 font-medium whitespace-nowrap">
+                <span class="text-xs text-amber-400 font-bold whitespace-nowrap">
                   ${c.ogrenci_dostu_puani || '4.0/5'}
                 </span>
               </div>
-              <h4 class="font-bold text-slate-100 text-base leading-snug mb-2 hover:text-indigo-300 transition">
-                <a href="${fileUrl}" target="_blank">${c.baslik}</a>
+              <h4 onclick="showModal('${c.id}')" class="font-bold text-slate-100 text-base leading-snug mb-2 group-hover:text-indigo-300 transition cursor-pointer">
+                ${c.baslik}
               </h4>
               ${c.ogrenci_notu ? `
-                <p class="text-xs text-slate-400 italic mb-3 line-clamp-3 bg-slate-900/60 p-2.5 rounded-lg border border-slate-800">
+                <p onclick="showModal('${c.id}')" class="text-xs text-slate-400 italic mb-3 line-clamp-3 bg-slate-950/60 p-2.5 rounded-xl border border-slate-800/80 cursor-pointer">
                   "${c.ogrenci_notu}"
                 </p>
               ` : ''}
@@ -180,21 +299,140 @@
                 ${artilarHtml}
               </div>
             </div>
-            <div class="pt-3 border-t border-slate-700/50 flex items-center justify-between text-xs">
-              <span class="text-slate-400">${c.universite_turu || 'Devlet'}</span>
-              <a href="${fileUrl}" target="_blank" class="text-indigo-400 hover:text-indigo-300 font-semibold flex items-center space-x-1">
-                <span>Tam Rehberi Oku</span>
-                <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
-              </a>
+            <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
+              <div class="flex items-center space-x-2">
+                <button onclick="toggleCompare('${c.id}')" class="px-2.5 py-1 rounded-lg text-[11px] font-semibold border transition ${isCompared ? 'bg-indigo-600 text-white border-indigo-600' : 'bg-slate-950 hover:bg-slate-800 text-slate-300 border-slate-800'}">
+                  ${isCompared ? '✓ Seçildi' : '+ Kıyasla'}
+                </button>
+              </div>
+              <button onclick="showModal('${c.id}')" class="text-indigo-400 hover:text-indigo-300 font-semibold flex items-center space-x-1">
+                <span>Detayları Gör</span>
+                <i class="fa-solid fa-arrow-right text-[10px]"></i>
+              </button>
             </div>
           </div>
         `;
       }).join('');
     }
 
+    function showModal(id) {
+      const c = allCampuses.find(item => item.id === id);
+      if (!c) return;
+
+      document.getElementById('modalPlate').textContent = `${c.plaka} - ${c.il} / ${c.ilce}`;
+      document.getElementById('modalType').textContent = c.universite_turu || 'Devlet';
+      document.getElementById('modalRating').textContent = c.ogrenci_dostu_puani || '4.0/5';
+      document.getElementById('modalTitle').textContent = c.baslik;
+
+      if (c.ogrenci_notu) {
+        document.getElementById('modalAdviceBox').classList.remove('hidden');
+        document.getElementById('modalAdvice').textContent = `"${c.ogrenci_notu}"`;
+      } else {
+        document.getElementById('modalAdviceBox').classList.add('hidden');
+      }
+
+      // Metrics
+      const tbody = document.getElementById('modalMetricsTable');
+      tbody.innerHTML = '';
+      if (c.metrikler && Object.keys(c.metrikler).length > 0) {
+        for (const [k, v] of Object.entries(c.metrikler)) {
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td class="py-2 px-3 font-semibold text-slate-300 w-1/3 capitalize">${k}</td>
+            <td class="py-2 px-3 text-amber-300 w-1/4">${v.degerlendirme || '-'}</td>
+            <td class="py-2 px-3 text-slate-400">${v.detay || '-'}</td>
+          `;
+          tbody.appendChild(row);
+        }
+      } else {
+        tbody.innerHTML = `<tr><td colspan="3" class="py-2 px-3 text-slate-500">Metrik tablosu rehber dosyasında mevcuttur.</td></tr>`;
+      }
+
+      // Pros & Cons
+      const prosList = document.getElementById('modalPros');
+      prosList.innerHTML = c.artilar.length > 0 
+        ? c.artilar.map(p => `<li>${p}</li>`).join('') 
+        : '<li class="text-slate-500">Belirtilmedi</li>';
+
+      const consList = document.getElementById('modalCons');
+      consList.innerHTML = c.eksiler.length > 0 
+        ? c.eksiler.map(p => `<li>${p}</li>`).join('') 
+        : '<li class="text-slate-500">Belirtilmedi</li>';
+
+      // GitHub link
+      document.getElementById('modalGithubLink').href = GITHUB_REPO_URL + c.dosya_yolu;
+
+      document.getElementById('detailModal').classList.remove('hidden');
+    }
+
+    function closeModal() {
+      document.getElementById('detailModal').classList.add('hidden');
+    }
+
+    function toggleCompare(id) {
+      if (compareList.includes(id)) {
+        compareList = compareList.filter(x => x !== id);
+      } else {
+        if (compareList.length >= 2) {
+          alert('En fazla 2 kampüsü yan yana kıyaslayabilirsiniz. Lütfen birini kaldırın.');
+          return;
+        }
+        compareList.push(id);
+      }
+      updateCompareBar();
+      render();
+    }
+
+    function updateCompareBar() {
+      const bar = document.getElementById('compareBar');
+      const countEl = document.getElementById('compareCount');
+      countEl.textContent = compareList.length;
+      if (compareList.length > 0) {
+        bar.classList.remove('hidden');
+      } else {
+        bar.classList.add('hidden');
+      }
+    }
+
+    function clearCompare() {
+      compareList = [];
+      updateCompareBar();
+      render();
+    }
+
+    function openCompareModal() {
+      if (compareList.length < 2) {
+        alert('Lütfen kıyaslamak için 2 kampüs seçin.');
+        return;
+      }
+      const c1 = allCampuses.find(x => x.id === compareList[0]);
+      const c2 = allCampuses.find(x => x.id === compareList[1]);
+      if (!c1 || !c2) return;
+
+      const msg = `
+⚖️ KARŞILAŞTIRMA ÖZETİ:
+---------------------------------------------
+1. ${c1.baslik} (${c1.il})
+   • Puan: ${c1.ogrenci_dostu_puani}
+   • Tür: ${c1.universite_turu}
+
+2. ${c2.baslik} (${c2.il})
+   • Puan: ${c2.ogrenci_dostu_puani}
+   • Tür: ${c2.universite_turu}
+---------------------------------------------
+Detaylı analiz için terminalden:
+python -m kampus_rehberi.cli compare "${c1.id}" "${c2.id}"
+      `;
+      alert(msg);
+    }
+
     document.getElementById('searchInput').addEventListener('input', render);
     document.getElementById('cityFilter').addEventListener('change', render);
     document.getElementById('typeFilter').addEventListener('change', render);
+
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeModal();
+    });
 
     init();
   </script>
