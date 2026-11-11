@@ -56,8 +56,8 @@ Bu proje yalnızca bir Markdown koleksiyonu değildir; **veri çıkarma motoru, 
 
 ```mermaid
 flowchart TD
-    subgraph Kaynak [📂 81 İl Markdown Deposu]
-        A["395+ Detaylı Rehber Dosyası (.md)<br/>(Ulaşım, Yurt, Kira, Yemekhane, Artılar, Eksiler)"]
+    subgraph Kaynak [📂 81 İl Markdown Deposu - iller/]
+        A["395+ Detaylı Rehber Dosyası (.md)<br/>(iller/01-Adana ... iller/81-Duzce)"]
     end
 
     subgraph Donusturucu [⚙️ Otomasyon Motoru]
@@ -79,6 +79,30 @@ flowchart TD
     A --> B
     B --> C & D
     C --> E & F & G & H
+```
+
+### 📁 Modüler Dizin Mimarisi
+
+Depo, 81 il klasörünün `iller/` dizini altında toplanmasıyla tertemiz, sade ve modüler bir mimariye kavuşturulmuştur:
+
+```text
+turkiye-kampus-rehberi/
+├── 📁 iller/                   # 81 İl Klasörleri (iller/01-Adana ... iller/81-Duzce)
+│   ├── 📁 06-Ankara/
+│   │   ├── README.md           # Ankara Genel Şehir & Öğrenci Rehberi
+│   │   ├── 📁 Cankaya/         # İlçe Dizinleri ve Kampüs Dosyaları
+│   │   └── ...
+│   ├── 📁 34-Istanbul/
+│   └── 📁 35-Izmir/
+├── 📁 data/                    # Yapılandırılmış JSON Veritabanı (kampusler.json, istatistikler.json)
+├── 📁 kampus_rehberi/          # Python SDK ve CLI Çekirdek Paketi
+├── 📁 scripts/                 # CLI Araçları, Doğrulayıcılar ve Export Motoru
+├── 📁 web/                     # GitHub Pages Etkileşimli Arama ve Filtreleme Portalı
+├── 📁 tests/                   # Otomatik Birim (Unit) Testleri
+├── 📁 assets/                  # Afişler, İnfografikler ve Kampüs Görselleri
+├── CONTRIBUTING.md             # Katkıda Bulunma Kılavuzu
+├── TEMPLATE.md                 # Standart Kampüs İnceleme Şablonu
+└── README.md                   # Ana Dokümantasyon ve İndeks Portalı
 ```
 
 ---
@@ -191,7 +215,7 @@ python scripts/cli.py validate
 * **Barınma & Yaşam:** Kampüs içinde 19 kız/erkek öğrenci yurdu mevcuttur. 100. Yıl Mahallesi, ODTÜ öğrencilerinin yürüme mesafesinde yaşadığı bağımsız bir kültür merkezidir.
 * **Karakteristik Ruh:** Efsanevi **Devrim Stadyumu**, orman içi **Alle yürüyüş yolu**, Türkiye'nin ilk teknokenti **ODTÜ Teknokent** ve profesörden öğrenciye herkesin birbirine eşitlikle yaklaştığı meşhur *"Hocam"* kültürü.
 * 💬 **Öğrenci Tavsiyesi:** *"ODTÜ'de okumak bir diplomadan öte ömürlük bir aidiyettir. Bahar Şenliği'nde Devrim çimlerine uzanıp gökyüzünü izlemeden, Oryantasyon günlerinde topluluk stantlarını gezmeden asla mezun olma!"*
-* 📖 [**Tam ODTÜ Merkez Kampüs Rehberini Oku ➔**](./06-Ankara/Cankaya/ODTU-Merkez-Kampusu.md)
+* 📖 [**Tam ODTÜ Merkez Kampüs Rehberini Oku ➔**](./iller/06-Ankara/Cankaya/ODTU-Merkez-Kampusu.md)
 
 ---
 
@@ -208,7 +232,7 @@ python scripts/cli.py validate
 * **Barınma & Yaşam:** Kuzey ve Kilyos kampüslerinde yurtlar yer alır; Hisarüstü (Rumelihisarı) mahallesi tamamen öğrencilerin kafe ve ev hayatıyla örülüdür.
 * **Karakteristik Ruh:** Tarihi sarmaşıklı taş binalar, Albert Long Hall klasik müzik konserleri, dünyanın en güzel manzaralarından biri olan **Güney Çimler** ve efsanevi öğrenci kulüpleri (BÜDAK, Taşoda, COMPEC, BÜİK).
 * 💬 **Öğrenci Tavsiyesi:** *"Boğaziçi'nde ders aralarında Güney Çimler'de kedilerle oturup Boğaz'ı izlemek bütün sınav stresini siler. Hazırlıkta Kilyos'a düşersen hiç üzülme, en sıkı dostluklar o sahil kampüsünde kurulur!"*
-* 📖 [**Tam Boğaziçi Üniversitesi Kampüs Rehberini Oku ➔**](./34-Istanbul/Besiktas/Bogazici-Universitesi-Guney-Kuzey-ve-Kilyos-Kampusleri.md)
+* 📖 [**Tam Boğaziçi Üniversitesi Kampüs Rehberini Oku ➔**](./iller/34-Istanbul/Besiktas/Bogazici-Universitesi-Guney-Kuzey-ve-Kilyos-Kampusleri.md)
 
 ---
 
@@ -225,7 +249,7 @@ python scripts/cli.py validate
 * **Barınma & Yaşam:** Kampüs içinde Vadi Yurtları, Gölet Yurtları ve kız/erkek KYK yurtları yer alır; Ayazağa Göleti çevresi öğrencilerin spor ve dinlenme alanıdır.
 * **Karakteristik Ruh:** 250 yıllık mühendislik geleneği, dünya çapında akredite diplomalar (ABET), Türkiye'nin en büyük teknoloji geliştirme bölgesi **İTÜ ARI Teknokent** ve formula/roket/uydu Ar-Ge takımları.
 * 💬 **Öğrenci Tavsiyesi:** *"İTÜ'yü kazandıysan Maçka'da hazırlık okuyup Beşiktaş-Nişantaşı havasını solumak harikadır. Ayazağa'da ise mutlaka bir TEKNOFEST veya Ar-Ge takımına katıl; asıl mühendisliği orada öğreneceksin!"*
-* 📖 [**Tam İTÜ Ayazağa ve Maçka Kampüs Rehberini Oku ➔**](./34-Istanbul/Sariyer/ITU-Ayazaga-ve-Macka-Taskisla-Kampusleri.md)
+* 📖 [**Tam İTÜ Ayazağa ve Maçka Kampüs Rehberini Oku ➔**](./iller/34-Istanbul/Sariyer/ITU-Ayazaga-ve-Macka-Taskisla-Kampusleri.md)
 
 ---
 
@@ -242,7 +266,7 @@ python scripts/cli.py validate
 * **Barınma & Yaşam:** Kampüs sınırları içinde devasa Emine Şerife Hanım KYK Yurdu ve Hacettepe Öğrenci Evleri bulunur; Yeşil Vadi ve BAM Çarşısı sosyal merkezdir.
 * **Karakteristik Ruh:** Çam ormanları ile çevrili ferah yayla havası, vize haftalarında 7/24 hizmet veren devasa Merkez Kütüphanesi ve güçlü Tıp/Mühendislik/Edebiyat ekolü.
 * 💬 **Öğrenci Tavsiyesi:** *"Beytepe'de Ankara merkezde hava günlük güneşlikken bile serin bir rüzgar eser, çantanda daima bir hırka bulundur. Kütüphanede sabahlayıp BAM'da sıcak simit-çay yapmak buranın klasiğidir!"*
-* 📖 [**Tam Hacettepe Beytepe Kampüs Rehberini Oku ➔**](./06-Ankara/Cankaya/Hacettepe-Universitesi-Beytepe-Kampusu.md)
+* 📖 [**Tam Hacettepe Beytepe Kampüs Rehberini Oku ➔**](./iller/06-Ankara/Cankaya/Hacettepe-Universitesi-Beytepe-Kampusu.md)
 
 ---
 
@@ -259,7 +283,7 @@ python scripts/cli.py validate
 * **Barınma & Yaşam:** Kampüs içinde otel konforunda 26 yurt binası mevcuttur; Bilkent Center ve Ankuva AVM kampüse yürüme mesafesindedir.
 * **Karakteristik Ruh:** Türkiye'nin ilk vakıf üniversitesi olmanın getirdiği yüksek kurumsal standartlar, Odeon Amfi Tiyatrosu, uluslararası düzeyde akademik yayın performansı ve düzenli peyzaj.
 * 💬 **Öğrenci Tavsiyesi:** *"Bilkent'te akademik tempo yoğundur ancak kütüphane ve laboratuvar imkanları kusursuzdur. Çim amfide düzenlenen açık hava konserlerini ve bahar şenliklerini kaçırma!"*
-* 📖 [**Tam Bilkent Üniversitesi Kampüs Rehberini Oku ➔**](./06-Ankara/Cankaya/Bilkent-Universitesi-Merkez-Kampusu.md)
+* 📖 [**Tam Bilkent Üniversitesi Kampüs Rehberini Oku ➔**](./iller/06-Ankara/Cankaya/Bilkent-Universitesi-Merkez-Kampusu.md)
 
 ---
 
@@ -276,7 +300,7 @@ python scripts/cli.py validate
 * **Barınma & Yaşam:** Öğrencilerin %70'inden fazlası kampüs içindeki modern yurtlarda konaklar; kampüs içinde buz pateni pisti, olimpik kapalı havuz ve market yer alır.
 * **Karakteristik Ruh:** Karadeniz ve Sarıyer ormanlarının kesiştiği noktada neoklasik Selçuklu/Osmanlı taş mimarisi, Suna Kıraç Kütüphanesi kule saati ve dünya çapında bilimsel yayın üretimi.
 * 💬 **Öğrenci Tavsiyesi:** *"Şehir karmaşasından uzakta tamamen izole bir Amerikan kampüsü havası arıyorsan burası tam sana göre. 7/24 açık kütüphanesi ve hoca-öğrenci etkileşimi benzersizdir!"*
-* 📖 [**Tam Koç Üniversitesi Kampüs Rehberini Oku ➔**](./34-Istanbul/Sariyer/Koc-Universitesi-Rumelifeneri-Kampusu.md)
+* 📖 [**Tam Koç Üniversitesi Kampüs Rehberini Oku ➔**](./iller/34-Istanbul/Sariyer/Koc-Universitesi-Rumelifeneri-Kampusu.md)
 
 ---
 
@@ -293,7 +317,7 @@ python scripts/cli.py validate
 * **Barınma & Yaşam:** Kampüs içinde Ege KYK Yurdu ve Öğrenci Köyü bulunur; Küçükpark Kafeler Sokağı ve Büyükpark kampüsün hemen karşısındadır.
 * **Karakteristik Ruh:** Palmiyeler ve botanik bahçeleriyle bezeli ılıman Ege iklimi, Tıp ve Ziraat fakültelerinin devasa birikimi ve 24 saat yaşayan canlı öğrenci kültürü.
 * 💬 **Öğrenci Tavsiyesi:** *"Küçükpark'ta kahveni içip tek adımla kampüse girmek, metroyla 15 dakikada Alsancak Kordon'a inmek paha biçilemez bir lükstür. Ege'de okumak bir yaşam tarzıdır!"*
-* 📖 [**Tam Ege Üniversitesi Kampüs Rehberini Oku ➔**](./35-Izmir/Bornova/Ege-Universitesi-Bornova-Kampusu.md)
+* 📖 [**Tam Ege Üniversitesi Kampüs Rehberini Oku ➔**](./iller/35-Izmir/Bornova/Ege-Universitesi-Bornova-Kampusu.md)
 
 ---
 
@@ -310,7 +334,7 @@ python scripts/cli.py validate
 * **Barınma & Yaşam:** Kampüs arazisi içinde FSM KYK Kız ve Erkek Yurtları yer alır; Cevizlibağ öğrenci aksına çok yakındır.
 * **Karakteristik Ruh:** Osmanlı ordugahı olan tarihi kışla taş binaları, Otağ-ı Hümayun padişah köşkü, 1.3 milyon metrekarelik devasa yeşil vaha ve YTÜ Yıldız Teknopark.
 * 💬 **Öğrenci Tavsiyesi:** *"İstanbul'da hem köklü bir teknik üniversitede okuyup hem de barınma derdi çekmek istemiyorsan Davutpaşa biçilmiş kaftandır. Tarihi Taş Bina avlusunda çay içmeden mezun olma!"*
-* 📖 [**Tam YTÜ Davutpaşa Kampüs Rehberini Oku ➔**](./34-Istanbul/Esenler/Yildiz-Teknik-Universitesi-Davutpasa-ve-Yildiz-Kampusleri.md)
+* 📖 [**Tam YTÜ Davutpaşa Kampüs Rehberini Oku ➔**](./iller/34-Istanbul/Esenler/Yildiz-Teknik-Universitesi-Davutpasa-ve-Yildiz-Kampusleri.md)
 
 ---
 
@@ -327,7 +351,7 @@ python scripts/cli.py validate
 * **Barınma & Yaşam:** Kampüsün hemen bitişiğindeki **Görükle Yerleşimi**, Türkiye'nin en büyük bağımsız öğrenci kasabasıdır; on binlerce öğrenci apartı ve kafe yürüme mesafesindedir.
 * **Karakteristik Ruh:** Uludağ manzaralı çam ormanları, devasa Tıp Fakültesi Hastanesi, gölet çevresi ve kampüsten çıkınca tamamen gençlerin yönettiği Görükle sosyal hayatı.
 * 💬 **Öğrenci Tavsiyesi:** *"Görükle'de yaşamak bambaşka bir histir; gece 02:00'de bile sokaklarda öğrenciler ders notu fotokopisi çektirip çorba içer. Hafta sonu da Bursaray'a atlayıp Mudanya sahiline inebilirsin!"*
-* 📖 [**Tam Bursa Uludağ Üniversitesi Görükle Rehberini Oku ➔**](./16-Bursa/Nilufer/Bursa-Uludag-Universitesi-Gorukle-Merkez-Kampusu.md)
+* 📖 [**Tam Bursa Uludağ Üniversitesi Görükle Rehberini Oku ➔**](./iller/16-Bursa/Nilufer/Bursa-Uludag-Universitesi-Gorukle-Merkez-Kampusu.md)
 
 ---
 
@@ -344,7 +368,7 @@ python scripts/cli.py validate
 * **Barınma & Yaşam:** Kampüs içinde ve Kalkınma Mahallesi'nde çok sayıda KYK yurdu bulunur; Kalkınma Caddesi öğrencilerin tüm sosyal ihtiyaçlarını karşılar.
 * **Karakteristik Ruh:** Karadeniz manzaralı sahil terasları, botanik bahçesi gibi yeşil peyzaj, 1955'ten bu yana süregelen Doğu Karadeniz'in ilk teknik üniversitesi gururu ve Aslanlı Yol.
 * 💬 **Öğrenci Tavsiyesi:** *"KTÜ'de okumak deniz havasını ciğerlerine çekerek mühendislik öğrenmektir. Kampüsün A kapısından çıkıp Forum'a, C kapısından çıkıp Kalkınma'ya yürümek buranın en büyük kolaylığıdır!"*
-* 📖 [**Tam KTÜ Kanuni Kampüs Rehberini Oku ➔**](./61-Trabzon/Ortahisar/KTU-Merkez.md)
+* 📖 [**Tam KTÜ Kanuni Kampüs Rehberini Oku ➔**](./iller/61-Trabzon/Ortahisar/KTU-Merkez.md)
 
 ---
 
@@ -438,17 +462,17 @@ Aşağıdaki bölge sekmelerinden ilgilendiğiniz ili seçerek o şehrin genel �
 
 | Plaka | İl Klasörü | Başlıca Üniversiteler | Öne Çıkan Bölgeler |
 | :---: | :--- | :--- | :--- |
-| **10** | [📂 10-Balikesir](./10-Balikesir/README.md) | Balıkesir Üni. (BAÜN), Bandırma Onyedi Eylül Üni. | Çağış Kampüsü, Bahçelievler, Bandırma |
-| **11** | [📂 11-Bilecik](./11-Bilecik/README.md) | Bilecik Şeyh Edebali Üniversitesi | Gülümbe Kampüsü, Pelitözü, Bozüyük |
-| **16** | [📂 16-Bursa](./16-Bursa/README.md) | Bursa Uludağ Üni., Bursa Teknik Üni. (BTÜ), Mudanya Üni. | Görükle, Mimar Sinan, İnegöl |
-| **17** | [📂 17-Canakkale](./17-Canakkale/README.md) | Çanakkale Onsekiz Mart Üni. (ÇOMÜ) | Terzioğlu, Barbaros, Kepez, Biga |
-| **22** | [📂 22-Edirne](./22-Edirne/README.md) | Trakya Üniversitesi | Balkan Yerleşkesi, Ayşekadın, Keşan |
-| **34** | [📂 34-Istanbul](./34-Istanbul/README.md) | İTÜ, Boğaziçi, YTÜ, İÜ, İÜC, Marmara, GSÜ, Koç, Sabancı vb. | Ayazağa, Davutpaşa, Beyazıt, Kadıköy, Maltepe |
-| **39** | [📂 39-Kirklareli](./39-Kirklareli/README.md) | Kırklareli Üniversitesi | Kayalı Kampüsü, Lüleburgaz |
-| **41** | [📂 41-Kocaeli](./41-Kocaeli/README.md) | Kocaeli Üni. (KOÜ), Gebze Teknik Üni. (GTÜ) | Umuttepe, İzmit Merkez, Gebze Çayırova |
-| **54** | [📂 54-Sakarya](./54-Sakarya/README.md) | Sakarya Üni. (SAÜ), Sakarya Uygulamalı Bilimler Üni. | Esentepe Kampüsü, Serdivan (Mavi Durak) |
-| **59** | [📂 59-Tekirdag](./59-Tekirdag/README.md) | Tekirdağ Namık Kemal Üniversitesi | Değirmenaltı, Çorlu Mühendislik |
-| **77** | [📂 77-Yalova](./77-Yalova/README.md) | Yalova Üniversitesi | Merkez Yerleşke, Çınarcık |
+| **10** | [📂 10-Balikesir](./iller/10-Balikesir/README.md) | Balıkesir Üni. (BAÜN), Bandırma Onyedi Eylül Üni. | Çağış Kampüsü, Bahçelievler, Bandırma |
+| **11** | [📂 11-Bilecik](./iller/11-Bilecik/README.md) | Bilecik Şeyh Edebali Üniversitesi | Gülümbe Kampüsü, Pelitözü, Bozüyük |
+| **16** | [📂 16-Bursa](./iller/16-Bursa/README.md) | Bursa Uludağ Üni., Bursa Teknik Üni. (BTÜ), Mudanya Üni. | Görükle, Mimar Sinan, İnegöl |
+| **17** | [📂 17-Canakkale](./iller/17-Canakkale/README.md) | Çanakkale Onsekiz Mart Üni. (ÇOMÜ) | Terzioğlu, Barbaros, Kepez, Biga |
+| **22** | [📂 22-Edirne](./iller/22-Edirne/README.md) | Trakya Üniversitesi | Balkan Yerleşkesi, Ayşekadın, Keşan |
+| **34** | [📂 34-Istanbul](./iller/34-Istanbul/README.md) | İTÜ, Boğaziçi, YTÜ, İÜ, İÜC, Marmara, GSÜ, Koç, Sabancı vb. | Ayazağa, Davutpaşa, Beyazıt, Kadıköy, Maltepe |
+| **39** | [📂 39-Kirklareli](./iller/39-Kirklareli/README.md) | Kırklareli Üniversitesi | Kayalı Kampüsü, Lüleburgaz |
+| **41** | [📂 41-Kocaeli](./iller/41-Kocaeli/README.md) | Kocaeli Üni. (KOÜ), Gebze Teknik Üni. (GTÜ) | Umuttepe, İzmit Merkez, Gebze Çayırova |
+| **54** | [📂 54-Sakarya](./iller/54-Sakarya/README.md) | Sakarya Üni. (SAÜ), Sakarya Uygulamalı Bilimler Üni. | Esentepe Kampüsü, Serdivan (Mavi Durak) |
+| **59** | [📂 59-Tekirdag](./iller/59-Tekirdag/README.md) | Tekirdağ Namık Kemal Üniversitesi | Değirmenaltı, Çorlu Mühendislik |
+| **77** | [📂 77-Yalova](./iller/77-Yalova/README.md) | Yalova Üniversitesi | Merkez Yerleşke, Çınarcık |
 
 </details>
 
@@ -457,14 +481,14 @@ Aşağıdaki bölge sekmelerinden ilgilendiğiniz ili seçerek o şehrin genel �
 
 | Plaka | İl Klasörü | Başlıca Üniversiteler | Öne Çıkan Bölgeler |
 | :---: | :--- | :--- | :--- |
-| **09** | [📂 09-Aydin](./09-Aydin/README.md) | Aydın Adnan Menderes Üniversitesi (ADÜ) | Aytepe (Efeler), Nazilli İsabeyli, Kuşadası |
-| **20** | [📂 20-Denizli](./20-Denizli/README.md) | Pamukkale Üniversitesi (PAÜ) | Kınıklı Kampüsü, Asmalıevler, Bağbaşı |
-| **35** | [📂 35-Izmir](./35-Izmir/README.md) | Ege Üni., Dokuz Eylül, İYTE, İKÇÜ, Bakırçay, Ekonomi, Yaşar | Bornova (Küçükpark), Buca (Tınaztepe), Urla |
-| **43** | [📂 43-Kutahya](./43-Kutahya/README.md) | Kütahya Dumlupınar Üni., Kütahya Sağlık Bilimleri | Evliya Çelebi Kampüsü, Germiyan, Tavşanlı |
-| **45** | [📂 45-Manisa](./45-Manisa/README.md) | Manisa Celal Bayar Üniversitesi (MCBÜ) | Muradiye Kampüsü, Uncubozköy, Turgutlu |
-| **48** | [📂 48-Mugla](./48-Mugla/README.md) | Muğla Sıtkı Koçman Üniversitesi (MSKÜ) | Kötekli (Menteşe), Bodrum, Fethiye, Marmaris |
-| **64** | [📂 64-Usak](./64-Usak/README.md) | Uşak Üniversitesi | Bir Eylül Kampüsü, Kemalöz |
-| **35** | [📂 35-Izmir](./35-Izmir/README.md) | Ege, DEÜ, İYTE, İKÇÜ, Bakırçay, Ekonomi, Demokrasi | Bornova, Buca, Urla Gülbahçe, Çiğli |
+| **09** | [📂 09-Aydin](./iller/09-Aydin/README.md) | Aydın Adnan Menderes Üniversitesi (ADÜ) | Aytepe (Efeler), Nazilli İsabeyli, Kuşadası |
+| **20** | [📂 20-Denizli](./iller/20-Denizli/README.md) | Pamukkale Üniversitesi (PAÜ) | Kınıklı Kampüsü, Asmalıevler, Bağbaşı |
+| **35** | [📂 35-Izmir](./iller/35-Izmir/README.md) | Ege Üni., Dokuz Eylül, İYTE, İKÇÜ, Bakırçay, Ekonomi, Yaşar | Bornova (Küçükpark), Buca (Tınaztepe), Urla |
+| **43** | [📂 43-Kutahya](./iller/43-Kutahya/README.md) | Kütahya Dumlupınar Üni., Kütahya Sağlık Bilimleri | Evliya Çelebi Kampüsü, Germiyan, Tavşanlı |
+| **45** | [📂 45-Manisa](./iller/45-Manisa/README.md) | Manisa Celal Bayar Üniversitesi (MCBÜ) | Muradiye Kampüsü, Uncubozköy, Turgutlu |
+| **48** | [📂 48-Mugla](./iller/48-Mugla/README.md) | Muğla Sıtkı Koçman Üniversitesi (MSKÜ) | Kötekli (Menteşe), Bodrum, Fethiye, Marmaris |
+| **64** | [📂 64-Usak](./iller/64-Usak/README.md) | Uşak Üniversitesi | Bir Eylül Kampüsü, Kemalöz |
+| **35** | [📂 35-Izmir](./iller/35-Izmir/README.md) | Ege, DEÜ, İYTE, İKÇÜ, Bakırçay, Ekonomi, Demokrasi | Bornova, Buca, Urla Gülbahçe, Çiğli |
 
 </details>
 
@@ -473,19 +497,19 @@ Aşağıdaki bölge sekmelerinden ilgilendiğiniz ili seçerek o şehrin genel �
 
 | Plaka | İl Klasörü | Başlıca Üniversiteler | Öne Çıkan Bölgeler |
 | :---: | :--- | :--- | :--- |
-| **06** | [📂 06-Ankara](./06-Ankara/README.md) | ODTÜ, Hacettepe, Ankara Üni., Gazi, AYBÜ, Bilkent, TOBB ETÜ | Çankaya, Beytepe, Beşevler, Cebeci, 100. Yıl |
-| **18** | [📂 18-Cankiri](./18-Cankiri/README.md) | Çankırı Karatekin Üniversitesi | Uluyazı Kampüsü, Kırkevler |
-| **26** | [📂 26-Eskisehir](./26-Eskisehir/README.md) | Anadolu Üni., Eskişehir Osmangazi Üni., ESTÜ | Bağlar, Meşelik (Odunpazarı), İki Eylül |
-| **38** | [📂 38-Kayseri](./38-Kayseri/README.md) | Erciyes Üni. (ERÜ), Abdullah Gül Üni. (AGÜ), Kayseri Üni. | Talas, Melikgazi, Sümer Kampüsü |
-| **40** | [📂 40-Kirsehir](./40-Kirsehir/README.md) | Kırşehir Ahi Evran Üniversitesi | Bağbaşı Kampüsü, Cacabey |
-| **42** | [📂 42-Konya](./42-Konya/README.md) | Selçuk Üni., Necmettin Erbakan Üni., Konya Teknik Üni. | Bosna Hersek (Selçuklu), Köyceğiz (Meram) |
-| **50** | [📂 50-Nevsehir](./50-Nevsehir/README.md) | Nevşehir Hacı Bektaş Veli Üni., Kapadokya Üni. | 2000 Evler, Ürgüp Mustafapaşa |
-| **51** | [📂 51-Nigde](./51-Nigde/README.md) | Niğde Ömer Halisdemir Üniversitesi | Bor Yolu Kampüsü, Aşağı Kayabaşı |
-| **58** | [📂 58-Sivas](./58-Sivas/README.md) | Sivas Cumhuriyet Üni., Sivas Bilim ve Teknoloji Üni. | Merkez Kampüs, Yenişehir |
-| **66** | [📂 66-Yozgat](./66-Yozgat/README.md) | Yozgat Bozok Üniversitesi | Erdoğan Akdağ Kampüsü |
-| **68** | [📂 68-Aksaray](./68-Aksaray/README.md) | Aksaray Üniversitesi | Adana Yolu Kampüsü, Kafeler Caddesi |
-| **70** | [📂 70-Karaman](./70-Karaman/README.md) | Karamanoğlu Mehmetbey Üniversitesi | Yunus Emre Kampüsü |
-| **71** | [📂 71-Kirikkale](./71-Kirikkale/README.md) | Kırıkkale Üniversitesi (KKÜ) | Yahşihan Merkez Kampüsü, Yenişehir |
+| **06** | [📂 06-Ankara](./iller/06-Ankara/README.md) | ODTÜ, Hacettepe, Ankara Üni., Gazi, AYBÜ, Bilkent, TOBB ETÜ | Çankaya, Beytepe, Beşevler, Cebeci, 100. Yıl |
+| **18** | [📂 18-Cankiri](./iller/18-Cankiri/README.md) | Çankırı Karatekin Üniversitesi | Uluyazı Kampüsü, Kırkevler |
+| **26** | [📂 26-Eskisehir](./iller/26-Eskisehir/README.md) | Anadolu Üni., Eskişehir Osmangazi Üni., ESTÜ | Bağlar, Meşelik (Odunpazarı), İki Eylül |
+| **38** | [📂 38-Kayseri](./iller/38-Kayseri/README.md) | Erciyes Üni. (ERÜ), Abdullah Gül Üni. (AGÜ), Kayseri Üni. | Talas, Melikgazi, Sümer Kampüsü |
+| **40** | [📂 40-Kirsehir](./iller/40-Kirsehir/README.md) | Kırşehir Ahi Evran Üniversitesi | Bağbaşı Kampüsü, Cacabey |
+| **42** | [📂 42-Konya](./iller/42-Konya/README.md) | Selçuk Üni., Necmettin Erbakan Üni., Konya Teknik Üni. | Bosna Hersek (Selçuklu), Köyceğiz (Meram) |
+| **50** | [📂 50-Nevsehir](./iller/50-Nevsehir/README.md) | Nevşehir Hacı Bektaş Veli Üni., Kapadokya Üni. | 2000 Evler, Ürgüp Mustafapaşa |
+| **51** | [📂 51-Nigde](./iller/51-Nigde/README.md) | Niğde Ömer Halisdemir Üniversitesi | Bor Yolu Kampüsü, Aşağı Kayabaşı |
+| **58** | [📂 58-Sivas](./iller/58-Sivas/README.md) | Sivas Cumhuriyet Üni., Sivas Bilim ve Teknoloji Üni. | Merkez Kampüs, Yenişehir |
+| **66** | [📂 66-Yozgat](./iller/66-Yozgat/README.md) | Yozgat Bozok Üniversitesi | Erdoğan Akdağ Kampüsü |
+| **68** | [📂 68-Aksaray](./iller/68-Aksaray/README.md) | Aksaray Üniversitesi | Adana Yolu Kampüsü, Kafeler Caddesi |
+| **70** | [📂 70-Karaman](./iller/70-Karaman/README.md) | Karamanoğlu Mehmetbey Üniversitesi | Yunus Emre Kampüsü |
+| **71** | [📂 71-Kirikkale](./iller/71-Kirikkale/README.md) | Kırıkkale Üniversitesi (KKÜ) | Yahşihan Merkez Kampüsü, Yenişehir |
 
 </details>
 
@@ -494,14 +518,14 @@ Aşağıdaki bölge sekmelerinden ilgilendiğiniz ili seçerek o şehrin genel �
 
 | Plaka | İl Klasörü | Başlıca Üniversiteler | Öne Çıkan Bölgeler |
 | :---: | :--- | :--- | :--- |
-| **01** | [📂 01-Adana](./01-Adana/README.md) | Çukurova Üni., Adana Alparslan Türkeş BTÜ | Balcalı, Barajyolu, Sarıçam |
-| **07** | [📂 07-Antalya](./07-Antalya/README.md) | Akdeniz Üni., ALKÜ, Antalya Bilim Üni. | Kültür Mahallesi, Meltem, Alanya Kestel |
-| **15** | [📂 15-Burdur](./15-Burdur/README.md) | Burdur Mehmet Akif Ersoy Üni. (MAKÜ) | İstiklal Yerleşkesi, Bucak |
-| **31** | [📂 31-Hatay](./31-Hatay/README.md) | Hatay Mustafa Kemal Üni., İskenderun Teknik Üni. | Tayfur Sökmen, İskenderun Merkez |
-| **32** | [📂 32-Isparta](./32-Isparta/README.md) | Süleyman Demirel Üni., Isparta Uygulamalı Bilimler | Çünür Doğu/Batı Kampüsü, Fatih Mah. |
-| **33** | [📂 33-Mersin](./33-Mersin/README.md) | Mersin Üni. (MEÜ), Tarsus Üni., Toros, Çağ | Çiftlikköy, Üniversite Caddesi, Tarsus |
-| **46** | [📂 46-Kahramanmaras](./46-Kahramanmaras/README.md) | Kahramanmaraş Sütçü İmam Üni., İstiklal Üni. | Avşar Kampüsü, Karacasu |
-| **80** | [📂 80-Osmaniye](./80-Osmaniye/README.md) | Osmaniye Korkut Ata Üniversitesi | Karacaoğlan Kampüsü (Fakıuşağı) |
+| **01** | [📂 01-Adana](./iller/01-Adana/README.md) | Çukurova Üni., Adana Alparslan Türkeş BTÜ | Balcalı, Barajyolu, Sarıçam |
+| **07** | [📂 07-Antalya](./iller/07-Antalya/README.md) | Akdeniz Üni., ALKÜ, Antalya Bilim Üni. | Kültür Mahallesi, Meltem, Alanya Kestel |
+| **15** | [📂 15-Burdur](./iller/15-Burdur/README.md) | Burdur Mehmet Akif Ersoy Üni. (MAKÜ) | İstiklal Yerleşkesi, Bucak |
+| **31** | [📂 31-Hatay](./iller/31-Hatay/README.md) | Hatay Mustafa Kemal Üni., İskenderun Teknik Üni. | Tayfur Sökmen, İskenderun Merkez |
+| **32** | [📂 32-Isparta](./iller/32-Isparta/README.md) | Süleyman Demirel Üni., Isparta Uygulamalı Bilimler | Çünür Doğu/Batı Kampüsü, Fatih Mah. |
+| **33** | [📂 33-Mersin](./iller/33-Mersin/README.md) | Mersin Üni. (MEÜ), Tarsus Üni., Toros, Çağ | Çiftlikköy, Üniversite Caddesi, Tarsus |
+| **46** | [📂 46-Kahramanmaras](./iller/46-Kahramanmaras/README.md) | Kahramanmaraş Sütçü İmam Üni., İstiklal Üni. | Avşar Kampüsü, Karacasu |
+| **80** | [📂 80-Osmaniye](./iller/80-Osmaniye/README.md) | Osmaniye Korkut Ata Üniversitesi | Karacaoğlan Kampüsü (Fakıuşağı) |
 
 </details>
 
@@ -510,24 +534,24 @@ Aşağıdaki bölge sekmelerinden ilgilendiğiniz ili seçerek o şehrin genel �
 
 | Plaka | İl Klasörü | Başlıca Üniversiteler | Öne Çıkan Bölgeler |
 | :---: | :--- | :--- | :--- |
-| **05** | [📂 05-Amasya](./05-Amasya/README.md) | Amasya Üniversitesi | İpekköy, Yeşilırmak, Merzifon |
-| **08** | [📂 08-Artvin](./08-Artvin/README.md) | Artvin Çoruh Üniversitesi | Seyitler Kampüsü, Hopa |
-| **14** | [📂 14-Bolu](./14-Bolu/README.md) | Bolu Abant İzzet Baysal Üniversitesi | Gölköy Kampüsü, İzzet Baysal Cad. |
-| **19** | [📂 19-Corum](./19-Corum/README.md) | Hitit Üniversitesi | Kuzey Kampüsü, Güney Kampüsü |
-| **28** | [📂 28-Giresun](./28-Giresun/README.md) | Giresun Üniversitesi | Güre Yerleşkesi, Tirebolu |
-| **29** | [📂 29-Gumushane](./29-Gumushane/README.md) | Gümüşhane Üniversitesi | Bağlarbaşı Kampüsü |
-| **37** | [📂 37-Kastamonu](./37-Kastamonu/README.md) | Kastamonu Üniversitesi | Kuzeykent Kampüsü |
-| **52** | [📂 52-Ordu](./52-Ordu/README.md) | Ordu Üniversitesi | Cumhuriyet Kampüsü, Ünye, Fatsa |
-| **53** | [📂 53-Rize](./53-Rize/README.md) | Recep Tayyip Erdoğan Üniversitesi | Zihni Derin (Fener), Çayeli |
-| **55** | [📂 55-Samsun](./55-Samsun/README.md) | Ondokuz Mayıs Üni. (OMÜ), Samsun Üni. | Kurupelit (Atakum), Ballıca |
-| **57** | [📂 57-Sinop](./57-Sinop/README.md) | Sinop Üniversitesi | Osmaniye/Korucuk Kampüsü |
-| **60** | [📂 60-Tokat](./60-Tokat/README.md) | Tokat Gaziosmanpaşa Üniversitesi | Taşlıçiftlik Kampüsü |
-| **61** | [📂 61-Trabzon](./61-Trabzon/README.md) | Karadeniz Teknik Üni. (KTÜ), Trabzon Üni. | Kanuni (Kalkınma), Akçaabat, Of |
-| **67** | [📂 67-Zonguldak](./67-Zonguldak/README.md) | Zonguldak Bülent Ecevit Üniversitesi | Farabi (İncivez), Kdz. Ereğli |
-| **69** | [📂 69-Bayburt](./69-Bayburt/README.md) | Bayburt Üniversitesi | Dede Korkut Kampüsü, Baberti |
-| **74** | [📂 74-Bartin](./74-Bartin/README.md) | Bartın Üniversitesi | Kutlubey Kampüsü, Ağdacı |
-| **78** | [📂 78-Karabuk](./78-Karabuk/README.md) | Karabük Üniversitesi (KBÜ) | Demir Çelik Kampüsü, 100. Yıl |
-| **81** | [📂 81-Duzce](./81-Duzce/README.md) | Düzce Üniversitesi | Konuralp Merkez Kampüsü, Akçakoca |
+| **05** | [📂 05-Amasya](./iller/05-Amasya/README.md) | Amasya Üniversitesi | İpekköy, Yeşilırmak, Merzifon |
+| **08** | [📂 08-Artvin](./iller/08-Artvin/README.md) | Artvin Çoruh Üniversitesi | Seyitler Kampüsü, Hopa |
+| **14** | [📂 14-Bolu](./iller/14-Bolu/README.md) | Bolu Abant İzzet Baysal Üniversitesi | Gölköy Kampüsü, İzzet Baysal Cad. |
+| **19** | [📂 19-Corum](./iller/19-Corum/README.md) | Hitit Üniversitesi | Kuzey Kampüsü, Güney Kampüsü |
+| **28** | [📂 28-Giresun](./iller/28-Giresun/README.md) | Giresun Üniversitesi | Güre Yerleşkesi, Tirebolu |
+| **29** | [📂 29-Gumushane](./iller/29-Gumushane/README.md) | Gümüşhane Üniversitesi | Bağlarbaşı Kampüsü |
+| **37** | [📂 37-Kastamonu](./iller/37-Kastamonu/README.md) | Kastamonu Üniversitesi | Kuzeykent Kampüsü |
+| **52** | [📂 52-Ordu](./iller/52-Ordu/README.md) | Ordu Üniversitesi | Cumhuriyet Kampüsü, Ünye, Fatsa |
+| **53** | [📂 53-Rize](./iller/53-Rize/README.md) | Recep Tayyip Erdoğan Üniversitesi | Zihni Derin (Fener), Çayeli |
+| **55** | [📂 55-Samsun](./iller/55-Samsun/README.md) | Ondokuz Mayıs Üni. (OMÜ), Samsun Üni. | Kurupelit (Atakum), Ballıca |
+| **57** | [📂 57-Sinop](./iller/57-Sinop/README.md) | Sinop Üniversitesi | Osmaniye/Korucuk Kampüsü |
+| **60** | [📂 60-Tokat](./iller/60-Tokat/README.md) | Tokat Gaziosmanpaşa Üniversitesi | Taşlıçiftlik Kampüsü |
+| **61** | [📂 61-Trabzon](./iller/61-Trabzon/README.md) | Karadeniz Teknik Üni. (KTÜ), Trabzon Üni. | Kanuni (Kalkınma), Akçaabat, Of |
+| **67** | [📂 67-Zonguldak](./iller/67-Zonguldak/README.md) | Zonguldak Bülent Ecevit Üniversitesi | Farabi (İncivez), Kdz. Ereğli |
+| **69** | [📂 69-Bayburt](./iller/69-Bayburt/README.md) | Bayburt Üniversitesi | Dede Korkut Kampüsü, Baberti |
+| **74** | [📂 74-Bartin](./iller/74-Bartin/README.md) | Bartın Üniversitesi | Kutlubey Kampüsü, Ağdacı |
+| **78** | [📂 78-Karabuk](./iller/78-Karabuk/README.md) | Karabük Üniversitesi (KBÜ) | Demir Çelik Kampüsü, 100. Yıl |
+| **81** | [📂 81-Duzce](./iller/81-Duzce/README.md) | Düzce Üniversitesi | Konuralp Merkez Kampüsü, Akçakoca |
 
 </details>
 
@@ -536,20 +560,20 @@ Aşağıdaki bölge sekmelerinden ilgilendiğiniz ili seçerek o şehrin genel �
 
 | Plaka | İl Klasörü | Başlıca Üniversiteler | Öne Çıkan Bölgeler |
 | :---: | :--- | :--- | :--- |
-| **04** | [📂 04-Agri](./04-Agri/README.md) | Ağrı İbrahim Çeçen Üniversitesi | Merkez Kampüs |
-| **12** | [📂 12-Bingol](./12-Bingol/README.md) | Bingöl Üniversitesi | Selahaddin-i Eyyubi Mah. |
-| **13** | [📂 13-Bitlis](./13-Bitlis/README.md) | Bitlis Eren Üniversitesi | Rahva Merkez Kampüsü, Tatvan |
-| **23** | [📂 23-Elazig](./23-Elazig/README.md) | Fırat Üniversitesi | Üniversite Mahallesi, Sürsürü |
-| **24** | [📂 24-Erzincan](./24-Erzincan/README.md) | Erzincan Binali Yıldırım Üniversitesi | Yalnızbağ Yerleşkesi |
-| **25** | [📂 25-Erzurum](./25-Erzurum/README.md) | Atatürk Üni., Erzurum Teknik Üni. (ETÜ) | Yakutiye Merkez Kampüs, Yıldızkent |
-| **30** | [📂 30-Hakkari](./30-Hakkari/README.md) | Hakkari Üniversitesi | Zeynel Bey Kampüsü |
-| **36** | [📂 36-Kars](./36-Kars/README.md) | Kafkas Üniversitesi | Paşaçayırı Kampüsü, Sarıkamış |
-| **44** | [📂 44-Malatya](./44-Malatya/README.md) | İnönü Üni., Malatya Turgut Özal Üni. | Battalgazi (Bulgurlu), Yeşilyurt |
-| **49** | [📂 49-Mus](./49-Mus/README.md) | Muş Alparslan Üniversitesi | Güzeltepe Kampüsü |
-| **62** | [📂 62-Tunceli](./62-Tunceli/README.md) | Munzur Üniversitesi | Aktuluk Yerleşkesi, Pertek |
-| **65** | [📂 65-Van](./65-Van/README.md) | Van Yüzüncü Yıl Üniversitesi | Zeve Kampüsü (Tuşba) |
-| **75** | [📂 75-Ardahan](./75-Ardahan/README.md) | Ardahan Üniversitesi | Yenisey Kampüsü |
-| **76** | [📂 76-Igdir](./76-Igdir/README.md) | Iğdır Üniversitesi | Suveren Kampüsü, Karaağaç |
+| **04** | [📂 04-Agri](./iller/04-Agri/README.md) | Ağrı İbrahim Çeçen Üniversitesi | Merkez Kampüs |
+| **12** | [📂 12-Bingol](./iller/12-Bingol/README.md) | Bingöl Üniversitesi | Selahaddin-i Eyyubi Mah. |
+| **13** | [📂 13-Bitlis](./iller/13-Bitlis/README.md) | Bitlis Eren Üniversitesi | Rahva Merkez Kampüsü, Tatvan |
+| **23** | [📂 23-Elazig](./iller/23-Elazig/README.md) | Fırat Üniversitesi | Üniversite Mahallesi, Sürsürü |
+| **24** | [📂 24-Erzincan](./iller/24-Erzincan/README.md) | Erzincan Binali Yıldırım Üniversitesi | Yalnızbağ Yerleşkesi |
+| **25** | [📂 25-Erzurum](./iller/25-Erzurum/README.md) | Atatürk Üni., Erzurum Teknik Üni. (ETÜ) | Yakutiye Merkez Kampüs, Yıldızkent |
+| **30** | [📂 30-Hakkari](./iller/30-Hakkari/README.md) | Hakkari Üniversitesi | Zeynel Bey Kampüsü |
+| **36** | [📂 36-Kars](./iller/36-Kars/README.md) | Kafkas Üniversitesi | Paşaçayırı Kampüsü, Sarıkamış |
+| **44** | [📂 44-Malatya](./iller/44-Malatya/README.md) | İnönü Üni., Malatya Turgut Özal Üni. | Battalgazi (Bulgurlu), Yeşilyurt |
+| **49** | [📂 49-Mus](./iller/49-Mus/README.md) | Muş Alparslan Üniversitesi | Güzeltepe Kampüsü |
+| **62** | [📂 62-Tunceli](./iller/62-Tunceli/README.md) | Munzur Üniversitesi | Aktuluk Yerleşkesi, Pertek |
+| **65** | [📂 65-Van](./iller/65-Van/README.md) | Van Yüzüncü Yıl Üniversitesi | Zeve Kampüsü (Tuşba) |
+| **75** | [📂 75-Ardahan](./iller/75-Ardahan/README.md) | Ardahan Üniversitesi | Yenisey Kampüsü |
+| **76** | [📂 76-Igdir](./iller/76-Igdir/README.md) | Iğdır Üniversitesi | Suveren Kampüsü, Karaağaç |
 
 </details>
 
@@ -558,15 +582,15 @@ Aşağıdaki bölge sekmelerinden ilgilendiğiniz ili seçerek o şehrin genel �
 
 | Plaka | İl Klasörü | Başlıca Üniversiteler | Öne Çıkan Bölgeler |
 | :---: | :--- | :--- | :--- |
-| **02** | [📂 02-Adiyaman](./02-Adiyaman/README.md) | Adıyaman Üniversitesi | Altınşehir Mahallesi |
-| **21** | [📂 21-Diyarbakir](./21-Diyarbakir/README.md) | Dicle Üniversitesi | Sur Kampüsü, Kayapınar |
-| **27** | [📂 27-Gaziantep](./27-Gaziantep/README.md) | Gaziantep Üni. (GAÜN), GİBTÜ, Hasan Kalyoncu | Üniversite Bulvarı, Karataş |
-| **47** | [📂 47-Mardin](./47-Mardin/README.md) | Mardin Artuklu Üniversitesi | Artuklu Kampüsü, Midyat |
-| **56** | [📂 56-Siirt](./56-Siirt/README.md) | Siirt Üniversitesi | Kezer Yerleşkesi |
-| **63** | [📂 63-Sanliurfa](./63-Sanliurfa/README.md) | Harran Üniversitesi | Osmanbey Kampüsü, Eyyübiye |
-| **72** | [📂 72-Batman](./72-Batman/README.md) | Batman Üniversitesi | Batı Raman Kampüsü, Merkez |
-| **73** | [📂 73-Sirnak](./73-Sirnak/README.md) | Şırnak Üniversitesi | Mehmet Emin Acar Kampüsü |
-| **79** | [📂 79-Kilis](./79-Kilis/README.md) | Kilis 7 Aralık Üniversitesi | Merkez Kampüs, Karataş |
+| **02** | [📂 02-Adiyaman](./iller/02-Adiyaman/README.md) | Adıyaman Üniversitesi | Altınşehir Mahallesi |
+| **21** | [📂 21-Diyarbakir](./iller/21-Diyarbakir/README.md) | Dicle Üniversitesi | Sur Kampüsü, Kayapınar |
+| **27** | [📂 27-Gaziantep](./iller/27-Gaziantep/README.md) | Gaziantep Üni. (GAÜN), GİBTÜ, Hasan Kalyoncu | Üniversite Bulvarı, Karataş |
+| **47** | [📂 47-Mardin](./iller/47-Mardin/README.md) | Mardin Artuklu Üniversitesi | Artuklu Kampüsü, Midyat |
+| **56** | [📂 56-Siirt](./iller/56-Siirt/README.md) | Siirt Üniversitesi | Kezer Yerleşkesi |
+| **63** | [📂 63-Sanliurfa](./iller/63-Sanliurfa/README.md) | Harran Üniversitesi | Osmanbey Kampüsü, Eyyübiye |
+| **72** | [📂 72-Batman](./iller/72-Batman/README.md) | Batman Üniversitesi | Batı Raman Kampüsü, Merkez |
+| **73** | [📂 73-Sirnak](./iller/73-Sirnak/README.md) | Şırnak Üniversitesi | Mehmet Emin Acar Kampüsü |
+| **79** | [📂 79-Kilis](./iller/79-Kilis/README.md) | Kilis 7 Aralık Üniversitesi | Merkez Kampüs, Karataş |
 
 </details>
 

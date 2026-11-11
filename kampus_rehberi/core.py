@@ -54,10 +54,18 @@ class KampusRehberi:
         return self._campuses
 
     def get_by_id(self, campus_id: str) -> Optional[Campus]:
-        """ID veya dosya yoluna göre kampüs getirir."""
-        norm_id = campus_id.replace("\\", "/").replace(".md", "")
+        """ID veya dosya yoluna göre kampüs getirir (hem iller/ prefixli hem prefixesiz destekler)."""
+        norm_id = campus_id.replace("\\", "/").replace(".md", "").strip("/")
+        if norm_id.startswith("iller/"):
+            clean_id = norm_id[6:]
+        else:
+            clean_id = norm_id
+
         for c in self._campuses:
-            if c.id == norm_id or c.file_path.replace(".md", "") == norm_id:
+            c_norm = c.id.replace("\\", "/").replace(".md", "").strip("/")
+            c_clean = c_norm[6:] if c_norm.startswith("iller/") else c_norm
+            
+            if c_norm == norm_id or c_clean == clean_id or c.file_path.replace(".md", "") == norm_id:
                 return c
         return None
 

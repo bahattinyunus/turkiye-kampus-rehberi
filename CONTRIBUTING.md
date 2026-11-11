@@ -15,13 +15,13 @@
 
 ## 📂 Klasör ve Dosya İsimlendirme Kuralları
 
-Reponun hem insanlar hem de ileride kurulacak Web/API ve RAG sistemleri tarafından kolayca okunabilmesi için standart bir dizin yapısı kullanıyoruz:
+Reponun hem insanlar hem de ileride kurulacak Web/API ve RAG sistemleri tarafından kolayca okunabilmesi için standart bir dizin yapısı kullanıyoruz. Tüm iller `iller/` dizini altında toplanmıştır:
 
-* **İl Klasörleri:** `<PlakaKodu>-<IlAdi>` formatındadır ve Türkçe karakter **içermez**.
-  * ✅ Doğru: `06-Ankara`, `34-Istanbul`, `48-Mugla`, `61-Trabzon`
-  * ❌ Yanlış: `6-Ankara`, `34-İstanbul`, `Muğla`
+* **İl Klasörleri (`iller/` altında):** `iller/<PlakaKodu>-<IlAdi>` formatındadır ve Türkçe karakter **içermez**.
+  * ✅ Doğru: `iller/06-Ankara`, `iller/34-Istanbul`, `iller/48-Mugla`, `iller/61-Trabzon`
+  * ❌ Yanlış: `06-Ankara` (kök dizinde), `iller/6-Ankara`, `iller/34-İstanbul`
 * **İlçe Klasörleri:** İlgili il klasörünün altında Türkçe karaktersiz PascalCase / Tireli formatta yer alır.
-  * ✅ Doğru: `48-Mugla/Mentese`, `61-Trabzon/Ortahisar`, `06-Ankara/Cankaya`
+  * ✅ Doğru: `iller/48-Mugla/Mentese`, `iller/61-Trabzon/Ortahisar`, `iller/06-Ankara/Cankaya`
 * **Kampüs Dosyaları:** `<UniversiteKisaAdiVeyaAdi>-<KampusVeyaFakulteAdi>.md` formatındadır.
   * ✅ Doğru: `ODTU-Merkez-Kampusu.md`, `KTU-Of-Teknoloji-Fakultesi.md`, `MSKU-Kotekli-Kampusu.md`
 
@@ -46,7 +46,7 @@ git checkout -b update/06-ankara-odtu-yemekhane
 ### 3. Şablonu Kopyala ve Doldur
 Ana dizindeki `TEMPLATE.md` dosyasını ilgili il ve ilçe klasörüne kopyala:
 ```bash
-cp TEMPLATE.md 35-Izmir/Bornova/Ege-Universitesi-Merkez.md
+cp TEMPLATE.md iller/35-Izmir/Bornova/Ege-Universitesi-Merkez.md
 ```
 Ardından tüm başlıkları **objektif, ölçülebilir ve güncel** verilerle doldur.
 

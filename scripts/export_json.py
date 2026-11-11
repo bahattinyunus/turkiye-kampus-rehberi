@@ -71,6 +71,8 @@ def parse_campus_file(file_path):
     # Path parts
     rel_path = os.path.relpath(file_path, os.getcwd()).replace('\\', '/')
     parts = rel_path.split('/')
+    if parts and parts[0] == 'iller':
+        parts = parts[1:]
     il_folder = parts[0] if len(parts) > 1 else ""
     ilce = parts[1] if len(parts) > 2 else "Merkez"
     
@@ -101,7 +103,9 @@ def main():
     campuses = []
     provinces = {}
 
-    md_files = glob.glob(os.path.join(root_dir, '[0-8][0-9]-*/**/*.md'), recursive=True)
+    md_files = glob.glob(os.path.join(root_dir, 'iller', '[0-8][0-9]-*/**/*.md'), recursive=True)
+    if not md_files:
+        md_files = glob.glob(os.path.join(root_dir, '[0-8][0-9]-*/**/*.md'), recursive=True)
     
     for f in md_files:
         filename = os.path.basename(f)
