@@ -16,10 +16,11 @@ Karadeniz Bölgesi'nin eğitim, sağlık, ticaret ve ulaşım başkenti olan **S
 | **Ondokuz Mayıs Üniversitesi (OMÜ)** | Kurupelit Merkez Kampüsü | Atakum | Tıp, Mühendislik, Eğitim, Diş, Fen, İİBF, Ziraat, Veteriner | [OMÜ Kurupelit Merkez Kampüsü](./Atakum/OMU-Kurupelit-Merkez-Kampusu.md) |
 | **Ondokuz Mayıs Üniversitesi (OMÜ)** | Güzel Sanatlar Kampüsü | İlkadım | Güzel Sanatlar Fakültesi, Devlet Konservatuvarı, Samsun MYO | [OMÜ Güzel Sanatlar Kampüsü](./Ilkadim/OMU-Guzel-Sanatlar-Kampusu.md) |
 | **Ondokuz Mayıs Üniversitesi (OMÜ)** | Mustafa Kemal Güneşdoğdu Kampüsü | Çarşamba | Hukuk Fakültesi, İletişim Fakültesi, İnsan ve Toplum Bilimleri, Çarşamba MYO | [OMÜ Çarşamba Kampüsü](./Carsamba/OMU-Carsamba-Mustafa-Kemal-Gunesdogdu-Kampusu.md) |
+| **Ondokuz Mayıs Üniversitesi (OMÜ)** | Bafra Yerleşkesi | Bafra | Bafra İşletme Fakültesi, Bafra Turizm Fakültesi, Şevket Aşcı Turizm MYO, Bafra MYO | [OMÜ Bafra Yerleşkesi](./Bafra/OMU-Bafra-Yerleskesi.md) |
 | **Samsun Üniversitesi (SAMÜ)** | Ballıca Kampüsü | 19 Mayıs | Özdemir Bayraktar Havacılık ve Uzay Bilimleri, Mühendislik ve Doğa Bilimleri | [SAMÜ 19 Mayıs Ballıca Kampüsü](./Ondokuzmayis/SAMU-Ballica-Kampusu.md) |
 | **Samsun Üniversitesi (SAMÜ)** | Canik Kampüsü | Canik | İktisadi, İdari ve Sosyal Bilimler, Mimarlık ve Tasarım, Siyasal Bilgiler | [SAMÜ Canik Kampüsü](./Canik/SAMU-Canik-Kampusu.md) |
 
-> **Diğer İlçe Yerleşkeleri:** OMÜ Bafra (Turizm Fakültesi, İşletme Fakültesi, Şevket Aşcı Turizm MYO, Bafra MYO), OMÜ Terme MYO, OMÜ Vezirköprü MYO, OMÜ Havza MYO, OMÜ Kavak MYO, OMÜ Alaçam MYO, OMÜ Ladik MYO.
+> **Diğer İlçe Yerleşkeleri:** OMÜ Terme MYO, OMÜ Vezirköprü MYO, OMÜ Havza MYO, OMÜ Kavak MYO, OMÜ Alaçam MYO, OMÜ Ladik MYO.
 
 ---
 
@@ -68,3 +69,4 @@ Aşağıdaki bağlantılardan Samsun'daki kampüslerin ulaşım, barınma, yemek
 * 📍 [19 Mayıs - Samsun Üniversitesi Ballıca Kampüsü](./Ondokuzmayis/SAMU-Ballica-Kampusu.md)
 * 📍 [Canik - Samsun Üniversitesi Canik Kampüsü](./Canik/SAMU-Canik-Kampusu.md)
 * 📍 [Çarşamba - OMÜ Mustafa Kemal Güneşdoğdu Kampüsü](./Carsamba/OMU-Carsamba-Mustafa-Kemal-Gunesdogdu-Kampusu.md)
+* 📍 [Bafra - OMÜ Bafra Yerleşkesi](./Bafra/OMU-Bafra-Yerleskesi.md)

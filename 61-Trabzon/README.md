@@ -16,7 +16,7 @@ Doğu Karadeniz'in tarihi, kültürel ve ticari başkenti olan **Trabzon**, İst
 | **Karadeniz Teknik Üniversitesi (KTÜ)** | Kanuni Merkez Kampüsü | Ortahisar | Tıp, Mühendislik, Mimarlık, Diş, Eczacılık, Fen, Edebiyat, İİBF, Orman, Sağlık Bilimleri | [KTÜ Kanuni Merkez Kampüsü](./Ortahisar/KTU-Merkez.md) |
 | **Karadeniz Teknik Üniversitesi (KTÜ)** | Of Yerleşkesi | Of | Of Teknoloji Fakültesi (Yazılım, İnşaat, Elektronik, Enerji Sistemleri Müh.) | [KTÜ Of Teknoloji Fakültesi](./Of/KTU-Of-Teknoloji-Fakultesi.md) |
 | **Karadeniz Teknik Üniversitesi (KTÜ)** | Muammer Dereli & Çamburnu Kampüsü | Sürmene | Sürmene Deniz Bilimleri Fakültesi (Gemi İnşaatı, Deniz Ulaştırma İşletme Müh., Balıkçılık) & Abdullah Kanca MYO | [KTÜ Sürmene Deniz Bilimleri Fakültesi](./Surmene/KTU-Surmene-Deniz-Bilimleri-Fakultesi.md) |
-| **Trabzon Üniversitesi (TRÜ)** | Söğütlü Merkez Kampüsü | Akçaabat | Fatih Eğitim Fakültesi, Hukuk, İlahiyat, İletişim, Spor Bilimleri, Güzel Sanatlar | [TRÜ Akçaabat Söğütlü Merkez Kampüsü](./Akcaabat/TRabu-Sogutlu-Merkez-Kampusu.md) |
+| **Trabzon Üniversitesi (TRÜ)** | Fatih (Söğütlü) Merkez Kampüsü | Akçaabat | Fatih Eğitim Fakültesi, Hukuk, İlahiyat, İletişim, Spor Bilimleri, Güzel Sanatlar | [TRÜ Fatih (Söğütlü) Merkez Kampüsü](./Akcaabat/TRabu-Sogutlu-Merkez-Kampusu.md) |
 | **Avrasya Üniversitesi** | Pelitli, Ömer Yıldız ve Kaşüstü Kampüsleri | Ortahisar & Yomra | Mühendislik-Mimarlık, Sağlık Bilimleri, Fen-Edebiyat, İİBF, Uygulamalı Bilimler, MYO | [Avrasya Üniversitesi Kampüsleri](./Yomra/Avrasya-Universitesi-Pelitli-ve-Yomra-Kampusleri.md) |
 
 > **Diğer İlçe Yerleşkeleri:** KTÜ Maçka MYO, KTÜ Arsin MYO, KTÜ Çaykara MYO; Trabzon Üniversitesi Vakfıkebir (Uygulamalı Bilimler YO & MYO), Beşikdüzü MYO, Şalpazarı MYO, Tonya MYO, Düzköy MYO, Çarşıbaşı MYO.
@@ -63,5 +63,5 @@ KTÜ Kanuni Kampüsü içinde ve çevresinde devasa **Doğu Karadeniz KYK Kız �
 * 📍 [Ortahisar - KTÜ Kanuni Merkez Kampüsü](./Ortahisar/KTU-Merkez.md)
 * 📍 [Of - KTÜ Of Teknoloji Fakültesi](./Of/KTU-Of-Teknoloji-Fakultesi.md)
 * 📍 [Sürmene - KTÜ Sürmene Deniz Bilimleri Fakültesi ve Çamburnu](./Surmene/KTU-Surmene-Deniz-Bilimleri-Fakultesi.md)
-* 📍 [Akçaabat - Trabzon Üniversitesi Söğütlü Merkez Kampüsü](./Akcaabat/TRabu-Sogutlu-Merkez-Kampusu.md)
+* 📍 [Akçaabat - Trabzon Üniversitesi Fatih (Söğütlü) Merkez Kampüsü](./Akcaabat/TRabu-Sogutlu-Merkez-Kampusu.md)
 * 📍 [Ortahisar & Yomra - Avrasya Üniversitesi Kampüsleri](./Yomra/Avrasya-Universitesi-Pelitli-ve-Yomra-Kampusleri.md)

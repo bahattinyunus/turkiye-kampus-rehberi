@@ -79,7 +79,7 @@
 * **Yüksek Uygulama ve İş İmkanı:** Aşçılık, turizm ve ormancılık gibi bölümlerde sektörün tam kalbinde eğitim alma.
 * **Bartın Merkez'e Kolay Erişim:** Amasra'dan 25 dakikada Bartın şehir merkezine ulaşabilme.
 
-### ❌ Eksileri
+### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
 * **Amasra'da Sezonluk Ev Sıkıntısı:** Turistik ilçe olması nedeniyle bazı ev sahiplerinin Haziran ayında evleri turiste kiralamak istemesi (sözleşmeyi 12 aylık yapmak önemlidir).
 * **Ulus'un Sakinliği:** Ulus ilçesinin sosyal hayatının küçük bir Anadolu kasabası ölçeğinde olması.
 

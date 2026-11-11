@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Bursa / Yıldırım  
 > **Üniversite Türü:** Devlet (Teknik Üniversite)  
-> **Kampüs Konumu:** Şehir İçi Merkez Kampüsler (Mimar Sinan Mah. & 152 Evler)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.1/5)
+> **Kampüs Konumu:** Şehir İçi Metro Kampüsleri (Mimar Sinan & 152 Evler / Arabayatağı)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
 
 ---
 
@@ -12,76 +12,97 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | Şehir İçi (Heykel'e 10-15 dk) | Bursaray Mimar Sinan ve 152 Evler metro istasyonlarına yürüme mesafesi |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Kampüs karşısında/yakınında Mehmet Zahid Kotku Erkek ve Gülruh Hatun Kız KYK |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 11.000 - 16.500 TL | Mimar Sinan, Erikli, Eğitim, Millet ve Setbaşı/Heykel mahalleleri |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 32 TL / İyi | Her iki yerleşkede modern öğrenci yemekhaneleri mevcut |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri (Sınavda 7/24) | Mimar Sinan Kampüsü modern kütüphanesi |
-| **🌐 İnternet (eduroam)** | Çok Hızlı | Genç teknik üniversite altyapısıyla kesintisiz fiber/eduroam |
-| **🌆 Sosyal Yaşam & Çevre** | Dengeli (Metroyla Her Yere Erişim) | Yıldırım sakin/geleneksel; metroyla 10 dk'da Heykel, 30 dk'da Nilüfer |
+| **🚇 Şehir Merkezine Uzaklık** | Şehir İçi (Heykel'e 10 dk / Nilüfer'e 25 dk) | Bursaray Mimar Sinan ve 152 Evler metro istasyonlarına 3-5 dk yürüme |
+| **🏠 KYK Yurt İmkanı** | Yüksek | Kampüs karşısında Mehmet Zahid Kotku Erkek KYK ve Yıldırım Gülruh Hatun Kız KYK |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 11.500 - 17.000 TL | Mimar Sinan, Erikli, Eğitim, Millet ve Değirmenlikızık mahalleleri |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 32 TL / Çok İyi | Her iki yerleşkede modern yemekhane, dengeli 4 çeşit menü |
+| **📚 Kütüphane Kapasitesi** | Mesai Saatleri (Sınavda 7/24) | Mimar Sinan Kampüsü modern Merkez Kütüphanesi ve dijital veri tabanları |
+| **🌐 İnternet (eduroam)** | Çok Hızlı (Fiber) | Genç teknik üniversite altyapısıyla kesintisiz gigabit eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | Yıldırım Geleneksel / Metroyla Her Yere Erişim | Yıldırım sakin ve aile odaklı; metroyla 10 dk'da Heykel, 25 dk'da Nilüfer |
 
 ---
 
 ## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
 
-* **Şehir Merkezinden Ulaşım:**  
-  2010 yılında kurulan Bursa'nın ikinci devlet üniversitesi **Bursa Teknik Üniversitesi (BTÜ)**, şehrin doğu yakasındaki **Yıldırım** ilçesinde birbirine çok yakın iki ana yerleşkede hizmet verir: **Mimar Sinan Kampüsü** (Mühendislik, Mimarlık, İnsan ve Toplum Bilimleri, Orman vb.) ve **Yıldırım Bayezid Kampüsü (152 Evler / Eğitim Mah.)**. Her iki kampüs de **Bursaray (Metro) Mimar Sinan** ve **152 Evler / Arabayatağı** istasyonlarına 5-10 dakikalık yürüme veya tek minibüs mesafesindedir.
-* **Kampüs İçi Ulaşım:**  
-  Mimar Sinan Kampüsü, tüm fakülte bloklarının, laboratuvarların ve kütüphanenin birbirine 2-3 dakika yürüme mesafesinde olduğu çok kompakt ve modern bir şehir içi kampüstür; uzun yürüyüşlere veya ringe gerek yoktur.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  **Bursakart** öğrenci abonmanı ile metro ve tüm belediye otobüsleri indirimli kullanılır.
+* **Bursaray (Metro) ile Doğrudan Ulaşım:**  
+  2010 yılında Türkiye'nin 5. teknik üniversitesi olarak kurulan **Bursa Teknik Üniversitesi (BTÜ)**, şehrin doğusundaki Yıldırım ilçesinde yer alır. Üniversitenin en büyük avantajlarından biri doğrudan metro hattı üzerinde olmasıdır:
+  * **Mimar Sinan Kampüsü (Ana Yerleşke):** Bursaray 1 ve 2 numaralı hatların **"Mimar Sinan / BTÜ"** istasyonuna yürüyerek sadece **3-4 dakika** mesafededir.
+  * **Yıldırım Bayezid Kampüsü (152 Evler):** Bursaray **"152 Evler"** istasyonuna 5 dakikalık yürüme mesafesindedir. İki kampüs arası mesafe ise yürüyerek 12-15 dakika, metro veya dolmuşla 3 dakikadır.
+* **Şehir Merkezinden ve Nilüfer'den Ulaşım:**  
+  Bursaray ile tarihi şehir merkezi olan **Şehreküstü (Heykel / Kent Meydanı)**'na 10 dakikada, Nilüfer'in kalbi olan **FSM Bulvarı**'na 20 dakikada, **Görükle (Üniversite)** istasyonuna ise 35 dakikada tek vesaitle aktarmasız gidilebilir.
+* **Öğrenci Abonman Kartı (Bursakart):**  
+  Bursa Büyükşehir Belediyesi'nin Bursakart öğrenci tarifesi ve aylık sınırsız/paket öğrenci abonman sistemi Türkiye'nin en ekonomik toplu taşıma olanaklarından biridir.
+* **Kış Şartlarında Ulaşım:**  
+  Bursa şehir merkezinde yer aldığı ve ulaşım tamamen metroya dayandığı için kışın kar yağışlarında bile okula ulaşımda hiçbir aksama yaşanmaz.
 
 ---
 
 ## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
 
 * **KYK Yurtları:**  
-  * **Kız Yurtları:** Yıldırım bölgesinde yer alan **Gülruh Hatun Kız KYK Yurdu** kampüse oldukça yakındır.
-  * **Erkek Yurtları:** Mimar Sinan Kampüsü'nün hemen karşısında/yürüme mesafesinde **Mehmet Zahid Kotku Erkek KYK Yurdu** bulunur; burada kalan erkek öğrenciler derse 3 dakikada yürüyerek gider.
+  * **Mehmet Zahid Kotku Erkek KYK Yurdu:** Mimar Sinan Kampüsü'nün hemen karşısında (arada sadece 1 sokak var) yer alır. Burada kalan erkek öğrenciler sabah 08:30 dersine 08:25'te yurttan çıkarak yetişebilir.
+  * **Gülruh Hatun Kız KYK Yurdu:** Yıldırım ilçesinde yer alır ve kampüse tek minibüs veya kısa bir metro yolculuğuyla ulaşılır. Odalar modern, temiz ve çalışma salonları ferahtır.
 * **Öğrenci Evleri ve Popüler Mahalleler:**  
-  BTÜ öğrencileri okula yürüyerek gitmek ve uygun kira ödemek için **Mimar Sinan**, **Eğitim (152 Evler)**, **Erikli** ve **Millet** mahallelerinde ev tutar (11.000 - 15.500 TL). Ayrıca metro avantajı sayesinde **Heykel/Setbaşı** veya Nilüfer'de (Beşevler/Görükle) kalıp metroyla BTÜ'ye gidip gelen öğrenciler de vardır.
+  * **Mimar Sinan & Erikli:** Kampüse yürüme mesafesinde ev arayan öğrencilerin bir numaralı adresidir. Düz ayak, güvenli ve marketlere yakındır.
+  * **Eğitim & 152 Evler:** Yıldırım Bayezid Yerleşkesi çevresindedir; kiralık daire bulmak oldukça kolaydır.
+  * **Millet Mahallesi:** Daha yeni, lüks ve geniş sitelerde yaşamak isteyen öğrencilerin tercih ettiği nezih bir yerleşimdir.
+  * Kiralar Görükle ve Özlüce'ye göre %30-40 daha uygundur (11.500 TL - 17.000 TL bandı).
 
 ---
 
 ## 3. 🎓 Akademik ve Fiziki Altyapı
 
-* **Kütüphane ve Laboratuvarlar:**  
-  BTÜ, **"Yenilikçi Devlet Üniversitesi"** vizyonuyla Türkiye'nin en yüksek akademisyen başına düşen laboratuvar alanlarından birine sahiptir. Bilgisayar, Yapay Zeka, Elektrik-Elektronik, Makine, Mekatronik, Metalurji, Polimer, Gıda ve Kimya Mühendisliği laboratuvarları sıfır ve son teknoloji cihazlarla donatılmıştır.
-* **İnmiş/Sektörel Eğitim (İMEP):**  
-  BTÜ'nün en büyük farkı **İMEP (İşletmede Mesleki Eğitim Programı)** uygulamasıdır: Öğrenciler 4. sınıfta bir dönem boyunca okula gelmek yerine Bursa'daki büyük sanayi firmalarında tam zamanlı mühendis adayı olarak çalışır ve yüksek oranda aynı firmada işe başlar.
-* **Öğrenci Toplulukları:**  
-  TEKNOFEST takımları (Lagari Roket, Hacıwatt Elektrikli Araç, İHA, Otonom Sistemler) Türkiye birincilikleriyle ünlüdür.
+* **"Yenilikçi Devlet Teknik Üniversitesi" Vizyonu:**  
+  BTÜ, geleneksel hantal bürokrasi yerine hızlı, genç ve sanayiyle iç içe bir eğitim modeli uygular. Öğretim üyesi başına düşen laboratuvar alanı ve bilimsel yayın sayısı Türkiye ortalamasının çok üzerindedir:
+  * **Mühendislik Fakültesi:** Bilgisayar, Yazılım, Yapay Zeka, Elektrik-Elektronik, Makine, Mekatronik, Metalurji ve Malzeme, Kimya, Biyomühendislik ve Polimer Mühendisliği laboratuvarları sıfır ve son teknoloji araştırma cihazlarıyla donatılmıştır.
+  * **Mimarlık ve Tasarım Fakültesi:** Geniş çizim stüdyoları ve maket atölyeleri.
+  * **İnsan ve Toplum Bilimleri ile Orman Fakültesi:** Güçlü akademik kadro.
+* **Efsanevi "İMEP" (İşletmede Mesleki Eğitim Programı):**  
+  BTÜ'yü diğer üniversitelerden ayıran en büyük özellik **İMEP** sistemidir. Öğrenciler 4. sınıfta bir dönem boyunca (yaklaşık 4-5 ay) okula hiç gelmeden Bursa'daki dev sanayi kuruluşlarında (Oyak Renault, Tofaş, Bosch, Valeo, Karsan, Asil Çelik, Coşkunöz vb.) tam zamanlı mühendis gibi çalışır, sigortaları ve maaşları ödenir. Mezunların %70'inden fazlası İMEP yaptıkları firmalardan mezun olmadan önce iş teklifi alır!
+* **TEKNOFEST Başarıları:**  
+  Lagari Havacılık ve Roket Takımı, Hacıwatt Elektrikli Araç Takımı, İHA ve Otonom Araç takımları TEKNOFEST yarışmalarında Türkiye birincilikleriyle tanınır; atölyelerde gece gündüz üretim yapılır.
 
 ---
 
 ## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
 
-* **Merkez Yemekhane & Kantin:**  
-  Mimar Sinan ve Yıldırım Bayezid yerleşkelerinde ferah yemekhaneler (25-32 TL), öğrenci kantinleri, kahve noktaları ve spor salonları bulunur. Kampüs kapısının hemen dışında ise Polis Okulu/Mimar Sinan caddesi boyunca onlarca öğrenci dönercisi, lokanta, BİM/A101/Migros ve kafe sıralanır.
+* **Merkez Yemekhane:**  
+  Mimar Sinan ve Yıldırım Bayezid yerleşkelerindeki yemekhaneler modern ve hijyeniktir. 25-32 TL arasında 4 çeşit zengin menü verilir.
+* **Kampüs Çevresi Yeme-İçme:**  
+  Kampüs kapısından çıkıldığı anda Polis Okulu Caddesi ve Mimar Sinan Caddesi boyunca öğrenci lokantaları, meşhur Bursa pideli köftecileri, çiğ köfteciler, tavuk pilavcılar ve kafe zincirleri sıralanır; fiyatlar öğrenci dostudur.
 
 ---
 
 ## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
 
-* **İlçe Dinamikleri:**  
-  Yıldırım ilçesi, Nilüfer'e göre daha geleneksel ve aile ağırlıklı bir sosyal dokuya sahiptir. Ancak kampüsün hemen altındaki metroya binildiğinde 10 dakikada tarihi **Tophane, Kapalıçarşı, Hanlar Bölgesi ve Setbaşı**'na; 25-30 dakikada ise **Nilüfer FSM Bulvarı**'na ulaşılır.
+* **Yıldırım İlçesi Dokusu:**  
+  Yıldırım, Bursa'nın Nilüfer ilçesine göre daha muhafazakar, sakin ve geleneksel aile yaşantısına sahip doğu yakasıdır. Kampüs çevresinde gece kulübü veya pub bulunmaz.
+* **Metro ile Bursa'yı Yaşamak:**  
+  Öğrenciler ders bitiminde hemen kampüs önündeki metroya binerek 10 dakikada **Tophane**, **Ulu Cami**, **Tarihi Koza Han**, **Setbaşı** ve Heykel'e; ya da 20-25 dakikada eğlence ve kafeler diyarı **Nilüfer FSM Bulvarı**, **PodyumPark** ve **Görükle**'ye giderler.
+* **Part-Time İş ve Staj İmkânları:**  
+  Bursa'nın otomotiv, makine, yazılım ve tekstil sanayisinin kalbinde yer alması sayesinde mühendislik öğrencileri için staj ve proje bazlı çalışma imkanları sınırsızdır.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* Çok güçlü ve yeni laboratuvar altyapısı, genç/dinamik akademik kadro ve **İMEP** ile sanayide iş garantisine yakın staj sistemi.
-* Kampüsün şehir içinde, metroya ve KYK yurtlarına yürüme mesafesinde olması.
-* Yıldırım ilçesindeki ev kiralarının Nilüfer/Görükle'ye göre çok daha ekonomik olması.
+* Bursaray metro istasyonunun kampüsün hemen dibinde olması sayesinde şehrin her yerine zahmetsizce ulaşım.
+* **İMEP modeli** sayesinde son sınıfta Bursa sanayisinde maaşlı tam zamanlı çalışma ve mezun olur olmaz yüksek istihdam oranı.
+* Laboratuvarların, amfilerin ve kütüphanenin yepyeni olması; laboratuvarlarda cihaz başına düşen öğrenci sayısının çok az olması.
+* Mehmet Zahid Kotku KYK yurdunun kampüsün hemen karşısında yer alması ve Mimar Sinan'da ev kiralarının Nilüfer'e göre çok daha ucuz olması.
 
 ### ❌ Eksileri
-* Kampüs alanının Uludağ Üniversitesi gibi devasa bir orman/yeşil alana sahip olmaması (daha kompakt ve bina ağırlıklı şehir kampüsü).
-* Yıldırım ilçesinin akşam sosyal hayatının ve eğlence mekanlarının Nilüfer'e göre kısıtlı kalması.
+* Kampüs arazisinin Uludağ Üniversitesi Görükle Kampüsü gibi devasa bir ormana sahip olmaması; daha kompakt, bina odaklı bir şehir kampüsü yapısı.
+* Kampüsün bulunduğu Yıldırım ilçesinin sosyal ve gece hayatı imkanlarının Nilüfer'e göre kısıtlı olması (sosyalleşmek için metroyla batıya gitmek gerekir).
+* İki ayrı yerleşke (Mimar Sinan & 152 Evler) arasında bazı ortak dersler için yürümek veya metroya binmek gerekebilmesi.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
-> 💬 **Öğrenci Notu:**  
-> "Amacın mühendislikte iyi bir laboratuvar eğitimi almak, TEKNOFEST takımlarına girmek ve son sınıfta İMEP ile doğrudan fabrikada işe başlamaksa BTÜ tam isabet! Kampüs biraz kompakt gelebilir ama metro hemen ayağının altında; ders bitimi atla metroya Nilüfer'e veya Heykel'e geç."
+> 💬 **Öğrenci Notu (Bilgisayar Mühendisliği):**  
+> "Uludağ Üniversitesi mi BTÜ mü ikilemine düşmüştüm, BTÜ'yü seçtiğime bir gün bile pişman olmadım. Laboratuvarlar gıcır gıcır, hocalar her sorunuza anında dönüyor. 'Kampüs küçük' diyenlere bakmayın; metro kampüsün kapısında, ders bitince atlayıp 20 dakikada FSM Bulvarı'nda kahve içmeye gidiyoruz. Özellikle İMEP sistemi sayesinde staj bulma stresi yaşamadan sanayide işimizi garantiledik."
+
+> 💬 **Öğrenci Notu (Makine Mühendisliği):**  
+> "Mühendislik okuyacaksanız BTÜ'nün TEKNOFEST takımlarına mutlaka 1. sınıftan itibaren girin. Atölyelerde sabahlarken gerçek mühendisliği öğreniyorsunuz. Erkek öğrenciler için kampüs karşısındaki KYK yurdu inanılmaz bir piyangodur; yataktan kalkıp 3 dakikada derse giriyorsunuz!"

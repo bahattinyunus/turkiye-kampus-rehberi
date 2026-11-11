@@ -13,7 +13,7 @@ TÜİK araştırmalarında defalarca **"Türkiye'nin En Mutlu Şehri"** seçilen
 
 | Üniversite | Kampüs / Yerleşke | İlçe | Öne Çıkan Fakülteler / Bölümler | Kampüs Rehberi Linki |
 | :--- | :--- | :--- | :--- | :--- |
-| **Sinop Üniversitesi (SNÜ)** | Osmaniye / Korucuk Kampüsü & Merkez Birimler | Merkez | Fen-Edebiyat, Mühendislik ve Mimarlık, Eğitim, Su Ürünleri, Sağlık Bilimleri, İlahiyat, Turizm, Meslek Yüksekokulu | [SNÜ Osmaniye Merkez Kampüsü](./Merkez/Sinop-Universitesi-Osmaniye-Merkez-Kampusu.md) |
+| **Sinop Üniversitesi (SNÜ)** | Kuzey Kampüsü (Osmaniye / Korucuk) & Merkez Birimler | Merkez | Fen-Edebiyat, Mühendislik ve Mimarlık, Eğitim, Su Ürünleri, Sağlık Bilimleri, İlahiyat, Turizm, Meslek Yüksekokulu | [SNÜ Kuzey Kampüsü (Osmaniye)](./Merkez/Sinop-Universitesi-Osmaniye-Merkez-Kampusu.md) |
 | **Sinop Üniversitesi (SNÜ)** | Boyabat Yerleşkesi | Boyabat | İktisadi ve İdari Bilimler Fakültesi (İİBF), Boyabat MYO | [SNÜ Boyabat İİBF ve MYO](./Boyabat/Sinop-Universitesi-Boyabat-IIBF-ve-MYO.md) |
 | **Sinop Üniversitesi (SNÜ)** | Gerze Yerleşkesi | Gerze | Gerze Meslek Yüksekokulu | [SNÜ Gerze MYO](./Gerze/Sinop-Universitesi-Gerze-MYO.md) |
 
@@ -57,6 +57,6 @@ Sinop'ta deniz manzaralı ve yüksek kapasiteli **Mahmut Kefevi KYK Kız Öğren
 
 ## 📂 Detaylı Kampüs ve Fakülte Rehberleri
 
-* 📍 [Merkez - Sinop Üniversitesi Osmaniye Merkez Kampüsü ve Yerleşkeleri](./Merkez/Sinop-Universitesi-Osmaniye-Merkez-Kampusu.md)
+* 📍 [Merkez - Sinop Üniversitesi Kuzey Kampüsü (Osmaniye) ve Yerleşkeleri](./Merkez/Sinop-Universitesi-Osmaniye-Merkez-Kampusu.md)
 * 📍 [Boyabat - Sinop Üniversitesi Boyabat İİBF ve MYO](./Boyabat/Sinop-Universitesi-Boyabat-IIBF-ve-MYO.md)
 * 📍 [Gerze - Sinop Üniversitesi Gerze MYO](./Gerze/Sinop-Universitesi-Gerze-MYO.md)

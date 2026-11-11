@@ -90,7 +90,7 @@
 * **Güçlü Mühendislik ve Teknik Altyapı:** Demir Çelik Enstitüsü, Teknokent, KARDEMİR iş birliği ve ikonik Kamil Güleç Kütüphanesi.
 * **Uygun Kira ve Yeme-İçme Rekabeti:** Çok sayıda apart ve öğrenci lokantası olduğu için fiyatların bütçe dostu kalması.
 
-### ❌ Eksileri
+### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
 * **Şehir Merkezinin Sanayi Dokusu:** Karabük eski çarşı merkezinin fabrikaya yakınlığı ve kış aylarında vadide oluşan sis/hava basıklığı.
 * **Kampüs Yoğunluğu:** 40 bine yakın öğrenci aynı kampüs ve mahallede toplandığı için öğle saatlerinde yemekhane ve Balıklı Kapı geçişinin çok kalabalık olması.
 

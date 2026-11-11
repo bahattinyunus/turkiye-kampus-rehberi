@@ -69,21 +69,27 @@
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* Çok düşük kira ve yaşam maliyeti, okula yürüyerek 5 dakikada ulaşım.
-* 2 yıllık önlisans eğitimini dikkat dağıtmadan yüksek ortalamayla (DGS hedefiyle) bitirmek için sakin ortam.
-* Samimi hoca-öğrenci iletişimi ve güçlü uygulama mutfak/bilgisayar laboratuvarları.
+* Çok düşük kira ve yaşam maliyeti; okula, markete ve yurda yürüyerek en fazla 5-10 dakikada ulaşım kolaylığı.
+* 2 yıllık önlisans eğitimini dikkat dağıtıcı unsurlar olmadan, yüksek ortalamayla (DGS veya KPSS hedefiyle) bitirmek için son derece dingin bir çalışma ortamı.
+* Butik sınıflar sayesinde hocalarla birebir iletişim kurabilme, Osmaneli Aşçılık mutfağında ve Söğüt tasarım atölyelerinde kesintisiz pratik yapabilme avantajı.
+* Osmaneli'nin Sakarya Nehri vadisinde yer almasından dolayı kışın çok daha ılıman bir mikroklimaya sahip olması.
 
 ### ❌ Eksileri
-* Sosyal hayatın birkaç öğrenci kafesi ve ilçe parkıyla sınırlı olması.
-* Part-time iş olanaklarının çok kısıtlı olması.
-* Akşam erken saatlerden sonra ilçelerde hayatın durması.
+* Sosyal hayatın birkaç yerel çay bahçesi, ilçe parkı ve 1-2 kafe ile sınırlı kalması.
+* Hafta sonları ve akşam erken saatlerden sonra (20:00-21:00) sokaklarda hayatın tamamen durması.
+* Öğrenciye yönelik part-time çalışma imkanlarının yok denecek kadar az olması.
+* İlçelerden Bilecik Merkez veya Eskişehir'e gitmek için minibüs saatlerine bağımlı olunması; akşam dönüş seferlerinin erken bitmesi.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
-> 💬 **Öğrenci Notu:**  
-> "2 yıllık bir bölüm yazıp hedefini DGS ile 4 yıllığa tamamlamak olarak koyduysan Söğüt, Osmaneli veya Pazaryeri senin için biçilmiş kaftandır. Yol derdi yok, kira ucuz, para harcayacak yer az; kütüphaneye ve derslerine kapanıp 2 senede hedefine ulaşıp mezun olursun."
+> 💬 **Öğrenci Notu (Osmaneli Aşçılık):**  
+> "Osmaneli Aşçılık bölümünün uygulama mutfağı birçok üniversiteden daha aktiftir. İlçe küçük ve sakin olduğu için tamamen mutfaktaki pratiğinize ve tariflerinize odaklanabilirsiniz. Canınız sıkıldığında Adapazarı veya Bilecik Merkez dolmuşlarına atlayıp 40 dakikada şehre geçebilirsiniz."
+
+> 💬 **Öğrenci Notu (Söğüt MYO):**  
+> "2 yıllık bir bölüm yazıp hedefini DGS ile 4 yıllığa tamamlamak olarak koyduysan Söğüt senin için biçilmiş kaftandır. Trafik derdi yok, kira çok ucuz, para harcayacak tuzak yer yok; kütüphaneye ve derslerine kapanıp 2 senede hedefine ulaşıp mezun olursun. Eylül ayındaki Ertuğrul Gazi'yi Anma ve Yörük Şenlikleri zamanı ilçe inanılmaz renklenir, o dönemi kaçırmayın!"
+

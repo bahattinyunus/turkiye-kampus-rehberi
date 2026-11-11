@@ -14,7 +14,8 @@ Türkiye'nin Kafkasya'ya açılan kapısı olan ve yaklaşık 1.850 metre rakım
 | Üniversite | Tür | Ana Kampüs / Yerleşke | Bulunduğu İlçe | Öğrenci Yoğunluğu | Rehber Bağlantısı |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Ardahan Üniversitesi** | Devlet | Yenisey Merkez Kampüsü | Merkez | Yüksek | [İncele](./Merkez/Ardahan-Universitesi-Yenisey-Merkez-Kampusu.md) |
-| **Ardahan Üniversitesi** | Devlet | Göle MYO & Çıldır MYO | Göle / Çıldır | Orta | [İncele](./Gole/Ardahan-Universitesi-Gole-ve-Cildir-MYO.md) |
+| **Ardahan Üniversitesi** | Devlet | Nihat Delibalta Göle MYO | Göle | Orta | [İncele](./Gole/Ardahan-Universitesi-Nihat-Delibalta-Gole-MYO.md) |
+| **Ardahan Üniversitesi** | Devlet | Çıldır MYO Yerleşkesi | Çıldır | Orta | [İncele](./Cildir/Ardahan-Universitesi-Cildir-MYO.md) |
 
 ---
 
@@ -40,4 +41,5 @@ Türkiye'nin Kafkasya'ya açılan kapısı olan ve yaklaşık 1.850 metre rakım
 Ardahan Üniversitesi'nin merkez ve ilçe yerleşkelerine ait detaylı rehberlere aşağıdan ulaşabilirsiniz:
 
 * 📍 **Merkez:** [Ardahan Üniversitesi - Yenisey Merkez Kampüsü](./Merkez/Ardahan-Universitesi-Yenisey-Merkez-Kampusu.md)
-* 📍 **Göle & Çıldır:** [Ardahan Üniversitesi - Nihat Delibalta Göle MYO ve Çıldır MYO](./Gole/Ardahan-Universitesi-Gole-ve-Cildir-MYO.md)
+* 📍 **Göle:** [Ardahan Üniversitesi - Nihat Delibalta Göle Meslek Yüksekokulu](./Gole/Ardahan-Universitesi-Nihat-Delibalta-Gole-MYO.md)
+* 📍 **Çıldır:** [Ardahan Üniversitesi - Çıldır Meslek Yüksekokulu](./Cildir/Ardahan-Universitesi-Cildir-MYO.md)

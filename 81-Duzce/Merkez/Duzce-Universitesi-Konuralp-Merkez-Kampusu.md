@@ -90,7 +90,7 @@
 * **Konuralp Öğrenci Semti ve Yeni Binalar:** Kampüs çevresindeki apartların deprem sonrası yeni yönetmelikle yapılmış az katlı binalar olması ve yüksek KYK kapasitesi.
 * **Güçlü Tıp, Mühendislik ve Teknopark Altyapısı:** Kampüs içindeki Teknopark ve Araştırma Hastanesi ile güçlü uygulama imkanı.
 
-### ❌ Eksileri
+### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
 * **Yoğun Yağış, Sis ve Kış Havası:** Düzce Ovası'nın kış aylarında çok sık sisli, yağmurlu ve nemli olması.
 * **Kampüsün Yokuşlu Yapısı:** Konuralp Kampüsü'nün tepeye kurulu olması nedeniyle fakülteler arası yürürken yokuş çıkılması.
 

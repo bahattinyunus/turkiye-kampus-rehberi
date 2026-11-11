@@ -14,8 +14,10 @@
 | Üniversite | Tür | Ana Kampüs / Yerleşke | Bulunduğu İlçe | Öğrenci Yoğunluğu | Rehber Bağlantısı |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Yalova Üniversitesi** | Devlet | Merkez Yerleşkesi (Çınarcık Yolu) | Merkez | Çok Yüksek | [İncele](./Merkez/Yalova-Universitesi-Merkez-Yerleskesi.md) |
-| **Yalova Üniversitesi** | Devlet | Çınarcık MYO Yerleşkesi | Çınarcık | Yüksek | [İncele](./Cinarcik/Yalova-Universitesi-Cinarcik-Termal-Armutlu-MYO.md) |
-| **Yalova Üniversitesi** | Devlet | Termal MYO & Armutlu MYO | Termal / Armutlu | Orta | [İncele](./Cinarcik/Yalova-Universitesi-Cinarcik-Termal-Armutlu-MYO.md) |
+| **Yalova Üniversitesi** | Devlet | Safran Yerleşkesi (Yalova MYO) | Merkez | Yüksek | [İncele](./Merkez/Yalova-Universitesi-Safran-Yerleskesi.md) |
+| **Yalova Üniversitesi** | Devlet | Çınarcık MYO Yerleşkesi | Çınarcık | Yüksek | [İncele](./Cinarcik/Yalova-Universitesi-Cinarcik-MYO.md) |
+| **Yalova Üniversitesi** | Devlet | Termal Sağlık Hizmetleri MYO | Termal | Orta | [İncele](./Termal/Yalova-Universitesi-Termal-MYO.md) |
+| **Yalova Üniversitesi** | Devlet | Altınova MYO (Tersaneler Bölgesi) | Altınova | Orta | [İncele](./Altinova/Yalova-Universitesi-Altinova-MYO.md) |
 
 ---
 
@@ -43,5 +45,8 @@
 
 Yalova Üniversitesi'nin merkez ve ilçe yerleşkelerine ait detaylı rehberlere aşağıdan ulaşabilirsiniz:
 
-* 📍 **Merkez:** [Yalova Üniversitesi - Merkez Yerleşkesi (Çınarcık Yolu)](./Merkez/Yalova-Universitesi-Merkez-Yerleskesi.md)
-* 📍 **Çınarcık, Termal & Armutlu:** [Yalova Üniversitesi - Çınarcık MYO, Termal MYO ve Armutlu MYO](./Cinarcik/Yalova-Universitesi-Cinarcik-Termal-Armutlu-MYO.md)
+* 📍 **Merkez (Ana Kampüs - Çınarcık Yolu):** [Yalova Üniversitesi - Merkez Yerleşkesi](./Merkez/Yalova-Universitesi-Merkez-Yerleskesi.md)
+* 📍 **Merkez (Safran Yolu - Yalova MYO):** [Yalova Üniversitesi - Safran Yerleşkesi](./Merkez/Yalova-Universitesi-Safran-Yerleskesi.md)
+* 📍 **Çınarcık:** [Yalova Üniversitesi - Çınarcık Meslek Yüksekokulu](./Cinarcik/Yalova-Universitesi-Cinarcik-MYO.md)
+* 📍 **Termal:** [Yalova Üniversitesi - Termal Sağlık Hizmetleri Meslek Yüksekokulu](./Termal/Yalova-Universitesi-Termal-MYO.md)
+* 📍 **Altınova:** [Yalova Üniversitesi - Altınova Meslek Yüksekokulu (Tersaneler Bölgesi)](./Altinova/Yalova-Universitesi-Altinova-MYO.md)

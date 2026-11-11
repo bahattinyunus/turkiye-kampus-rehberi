@@ -89,7 +89,7 @@
 * **Düşük Yaşam Maliyeti ve Yüksek Yurt Kapasitesi:** Yurt çıkmama stresinin olmaması ve yeme-içme/barınma giderlerinin büyükşehirlere kıyasla çok ekonomik olması.
 * **Butik Eğitim Avantajı:** Akademisyenlerle birebir iletişim kurabilme, laboratuvar ve kütüphaneden sıra beklemeden yararlanabilme.
 
-### ❌ Eksileri
+### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
 * **Sınırlı Gece ve Eğlence Hayatı:** Şehir merkezinde büyük AVM'ler, zincir eğlence mekanları veya geniş çaplı konser/tiyatro sahnelerinin bulunmaması.
 * **Kış İklimi:** Şırnak Merkez'in yüksek rakımı nedeniyle kış aylarının soğuk, rüzgarlı ve karlı geçmesi.
 * **Ulaşım Mesafesi:** Batı illerinden karayoluyla ulaşımın uzun sürmesi (Şerafettin Elçi Havalimanı bu dezavantajı uçak kullananlar için büyük ölçüde telafi etmektedir).

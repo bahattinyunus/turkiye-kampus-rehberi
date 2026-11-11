@@ -16,6 +16,8 @@ Denizli; güçlü tekstil ve sanayi altyapısı, Ege'nin sıcakkanlı ve modern 
 | **Pamukkale Üniversitesi (PAÜ)** | Devlet | Şehit Пiyade Teğmen Bekir Can Kerek (Kınıklı) Merkez Kampüsü | Tıp, Mühendislik, Eğitim, İİBF, Hukuk, Fen, İnsani ve Toplum Bilimleri, Turizm, Spor Bilimleri | [Kınıklı Merkez Kampüsü Rehberi](./Pamukkale/Pamukkale-Universitesi-Kinikli-Merkez-Kampusu.md) |
 | **Pamukkale Üniversitesi (Çivril)** | Devlet | Çivril Yerleşkesi | Çivril Atasay Kamer MYO (Finans, Muhasebe, Bilgisayar, Organik Tarım) | [Çivril Atasay Kamer MYO Rehberi](./Civril/Civril-Atasay-Kamer-MYO.md) |
 | **Pamukkale Üniversitesi (Tavas & Acıpayam)** | Devlet | Tavas & Acıpayam Yerleşkeleri | Tavas MYO, Tavas Sağlık Hizmetleri MYO, Acıpayam MYO | [Tavas & Acıpayam MYO Rehberi](./Tavas/Tavas-MYO-ve-Acipayam-MYO.md) |
+| **Pamukkale Üniversitesi (Honaz)** | Devlet | Honaz Yerleşkesi | Honaz MYO (Dış Ticaret, Lojistik, Muhasebe, Bankacılık) | [Honaz MYO Rehberi](./Honaz/Honaz-MYO.md) |
+| **Pamukkale Üniversitesi (Buldan)** | Devlet | Buldan Yerleşkesi | Buldan MYO (Mimari Restorasyon, Moda Tasarımı, İç Mekan Tasarımı) | [Buldan MYO Rehberi](./Buldan/Buldan-Meslek-Yuksekokulu.md) |
 
 ---
 
@@ -51,3 +53,5 @@ Denizli'de KYK yurtlarının büyük kısmı **Asmalıevler** ve **Kınıklı** 
 * 📍 **Pamukkale (Merkez):** [Pamukkale Üniversitesi - Kınıklı Merkez Kampüsü](./Pamukkale/Pamukkale-Universitesi-Kinikli-Merkez-Kampusu.md)
 * 📍 **Çivril:** [Pamukkale Üniversitesi - Çivril Atasay Kamer MYO](./Civril/Civril-Atasay-Kamer-MYO.md)
 * 📍 **Tavas & Acıpayam:** [Pamukkale Üniversitesi - Tavas MYO & Acıpayam MYO](./Tavas/Tavas-MYO-ve-Acipayam-MYO.md)
+* 📍 **Honaz:** [Pamukkale Üniversitesi - Honaz MYO](./Honaz/Honaz-MYO.md)
+* 📍 **Buldan:** [Pamukkale Üniversitesi - Buldan Meslek Yüksekokulu](./Buldan/Buldan-Meslek-Yuksekokulu.md)

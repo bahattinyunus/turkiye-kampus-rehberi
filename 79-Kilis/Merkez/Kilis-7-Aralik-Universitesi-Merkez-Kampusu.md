@@ -89,7 +89,7 @@
 * **Çok Ekonomik Yaşam ve Efsane Mutfak:** Barınma ve yeme-içme maliyetlerinin çok uygun olması, Kilis mutfağının lezzeti.
 * **Gaziantep'e 40 Dakika Yakınlık:** Küçük ve ucuz bir şehirde yaşayıp istendiği an büyükşehir olanaklarına (Gaziantep) ulaşabilme.
 
-### ❌ Eksileri
+### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
 * **Şehir İçi Eğlence Çeşitliliği:** Kilis merkezde büyük alışveriş merkezi (AVM) ve gece hayatı alternatiflerinin kısıtlı olması.
 * **Yaz Başı Sıcakları:** Mayıs ve Haziran aylarında hava sıcaklıklarının yükselmesi.
 

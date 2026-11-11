@@ -1,4 +1,4 @@
-# 🏛️ Trabzon Üniversitesi (TRÜ) - Akçaabat Söğütlü Merkez Kampüsü
+# 🏛️ Trabzon Üniversitesi (TRÜ) - Fatih (Söğütlü) Merkez Kampüsü
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Trabzon / Akçaabat (Söğütlü Mah.)  

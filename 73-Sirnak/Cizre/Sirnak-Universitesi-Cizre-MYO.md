@@ -1,10 +1,10 @@
-# 🏛️ Şırnak Üniversitesi - Cizre MYO (ve Silopi / İdil MYO Yerleşkeleri)
+# 🏛️ Şırnak Üniversitesi - Cizre Meslek Yüksekokulu
 
 > **Son Güncelleme:** Kasım 2026  
-> **İl / İlçe:** Şırnak / Cizre (Silopi ve İdil MYO Bilgileri Dahil)  
+> **İl / İlçe:** Şırnak / Cizre  
 > **Üniversite Türü:** Devlet  
 > **Kampüs Konumu:** İlçe Yerleşkesi (Dicle Nehri ve Tarihi Cizre Merkezine Yakın)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.2/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.4/5)
 
 ---
 
@@ -91,7 +91,7 @@
 * **Havalimanına Çok Yakın Konum:** Şerafettin Elçi Havalimanı'na 15 dakika mesafede olması sayesinde büyükşehirlere ulaşım kolaylığı.
 * **Sektörel Staj Avantajı:** Dış ticaret, muhasebe ve teknik bölüm öğrencileri için sınır ticareti ve lojistik firmalarında kolay staj bulma imkanı.
 
-### ❌ Eksileri
+### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
 * **Eylül-Ekim ve Mayıs Sıcakları:** Akademik takvimin başı ve sonunda hava sıcaklıklarının 35-40 derecelere yaklaşması.
 * **Kampüs Büyüklüğü:** Merkez kampüs kadar geniş yeşil alanlara ve büyük ölçekli kampüs içi sosyal tesislere sahip olmaması.
 * **Kira Talebi:** Cizre'nin ticari yoğunluğu nedeniyle merkezdeki yeni klimalı dairelere talebin yüksek olması.

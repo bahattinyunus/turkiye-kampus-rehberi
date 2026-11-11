@@ -79,7 +79,7 @@
 * **Siyasal Bilgiler ve Turizm Odaklı Kampüs:** SBF, Gastronomi ve Turizm öğrencilerinin bir arada olduğu sosyal ve dinamik yerleşke ortamı.
 * **Konuralp Ana Kampüse 25 Dakika Yakınlık:** İstenildiği an yarım saatte Düzce Merkez ve Konuralp Ana Kampüs'e ulaşılabilmesi.
 
-### ❌ Eksileri
+### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
 * **Kışın Karadeniz Rüzgarı:** Kış aylarında denizden esen sert poyraz ve yağışlı Karadeniz havası.
 * **Kış Sezonu Sakinliği:** Yazın çok kalabalık olan ilçenin kış akşamlarında daha sakin bir kasaba temposuna dönmesi.
 

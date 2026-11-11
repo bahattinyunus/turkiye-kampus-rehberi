@@ -20,7 +20,7 @@ Artvin; Çoruh Nehri vadisinde dimdik dağların yamacına kurulmuş muazzam do�
 ## 🚌 Ulaşım ve Coğrafi Koşullar
 
 * **Şehir İçi Ulaşım:** Artvin coğrafyası çok dik yamaçlardan oluştuğu için yürüme yerine şehir içi özel halk minibüsleri kullanılır. Şehir Yerleşkesi merkezdedir; ana yerleşke olan **Seyitler Kampüsü** ise vadinin karşı yamacında, şehir merkezine 6-7 km mesafededir.
-* **Havalimanı:** Artvin-Rize Havalimanı üzerinden HAVAŞ ve ilçe servisleriyle ulaşım sağlanır.
+* **Havalimanı:** Rize-Artvin Havalimanı üzerinden HAVAŞ ve ilçe servisleriyle sahil yolu üzerinden ulaşım sağlanır.
 
 ---
 
@@ -31,7 +31,11 @@ Artvin; Çoruh Nehri vadisinde dimdik dağların yamacına kurulmuş muazzam do�
 
 ---
 
-## 📂 İlçeler ve Kampüs Dosyaları
+## 📂 Kampüs ve İlçe Rehberleri
 
-* [Artvin Çoruh Üniversitesi - Seyitler Merkez Kampüsü](./Merkez/Artvin-Coruh-Universitesi-Seyitler-Kampusu.md)
-* [Artvin Çoruh Üniversitesi - Hopa İİBF ve Hopa MYO](./Hopa/ACU-Hopa-IIBF-ve-MYO.md)
+Aşağıdaki bağlantılardan Artvin Çoruh Üniversitesi yerleşkelerinin detaylı rehberlerine ulaşabilirsiniz:
+
+* 📍 **Merkez (Seyitler & Şehir Yerleşkesi)**
+  * [🏛️ Artvin Çoruh Üniversitesi - Seyitler Ana Yerleşkesi](./Merkez/Artvin-Coruh-Universitesi-Seyitler-Kampusu.md)
+* 📍 **Hopa (Sahil Yerleşkesi)**
+  * [🏛️ Artvin Çoruh Üniversitesi - Hopa Yerleşkesi (İİBF ve Hopa MYO)](./Hopa/ACU-Hopa-IIBF-ve-MYO.md)

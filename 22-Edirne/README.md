@@ -15,7 +15,8 @@ Edirne; Osmanlı'ya başkentlik yapmış açık hava müzesi niteliğindeki tari
 | :--- | :--- | :--- | :--- | :--- |
 | **Trakya Üniversitesi (Balkan Yerleşkesi)** | Devlet | Balkan Yerleşkesi (Merkez - Güney Çıkışı) | Tıp, İİBF, Eczacılık, Diş Hekimliği, Sağlık Bilimleri, Fen, İlahiyat, Kırkpınar Spor Bilimleri | [Balkan Yerleşkesi Rehberi](./Merkez/Trakya-Universitesi-Balkan-Yerleskesi.md) |
 | **Trakya Üniversitesi (Şehir İçi & Tarihi Yerleşkeler)** | Devlet | Ayşekadın, Güllapoğlu, İsmail Hakkı Tonguç, Karaağaç, Makedonya ve Sarayiçi Yerleşkeleri | Mühendislik, Edebiyat, Eğitim, Mimarlık, Güzel Sanatlar, Uygulamalı Bilimler | [Ayşekadın & Karaağaç Yerleşkeleri Rehberi](./Merkez/Trakya-Universitesi-Aysekadin-ve-Karaagac-Yerleskeleri.md) |
-| **Trakya Üniversitesi (Keşan & Uzunköprü)** | Devlet | Keşan & Uzunköprü Yerleşkeleri | Keşan Yusuf Çapraz Uygulamalı Bilimler YO, Keşan Hakkı Yörük Sağlık YO, Uzunköprü UBYO & MYO | [Keşan & Uzunköprü Yerleşkeleri Rehberi](./Kesan/Kesan-Yusuf-Capraz-Uygulamali-Bilimler-ve-Uzunkopru-MYO.md) |
+| **Trakya Üniversitesi (Keşan)** | Devlet | Hersekzade Ahmet Paşa Yerleşkesi & Keşan Merkez | Keşan Yusuf Çapraz UBYO, Keşan Hakkı Yörük Sağlık YO, Keşan MYO | [Keşan Yerleşkeleri Rehberi](./Kesan/Kesan-Hakki-Yoruk-ve-Yusuf-Capraz-Yerleskesi.md) |
+| **Trakya Üniversitesi (Uzunköprü)** | Devlet | Uzunköprü Yerleşkesi | Uzunköprü Uygulamalı Bilimler YO / Fakültesi, Uzunköprü MYO | [Uzunköprü Yerleşkesi Rehberi](./Uzunkopru/Uzunkopru-Uygulamali-Bilimler-ve-MYO.md) |
 
 ---
 
@@ -51,4 +52,5 @@ Edirne'de KYK yurt kapasitesi son yıllarda açılan yeni bloklarla oldukça gü
 
 * 📍 **Merkez (Balkan Yerleşkesi):** [Trakya Üniversitesi - Balkan Yerleşkesi](./Merkez/Trakya-Universitesi-Balkan-Yerleskesi.md)
 * 📍 **Merkez (Ayşekadın & Karaağaç):** [Trakya Üniversitesi - Ayşekadın, Güllapoğlu ve Karaağaç Yerleşkeleri](./Merkez/Trakya-Universitesi-Aysekadin-ve-Karaagac-Yerleskeleri.md)
-* 📍 **Keşan & Uzunköprü:** [Trakya Üniversitesi - Keşan Yusuf Çapraz UBYO & Uzunköprü MYO](./Kesan/Kesan-Yusuf-Capraz-Uygulamali-Bilimler-ve-Uzunkopru-MYO.md)
+* 📍 **Keşan:** [Trakya Üniversitesi - Keşan Yerleşkeleri (Yusuf Çapraz UBYO & Hakkı Yörük SYO & Keşan MYO)](./Kesan/Kesan-Hakki-Yoruk-ve-Yusuf-Capraz-Yerleskesi.md)
+* 📍 **Uzunköprü:** [Trakya Üniversitesi - Uzunköprü Yerleşkesi (Uygulamalı Bilimler & MYO)](./Uzunkopru/Uzunkopru-Uygulamali-Bilimler-ve-MYO.md)

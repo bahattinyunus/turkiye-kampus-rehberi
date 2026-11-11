@@ -16,6 +16,7 @@ Bartın; yemyeşil doğası, içinden nehir geçen sakin şehir merkezi ve sadec
 | **Bartın Üniversitesi** | Devlet | Kutlubey Merkez Kampüsü | Merkez | Çok Yüksek | [İncele](./Merkez/Bartin-Universitesi-Kutlubey-Kampusu.md) |
 | **Bartın Üniversitesi** | Devlet | Ağdacı Kampüsü | Merkez | Yüksek | [İncele](./Merkez/Bartin-Universitesi-Agdaci-Kampusu.md) |
 | **Bartın Üniversitesi** | Devlet | Amasra MYO & Ulus MYO | Amasra / Ulus | Orta | [İncele](./Amasra/Bartin-Universitesi-Amasra-ve-Ulus-MYO.md) |
+| **Bartın Üniversitesi** | Devlet | Kurucaşile Yerleşkesi (Denizcilik MYO) | Kurucaşile | Orta | [İncele](./Kurucasile/Bartin-Universitesi-Kurucasile-MYO.md) |
 
 ---
 
@@ -44,3 +45,4 @@ Bartın Üniversitesi'nin tüm kampüs ve meslek yüksekokulu yerleşkelerine ai
 * 📍 **Merkez (Ana Yerleşke):** [Bartın Üniversitesi - Kutlubey Merkez Kampüsü](./Merkez/Bartin-Universitesi-Kutlubey-Kampusu.md)
 * 📍 **Merkez (Şehir İçi Yerleşke):** [Bartın Üniversitesi - Ağdacı Kampüsü](./Merkez/Bartin-Universitesi-Agdaci-Kampusu.md)
 * 📍 **Amasra & Ulus:** [Bartın Üniversitesi - Amasra MYO ve Ulus MYO](./Amasra/Bartin-Universitesi-Amasra-ve-Ulus-MYO.md)
+* 📍 **Kurucaşile:** [Bartın Üniversitesi - Kurucaşile Yerleşkesi (Denizcilik & Gemi İnşaatı)](./Kurucasile/Bartin-Universitesi-Kurucasile-MYO.md)

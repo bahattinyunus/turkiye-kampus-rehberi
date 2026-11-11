@@ -13,8 +13,8 @@
 
 | Üniversite Adı | Türü | Kuruluş | Ana Kampüs / Konum | Öne Çıkan Alanlar |
 | :--- | :--- | :--- | :--- | :--- |
-| **Sakarya Üniversitesi (SAÜ)** | Devlet | 1970 / 1992 | Serdivan (Esentepe Merkez Kampüsü) + Hendek (Eğitim) & Korucuk (Tıp) | Bilgisayar ve Bilişim Bilimleri, Mühendislik, İşletme, Hukuk, Tıp, İlahiyat, Sanat Tasarım |
-| **Sakarya Uygulamalı Bilimler Üniversitesi (SUBÜ)** | Devlet | 2018 | Serdivan (Esentepe & Camili) + Sapanca, Hendek, Arifiye, Akyazı, Karasu, Pamukova, Geyve | Teknoloji Fakültesi (7+1 Mühendislik), Turizm (Sapanca), Spor Bilimleri, Sağlık Bilimleri, Denizcilik |
+| **Sakarya Üniversitesi (SAÜ)** | Devlet | 1970 / 1992 | Serdivan (Esentepe Merkez Kampüsü) + Hendek (Eğitim) & Korucuk (Tıp) | Bilgisayar ve Bilişim Bilimleri, Mühendislik, İşletme, Hukuk, Tıp, İlahiyat, Sanat Tasarım, Eğitim |
+| **Sakarya Uygulamalı Bilimler Üniversitesi (SUBÜ)** | Devlet | 2018 | Serdivan (Esentepe & Camili) + Sapanca, Hendek, Akyazı, Geyve, Karasu, Arifiye | Teknoloji Fakültesi (7+1 Mühendislik), Turizm (Sapanca), Spor Bilimleri, Sağlık Bilimleri (Akyazı), Deniz ve Liman (Karasu) |
 
 ---
 
@@ -39,14 +39,14 @@
 * **Kira ve Yaşam Maliyeti (2026):**
   * **Kemalpaşa / Beşköprü 1+1 Eşyalı Apart:** 12.000 TL – 18.000 TL
   * **Serdivan (Mavi Durak / Arabacıalanı) 2+1 Daire:** 16.000 TL – 24.000 TL
-  * **Adapazarı Merkez / Ozanlar 2+1 Daire:** 11.000 TL – 16.000 TL
+  * **İlçeler (Hendek, Akyazı, Karasu, Geyve):** 8.000 TL – 13.500 TL
   * **Aylık Ortalama Öğrenci Gideri:** 9.000 TL – 13.500 TL
 
 ---
 
 ## 📂 Kampüs ve Yerleşke Rehberleri
 
-Aşağıdaki bağlantılardan Sakarya'daki üniversite ve kampüslerin detaylı rehberlerine ulaşabilirsiniz:
+Aşağıdaki bağlantılardan Sakarya'daki tüm üniversite ve kampüslerin detaylı rehberlerine ulaşabilirsiniz:
 
 * 📍 **Serdivan (Merkez)**
   * [🏛️ Sakarya Üniversitesi (SAÜ) Esentepe Merkez Kampüsü](./Serdivan/SAU-Esentepe-Kampusu.md)
@@ -55,3 +55,9 @@ Aşağıdaki bağlantılardan Sakarya'daki üniversite ve kampüslerin detaylı 
   * [🏛️ SUBÜ Sapanca Turizm Fakültesi ve Sapanca MYO Yerleşkesi](./Sapanca/SUBU-Sapanca-Turizm-Kampusu.md)
 * 📍 **Hendek**
   * [🏛️ SAÜ Eğitim Fakültesi & SUBÜ Hendek MYO Kampüsü](./Hendek/SAU-SUBU-Hendek-Kampusu.md)
+* 📍 **Akyazı**
+  * [🏛️ SUBÜ Akyazı Sağlık Bilimleri Fakültesi & Akyazı MYO](./Akyazi/SUBU-Akyazi-Saglik-Bilimleri-ve-MYO.md)
+* 📍 **Geyve**
+  * [🏛️ SUBÜ Geyve Meslek Yüksekokulu Yerleşkesi](./Geyve/SUBU-Geyve-MYO-Yerleskesi.md)
+* 📍 **Karasu**
+  * [🏛️ SUBÜ Karasu Meslek Yüksekokulu Yerleşkesi](./Karasu/SUBU-Karasu-MYO-Yerleskesi.md)

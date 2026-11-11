@@ -89,7 +89,7 @@
 * **Kütüphane ve Kampüs İçi KYK:** Kampüsün hemen yanındaki dev KYK yurdu ve 7/24 açık modern kütüphanesiyle ders odaklı öğrenciler için çok konforlu olması.
 * **Amasra ve İnkumu Yakınlığı:** Türkiye'nin en güzel sahil kasabalarından Amasra ve İnkumu plajına 20-25 dakikada ulaşılabilmesi.
 
-### ❌ Eksileri
+### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
 * **Şehir Merkezine Uzaklık:** Kampüsün merkeze 11 km uzaklıkta olması ve kampüs çevresinde şehirleşmiş bir öğrenci mahallesinin henüz bulunmaması.
 * **Otobüs Yoğunluğu:** Sabah ve akşam pik saatlerde Çatmaca-Kutlubey otobüslerinin çok kalabalık olması.
 * **Yağışlı Hava:** Yılın büyük bölümünde yağmurlu ve nemli geçen Batı Karadeniz iklimi.

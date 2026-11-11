@@ -16,8 +16,9 @@ Orta Karadeniz ile İç Anadolu'nun kesişim noktasında, bereketli Kazova ve Ye
 | **Tokat Gaziosmanpaşa Üniversitesi (TOGÜ)** | Taşlıçiftlik Merkez Kampüsü & Şehir İçi Tıp/Diş | Merkez | Tıp, Diş, Eczacılık, Hukuk, Mühendislik ve Mimarlık, Eğitim, İİBF, Fen-Edebiyat, Ziraat, İslami İlimler, Sağlık Bilimleri, Güzel Sanatlar | [TOGÜ Taşlıçiftlik Merkez Kampüsü](./Merkez/TOGU-Tasliciftlik-Merkez-Kampusu.md) |
 | **Tokat Gaziosmanpaşa Üniversitesi (TOGÜ)** | Erbaa Kampüsü | Erbaa | Erbaa Sosyal ve Beşeri Bilimler Fakültesi, Erbaa Sağlık Bilimleri Fakültesi, Erbaa MYO, Erbaa Sağlık Hizmetleri MYO | [TOGÜ Erbaa Kampüsü](./Erbaa/TOGU-Erbaa-Kampusu.md) |
 | **Tokat Gaziosmanpaşa Üniversitesi (TOGÜ)** | Turhal Kampüsü | Turhal | Turhal Uygulamalı Bilimler Fakültesi, Turhal MYO, Turhal Sağlık Hizmetleri MYO | [TOGÜ Turhal Kampüsü](./Turhal/TOGU-Turhal-Kampusu.md) |
+| **Tokat Gaziosmanpaşa Üniversitesi (TOGÜ)** | Niksar Kampüsü | Niksar | Niksar Uygulamalı Bilimler Fakültesi, Niksar Sosyal Bilimler MYO, Niksar Teknik Bilimler MYO | [TOGÜ Niksar Kampüsü](./Niksar/TOGU-Niksar-Kampusu.md) |
 
-> **Diğer İlçe Yerleşkeleri:** Zile Dinçerler Turizm İşletmeciliği ve Otelcilik YO & Zile MYO, Niksar Uygulamalı Bilimler Fakültesi & Niksar MYO, Reşadiye MYO, Almus MYO, Pazar MYO, Artova MYO, Başçiftlik MYO, Sulusaray MYO.
+> **Diğer İlçe Yerleşkeleri:** Zile Dinçerler Turizm İşletmeciliği ve Otelcilik YO & Zile MYO, Reşadiye MYO, Almus MYO, Pazar MYO, Artova MYO, Başçiftlik MYO, Sulusaray MYO.
 
 ---
 
@@ -58,3 +59,4 @@ Tokat, KYK yurt kapasitesi açısından çok zengin bir ildir. Taşlıçiftlik K
 * 📍 [Merkez - TOGÜ Taşlıçiftlik Merkez Kampüsü](./Merkez/TOGU-Tasliciftlik-Merkez-Kampusu.md)
 * 📍 [Erbaa - TOGÜ Erbaa Kampüsü (Fakülte ve MYO'lar)](./Erbaa/TOGU-Erbaa-Kampusu.md)
 * 📍 [Turhal - TOGÜ Turhal Kampüsü (Uygulamalı Bilimler ve MYO)](./Turhal/TOGU-Turhal-Kampusu.md)
+* 📍 [Niksar - TOGÜ Niksar Kampüsü (Uygulamalı Bilimler ve MYO'lar)](./Niksar/TOGU-Niksar-Kampusu.md)

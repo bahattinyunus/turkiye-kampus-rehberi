@@ -13,7 +13,7 @@ Zümrüt yeşili çay bahçelerinin Karadeniz'in hırçın dalgalarıyla birleş
 
 | Üniversite Adı | Türü | Kuruluş | Ana Kampüs / Konum | Öne Çıkan Alanlar |
 | :--- | :--- | :--- | :--- | :--- |
-| **Recep Tayyip Erdoğan Üniversitesi (RTEÜ)** | Devlet | 2006 | Merkez (Zihni Derin Kampüsü - Fener Mah.) + Çayeli, Ardeşen & Pazar | Tıp, Diş Hekimliği, Denizcilik, Su Ürünleri, İlahiyat, Eğitim, Mühendislik, Ziraat (Çay İhtisas), Hukuk |
+| **Recep Tayyip Erdoğan Üniversitesi (RTEÜ)** | Devlet | 2006 | Merkez (Zihni Derin Kampüsü - Fener Mah.) + Çayeli, Ardeşen, Pazar, Fındıklı & Güneysu | Tıp, Diş Hekimliği, Denizcilik, Su Ürünleri, Turizm & Gastronomi, Fizyoterapi, Ziraat (Çay İhtisas), Eğitim, Hukuk |
 
 ---
 
@@ -33,10 +33,11 @@ Rize'de engebeli arazi nedeniyle konut alanı kısıtlı olduğundan, öğrenci 
   * **Fener Mahallesi (Merkez):** RTEÜ Zihni Derin Ana Kampüsü'nün bulunduğu, deniz kıyısında uzanan ve şehirde öğrencilerin, kafelerin ve sahil yürüyüş alanlarının en yoğun olduğu 1 numaralı mahalledir.
   * **Müftü, Yeniköy ve Tophane Mahalleleri:** Şehir çarşısına (Atatürk Caddesi / Cumhuriyet Meydanı) ve Şimal AVM'ye yürüme mesafesinde olan merkezi mahallelerdir.
   * **İslampaşa Mahallesi:** RTEÜ Eğitim ve Araştırma Hastanesi ile Tıp/Sağlık birimlerine yakın doğu yakası mahallesidir.
-* **KYK Yurt Durumu:** Rize'de Merkez Fener/Bozukkale, Kalkandere yolu ve sahil aksında yüksek kapasiteli **Ayder KYK Kız/Erkek Yurtları**, **Rize KYK Yurdu** ile **Çayeli, Ardeşen ve Pazar KYK Yurtları** yer alır. Rize'de kiralık daire arzı az ve kiralar yüksek olduğu için öğrencilerin büyük çoğunluğu KYK yurtlarını tercih eder.
+* **KYK Yurt Durumu:** Rize'de Merkez Fener/Bozukkale, Kalkandere yolu ve sahil aksında yüksek kapasiteli **Ayder KYK Kız/Erkek Yurtları**, **Rize KYK Yurdu** ile **Çayeli, Ardeşen, Pazar, Fındıklı ve Güneysu KYK Yurtları** yer alır. Rize'de kiralık daire arzı az ve kiralar yüksek olduğu için öğrencilerin büyük çoğunluğu KYK yurtlarını tercih eder.
 * **Kira ve Yaşam Maliyeti (2026):**
   * **Fener / Merkez 1+1 Eşyalı Daire:** 12.000 TL – 17.000 TL
-  * **2+1 / 3+1 Doğalgazlı Öğrenci Evi:** 15.000 TL – 22.000 TL (Deniz manzaralı/yeni binalarda daha yüksek)
+  * **2+1 / 3+1 Doğalgazlı Öğrenci Evi:** 15.000 TL – 22.000 TL
+  * **İlçeler (Çayeli, Ardeşen, Pazar, Fındıklı, Güneysu):** 8.500 TL – 14.500 TL
   * **Aylık Ortalama Öğrenci Gideri (Yurtta kalanlar için):** 7.500 TL – 11.500 TL
 
 ---
@@ -49,5 +50,11 @@ Aşağıdaki bağlantılardan Recep Tayyip Erdoğan Üniversitesi kampüs ve yer
   * [🏛️ RTEÜ Zihni Derin Merkez Kampüsü & Sahil (Tıp/Diş/Denizcilik) Yerleşkeleri](./Merkez/RTEU-Zihni-Derin-Kampusu.md)
 * 📍 **Çayeli**
   * [🏛️ RTEÜ Çayeli Eğitim Fakültesi Yerleşkesi](./Cayeli/RTEU-Cayeli-Egitim-Kampusu.md)
-* 📍 **Ardeşen & Pazar**
-  * [🏛️ RTEÜ Ardeşen Turizm Fakültesi & Pazar Ziraat Fakültesi Yerleşkeleri](./Ardesen/RTEU-Ardesen-ve-Pazar-Yerleskeleri.md)
+* 📍 **Ardeşen**
+  * [🏛️ RTEÜ Ardeşen Turizm Fakültesi & Ardeşen MYO Yerleşkesi](./Ardesen/RTEU-Ardesen-Turizm-Fakultesi.md)
+* 📍 **Pazar**
+  * [🏛️ RTEÜ Pazar Ziraat Fakültesi & Pazar MYO Yerleşkesi](./Pazar/RTEU-Pazar-Ziraat-Fakultesi.md)
+* 📍 **Fındıklı**
+  * [🏛️ RTEÜ Fındıklı Yerleşkesi (Uygulamalı Bilimler & TOBB MYO)](./Findikli/RTEU-Findikli-Yerleskesi.md)
+* 📍 **Güneysu**
+  * [🏛️ RTEÜ Güneysu Fizik Tedavi ve Rehabilitasyon Yüksekokulu](./Guneysu/RTEU-Guneysu-Yerleskesi.md)

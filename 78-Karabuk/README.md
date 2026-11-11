@@ -15,6 +15,7 @@ Türkiye'nin ilk ağır sanayi kenti olarak kurulan Karabük, bugün 45 bini aş
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Karabük Üniversitesi (KBÜ)** | Devlet | Demir Çelik Merkez Kampüsü (100. Yıl) | Merkez | Çok Yüksek (~38.000+) | [İncele](./Merkez/Karabuk-Universitesi-Demir-Celik-Merkez-Kampusu.md) |
 | **Karabük Üniversitesi (KBÜ)** | Devlet | Safranbolu Yerleşkeleri (Mimarlık, GSF, Turizm ve MYO) | Safranbolu | Yüksek (~7.000+) | [İncele](./Safranbolu/Karabuk-Universitesi-Safranbolu-Yerleskesi.md) |
+| **Karabük Üniversitesi (KBÜ)** | Devlet | Yenice MYO Yerleşkesi (Raylı Sistemler & Doğa) | Yenice | Orta | [İncele](./Yenice/Karabuk-Universitesi-Yenice-MYO.md) |
 
 ---
 
@@ -43,3 +44,4 @@ Karabük Üniversitesi'nin merkez ve Safranbolu yerleşkelerine ait detaylı reh
 
 * 📍 **Merkez (100. Yıl):** [Karabük Üniversitesi - Demir Çelik Merkez Kampüsü](./Merkez/Karabuk-Universitesi-Demir-Celik-Merkez-Kampusu.md)
 * 📍 **Safranbolu:** [Karabük Üniversitesi - Safranbolu Yerleşkeleri (Mimarlık, Turizm, GSF ve MYO)](./Safranbolu/Karabuk-Universitesi-Safranbolu-Yerleskesi.md)
+* 📍 **Yenice:** [Karabük Üniversitesi - Yenice Meslek Yüksekokulu (Raylı Sistemler & Doğa)](./Yenice/Karabuk-Universitesi-Yenice-MYO.md)

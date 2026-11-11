@@ -44,3 +44,5 @@ Adıyaman, Güneydoğu Anadolu'nun en sakin, güvenli ve misafirperver şehirler
   * [🏛️ Adıyaman Üniversitesi - Merkez (Altınşehir) Kampüsü](./Merkez/Adiyaman-Universitesi-Merkez-Kampusu.md)
 * 📍 **Kahta (İlçe Yerleşkesi)**
   * [🏛️ Adıyaman Üniversitesi - Kahta Yerleşkesi (Ziraat Fakültesi ve Kahta MYO)](./Kahta/Adiyaman-Universitesi-Kahta-Yerleskesi.md)
+* 📍 **Besni (İlçe Yerleşkesi)**
+  * [🏛️ Adıyaman Üniversitesi - Besni Yerleşkesi (Ali Erdemoğlu İşletme Fakültesi ve Besni MYO)](./Besni/Adiyaman-Universitesi-Besni-Yerleskesi.md)

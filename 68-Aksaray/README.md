@@ -49,3 +49,5 @@ Aşağıdaki bağlantılardan Aksaray Üniversitesi'nin merkez kampüsü ve ilç
   * [🏫 Aksaray Üniversitesi - Ortaköy Meslek Yüksekokulu](./Ortakoy/Ortakoy-MYO.md)
 * 📍 **Sultanhanı**
   * [🏫 Aksaray Üniversitesi - Sultanhanı Meslek Yüksekokulu](./Sultanhani/Sultanhani-MYO.md)
+* 📍 **Eskil**
+  * [🏫 Aksaray Üniversitesi - Eskil Meslek Yüksekokulu](./Eskil/Eskil-MYO.md)

@@ -32,8 +32,15 @@ Aydın; zeytin ve incir ağaçlarıyla çevrili bereketli toprakları, ılıman 
 
 ---
 
-## 📂 İlçeler ve Kampüs Dosyaları
+## 📂 Kampüs ve İlçe Rehberleri
 
-* [ADÜ - Efeler Aytepe Merkez Kampüsü](./Efeler/ADU-Aytepe-Merkez-Kampusu.md)
-* [ADÜ - Nazilli İsabeyli İİBF Yerleşkesi](./Nazilli/ADU-Nazilli-Isabeyli-IIBF.md)
-* [ADÜ - Kuşadası Turizm Fakültesi](./Kusadasi/ADU-Kusadasi-Turizm-Fakultesi.md)
+Aşağıdaki bağlantılardan Aydın Adnan Menderes Üniversitesi (ADÜ) yerleşkelerinin detaylı rehberlerine ulaşabilirsiniz:
+
+* 📍 **Efeler (Merkez Kampüs)**
+  * [🏛️ ADÜ - Efeler Aytepe Merkez Kampüsü](./Efeler/ADU-Aytepe-Merkez-Kampusu.md)
+* 📍 **Nazilli (İlçe Yerleşkesi)**
+  * [🏛️ ADÜ - Nazilli İsabeyli İİBF Yerleşkesi](./Nazilli/ADU-Nazilli-Isabeyli-IIBF.md)
+* 📍 **Kuşadası (Sahil Yerleşkesi)**
+  * [🏛️ ADÜ - Kuşadası Turizm Fakültesi Yerleşkesi](./Kusadasi/ADU-Kusadasi-Turizm-Fakultesi.md)
+* 📍 **Söke (İlçe Yerleşkesi)**
+  * [🏛️ ADÜ - Söke Yerleşkesi (İşletme Fakültesi ve MYO)](./Soke/ADU-Soke-Isletme-Fakultesi-ve-MYO.md)

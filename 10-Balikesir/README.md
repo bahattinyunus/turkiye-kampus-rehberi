@@ -16,6 +16,7 @@ Balıkesir, hem Marmara hem de Ege Denizi'ne kıyısı bulunan, tarım, sanayi v
 | **Balıkesir Üniversitesi (BAÜN)** | [Çağış Merkez Kampüsü](./Altieylul/Balikesir-Universitesi-Cagis-Merkez-Kampusu.md) | Altıeylül | Mühendislik, Tıp, İİBF, Fen-Edebiyat, Veteriner, Turizm, İlahiyat | Şehir Dışı Ana Kampüs (17 km) |
 | **Balıkesir Üniversitesi (BAÜN)** | [NEF Merkez Yerleşkesi](./Karesi/Balikesir-Universitesi-NEF-Kampusu.md) | Karesi | Necatibey Eğitim Fakültesi (NEF), Güzel Sanatlar Fakültesi | Şehir İçi Tarihi Kampüs |
 | **Bandırma Onyedi Eylül Üni. (BANÜ)** | [Bandırma Merkez Kampüsü](./Bandirma/Bandirma-Onyedi-Eylul-Universitesi-Merkez-Kampusu.md) | Bandırma | İİBF, Mühendislik ve Doğa Bilimleri, Denizcilik, Tıp, Sağlık Bilimleri | Şehir Çeperi Ana Kampüs |
+| **Bandırma Onyedi Eylül Üni. (BANÜ)** | [Gönen ve Erdek Yerleşkeleri](./Gonen-Erdek/BANU-Gonen-ve-Erdek-Yerleskeleri.md) | Gönen / Erdek | Ömer Seyfettin UBF (YBS, Lojistik, Finans), Gönen MYO, Erdek MYO (Turizm, Yerel Yönetimler) | Termal & Sahil İlçe Yerleşkeleri |
 | **BAÜN & BANÜ Körfez** | [Körfez Yerleşkeleri (Burhaniye, Ayvalık, Edremit)](./Edremit-Burhaniye-Ayvalik/Balikesir-ve-BANU-Korfez-Yerleskeleri.md) | Burhaniye / Edremit / Ayvalık | Burhaniye Uygulamalı Bilimler (BAÜN), Edremit Sivil Havacılık & MYO, Ayvalık MYO | Sahil / İlçe Yerleşkeleri |
 
 ---
@@ -55,4 +56,5 @@ Aşağıdaki bağlantılardan Balıkesir'deki kampüslerin detaylı ulaşım, ba
 * 📍 **Altıeylül (Merkez):** [Balıkesir Üniversitesi - Çağış Merkez Kampüsü](./Altieylul/Balikesir-Universitesi-Cagis-Merkez-Kampusu.md)
 * 📍 **Karesi (Merkez):** [Balıkesir Üniversitesi - Necatibey Eğitim Fakültesi (NEF) Kampüsü](./Karesi/Balikesir-Universitesi-NEF-Kampusu.md)
 * 📍 **Bandırma:** [Bandırma Onyedi Eylül Üniversitesi - Merkez Kampüsü](./Bandirma/Bandirma-Onyedi-Eylul-Universitesi-Merkez-Kampusu.md)
+* 📍 **Gönen / Erdek:** [Bandırma Onyedi Eylül Üniversitesi - Gönen ve Erdek Yerleşkeleri](./Gonen-Erdek/BANU-Gonen-ve-Erdek-Yerleskeleri.md)
 * 📍 **Edremit / Burhaniye / Ayvalık:** [BAÜN & BANÜ Körfez Yerleşkeleri Rehberi](./Edremit-Burhaniye-Ayvalik/Balikesir-ve-BANU-Korfez-Yerleskeleri.md)

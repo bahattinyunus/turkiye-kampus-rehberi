@@ -15,7 +15,7 @@ Doğu Anadolu'nun "Çukurova"sı olarak anılan Iğdır; etrafındaki Kars, Ağr
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Iğdır Üniversitesi** | Devlet | Şehit Bülent Yurtseven (Suveren) Kampüsü | Merkez | Çok Yüksek | [İncele](./Merkez/Igdir-Universitesi-Sehit-Bulent-Yurtseven-Suveren-Kampusu.md) |
 | **Iğdır Üniversitesi** | Devlet | Karaağaç Kampüsü | Merkez | Yüksek | [İncele](./Merkez/Igdir-Universitesi-Karaagac-Kampusu.md) |
-| **Iğdır Üniversitesi** | Devlet | Tuzluca MYO Yerleşkesi | Tuzluca | Orta | [Karaağaç & Tuzluca Rehberi](./Merkez/Igdir-Universitesi-Karaagac-Kampusu.md) |
+| **Iğdır Üniversitesi** | Devlet | Tuzluca MYO Yerleşkesi | Tuzluca | Orta | [İncele](./Tuzluca/Igdir-Universitesi-Tuzluca-MYO.md) |
 
 ---
 
@@ -43,4 +43,5 @@ Doğu Anadolu'nun "Çukurova"sı olarak anılan Iğdır; etrafındaki Kars, Ağr
 Iğdır Üniversitesi'nin kampüs ve meslek yüksekokulu yerleşkelerine ait detaylı rehberlere aşağıdan ulaşabilirsiniz:
 
 * 📍 **Merkez (Ana Kampüs):** [Iğdır Üniversitesi - Şehit Bülent Yurtseven (Suveren) Kampüsü](./Merkez/Igdir-Universitesi-Sehit-Bulent-Yurtseven-Suveren-Kampusu.md)
-* 📍 **Merkez & Tuzluca:** [Iğdır Üniversitesi - Karaağaç Kampüsü ve Tuzluca MYO](./Merkez/Igdir-Universitesi-Karaagac-Kampusu.md)
+* 📍 **Merkez (Şehir İçi Kampüs):** [Iğdır Üniversitesi - Karaağaç Kampüsü](./Merkez/Igdir-Universitesi-Karaagac-Kampusu.md)
+* 📍 **Tuzluca:** [Iğdır Üniversitesi - Tuzluca Meslek Yüksekokulu](./Tuzluca/Igdir-Universitesi-Tuzluca-MYO.md)

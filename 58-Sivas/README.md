@@ -16,8 +16,9 @@ Tarihi Selçuklu medreselerinden Cumhuriyet'in temellerinin atıldığı Kongre 
 | **Sivas Cumhuriyet Üniversitesi (SCÜ)** | Merkez Kampüsü | Merkez | Tıp, Diş, Eczacılık, Mühendislik, Eğitim, Hukuk, İlahiyat, İİBF, Fen, Edebiyat, Veteriner, İletişim | [SCÜ Merkez Kampüsü](./Merkez/SCU-Merkez-Kampusu.md) |
 | **Sivas Bilim ve Teknoloji Üniversitesi (SBTÜ)** | Gültepe Kampüsü | Merkez | Havacılık ve Uzay Bilimleri, Mühendislik ve Doğa Bilimleri, Tarım Bilimleri ve Teknoloji | [SBTÜ Gültepe Kampüsü](./Merkez/SBTU-Gultepe-Kampusu.md) |
 | **Sivas Cumhuriyet Üniversitesi (SCÜ)** | Şarkışla Yerleşkesi | Şarkışla | Şarkışla Uygulamalı Bilimler Yüksekokulu, Şarkışla Aşık Veysel MYO | [SCÜ Şarkışla Yerleşkesi](./Sarkisla/SCU-Sarkisla-Asik-Veysel-MYO.md) |
+| **Sivas Cumhuriyet Üniversitesi (SCÜ)** | Suşehri Yerleşkesi | Suşehri | Suşehri Sağlık Yüksekokulu (Hemşirelik), Suşehri Timur Karabal MYO | [SCÜ Suşehri Yerleşkesi](./Susehri/SCU-Susehri-Yerleskesi.md) |
 
-> **Diğer İlçe Yerleşkeleri:** Zara Veysel Dursun Uygulamalı Bilimler YO & Zara MYO, Suşehri Timur Karabal MYO & Sağlık YO, Kangal MYO, Gemerek MYO, Gürün MYO, Divriği Nuri Demirağ MYO, Yıldızeli MYO, Koyulhisar MYO, Hafik Kamer Örnek MYO, İmranlı MYO, Akıncılar MYO.
+> **Diğer İlçe Yerleşkeleri:** Zara Veysel Dursun Uygulamalı Bilimler YO & Zara MYO, Kangal MYO, Gemerek MYO, Gürün MYO, Divriği Nuri Demirağ MYO, Yıldızeli MYO, Koyulhisar MYO, Hafik Kamer Örnek MYO, İmranlı MYO, Akıncılar MYO.
 
 ---
 
@@ -58,3 +59,4 @@ Sivas, **yurt sorunu yaşanmayan** nadir büyük öğrenci şehirlerinden biridi
 * 📍 [Merkez - Sivas Cumhuriyet Üniversitesi Merkez Kampüsü](./Merkez/SCU-Merkez-Kampusu.md)
 * 📍 [Merkez - Sivas Bilim ve Teknoloji Üniversitesi Gültepe Kampüsü](./Merkez/SBTU-Gultepe-Kampusu.md)
 * 📍 [Şarkışla - SCÜ Şarkışla Aşık Veysel MYO ve Uygulamalı Bilimler](./Sarkisla/SCU-Sarkisla-Asik-Veysel-MYO.md)
+* 📍 [Suşehri - SCÜ Suşehri Sağlık Yüksekokulu ve MYO](./Susehri/SCU-Susehri-Yerleskesi.md)

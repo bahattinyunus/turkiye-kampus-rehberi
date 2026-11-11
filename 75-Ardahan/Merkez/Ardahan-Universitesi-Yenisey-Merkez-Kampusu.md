@@ -88,7 +88,7 @@
 * **Garantili Barınma ve Ekonomik Yaşam:** KYK yurdu çıkmama ihtimalinin neredeyse olmaması ve harcamaların çok düşük kalması.
 * **Doğa ve Kış Turizmi:** Çıldır Gölü, Yalnızçam Kayak Merkezi ve Kafkas doğasıyla eşsiz bir kış deneyimi.
 
-### ❌ Eksileri
+### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
 * **Çok Sert ve Uzun Kış:** Kasım'dan Nisan'a kadar süren dondurucu soğuklar (-25°C ve altı).
 * **Küçük Şehir Merkezi:** Sinema, büyük AVM ve gece hayatı gibi metropol olanaklarının bulunmaması.
 * **Ulaşım Uzaklığı:** Batı ve güney illerine otobüsle mesafenin çok uzak olması (Kars Havalimanı ile uçak kullanımı şarttır).

@@ -88,7 +88,7 @@
 * **Şehir Merkezine ve Apartlara Yakınlık:** Kampüsten çıkar çıkmaz öğrenci mahallesinin içinde olmak ve merkeze 8 dakikada ulaşmak.
 * **Ulaşım Zahmetinin Olmaması:** Ağdacı'da yaşayan bir öğrencinin otobüs kalabalığı çekmeden yürüyerek derse gidebilmesi.
 
-### ❌ Eksileri
+### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
 * **Bölümlerin Sınırlı Olması:** Üniversitenin çoğu fakültesi Kutlubey'e taşındığı için Ağdacı'da öğrenci çeşitliliğinin daha az olması.
 * **Bina Yaşları:** Bazı binaların Kutlubey'deki sıfır binalara kıyasla daha eski (ancak bakımlı) olması.
 * **Büyük Etkinliklerin Kutlubey'de Yapılması:** Büyük konser ve şenlikler için Kutlubey Kampüsü'ne gitmek gerekmesi.

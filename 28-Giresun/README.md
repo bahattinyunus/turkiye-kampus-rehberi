@@ -13,8 +13,9 @@ Doğu Karadeniz'in sahil şeridi boyunca uzanan, fındık bahçeleri ve dik yama
 
 | Üniversite | Tür | Ana Kampüs / Yerleşke | Bulunduğu İlçe | Öne Çıkan Fakülteler / Bölümler | Rehber Linki |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Giresun Üniversitesi (GRÜ)** | Devlet | Güre & Gazipaşa Yerleşkeleri | Merkez | Tıp, Mühendislik, İİBF, Eğitim, Fen-Edebiyat, Spor Bilimleri | [Merkez Kampüs Rehberi](./Merkez/Giresun-Universitesi-Gure-Kampusu.md) |
-| **Giresun Üniversitesi (GRÜ)** | Devlet | Tirebolu, Görele & Bulancak Yerleşkeleri | Tirebolu / Görele / Bulancak | İletişim Fakültesi, Güzel Sanatlar Fakültesi, Uygulamalı Bilimler | [İlçe Yerleşkeleri Rehberi](./Tirebolu/Tirebolu-Iletisim-ve-Gorele-Ilce-Yerleskeleri.md) |
+| **Giresun Üniversitesi (GRÜ)** | Devlet | Güre, Gaziler & Gazipaşa Yerleşkeleri | Merkez | Tıp, Sağlık Bilimleri, Mühendislik, İİBF, Eğitim, Fen-Edebiyat, Spor Bilimleri | [Merkez Kampüs Rehberi](./Merkez/Giresun-Universitesi-Gure-Kampusu.md) |
+| **Giresun Üniversitesi (GRÜ)** | Devlet | Tirebolu, Görele & Bulancak Yerleşkeleri | Tirebolu / Görele / Bulancak | İletişim Fakültesi, Güzel Sanatlar Fakültesi, Uygulamalı Bilimler | [Sahil Yerleşkeleri Rehberi](./Tirebolu/Tirebolu-Iletisim-ve-Gorele-Ilce-Yerleskeleri.md) |
+| **Giresun Üniversitesi (GRÜ)** | Devlet | Şebinkarahisar Yerleşkesi | Şebinkarahisar | Feyzi Kıraç Uygulamalı Bilimler Fakültesi, Teknik Bilimler MYO, Sosyal Bilimler MYO | [Şebinkarahisar Rehberi](./Sebinkarahisar/Sebinkarahisar-Ilce-Yerleskesi.md) |
 
 ---
 
@@ -47,7 +48,8 @@ Doğu Karadeniz'in sahil şeridi boyunca uzanan, fındık bahçeleri ve dik yama
 
 ---
 
-## 📂 detaylı Kampüs Rehberleri
+## 📂 Detaylı Kampüs Rehberleri
 
-* 📍 **Merkez:** [Giresun Üniversitesi - Güre ve Gazipaşa Yerleşkesi](./Merkez/Giresun-Universitesi-Gure-Kampusu.md)
+* 📍 **Merkez (Güre, Gaziler & Gazipaşa):** [Giresun Üniversitesi - Güre, Gaziler ve Gazipaşa Yerleşkeleri](./Merkez/Giresun-Universitesi-Gure-Kampusu.md)
 * 📍 **Tirebolu / Görele / Bulancak:** [Giresun Üniversitesi - Tirebolu İletişim, Görele Güzel Sanatlar ve Bulancak Yerleşkeleri](./Tirebolu/Tirebolu-Iletisim-ve-Gorele-Ilce-Yerleskeleri.md)
+* 📍 **Şebinkarahisar:** [Giresun Üniversitesi - Şebinkarahisar Yerleşkeleri](./Sebinkarahisar/Sebinkarahisar-Ilce-Yerleskesi.md)

@@ -91,7 +91,7 @@
 * **Harika Doğa ve İklim:** Arkası çam ormanlı Amanos Dağları olan yemyeşil, ferah kampüs ve kışın üşütmeyen Akdeniz iklimi.
 * **Güçlü Sanayi ve Staj Altyapısı:** Osmaniye OSB ve İskenderun/Adana sanayi havzasının hemen merkezinde yer alması.
 
-### ❌ Eksileri
+### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
 * **Mayıs-Haziran ve Eylül Sıcakları:** Çukurova sıcağı ve nemi nedeniyle bahar sonu ve güz başında klimalı ortamların şart olması.
 * **Gece Hayatının Kafe Odaklı Olması:** Eğlence kültürünün büyük gece kulüplerinden ziyade Fakıuşağı'ndaki kafeler, nargile/oyun salonları ve canlı müzik mekanları etrafında dönmesi.
 

@@ -16,6 +16,7 @@ Erzincan; 1939 ve 1992 depremlerinden sonra tamamen yeniden inşa edilmiş **gen
 | **Erzincan Binali Yıldırım Üniversitesi (EBYÜ)** | Devlet | Yalnızbağ Yerleşkesi (Ana Kampüs) & Hukuk/Tıp/Eczacılık Şehir Yerleşkeleri | Hukuk (Doğu'nun en köklü Hukuk Fakültesi), Tıp, Mühendislik-Mimarlık, Eğitim, Eczacılık, Diş Hekimliği, İİBF | [Yalnızbağ & Merkez Yerleşkeleri Rehberi](./Merkez/Erzincan-Binali-Yildirim-Universitesi-Yalnizbag-ve-Merkez-Yerleskeleri.md) |
 | **EBYÜ (Kemaliye)** | Devlet | Kemaliye Yerleşkesi | Kemaliye Hacı Ali Akın Uygulamalı Bilimler YO & Kemaliye MYO | [Kemaliye Yerleşkesi Rehberi](./Kemaliye/Kemaliye-Haci-Ali-Akin-Uygulamali-Bilimler-ve-MYO.md) |
 | **EBYÜ (Tercan & Refahiye)** | Devlet | Tercan & Refahiye Yerleşkeleri | Tercan MYO, Refahiye Sağlık Hizmetleri MYO & Refahiye MYO | [Tercan & Refahiye MYO Rehberi](./Tercan/Tercan-ve-Refahiye-MYO.md) |
+| **EBYÜ (Üzümlü)** | Devlet | Üzümlü Yerleşkesi | Üzümlü MYO (Sivil Savunma ve İtfaiyecilik, Bilgisayar Programcılığı, Bahçe Tarımı) | [Üzümlü MYO Rehberi](./Uzumlu/Uzumlu-MYO.md) |
 
 ---
 
@@ -51,3 +52,4 @@ Erzincan, Türkiye'de öğrenci başına düşen KYK yurt kapasitesi en yüksek 
 * 📍 **Merkez:** [Erzincan Binali Yıldırım Üniversitesi - Yalnızbağ ve Merkez Yerleşkeleri](./Merkez/Erzincan-Binali-Yildirim-Universitesi-Yalnizbag-ve-Merkez-Yerleskeleri.md)
 * 📍 **Kemaliye:** [EBYÜ - Kemaliye Hacı Ali Akın UBYO & MYO](./Kemaliye/Kemaliye-Haci-Ali-Akin-Uygulamali-Bilimler-ve-MYO.md)
 * 📍 **Tercan & Refahiye:** [EBYÜ - Tercan MYO & Refahiye Sağlık Hizmetleri MYO](./Tercan/Tercan-ve-Refahiye-MYO.md)
+* 📍 **Üzümlü:** [EBYÜ - Üzümlü MYO](./Uzumlu/Uzumlu-MYO.md)

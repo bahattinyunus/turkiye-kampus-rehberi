@@ -52,3 +52,5 @@ Aşağıdaki bağlantılardan Adana'daki üniversite yerleşkelerinin detaylı u
   * [🏛️ Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi (ATÜ) - Sarıçam Kampüsü](./Saricam/ATU-Saricam-Kampusu.md)
 * 📍 **Ceyhan (İlçe Yerleşkesi)**
   * [🏛️ Çukurova Üniversitesi - Ceyhan Yerleşkesi (Mühendislik, Veterinerlik ve MYO)](./Ceyhan/Cukurova-Universitesi-Ceyhan-Yerleskesi.md)
+* 📍 **Kozan (İlçe Yerleşkesi)**
+  * [🏛️ Çukurova Üniversitesi - Kozan Yerleşkesi (İşletme Fakültesi ve Kozan MYO)](./Kozan/Cukurova-Universitesi-Kozan-Yerleskesi.md)

@@ -1,4 +1,4 @@
-# 🏛️ Sinop Üniversitesi (SNÜ) - Osmaniye Merkez Kampüsü ve Merkez Yerleşkeleri
+# 🏛️ Sinop Üniversitesi (SNÜ) - Kuzey Kampüsü (Osmaniye Merkez Kampüsü) ve Merkez Yerleşkeleri
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Sinop / Merkez (Osmaniye - Korucuk - Akliman Aksı)  

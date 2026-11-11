@@ -44,8 +44,18 @@ Antalya; Akdeniz kıyısında masmavi denizi, palmiyeleri, yılın 300 günü g�
 
 ---
 
-## 📂 İlçeler ve Kampüs Dosyaları
+## 📂 Kampüs ve İlçe Rehberleri
 
-* [Akdeniz Üniversitesi - Konyaaltı Merkez Kampüsü](./Konyaalti/Akdeniz-Universitesi-Merkez-Kampusu.md)
-* [Alanya Alaaddin Keykubat Üniversitesi - Kestel Kampüsü](./Alanya/ALKU-Kestel-Kampusu.md)
-* [Antalya Bilim Üniversitesi - Döşemealtı Kampüsü](./Dosemealti/Antalya-Bilim-Universitesi.md)
+Aşağıdaki bağlantılardan Antalya'daki üniversite ve yerleşkelerin detaylı ulaşım, barınma, yemekhane ve öğrenci deneyimlerine ulaşabilirsiniz:
+
+* 📍 **Konyaaltı (Merkez Kampüs)**
+  * [🏛️ Akdeniz Üniversitesi - Merkez (Konyaaltı) Kampüsü](./Konyaalti/Akdeniz-Universitesi-Merkez-Kampusu.md)
+* 📍 **Alanya (Sahil & Turizm Kampüsleri)**
+  * [🏛️ Alanya Alaaddin Keykubat Üniversitesi (ALKÜ) - Kestel Kampüsü](./Alanya/ALKU-Kestel-Kampusu.md)
+  * [🏛️ Alanya Üniversitesi - Cikcilli Kampüsü](./Alanya/Alanya-Universitesi-Cikcilli-Kampusu.md)
+* 📍 **Döşemealtı (Kuzey Kampüsü)**
+  * [🏛️ Antalya Bilim Üniversitesi - Döşemealtı Kampüsü](./Dosemealti/Antalya-Bilim-Universitesi.md)
+* 📍 **Manavgat (İlçe Yerleşkesi)**
+  * [🏛️ Akdeniz Üniversitesi - Manavgat Yerleşkesi (MATSO Turizm Fakültesi ve Manavgat MYO)](./Manavgat/Akdeniz-Universitesi-Manavgat-Yerleskesi.md)
+* 📍 **Kumluca (Batı Antalya Yerleşkesi)**
+  * [🏛️ Akdeniz Üniversitesi - Kumluca Yerleşkesi (Sağlık Bilimleri Fakültesi ve Kumluca MYO)](./Kumluca/Akdeniz-Universitesi-Kumluca-Yerleskesi.md)

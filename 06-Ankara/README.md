@@ -66,6 +66,9 @@ Aşağıdaki bağlantılardan Ankara'nın ilçelerine göre ayrılmış detaylı
   * [🏛️ İhsan Doğramacı Bilkent Üniversitesi - Merkez Kampüsü](./Cankaya/Bilkent-Universitesi-Merkez-Kampusu.md)
 * 📍 **Altındağ (Tarihi Merkez & Tıp Yerleşkesi)**
   * [🏛️ Hacettepe Üniversitesi - Sıhhiye (Merkez/Tıp) Kampüsü](./Altindag/Hacettepe-Universitesi-Sihhiye-Kampusu.md)
+  * [🏛️ Ankara Sosyal Bilimler Üniversitesi (ASBÜ) - Ulus Tarihi Kampüsü](./Altindag/ASBU-Ulus-Tarihi-Kampusu.md)
+* 📍 **Etimesgut (Bağlıca & Batı Aksı)**
+  * [🏛️ Başkent Üniversitesi - Bağlıca Kampüsü](./Etimesgut/Baskent-Universitesi-Baglica-Kampusu.md)
 * 📍 **Yenimahalle (Beşevler / Merkez)**
   * [🏛️ Gazi Üniversitesi & AHBVÜ - Beşevler Merkez Kampüsü](./Yenimahalle/Gazi-Universitesi-Merkez-Besevler-Kampusu.md)
 * 📍 **Çubuk & Keçiören (Kuzey Aksı)**

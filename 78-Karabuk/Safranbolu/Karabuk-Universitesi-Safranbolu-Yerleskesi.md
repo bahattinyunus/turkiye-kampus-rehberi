@@ -80,7 +80,7 @@
 * **Bostanbükü KYK ve MYO Entegrasyonu:** MYO kampüsü ile dev KYK yurtlarının yan yana olması.
 * **Hem Nezih Hem Ana Kampüse Yakın:** Safranbolu'nun huzurlu ortamında yaşayıp 10 dakikada 100. Yıl Mahallesi ve Ana Kampüs olanaklarına ulaşabilme.
 
-### ❌ Eksileri
+### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
 * **Kira Seviyesi:** Safranbolu merkezdeki (Yeni Mahalle / Kıranköy) daire kiralarının Karabük merkeze göre biraz daha yüksek olması.
 * **Yokuşlu Coğrafya:** Tarihi Çarşı ve Kıranköy arasındaki bazı sokakların eğimli/yokuşlu olması.
 

@@ -1,9 +1,9 @@
-# 🏛️ Giresun Üniversitesi - Güre ve Gazipaşa Merkez Yerleşkeleri
+# 🏛️ Giresun Üniversitesi - Güre, Gaziler ve Gazipaşa Merkez Yerleşkeleri
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Giresun / Merkez  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Denize Sıfır Ana Kampüs (Güre) & Şehir İçi Yerleşke (Gazipaşa)  
+> **Kampüs Konumu:** Denize Sıfır Ana Kampüs (Güre), Sağlık/Tıp Yerleşkesi (Gaziler/Aksu) & Şehir İçi Yerleşke (Gazipaşa)  
 > **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4/5)
 
 ---
@@ -25,7 +25,10 @@
 ## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
 
 * **Şehir Merkezinden Ulaşım:**  
-  Giresun Üniversitesi'nin ana kalbi olan **Güre Yerleşkesi**, şehir merkezinin yaklaşık 5 km batısında, Karadeniz Sahil Yolu (D010) üzerinde, denize ve Güre Plajı'na komşu bir konumda yer alır. Atatürk Meydanı ve Gazi Caddesi'nden kalkan **Güre - Teyyaredüzü** dolmuşları ve belediye otobüsleri her 3-5 dakikada bir kampüs ana kapısından geçer. Eğitim Fakültesi'nin bulunduğu **Gazipaşa Yerleşkesi** ise doğrudan şehir merkezinde, Debboy mevkiine yürüme mesafesindedir. Otogardan kampüse tek vasıtayla 15 dakikada, Ordu-Giresun Havalimanı'ndan (OGU) ise Havaş veya sahil dolmuşlarıyla 25 dakikada ulaşılır.
+  Giresun Üniversitesi Merkez kampüsleri 3 ana odakta toplanmıştır:
+  * **Güre Yerleşkesi (Ana Kampüs):** Şehir merkezinin yaklaşık 5 km batısında, Karadeniz Sahil Yolu (D010) üzerinde, denize ve Güre Plajı'na komşu bir konumda yer alır. Mühendislik, Fen-Edebiyat, İİBF, İlahiyat, Spor Bilimleri Fakülteleri ve Rektörlük buradadır. Atatürk Meydanı ve Gazi Caddesi'nden kalkan **Güre - Teyyaredüzü** dolmuşları ve belediye otobüsleri her 3-5 dakikada bir kampüs ana kapısından geçer.
+  * **Gaziler Yerleşkesi (Tıp & Sağlık Aksı):** Şehrin doğu aksında (Aksu/Gaziler Mahallesi) konumlanan yerleşkedir. Tıp Fakültesi Morfoloji Binası, Sağlık Bilimleri Fakültesi, Sağlık Hizmetleri MYO ve Giresun Eğitim ve Araştırma Hastanesi bu kampüstedir. Merkeze 4 km, yeni stadyum ve Aksu Festival alanına komşudur. Dolmuş ve otobüs hatları 5 dakikada bir çalışır.
+  * **Gazipaşa Yerleşkesi:** Eğitim Fakültesi'nin bulunduğu tarihi yerleşke olup doğrudan şehir merkezinde, Debboy mevkiine yürüme mesafesindedir. Otogardan kampüslere tek vasıtayla 15 dakikada, Ordu-Giresun Havalimanı'ndan (OGU) ise Havaş veya sahil dolmuşlarıyla 25 dakikada ulaşılır.
 * **Kampüs İçi Ulaşım (Ring Seferleri):**  
   Güre Yerleşkesi sahil yolunun hemen üst bandında kompakt ancak hafif eğimli bir araziye kuruludur. Fakülteler (Mühendislik, Fen-Edebiyat, İİBF, İlahiyat, Spor Bilimleri) ve Rektörlük binaları birbirine yürüme mesafesinde (5-10 dk) olduğundan kampüs içi ring ihtiyacı minimumdur.
 * **Öğrenci Abonman & Ulaşım Kartı:**  

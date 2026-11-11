@@ -2,49 +2,54 @@
 
 > **Son Güncelleme:** Kasım 2026  
 > **Bölge:** Güneydoğu Anadolu Bölgesi  
-> **Öğrenci Nüfusu:** ~22.000+  
+> **Öğrenci Nüfusu:** ~24.000+  
 > **Ulaşım Kartı:** MardinKart  
 
-Mezopotamya Ovası'na bakan binlerce yıllık taş mimarisi, çok kültürlü dokusu ve gastronomisiyle Türkiye'nin en özgün şehirlerinden biri olan Mardin, öğrencilerine adeta açık hava müzesinde üniversite okuma deneyimi sunar. Şehirdeki yükseköğretim faaliyetleri **Mardin Artuklu Üniversitesi (MAÜ)** çatısı altında yürütülmektedir.
+Tarihi İpekyolu üzerinde, binlerce yıllık taş konakları, camileri, manastırları ve çok dilli, çok kültürlü hoşgörü iklimiyle Türkiye'nin en büyüleyici açık hava müzelerinden biri olan Mardin; 2007 yılında kurulan **Mardin Artuklu Üniversitesi (MAÜ)** ile yaşayan bir kültür ve akademi kentine dönüşmüştür. Şehir, Mezopotamya Ovası'na tepeden bakan tarihi silueti, yeni yerleşim bölgesi Yenişehir ve gelişmiş ilçeleriyle öğrencilere unutulmaz bir üniversite deneyimi sunar.
 
 ---
 
-## 🏛️ Mardin'deki Üniversiteler
+## 🏛️ Mardin'deki Üniversite
 
 | Üniversite Adı | Türü | Kuruluş | Ana Kampüs / Konum | Öne Çıkan Alanlar |
 | :--- | :--- | :--- | :--- | :--- |
-| **Mardin Artuklu Üniversitesi (MAÜ)** | Devlet | 2007 | Artuklu (Diyarbakır Yolu Kampüs Yerleşkesi), Yenişehir & Midyat | Mimarlık, Edebiyat/Tarih, Doğu Dilleri, Güzel Sanatlar, Turizm, Sağlık, Tıp |
+| **Mardin Artuklu Üniversitesi (MAÜ)** | Devlet | 2007 | Artuklu (Diyarbakır Yolu Kampüsü) & Tarihi Sit Alanı | Mimarlık, Güzel Sanatlar, İlahiyat, Edebiyat, Turizm, Tıp, Sağlık, Tarım, Telkâri & Mücevher |
 
 ---
 
 ## 🚌 Şehirde Ulaşım ve MardinKart
 
-* **Ulaşım Kartı:** Mardin Büyükşehir Belediyesi toplu taşıma araçlarında (mor otobüsler ve şehir içi minibüsler) **MardinKart** kullanılır.
-* **Öğrenci Tarifesi (2026):** Öğrenci biniş ücreti **11,00 - 13,00 TL** bandındadır.
-* **Ana Ulaşım Aksı:** Mardin; tarihi **Eski Mardin (1. Cadde / Kale altı)** ve modern yapılaşmanın olduğu **Yenişehir (Ravza Caddesi, Valilik, AVM bölgesi)** olarak iki ana parçadan oluşur. Ana kampüs (Kampüs Yerleşkesi) ise Yenişehir'den Diyarbakır yoluna çıkarken 약 5-6 km mesafede yer alır. Yenişehir'den kampüse her 5-10 dakikada bir otobüs ve minibüs kalkar.
+* **Ulaşım Kartı:** Şehir içi toplu taşımada (belediye otobüsleri ve özel halk minibüsleri) **MardinKart** geçerlidir.
+* **Öğrenci Tarifesi (2026):** Öğrenci biniş ücreti **~12,00 TL** civarındadır. Mobil uygulama üzerinden kart bakiyesi sorgulanabilir ve yükleme yapılabilir.
+* **Ana Ulaşım Aksı:** Yenişehir ile Diyarbakır yolu üzerindeki Merkez Kampüs arasında sık aralıklarla ring ve halk otobüsleri çalışır. Eski Mardin (1. Cadde ve Kaletü) ile Yenişehir arasında ise minibüsler 10 dakikada bir sefer yapar. Kızıltepe, Midyat ve Nusaybin ilçelerine ise Yenişehir Otogarı'ndan sürekli dolmuşlar kalkmaktadır.
+* **Havalimanı Bağlantısı:** Mardin Prof. Dr. Aziz Sancar Havalimanı Kızıltepe yolu üzerinde yer alır ve şehir merkezine HAVAŞ ve belediye otobüsleriyle 25-30 dakikada varılır.
 
 ---
 
 ## 🏠 Barınma, KYK Yurtları ve Öğrenci Mahalleleri
 
-* **Popüler Öğrenci Mahalleleri:**
-  * **Yenişehir Mahallesi (Ravza Caddesi, Emniyet & Valilik Çevresi):** Mardin'de öğrencilerin %85'inin yaşadığı modern bölgedir. Geniş bulvarları, zincir kafeleri, marketleri,Mardian Mall AVM ve Sağlık/İktisat birimlerine yakınlığı ile en güvenli ve canlı mahalledir.
-  * **Nur Mahallesi (Kampüs Çevresi - Diyarbakır Yolu):** Ana kampüsün hemen etrafında gelişen yeni konut ve apart bölgesidir. Kampüse yürüyerek veya 2 dakikalık minibüsle gitmek isteyen öğrencilerin tercihidir.
-  * **Eski Mardin (1. Cadde / Şehidiye / Medrese Mahalleleri):** Mimarlık ve Güzel Sanatlar Fakültesi öğrencilerinin taş evlerde veya butik dairelerde atmosfer için tercih ettiği tarihi bölgedir; ancak merdivenli sokakları ve sobalı/klima ısıtmalı eski yapıları nedeniyle kışın zorlayıcı olabilir.
-* **KYK Yurt Durumu:** Ana kampüsün içinde ve hemen yanında devasa kapasiteli **Kasımiye KYK Kız Öğrenci Yurdu** ve **Aziz Sancar KYK Kız/Erkek Öğrenci Yurtları** yer alır. Yurtlar kampüs mimarisine uygun taş kaplamalı modern binalardan oluşur ve yurt çıkma oranı oldukça yüksektir.
-* **Kira ve Yaşam Maliyeti (2026):**
-  * **1+1 Eşyalı Apart (Yenişehir / Nur Mah.):** 9.000 TL – 13.500 TL
-  * **2+1 / 3+1 Doğalgazlı Daire (Yenişehir):** 12.500 TL – 18.000 TL
-  * **Aylık Ortalama Öğrenci Gideri:** 7.500 TL – 11.000 TL
+* **Öğrenci Yerleşim Bölgeleri:**
+  * **Yenişehir Mahallesi (Artuklu):** Mardin'in modern yüzüdür. Ravza Caddesi, Karayolları Parkı ve Mardian Mall çevresi kafelerin, marketlerin ve öğrenci dairelerinin toplandığı merkezdir.
+  * **Eski Mardin (Tarihi Sit Alanı):** Mimarlık, Sanat ve Tasarım öğrencilerinin tercih ettiği tarihi taş konaklar ve avlulu evler burada yer alır.
+  * **Nur Mahallesi & Kampüs Çevresi:** Ana kampüsün hemen karşısında yeni yapılan siteler ve öğrenci apartları bulunmaktadır.
+* **KYK Yurt Kapasitesi:** Kampüs içinde yer alan **Kasımiye Kız KYK Yurdu** ve **Aziz Sancar KYK Yurdu** yüksek yatak kapasitesine sahiptir. İlçelerde (Midyat, Kızıltepe, Nusaybin) de müstakil KYK yurtları yer alır.
+* **Kira Seviyeleri (2026):**
+  * **1+1 / 2+1 Eşyalı Apart (Yenişehir / Kampüs Çevresi):** 9.000 TL – 14.500 TL
+  * **3+1 Daire (Yenişehir):** 13.000 TL – 18.000 TL
+  * **İlçe Merkezleri (Kızıltepe, Midyat, Nusaybin):** 7.500 TL – 12.500 TL
 
 ---
 
 ## 📂 Kampüs ve Yerleşke Rehberleri
 
-Aşağıdaki bağlantılardan Mardin Artuklu Üniversitesi kampüs ve yerleşkelerinin detaylı rehberlerine ulaşabilirsiniz:
+Aşağıdaki bağlantılardan Mardin'deki kampüs ve yerleşkelerin kapsamlı rehberlerine ulaşabilirsiniz:
 
 * 📍 **Artuklu (Merkez)**
   * [🏛️ MAÜ Merkez Kampüs Yerleşkesi (Diyarbakır Yolu)](./Artuklu/MAU-Kampus-Yerleskesi.md)
-  * [🏛️ MAÜ Yenişehir ve Tarihi Eski Mardin (Mimarlık / Güzel Sanatlar) Yerleşkeleri](./Artuklu/MAU-Yenisehir-ve-Kale-Yerleskeleri.md)
+  * [🏛️ MAÜ Yenişehir & Tarihi Eski Mardin (Mimarlık / Güzel Sanatlar) Yerleşkeleri](./Artuklu/MAU-Yenisehir-ve-Kale-Yerleskeleri.md)
 * 📍 **Midyat**
-  * [🏛️ MAÜ Midyat Sanat ve Tasarım Fakültesi & Midyat MYO Yerleşkesi](./Midyat/MAU-Midyat-Sanat-ve-Tasarim-Kampusu.md)
+  * [🏛️ MAÜ Midyat Sanat ve Tasarım Fakültesi & Midyat MYO](./Midyat/MAU-Midyat-Sanat-ve-Tasarim-Kampusu.md)
+* 📍 **Kızıltepe**
+  * [🏛️ MAÜ Kızıltepe Tarım Bilimleri ve Teknolojileri Fakültesi & Kızıltepe MYO](./Kiziltepe/MAU-Kiziltepe-Yerleskesi.md)
+* 📍 **Nusaybin**
+  * [🏛️ MAÜ Nusaybin Neriman ve Celal Gözüoğlu MYO](./Nusaybin/MAU-Nusaybin-Yerleskesi.md)

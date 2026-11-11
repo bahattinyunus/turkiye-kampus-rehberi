@@ -1,11 +1,11 @@
 # 🎓 Nevşehir İl Öğrenci ve Kampüs Rehberi (50)
 
 > **Son Güncelleme:** Kasım 2026  
-> **Bölge:** İç Anadolu Bölgesi (Kapadokya)  
-> **Öğrenci Nüfusu:** ~34.000+  
-> **Ulaşım Kartı:** Nevşehir Kart (Özel Halk Otobüsleri)  
+> **Bölge:** İç Anadolu Bölgesi (Kapadokya Bölümü)  
+> **Öğrenci Nüfusu:** ~28.000+  
+> **Ulaşım:** Nevşehir Özel Halk Otobüsleri & İlçe Minibüsleri  
 
-UNESCO Dünya Mirası Listesi'nde yer alan **Kapadokya**'nın kalbi Nevşehir; gökyüzünü süsleyen sıcak hava balonları, peribacaları, yeraltı şehirleri ve yılın 12 ayı süren uluslararası turizm hareketliliğiyle İç Anadolu'nun klasik bozkır şehirlerinden tamamen ayrılır. Şehirde devlet üniversitesi olan **Nevşehir Hacı Bektaş Veli Üniversitesi (NEVÜ)** ve Türkiye'nin havacılık, gastronomi ve turizm odaklı en özgün vakıf üniversitelerinden biri olan **Kapadokya Üniversitesi (KÜN)** olmak üzere iki üniversite bulunmaktadır.
+Dünyanın en büyüleyici jeolojik ve kültürel miras alanlarından biri olan masalsı **Kapadokya**'nın merkezinde yer alan Nevşehir; peri bacaları, vadileri, yer altı şehirleri, sıcak hava balonları ve Kızılırmak kıyısındaki sanat atölyeleriyle Türkiye'nin en özgün üniversite şehirlerinden biridir. Şehirde devlet üniversitesi olan **Nevşehir Hacı Bektaş Veli Üniversitesi (NEVÜ)** ile Türkiye'nin butik tematik vakıf üniversitelerinden **Kapadokya Üniversitesi (KÜN)** faaliyet göstermektedir.
 
 ---
 
@@ -13,41 +13,44 @@ UNESCO Dünya Mirası Listesi'nde yer alan **Kapadokya**'nın kalbi Nevşehir; g
 
 | Üniversite Adı | Türü | Kuruluş | Ana Kampüs / Konum | Öne Çıkan Alanlar |
 | :--- | :--- | :--- | :--- | :--- |
-| **Nevşehir Hacı Bektaş Veli Üniversitesi (NEVÜ)** | Devlet | 2007 | Merkez (Damat İbrahim Paşa Kampüsü) + Ürgüp, Avanos, Gülşehir, Hacıbektaş, Kozaklı | Turizm, Diş Hekimliği, Eğitim, Mühendislik (Kaya/Jeoloji), Güzel Sanatlar (Seramik), İlahiyat |
-| **Kapadokya Üniversitesi (KÜN)** | Vakıf | 2005 / 2017 | Ürgüp (Mustafapaşa Kampüsü) & Merkez (Uçhisar Kampüsü) | Sivil Havacılık, Uçak Teknolojisi, Gastronomi, Diş Hekimliği, Turizm Rehberliği, Sağlık |
+| **Nevşehir Hacı Bektaş Veli Üniversitesi (NEVÜ)** | Devlet | 2007 | Merkez (Damat İbrahim Paşa Kampüsü - 2000 Evler) & Avanos | Turizm, Diş Hekimliği, Eğitim, Güzel Sanatlar & Seramik, Mühendislik |
+| **Kapadokya Üniversitesi (KÜN)** | Vakıf | 2005 / 2017 | Ürgüp (Mustafapaşa Kampüsü) & Uçhisar | Sivil Havacılık, Uçak Bakım, Diş Hekimliği, Gastronomi, Sağlık |
 
 ---
 
-## 🚌 Şehirde Ulaşım ve Nevşehir Kart
+## 🚌 Şehirde Ulaşım ve Öğrenci Hatları
 
-* **Ulaşım Kartı:** Nevşehir Merkez şehir içi özel halk otobüslerinde **Nevşehir Kart** (ve temassız banka kartları) geçerlidir. Öğrenci biniş ücreti **13,00 - 15,00 TL** civarındadır.
-* **Merkez - Turistik Beldeler Ulaşımı:** Nevşehir Merkez (Valilik/Zübeyde Hanım Cad.) ve **2000 Evler Mahallesi**'nden **Uçhisar, Göreme, Avanos ve Ürgüp (Mustafapaşa)** yönüne her 15-20 dakikada bir ilçe/belde minibüsleri kalkar.
+* **Merkez İçi Ulaşım (2000 Evler & Çarşı):** Şehir merkezi (Nissara AVM, Valilik, Borsa Kavşağı) ile NEVÜ Merkez Kampüsü ve 2000 Evler Öğrenci Mahallesi arasında **1, 2 ve 3 numaralı halk otobüsleri** her 5 dakikada bir çalışır. Öğrenci biniş ücreti **12,00 - 14,00 TL** civarındadır.
+* **Turistik İlçe ve Belde Hatları:** Nevşehir otogarından ve kampüs yanından geçen ana arterden **Avanos (15 dk), Göreme (15 dk), Uçhisar (10 dk) ve Ürgüp (20-25 dk)** yönüne gün boyu minibüsler aralıksız sefer düzenler.
+* **Havalimanı Bağlantısı:** Kapadokya Havalimanı (Gülşehir) şehir merkezine 30 km mesafede olup THY/Pegasus servisleri ve belediye otobüsleriyle ulaşım sağlanır.
 
 ---
 
-## 🏠 Barınma, KYK Yurtları ve "2000 Evler Mahallesi" Efsanesi
+## 🏠 Barınma, KYK Yurtları ve Öğrenci Mahalleleri
 
-Nevşehir'de öğrenci yaşamı denince akla gelen tek bir merkez vardır: **2000 Evler Mahallesi**.
-
-* **Popüler Öğrenci Mahalleleri:**
-  * **2000 Evler Mahallesi (Merkez):** NEVÜ Damat İbrahim Paşa Ana Kampüsü'nün hemen karşısında ve çevresinde kurulu, tamamen öğrencilerden, 1+1 eşyalı apartlardan, yeni nesil kafelerden, pub/bistrolardan, dönercilerden ve Nissara/Forum Kapadokya aksından oluşan canlı bir öğrenci mahallesidir.
-  * **Güzelyurt & 15 Temmuz Mahallesi:** 2000 Evler'in hemen devamında, aile apartmanlarının ve 2+1 / 3+1 doğalgazlı öğrenci evlerinin yoğunlaştığı nezih ve güvenli mahallelerdir.
-  * **Ürgüp & Mustafapaşa & Uçhisar:** Kapadokya Üniversitesi (KÜN) öğrencilerinin kaldığı, taş konaklar ile öğrenci apartlarının iç içe geçtiği turistik yerleşimlerdir.
-* **KYK Yurt Durumu:** NEVÜ kampüsünün hemen içinde ve 2000 Evler çevresinde çok yüksek kapasiteli **Kapadokya KYK Kız Yurdu**, **Hacı Bektaş Veli KYK Yurdu** ve **Nevşehir KYK Erkek Yurdu** yer alır. Ayrıca Ürgüp ve Avanos'ta da KYK yurtları mevcuttur; yurt çıkma ihtimali çok yüksektir.
-* **Kira ve Yaşam Maliyeti (2026):**
-  * **2000 Evler 1+0 / 1+1 Eşyalı Apart:** 10.000 TL – 15.000 TL
-  * **Güzelyurt / Merkez 2+1 veya 3+1 Doğalgazlı Daire:** 13.000 TL – 18.000 TL
-  * **Ürgüp / Mustafapaşa Apart ve Yurtlar:** 11.000 TL – 17.000 TL
-  * **Aylık Ortalama Öğrenci Gideri:** 8.000 TL – 12.000 TL
+* **2000 Evler Mahallesi (Nevşehir'in Öğrenci Başkenti):**
+  * NEVÜ Merkez Kampüsü'nün hemen kapısında yer alan **2000 Evler**, şehrin açık ara en canlı bölgesidir. Nüfusun büyük kısmını öğrenciler oluşturur.
+  * Mahallede yüzlerce modern eşyalı 1+0, 1+1 apart, spor salonları, üçüncü nesil kafeler ve restoranlar yer alır.
+  * Kampüs içi ve kapı komşusu **Kapadokya KYK Kız Yurdu**, **Hacı Bektaş Veli KYK** ve **Nevşehir Erkek KYK Yurdu** sayesinde yurt sorunu neredeyse yoktur.
+* **İlçelerde Barınma:**
+  * **Ürgüp & Mustafapaşa:** Ürgüp KYK yurdu ve KÜN vakıf konukevleri mevcuttur.
+  * **Avanos:** Kızılırmak kıyısındaki Avanos KYK yurdu ve kiralık daireler uygundur.
+* **Kira Seviyeleri (2026):**
+  * **1+1 Eşyalı Apart (2000 Evler / Merkez):** 10.000 TL – 16.000 TL
+  * **2+1 / 3+1 Daire (Ürgüp / Avanos):** 11.000 TL – 17.500 TL
+  * **Aylık Ortalama Öğrenci Gideri:** 8.500 TL – 12.500 TL
 
 ---
 
 ## 📂 Kampüs ve Yerleşke Rehberleri
 
-Aşağıdaki bağlantılardan Nevşehir'deki üniversite ve kampüslerin detaylı rehberlerine ulaşabilirsiniz:
+Aşağıdaki bağlantılardan Nevşehir'deki tüm kampüs ve yerleşkelerin detaylı rehberlerine ulaşabilirsiniz:
 
-* 📍 **Merkez & Uçhisar**
-  * [🏛️ NEVÜ Damat İbrahim Paşa Merkez Kampüsü (2000 Evler)](./Merkez/NEVU-Damat-Ibrahim-Pasa-Kampusu.md)
-  * [🏛️ Kapadokya Üniversitesi (KÜN) Uçhisar Sanat ve Havacılık Yerleşkesi](./Merkez/KUN-Uchisar-Kampusu.md)
+* 📍 **Merkez (2000 Evler)**
+  * [🏛️ NEVÜ Damat İbrahim Paşa Merkez Kampüsü](./Merkez/NEVU-Damat-Ibrahim-Pasa-Kampusu.md)
+* 📍 **Merkez (Uçhisar)**
+  * [🏛️ KÜN Uçhisar Yerleşkesi (Havacılık, Sağlık & Sanat)](./Merkez/KUN-Uchisar-Kampusu.md)
+* 📍 **Avanos**
+  * [🏛️ NEVÜ Avanos Güzel Sanatlar MYO Yerleşkesi (Kızılırmak & Seramik)](./Avanos/NEVU-Avanos-Yerleskesi.md)
 * 📍 **Ürgüp (Mustafapaşa)**
-  * [🏛️ Kapadokya Üniversitesi (KÜN) Mustafapaşa Merkez Kampüsü](./Urgup/KUN-Mustafapasa-Kampusu.md)
+  * [🏛️ KÜN Mustafapaşa Merkez Kampüsü (Köy-Kampüs Modeli)](./Urgup/KUN-Mustafapasa-Kampusu.md)

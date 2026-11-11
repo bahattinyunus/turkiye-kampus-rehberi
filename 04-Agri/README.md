@@ -44,3 +44,5 @@ Ağrı, Türkiye'nin çatısı Ağrı Dağı'nın eteklerinde, sert kış iklimi
   * [🏛️ Ağrı İbrahim Çeçen Üniversitesi (AİÇÜ) - Merkez Kampüsü](./Merkez/Agri-Ibrahim-Cecen-Universitesi-Merkez-Kampusu.md)
 * 📍 **Doğubayazıt (İlçe Yerleşkesi)**
   * [🏛️ Ağrı İbrahim Çeçen Üniversitesi - Doğubayazıt Ahmed-i Hani MYO](./Dogubayazit/AICU-Dogubayazit-Ahmed-i-Hani-MYO.md)
+* 📍 **Patnos (İlçe Yerleşkesi)**
+  * [🏛️ Ağrı İbrahim Çeçen Üniversitesi - Patnos Yerleşkesi (Doğa Bilimleri Fakültesi ve Patnos Sosyal Hizmetler MYO)](./Patnos/AICU-Patnos-Yerleskesi.md)

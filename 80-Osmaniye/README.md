@@ -15,7 +15,7 @@ Amanos (Nur) Dağları'nın yemyeşil eteklerinde, Çukurova'nın doğu kapısı
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Osmaniye Korkut Ata Üniversitesi (OKÜ)** | Devlet | Karacaoğlan (Fakıuşağı) Merkez Kampüsü | Merkez | Çok Yüksek (~14.500+) | [İncele](./Merkez/Osmaniye-Korkut-Ata-Universitesi-Fakiusagi-Kampusu.md) |
 | **Osmaniye Korkut Ata Üniversitesi (OKÜ)** | Devlet | Kadirli Yerleşkesi (Uygulamalı Bilimler & MYO) | Kadirli | Yüksek (~3.000+) | [İncele](./Kadirli/Osmaniye-Korkut-Ata-Universitesi-Kadirli-Yerleskesi.md) |
-| **Osmaniye Korkut Ata Üniversitesi (OKÜ)** | Devlet | Bahçe MYO, Düziçi MYO & Erzin MYO | Bahçe / Düziçi | Orta | [Kadirli & İlçeler Rehberi](./Kadirli/Osmaniye-Korkut-Ata-Universitesi-Kadirli-Yerleskesi.md) |
+| **Osmaniye Korkut Ata Üniversitesi (OKÜ)** | Devlet | Düziçi MYO Yerleşkesi (Raylı Sistemler & Bilişim) | Düziçi | Orta | [İncele](./Duzici/Osmaniye-Korkut-Ata-Universitesi-Duzici-MYO.md) |
 
 ---
 
@@ -42,4 +42,5 @@ Amanos (Nur) Dağları'nın yemyeşil eteklerinde, Çukurova'nın doğu kapısı
 Osmaniye Korkut Ata Üniversitesi'nin merkez ve ilçe yerleşkelerine ait detaylı rehberlere aşağıdan ulaşabilirsiniz:
 
 * 📍 **Merkez (Fakıuşağı):** [Osmaniye Korkut Ata Üniversitesi - Karacaoğlan (Fakıuşağı) Merkez Kampüsü](./Merkez/Osmaniye-Korkut-Ata-Universitesi-Fakiusagi-Kampusu.md)
-* 📍 **Kadirli (ve Bahçe/Düziçi):** [Osmaniye Korkut Ata Üniversitesi - Kadirli Yerleşkesi (Fakülte & MYO) ve İlçe MYO'lar](./Kadirli/Osmaniye-Korkut-Ata-Universitesi-Kadirli-Yerleskesi.md)
+* 📍 **Kadirli:** [Osmaniye Korkut Ata Üniversitesi - Kadirli Yerleşkesi (Fakülte & MYO)](./Kadirli/Osmaniye-Korkut-Ata-Universitesi-Kadirli-Yerleskesi.md)
+* 📍 **Düziçi:** [Osmaniye Korkut Ata Üniversitesi - Düziçi Meslek Yüksekokulu](./Duzici/Osmaniye-Korkut-Ata-Universitesi-Duzici-MYO.md)

@@ -4,7 +4,7 @@
 > **İl / İlçe:** Kahramanmaraş / Elbistan  
 > **Üniversite Türü:** Devlet  
 > **Kampüs Konumu:** İlçe Yerleşkesi (Kahramanmaraş Merkeze 150 km)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️☆☆☆ (2.5/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️☆☆☆ (2.6/5)
 
 ---
 
@@ -13,67 +13,87 @@
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
 | **🚇 Şehir Merkezine Uzaklık** | İlçe merkezine 4-5 km / İl merkezine 150 km | İlçe içi minibüs ve belediye otobüsleri ile 10-15 dk |
-| **🏠 KYK Yurt İmkanı** | Orta - Yüksek | Elbistan KYK Yurdu ve deprem sonrası yenilenen barınma birimleri |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 7.500 - 12.000 TL | Pınarbaşı, Cumhuriyet ve Orhangazi mahallelerindeki yeni binalar |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 TL / Orta | Öğle saatlerinde tabldot yemek hizmeti |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri | Yerleşke içi çalışma salonu |
-| **🌐 İnternet (eduroam)** | Orta | Derslik binalarında aktif |
-| **🌆 Sosyal Yaşam & Çevre** | Kısıtlı (Yeniden Yapılanma Sürecinde) | Ceyhan Nehri Pınarbaşı mesire alanı ve yeni açılan kafeler |
+| **🏠 KYK Yurt İmkanı** | Yüksek | Elbistan KYK Yurtları ve deprem sonrası yenilenen modern bloklar |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 7.500 - 12.500 TL | Pınarbaşı, Cumhuriyet ve Karaelbistan TOKİ konutları |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 TL / Standart | Hafta içi öğle saatlerinde tabldot yemek servisi |
+| **📚 Kütüphane Kapasitesi** | Mesai Saatleri | Yerleşke içi çalışma salonu + Elbistan İlçe Halk Kütüphanesi |
+| **🌐 İnternet (eduroam)** | Orta | Derslik binalarında ve idari blokta aktif |
+| **🌆 Sosyal Yaşam & Çevre** | Kısıtlı | Ceyhan Nehri Pınarbaşı mesire alanı, yeni kafeler ve yerel çay ocakları |
 
 ---
 
 ## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
 
 * **İlçe ve Şehir Merkezinden Ulaşım:**  
-  Elbistan, Kahramanmaraş il merkezinin kuzeyinde, merkeze yaklaşık 150 km (2 - 2,5 saat) uzaklıkta büyük bir ova ilçesidir. Coğrafi ve iklimsel olarak Kahramanmaraş merkezden ziyade Malatya ve Sivas/Kayseri (İç-Doğu Anadolu) karakteri gösterir. Elbistan Mühendislik Fakültesi ve Elbistan Meslek Yüksekokulu yerleşkesine ilçe merkezinden şehir içi minibüsler ve KahramanKart geçerli belediye otobüsleriyle 10-15 dakikada ulaşılır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Kompakt bir ilçe yerleşkesi olduğu için binalar arası yürüme mesafesi 2-3 dakikadır.
+  Elbistan, Kahramanmaraş il merkezinin kuzeyinde, merkeze yaklaşık 150 km (2 - 2,5 saat) uzaklıkta bulunan ve 140 bini aşan nüfusuyla bölgenin en büyük ilçelerindendir. Coğrafi ve iklimsel olarak Kahramanmaraş merkezden tamamen farklıdır; tipik bir İç-Doğu Anadolu plato karakteri gösterir. Elbistan Mühendislik Fakültesi ve Elbistan Meslek Yüksekokulu yerleşkesine ilçe merkezinden minibüsler ve KahramanKart geçerli belediye otobüsleriyle 10-15 dakikada ulaşılır.
+* **Şehirlerarası Bağlantı:**  
+  Elbistan Otogarı'ndan Malatya, Kayseri, Ankara ve İstanbul yönüne düzenli otobüs seferleri vardır. Malatya Havalimanı (yaklaşık 120 km), Kahramanmaraş Havalimanı'na göre ilçeye ulaşımda sıklıkla tercih edilen bir alternatiftir.
+* **Kampüs İçi Ulaşım:**  
+  Kompakt ve derli toplu bir yerleşke yapısına sahiptir; fakülte binaları, laboratuvarlar ve yemekhane birbirine yürüme mesafesinde (2-3 dakika) yer alır.
 * **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Kahramanmaraş merkezin aksine **Elbistan'da kışlar çok sert ve kar yağışlı geçer** (-15°C / -20°C'leri görebilir). Kışlık bot, kalın mont ve termal içlik şarttır.
+  Kahramanmaraş merkezin ılıman havasının aksine **Elbistan'da kışlar çok sert, kuru ayazlı ve yoğun kar yağışlı geçer**. Sıcaklık kış geceleri -15°C ile -22°C seviyelerine inebilir. Yollar sıklıkla buzlanır; termal içlik ve kar botu olmadan dışarıda uzun süre durmak imkânsızdır.
 
 ---
 
 ## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
 
 * **KYK Yurtları:**  
-  6 Şubat 2023 depremlerinin ikinci merkez üssü olan Elbistan'da barınma altyapısı deprem sonrasında TOKİ ve Gençlik ve Spor Bakanlığı yatırımlarıyla yenilenmiştir. İlçedeki KYK yurdu öğrencilerin ilk ve en güvenli barınma tercihidir.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Depremde ilçe merkezi ağır hasar aldığı için ev tutacak öğrencilerin **kesinlikle yeni yapılan TOKİ konutlarını veya az katlı, hasarsız yeni binaları** tercih etmesi gerekir. Pınarbaşı ve Karaelbistan aksındaki yeni konutlarda kiralar 7.500 - 12.000 TL civarındadır.
+  6 Şubat 2023 depremlerinin 7.6 büyüklüğündeki ikinci merkez üssü olan Elbistan'da barınma altyapısı devlet yatırımlarıyla hızla ayağa kaldırılmıştır. İlçede yer alan **Elbistan KYK Kız ve Erkek Yurtları** depremde hasar görmemiş veya güçlendirilmiş sağlam bloklarda hizmet vermektedir. Kontenjan yeterli olup başvuran öğrencilerin neredeyse tamamı yurda yerleşebilmektedir.
+* **Kiralık Evler ve Güvenli Mahalleler:**  
+  Depremde ilçe merkezindeki eski yapı stoku ağır hasar aldığı için ev tutacak öğrencilerin kesinlikle yeni inşa edilen **Karaelbistan TOKİ Konutları**, Pınarbaşı ve Cumhuriyet mahallelerindeki az katlı yeni projeleri tercih etmesi zorunludur. Eski veya hasar durumu belirsiz binalardan kesinlikle uzak durulmalıdır.
+* **Kira Seviyesi ve Isınma:**  
+  Yeni yapılan binalarda 2+1 ve 3+1 daire kiraları 7.500 - 12.500 TL bandındadır. Şehirde doğalgaz hattı yaygındır ancak kış şartlarının çok ağır olması sebebiyle aylık doğalgaz faturaları kışın yüksek gelebilir.
 
 ---
 
 ## 3. 🎓 Akademik ve Fiziki Altyapı
 
-* **Birimler ve Derslikler:**  
-  Yerleşkede **Elbistan Mühendislik Fakültesi** (Enerji Sistemleri Mühendisliği vb.) ve **Elbistan Meslek Yüksekokulu** (Elektrik, Makine, İnşaat, Bilgisayar, İlk ve Acil Yardım vb.) yer almaktadır. Deprem sonrası güçlendirilen ve yenilenen prefabrik/betonarme dersliklerde yüz yüze eğitim devam etmektedir.
-* **Staj ve Sanayi Bağlantısı:**  
-  Türkiye'nin en büyük termik santrallerinden biri olan **Afşin-Elbistan Termik Santralleri** ve kömür havzası bu bölgede yer aldığından, özellikle Enerji, Elektrik ve Makine bölümü öğrencileri için teknik saha gezileri ve staj imkanı bulunmaktadır.
+* **Fakülteler ve Bölümler:**  
+  Yerleşkede Kahramanmaraş İstiklal Üniversitesi'ne bağlı **Elbistan Mühendislik Fakültesi** (Enerji Sistemleri Mühendisliği, Bilgisayar Mühendisliği hazırlıkları vb.) ve **Elbistan Meslek Yüksekokulu** (Elektrik, Makine, İnşaat Teknolojisi, Bilgisayar Programcılığı, Muhasebe, İlk ve Acil Yardım) faaliyet göstermektedir.
+* **Laboratuvarlar ve Uygulama Atölyeleri:**  
+  Teknik programlar için kaynak, torna, elektrik ölçüm ve bilgisayar laboratuvarları yerleşke içerisinde mevcuttur. Öğrenci mevcudu az olduğu için laboratuvar cihazlarını bizzat kullanma ve pratik yapma imkânı yüksektir.
+* **Afşin-Elbistan Sanayi & Enerji Havzası:**  
+  Türkiye'nin en büyük termik santrallerinden olan Afşin-Elbistan A ve B Santralleri ile devasa kömür maden ocakları bu bölgededir. Bu durum, özellikle enerji, makine ve maden alanında eğitim alan öğrenciler için doğal bir teknik gözlem sahası ve staj kapısı oluşturur.
 
 ---
 
 ## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
 
-* **Yemekhane ve Kantin:**  
-  Yerleşke içerisinde öğle yemekhanesi (25 TL) ve öğrenci kantini hizmet vermektedir.
-* **Sosyal Yaşam:**  
-  Ceyhan Nehri'nin doğduğu yer olan **Pınarbaşı Mesire Alanı** ve gölet çevresindeki çay bahçeleri/kafeler öğrencilerin nefes aldığı en güzel doğal alandır. İlçe merkezi deprem sonrası yeni çarşı ve konteyner/kalıcı iş yerleriyle ticari hayatını sürdürmektedir.
+* **Merkez Yemekhane:**  
+  Yerleşke yemekhanesinde KİÜ SKS bünyesinde hafta içi öğle saatlerinde tabldot menü (25 TL) servis edilir. Temiz, doyurucu ve kalabalıktan uzaktır.
+* **Kantin ve Sosyal Tesisler:**  
+  Yerleşkede öğrencilerin teneffüslerde vakit geçirdiği kantin ve oturma alanları bulunur. Ancak kampüste gece açık kalan bir sosyal yaşam alanı bulunmamaktadır.
+* **Ceyhan Nehri ve Pınarbaşı Doğal Yaşamı:**  
+  Ceyhan Nehri'nin berrak kaynak suyu Elbistan Pınarbaşı mevkiinden doğar. Nehir etrafındaki mesire alanları, yürüyüş yolları ve çay bahçeleri öğrencilerin ilkbahar ve sonbahar aylarında en sevdiği dinlenme noktasıdır.
+
+---
+
+## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+
+* **İlçe Hayatı ve Sosyal İmkânlar:**  
+  Elbistan, Kahramanmaraş'ın pek çok ilçesinden daha büyük bir ekonomiye sahiptir. Çarşısında her türlü ihtiyacınızı karşılayabileceğiniz mağazalar, zincir kafeler ve restoranlar yer alır. Ancak bir metropol veya sahil kenti gibi canlı bir gece hayatı ya da eğlence sektörü beklenmemelidir.
+* **Gastronomi:**  
+  Elbistan tavası, lahmacunu, kelle paçası ve yöresel kebapları oldukça meşhur ve lezzetlidir. Öğrenci bütçesini sarsmayan uygun fiyatlı esnaf lokantaları yaygındır.
+* **Part-Time İş İmkânları:**  
+  Yerel perakende marketler, oto sanayi veya kafelerde sınırlı part-time iş imkanları mevcuttur.
 
 ---
 
 ## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
 
 ### ✅ Artıları
-* Küçük kontenjanlı sınıflarda hocalarla birebir iletişim ve uygulamalı teknik eğitim fırsatı.
-* Afşin-Elbistan enerji havzasına yakınlık sayesinde enerji ve teknik bölümler için saha tecrübesi.
-* Büyükşehir/turistik illere kıyasla daha düşük yaşam ve yeme-içme maliyeti.
+* Butik sınıflar sayesinde hocalarla birebir iletişim kurabilme, tez ve projelerde yakın akademik danışmanlık alma şansı.
+* Enerji ve sanayi bölgesi olması nedeniyle teknik bölümlerde staj ve saha pratiği yapma avantajı.
+* KYK yurtlarının yeterli kapasitede olması ve büyükşehirlere göre yaşam masraflarının çok daha ekonomik kalması.
 
-### ❌ Eksileri
-* Depremin merkez üssü olması nedeniyle ilçede kentsel dönüşüm ve inşaat çalışmalarının devam etmesi, sosyal olanakların kısıtlılığı.
-* Kahramanmaraş il merkezine 2,5 saat uzaklıkta olması ve kış aylarında dondurucu soğukların yaşanması.
+### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+* **Deprem Travması ve Yeniden Yapılanma:** Şehir merkezinde yıkılan binalar ve süregelen inşaat faaliyetleri sebebiyle toz, gürültü ve sosyal mekan eksikliği.
+* **Şiddetli Sibirya Ayazı:** Kışın -20°C'yi gören dondurucu soğuklar ve yoğun kar yağışı nedeniyle dışarıda vakit geçirme zorluğu.
+* **Merkeze Aşırı Uzaklık:** Kahramanmaraş merkeze 150 km (2,5 saat) mesafede olması nedeniyle il merkezindeki imkanlardan tamamen kopuk bir eğitim hayatı.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Elbistan'ı tercih ederken 'Kahramanmaraş Akdeniz'de, havası sıcaktır' yanılgısına sakın düşmeyin; burası kışın Doğu Anadolu kadar soğuk olur. Barınma için önceliğiniz mutlaka KYK yurdu olsun, eve çıkacaksanız yeni yapılan az katlı binalardan şaşmayın."
+> "Elbistan'ı seçecekseniz burayı Akdeniz iklimi sanarak gelmeyin; burası kışın Erzurum veya Sivas gibidir. Kalın paltonuzu, içliğinizi ve kar botunuzu mutlaka hazırlayın. Önceliğiniz her zaman KYK yurdu olsun; ev tutacaksanız da hasar raporunu görmeden ve zemin kat/eski bina kontrolü yapmadan imza atmayın. Kendinizi derslere, KPSS veya DGS'ye adayacaksanız sessiz sakin, kafa dinleyerek mezun olabileceğiniz bir yerdir."

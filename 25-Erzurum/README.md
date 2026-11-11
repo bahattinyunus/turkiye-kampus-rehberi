@@ -15,7 +15,8 @@ Erzurum; 1957 yılında ABD'li Nebraska Üniversitesi ortaklığıyla "Land-Gran
 | :--- | :--- | :--- | :--- | :--- |
 | **Atatürk Üniversitesi (ATAÜNİ)** | Devlet (Araştırma Üni.) | Yakutiye Merkez Kampüsü | Tıp, Diş Hekimliği, Eczacılık, Hukuk, Mühendislik, Veteriner, Kazım Karabekir Eğitim, Edebiyat, İİBF, Ziraat, İlahiyat | [Atatürk Üniversitesi Merkez Kampüsü Rehberi](./Yakutiye/Ataturk-Universitesi-Merkez-Kampusu.md) |
 | **Erzurum Teknik Üniversitesi (ETÜ)** | Devlet | Çat Yolu Kampüsü (Yakutiye/Palandöken sınırı) | Mühendislik ve Mimarlık, Fen, Edebiyat, İİBF, Spor Bilimleri, Sağlık Bilimleri | [Erzurum Teknik Üniversitesi Rehberi](./Yakutiye/Erzurum-Teknik-Universitesi-Cat-Yolu-Kampusu.md) |
-| **Atatürk Üniversitesi (Oltu, Pasinler, Hınıs)** | Devlet | Oltu, Pasinler & Hınıs Yerleşkeleri | Oltu Beşeri ve Sosyal Bilimler Fak., Oltu MYO, Pasinler MYO, Hınıs MYO | [Oltu, Pasinler & Hınıs Yerleşkeleri Rehberi](./Oltu/Oltu-ve-Pasinler-Hinis-Yerleskeleri.md) |
+| **Atatürk Üniversitesi (Oltu & Hınıs)** | Devlet | Oltu & Hınıs Yerleşkeleri | Oltu Beşeri ve Sosyal Bilimler Fak., Oltu MYO, Hınıs MYO | [Oltu & Hınıs Yerleşkeleri Rehberi](./Oltu/Oltu-ve-Pasinler-Hinis-Yerleskeleri.md) |
+| **Atatürk Üniversitesi (Pasinler)** | Devlet | Pasinler Yerleşkesi | Pasinler MYO (Doğalgaz ve Tesisat, İklimlendirme, Harita ve Kadastro) | [Pasinler MYO Rehberi](./Pasinler/Pasinler-MYO.md) |
 
 ---
 
@@ -49,4 +50,5 @@ Atatürk Üniversitesi Kampüsü, Türkiye'de kampüs içi KYK yurt kapasitesi e
 
 * 📍 **Yakutiye (Atatürk Üniversitesi):** [Atatürk Üniversitesi - Merkez Kampüsü](./Yakutiye/Ataturk-Universitesi-Merkez-Kampusu.md)
 * 📍 **Yakutiye (Erzurum Teknik Üniversitesi):** [Erzurum Teknik Üniversitesi - Çat Yolu Kampüsü](./Yakutiye/Erzurum-Teknik-Universitesi-Cat-Yolu-Kampusu.md)
-* 📍 **Oltu, Pasinler & Hınıs:** [Atatürk Üniversitesi - Oltu, Pasinler ve Hınıs Yerleşkeleri](./Oltu/Oltu-ve-Pasinler-Hinis-Yerleskeleri.md)
+* 📍 **Oltu & Hınıs:** [Atatürk Üniversitesi - Oltu ve Hınıs Yerleşkeleri](./Oltu/Oltu-ve-Pasinler-Hinis-Yerleskeleri.md)
+* 📍 **Pasinler:** [Atatürk Üniversitesi - Pasinler Meslek Yüksekokulu](./Pasinler/Pasinler-MYO.md)

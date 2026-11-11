@@ -88,7 +88,7 @@
 * **Canlı Vali Yolu Kültürü:** Şehir merkezindeki kafe caddesinin (Vali Yolu) bölge ortalamasının çok üzerinde modern ve hareketli olması.
 * **Ağrı Dağı Manzaralı Geniş Kampüs:** Ferah ve modern fakülte binaları ile güçlü spor/laboratuvar altyapısı.
 
-### ❌ Eksileri
+### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
 * **Suveren'in Merkeze Uzaklığı ve Rüzgarı:** Kampüsün şehir merkezine 15 km uzaklıkta olması ve Ağrı Dağı yamacında yer aldığı için sık sık sert rüzgar alması.
 * **Hava Kalitesi (Kış Ayları):** Iğdır Ovası'nın etrafı dağlarla çevrili çukur bir yapıda olması nedeniyle kış akşamlarında şehir merkezinde hava kirliliği/sis oluşabilmesi.
 

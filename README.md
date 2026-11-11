@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Canl%C4%B1%20Web%20Uygulamas%C4%B1-GitHub%20Pages-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web App" />
   </a>
   <img src="https://img.shields.io/badge/81%20%C4%B0l-100%25%20Kapsam-0284c7?style=for-the-badge&logo=target&logoColor=white" alt="81 İl" />
-  <img src="https://img.shields.io/badge/250%2B%20Kamp%C3%BCs-Detayl%C4%B1%20Rehber-a855f7?style=for-the-badge" alt="250+ Kampüs" />
+  <img src="https://img.shields.io/badge/300%2B%20Kamp%C3%BCs-Detayl%C4%B1%20Rehber-a855f7?style=for-the-badge" alt="300+ Kampüs" />
   <img src="https://img.shields.io/badge/Python-3.8%2B-f59e0b?style=for-the-badge&logo=python&logoColor=white" alt="Python Version" />
   <a href="./LICENSE">
     <img src="https://img.shields.io/badge/Lisans-MIT-3b82f6?style=for-the-badge" alt="MIT License" />
@@ -57,7 +57,7 @@ Bu proje yalnızca bir Markdown koleksiyonu değildir; **veri çıkarma motoru, 
 ```mermaid
 flowchart TD
     subgraph Kaynak [📂 81 İl Markdown Deposu]
-        A["335+ Detaylı Rehber Dosyası (.md)<br/>(Ulaşım, Yurt, Kira, Yemekhane, Artılar, Eksiler)"]
+        A["395+ Detaylı Rehber Dosyası (.md)<br/>(Ulaşım, Yurt, Kira, Yemekhane, Artılar, Eksiler)"]
     end
 
     subgraph Donusturucu [⚙️ Otomasyon Motoru]
@@ -65,7 +65,7 @@ flowchart TD
     end
 
     subgraph Veritabani [📊 Yapılandırılmış Veritabanı]
-        C["data/kampusler.json<br/>(250+ Kampüs Verisi)"]
+        C["data/kampusler.json<br/>(300+ Kampüs Verisi)"]
         D["data/istatistikler.json<br/>(81 İl İstatistikleri)"]
     end
 
@@ -614,7 +614,7 @@ git push origin feat/kampus-ekle
 
 - [x] Temel depo mimarisinin ve klasör yapısının (81 İl) oluşturulması.
 - [x] Standart Markdown şablonlarının ([`TEMPLATE.md`](./TEMPLATE.md), [`CONTRIBUTING.md`](./CONTRIBUTING.md), [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md)) yazılması.
-- [x] 81 ilin tamamı için şehir rehberlerinin ve 250+ kampüs analizinin tamamlanması.
+- [x] 81 ilin tamamı için şehir rehberlerinin ve 300+ kampüs analizinin tamamlanması.
 - [x] **Web Entegrasyonu (Faz 2):** GitHub Pages üzerinde canlı, filtreleme destekli arama motoru ([`web/index.html`](https://bahattinyunus.github.io/turkiye-kampus-rehberi/)).
 - [x] **API ve SDK (Faz 3):** `kampus-rehberi` Python paketi ve yapılandırılmış JSON veritabanı ([`data/kampusler.json`](./data/kampusler.json)).
 - [x] **Akıllı Tercih Danışmanı (Faz 4):** Doğal dilde soru sorulabilen AI destekli `TercihDanismani` motoru.

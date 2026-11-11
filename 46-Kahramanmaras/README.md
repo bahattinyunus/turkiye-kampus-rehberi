@@ -13,8 +13,8 @@
 
 | Üniversite Adı | Türü | Kuruluş | Ana Kampüs / Konum | Öne Çıkan Alanlar |
 | :--- | :--- | :--- | :--- | :--- |
-| **Kahramanmaraş Sütçü İmam Üniversitesi (KSÜ)** | Devlet | 1992 | Onikişubat (Avşar Merkez Kampüsü) | Tıp, Tekstil Mühendisliği, Ziraat, İlahiyat, Orman |
-| **Kahramanmaraş İstiklal Üniversitesi (KİÜ)** | Devlet | 2018 | Dulkadiroğlu (Karacasu Kampüsü) & Elbistan | Havacılık, Mühendislik, Turizm, Sağlık, İletişim |
+| **Kahramanmaraş Sütçü İmam Üniversitesi (KSÜ)** | Devlet | 1992 | Onikişubat (Avşar Merkez Kampüsü) & Bahçelievler | Tıp, Tekstil Mühendisliği, Ziraat, İlahiyat, Orman, Sağlık Bilimleri |
+| **Kahramanmaraş İstiklal Üniversitesi (KİÜ)** | Devlet | 2018 | Dulkadiroğlu (Karacasu Kampüsü), Elbistan & Afşin | Havacılık, Mühendislik, Turizm, Sağlık, İletişim, Gastronomi |
 
 ---
 
@@ -47,8 +47,11 @@ Deprem sonrasında şehirdeki yapı stoğu ciddi şekilde değiştiği için ö�
 Aşağıdaki bağlantılardan Kahramanmaraş'taki kampüslerin detaylı rehberlerine ulaşabilirsiniz:
 
 * 📍 **Onikişubat**
-  * [🏛️ KSÜ Avşar Merkez Kampüsü ve Bahçelievler Yerleşkesi](./Onikisubat/KSU-Avsar-Kampusu.md)
+  * [🏛️ KSÜ Avşar Merkez Kampüsü](./Onikisubat/KSU-Avsar-Kampusu.md)
 * 📍 **Dulkadiroğlu**
+  * [🏛️ KSÜ Bahçelievler Yerleşkesi](./Dulkadiroglu/KSU-Bahcelievler-Kampusu.md)
   * [🏛️ Kahramanmaraş İstiklal Üniversitesi (KİÜ) Karacasu Kampüsü](./Dulkadiroglu/KIU-Karacasu-Kampusu.md)
 * 📍 **Elbistan**
   * [🏛️ KİÜ Elbistan Mühendislik Fakültesi ve Elbistan MYO Yerleşkesi](./Elbistan/KIU-Elbistan-Yerleskesi.md)
+* 📍 **Afşin**
+  * [🏛️ KİÜ Afşin Sağlık Yüksekokulu ve Afşin MYO Yerleşkesi](./Afsin/KIU-Afsin-Yerleskesi.md)

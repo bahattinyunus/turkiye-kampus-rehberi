@@ -14,7 +14,8 @@ Zeytinlikleri, üzüm bağları ve tescilli mutfağıyla (Kilis Tava, Cennet Ça
 | Üniversite | Tür | Ana Kampüs / Yerleşke | Bulunduğu İlçe | Öğrenci Yoğunluğu | Rehber Bağlantısı |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Kilis 7 Aralık Üniversitesi** | Devlet | Merkez Kampüsü (Mehmet Sanlı Mah.) | Merkez | Çok Yüksek | [İncele](./Merkez/Kilis-7-Aralik-Universitesi-Merkez-Kampusu.md) |
-| **Kilis 7 Aralık Üniversitesi** | Devlet | Karataş Kampüsü (ve Mercidabık) | Merkez | Orta-Yüksek | [İncele](./Merkez/Kilis-7-Aralik-Universitesi-Karatas-Kampusu.md) |
+| **Kilis 7 Aralık Üniversitesi** | Devlet | Karataş Kampüsü (Sağlık & Spor) | Merkez | Yüksek | [İncele](./Merkez/Kilis-7-Aralik-Universitesi-Karatas-Kampusu.md) |
+| **Kilis 7 Aralık Üniversitesi** | Devlet | Mercidabık Kampüsü (Ziraat & Turizm) | Merkez | Orta | [İncele](./Merkez/Kilis-7-Aralik-Universitesi-Mercidabik-Kampusu.md) |
 
 ---
 
@@ -42,4 +43,5 @@ Zeytinlikleri, üzüm bağları ve tescilli mutfağıyla (Kilis Tava, Cennet Ça
 Kilis 7 Aralık Üniversitesi'nin yerleşkelerine ait detaylı kampüs rehberlerine aşağıdan ulaşabilirsiniz:
 
 * 📍 **Merkez (Ana Yerleşke):** [Kilis 7 Aralık Üniversitesi - Merkez Kampüsü](./Merkez/Kilis-7-Aralik-Universitesi-Merkez-Kampusu.md)
-* 📍 **Merkez (Karataş Yerleşkesi):** [Kilis 7 Aralık Üniversitesi - Karataş Kampüsü](./Merkez/Kilis-7-Aralik-Universitesi-Karatas-Kampusu.md)
+* 📍 **Merkez (Karataş Yerleşkesi - Sağlık & Spor):** [Kilis 7 Aralık Üniversitesi - Karataş Kampüsü](./Merkez/Kilis-7-Aralik-Universitesi-Karatas-Kampusu.md)
+* 📍 **Merkez (Mercidabık Yerleşkesi - Ziraat & Turizm):** [Kilis 7 Aralık Üniversitesi - Mercidabık Kampüsü](./Merkez/Kilis-7-Aralik-Universitesi-Mercidabik-Kampusu.md)

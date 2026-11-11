@@ -76,7 +76,7 @@
 * **Büyük ve Ekonomik İlçe:** Kadirli'nin nüfus ve çarşı olanakları bakımından birçok küçük ilden daha gelişmiş ve ucuz olması.
 * **Güçlü Uygulamalı Lisans Bölümleri:** YBS, Gastronomi ve Lojistik gibi popüler 4 yıllık bölümlerin bulunması.
 
-### ❌ Eksileri
+### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
 * **Yaz Sıcakları:** Çukurova düzlüğünde yer aldığı için Eylül ve Mayıs-Haziran aylarının oldukça sıcak geçmesi.
 * **Ana Kampüs Etkinliklerine Mesafe:** Fakıuşağı Merkez Kampüsü'ndeki büyük şenliklere gitmek için 35-40 dakikalık minibüs yolculuğu gerekmesi.
 

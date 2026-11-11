@@ -90,7 +90,7 @@
 * **İstanbul, Bursa ve Kocaeli'ye 45 Dakika:** İDO feribotuyla İstanbul'a, otobüsle Bursa ve İzmit'e yarım saat/bir saat içinde ulaşabilme lüksü.
 * **Çınarcık Eşyalı Ev Avantajı:** Çınarcık'ta uygun fiyata hazır eşyalı 1+1/2+1 yazlık dairelerde kalabilme imkanı.
 
-### ❌ Eksileri
+### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
 * **Haziran Ayında Ev Boşaltma (Çınarcık):** Çınarcık'taki sezonluk ev sahiplerinin Haziran ortasında yazlıkçılar geleceği için evi boşaltmanızı istemesi (bütünleme/yaz okulu olanlar için dikkat edilmeli).
 * **Yalova Merkez Kiraları:** 12 aylık merkez dairelerinde kiraların büyükşehir seviyelerine yaklaşması.
 

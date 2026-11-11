@@ -16,6 +16,7 @@ Diyarbakır; binlerce yıllık Sur içi tarihi mirası, UNESCO Dünya Mirası li
 | **Dicle Üniversitesi (DÜ)** | Devlet | Sur / Merkez Kampüsü (Dicle Nehri Doğu Yakası) | Tıp, Diş Hekimliği, Hukuk, Mühendislik, Mimarlık, Eczacılık, Veteriner, Ziya Gökalp Eğitim, İlahiyat | [Dicle Üniversitesi Merkez Kampüsü Rehberi](./Sur/Dicle-Universitesi-Merkez-Kampusu.md) |
 | **Dicle Üniversitesi (Ergani)** | Devlet | Ergani Yerleşkesi | Ergani Meslek Yüksekokulu | [Ergani MYO Rehberi](./Ergani/Ergani-MYO.md) |
 | **Dicle Üniversitesi (Bismil)** | Devlet | Bismil Yerleşkesi | Bismil Meslek Yüksekokulu | [Bismil MYO Rehberi](./Bismil/Bismil-MYO.md) |
+| **Dicle Üniversitesi (Silvan)** | Devlet | Silvan Yerleşkesi | Silvan Meslek Yüksekokulu (Çocuk Gelişimi, Elektrik, Bilgisayar) | [Silvan MYO Rehberi](./Silvan/Silvan-MYO.md) |
 
 ---
 
@@ -51,3 +52,4 @@ Dicle Üniversitesi Kampüsü içi ve yakın çevresi KYK yurt kapasitesi bakım
 * 📍 **Sur (Merkez Kampüs):** [Dicle Üniversitesi - Merkez Kampüsü](./Sur/Dicle-Universitesi-Merkez-Kampusu.md)
 * 📍 **Ergani:** [Dicle Üniversitesi - Ergani MYO](./Ergani/Ergani-MYO.md)
 * 📍 **Bismil:** [Dicle Üniversitesi - Bismil MYO](./Bismil/Bismil-MYO.md)
+* 📍 **Silvan:** [Dicle Üniversitesi - Silvan MYO](./Silvan/Silvan-MYO.md)

@@ -16,6 +16,7 @@ Elazığ ("El-Aziz" / Gakgoşlar diyarı); Keban ve Karakaya baraj gölleriyle �
 | **Fırat Üniversitesi (FÜ)** | Devlet | Rektörlük (Merkez) Kampüsü & Mühendislik Kampüsü & Harput Yerleşkesi | Mühendislik, Teknoloji, Tıp, Veteriner, Diş Hekimliği, Eğitim, İnsani ve Sosyal Bilimler, İİBF | [Rektörlük & Mühendislik Kampüsleri Rehberi](./Merkez/Firat-Universitesi-Rektorluk-ve-Muhendislik-Kampusleri.md) |
 | **Fırat Üniversitesi (Kovancılar)** | Devlet | Kovancılar Yerleşkesi | Kovancılar Meslek Yüksekokulu | [Kovancılar MYO Rehberi](./Kovancilar/Kovancilar-MYO.md) |
 | **Fırat Üniversitesi (Karakoçan & Baskil)** | Devlet | Karakoçan & Baskil Yerleşkeleri | Karakoçan MYO, Baskil MYO | [Karakoçan & Baskil MYO Rehberi](./Karakocan/Karakocan-MYO-ve-Baskil-MYO.md) |
+| **Fırat Üniversitesi (Keban)** | Devlet | Keban Yerleşkesi | Keban Meslek Yüksekokulu (Elektrik ve Enerji, Su Ürünleri, Çevre Koruma) | [Keban MYO Rehberi](./Keban/Keban-Meslek-Yuksekokulu.md) |
 
 ---
 
@@ -51,3 +52,4 @@ Elazığ, kampüs içi ve kampüs sınırı KYK yurt kapasitesi açısından ço
 * 📍 **Merkez:** [Fırat Üniversitesi - Rektörlük ve Mühendislik Kampüsleri](./Merkez/Firat-Universitesi-Rektorluk-ve-Muhendislik-Kampusleri.md)
 * 📍 **Kovancılar:** [Fırat Üniversitesi - Kovancılar MYO](./Kovancilar/Kovancilar-MYO.md)
 * 📍 **Karakoçan & Baskil:** [Fırat Üniversitesi - Karakoçan MYO & Baskil MYO](./Karakocan/Karakocan-MYO-ve-Baskil-MYO.md)
+* 📍 **Keban:** [Fırat Üniversitesi - Keban Meslek Yüksekokulu](./Keban/Keban-Meslek-Yuksekokulu.md)

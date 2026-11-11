@@ -47,3 +47,5 @@ Afyonkarahisar, Türkiye'nin tüm ana karayollarının kesişim noktasında yer 
   * [🏛️ Afyonkarahisar Sağlık Bilimleri Üniversitesi (AFSÜ) - Zafer Sağlık Külliyesi](./Merkez/AFSU-Zafer-Saglik-Kulliyesi.md)
 * 📍 **Sandıklı (İlçe Yerleşkesi)**
   * [🏛️ Afyon Kocatepe Üniversitesi - Sandıklı Yerleşkesi (Uygulamalı Bilimler ve Sandıklı MYO)](./Sandikli/AKU-Sandikli-Yerleskesi.md)
+* 📍 **Bolvadin (İlçe Yerleşkesi)**
+  * [🏛️ Afyon Kocatepe Üniversitesi - Bolvadin Kırkgöz Kampüsü (Uygulamalı Bilimler Fakültesi ve Bolvadin MYO)](./Bolvadin/AKU-Bolvadin-Kirkgoz-Kampusu.md)

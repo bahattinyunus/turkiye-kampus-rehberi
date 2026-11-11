@@ -1,10 +1,10 @@
 # 🏛️ ÇOMÜ - Anafartalar (Eğitim) ve Dardanos Yerleşkeleri
 
 > **Son Güncelleme:** Kasım 2026  
-> **İl / İlçe:** Çanakkale / Merkez  
-> **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Şehir İçi Merkez (Anafartalar) & Boğaz Kıyısı Sahil Kampüsü (Dardanos)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.5/5)
+> **İl / İlçe:** Çanakkale / Merkez (Cevatpaşa & Dardanos Sahili)  
+> **Üniversite Türü:** Devlet (Çanakkale Onsekiz Mart Üniversitesi - ÇOMÜ)  
+> **Kampüs Konumu:** Şehir İçi Tarihi Kampüs (Anafartalar) & Boğaz Kıyısı Sahil Yerleşkesi (Dardanos)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.8/5)
 
 ---
 
@@ -12,66 +12,92 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | Anafartalar: 0 km (Tam Merkez) / Dardanos: 10 km | Anafartalar İskele'ye yürüme mesafesi; Dardanos Ç9/Güzelyalı otobüsüyle |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Merkez ve Kepez/Dardanos aksındaki tüm KYK yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 15.000 - 22.000 TL | Cevatpaşa, İsmetpaşa, Barbaros ve Kepez/Dardanos |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Her iki yerleşkede öğrenci yemekhanesi mevcut |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri | Eğitim Fakültesi kütüphanesi + Terzioğlu 7/24 kütüphanesi |
-| **🌐 İnternet (eduroam)** | İyi | Tüm binalarda aktif |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı | Kordon Boyu, İskele ve Dardanos Plajı |
+| **🚇 Şehir Merkezine Uzaklık** | Anafartalar: Şehir Merkezinde (0 km) / Dardanos: 12 km (~15 dk) | Anafartalar'a Kordon'dan 3 dk yürüyüş; Dardanos'a ÇOMÜ ringi ve Güzelyalı minibüsü |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Cevatpaşa, Terzioğlu Kampüsü ve Kepez KYK yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 14.500 - 21.000 TL | Cevatpaşa, İsmetpaşa, Kemalpaşa (Aynalı Çarşı yanı) ve Barbaros |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Anafartalar yemekhanesi + Dardanos Uygulama Oteli restoranı |
+| **📚 Kütüphane Kapasitesi** | Mesai Saatleri (Terzioğlu 7/24) | Anafartalar kütüphanesi + Terzioğlu 7/24 Merkez Kütüphanesi |
+| **🌐 İnternet (eduroam)** | Hızlı | Her iki yerleşkede fiber destekli eduroam bağlantısı kesintisiz |
+| **🌆 Sosyal Yaşam & Çevre** | Zirve (Kordon ve Boğazın Kıyısında) | Çanakkale Kordonu, Truva Atı, Aynalı Çarşı, Dardanos özel plajı |
 
 ---
 
 ## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
 
-* **Anafartalar Kampüsü (Eğitim Fakültesi & Devlet Konservatuvarı):**  
-  Çanakkale şehir merkezinin (Cevatpaşa Mahallesi) tam kalbinde, İskele Meydanı ve Kordon Boyu'na 5-10 dakikalık düz ayak yürüme mesafesindedir. Terzioğlu'nun yokuşunu çıkmadan, şehrin merkezinde okumanın konforunu sunar.
-* **Dardanos Yerleşkesi:**  
-  Çanakkale-İzmir yolu üzerinde, Kepez'i geçtikten hemen sonra Çanakkale Boğazı kıyısında çam ağaçları ve kumsalın birleştiği tatil köyü tadında bir sahil yerleşkesidir. Merkezden **Ç9 (Dardanos - Güzelyalı)** belediye otobüsleriyle 15-20 dakikada ulaşılır.
+* **Anafartalar Kampüsü (Şehir İçi Eğitim Fakültesi):**  
+  ÇOMÜ'nün temellerinin atıldığı tarihi **Anafartalar Kampüsü**, Çanakkale merkezinde **Cevatpaşa Mahallesi**'nde yer alır. Çanakkale Boğazı Kordon Boyu'na, Cumhuriyet Meydanı'na, İskele Feribot Meydanı'na ve Aynalı Çarşı'ya sadece **3-5 dakikalık yürüme mesafesindedir**. Anafartalar Kampüsü öğrencileri için otobüse veya dolmuşa binmek kavramı neredeyse yoktur; hayat tamamen yürüyerek veya bisikletle geçer.
+* **Dardanos Yerleşkesi (Sahil & Uygulama Oteli):**  
+  Çanakkale Boğazı'nın Ege Denizi'ne açıldığı güney kıyısında, İzmir yolu 12. km'de yer alır. Terzioğlu Kampüsü'nden ve İskele'den kalkan üniversite servisleri, Güzelyalı ve Dardanos belediye otobüsleriyle 15 dakikada ulaşılır.
+* **Ulaşım Kartı (Kentkart):**  
+  Çanakkale Belediyesi'nin şehir içi otobüslerinde Kentkart geçerlidir ve öğrenci tarifesi oldukça ekonomiktir.
 
 ---
 
-## 2. 🏠 Barınma ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
 
-* **Mahalleler:**  
-  Anafartalar'da okuyan öğrenciler okula yürüyerek gitmek için **Cevatpaşa**, **İsmetpaşa** ve **Kemalpaşa** mahallelerini veya **Barbaros**'un Kordon'a yakın kısımlarını tercih eder. Dardanos'ta okuyanlar ise **Kepez** veya **Dardanos** bölgesinde kalır.
+* **KYK Yurtları:**  
+  * Anafartalar öğrencileri için merkezdeki kız ve erkek KYK yurtları ile Terzioğlu Kampüsü sırtlarındaki yurtlar (otobüsle 10 dk veya yürüyerek 20 dk) hizmet verir.
+* **Özel Yurtlar ve Apartlar:**  
+  Cevatpaşa, İnönü Caddesi ve Demircioğlu Caddesi üzerinde çok sayıda köklü özel kız ve erkek öğrenci yurdu yer alır.
+* **Öğrenci Evleri ve Popüler Mahalleler:**  
+  * **Cevatpaşa & İsmetpaşa:** Anafartalar Kampüsü'ne 2 ile 8 dakika yürüme mesafesindedir. Tarihi ve nezih sokakları, balkonlu eski Çanakkale evleri ve deniz esintisiyle öğrencilerin en sevdiği mahallelerdir.
+  * **Barbaros & Kepez:** Yeni rezidans ve modern 1+1 apart arayan öğrencilerin tercihidir; Anafartalar'a tek otobüsle 10 dakikada varılır.
+  * Kiralar 2026 itibarıyla **14.500 TL - 21.000 TL** bandındadır.
 
 ---
 
 ## 3. 🎓 Akademik ve Fiziki Altyapı
 
-* **Anafartalar:** Türkiye'nin en köklü öğretmen yetiştiren kurumlarından olan **ÇOMÜ Eğitim Fakültesi**'ne ev sahipliği yapar. Yenilenen modern derslik blokları, sanat atölyeleri ve müzik salonları mevcuttur.
-* **Dardanos:** Uygulama oteli, plaj tesisleri, Ziraat uygulama alanları ve spor/turizm birimleriyle deniz sıfır konumda uygulamalı eğitim sunar.
+* **Köklü "ÇOMÜ Eğitim Fakültesi" Ekolü:**  
+  Anafartalar Kampüsü, Türkiye'nin en saygın ve yüksek KPSS atama başarısına sahip **Eğitim Fakültesi**'ne ev sahipliği yapar:
+  * Türkçe, İlköğretim Matematik, İngilizce Öğretmenliği, Okul Öncesi, Özel Eğitim, Sınıf Öğretmenliği, Fen Bilgisi ve Rehberlik ve Psikolojik Danışmanlık (PDR) bölümleri yer alır.
+  * Fakülte bünyesinde drama sahneleri, müzik ve resim atölyeleri, fen laboratuvarları ve mikro öğretim sınıfları mevcuttur.
+* **Dardanos Yerleşkesi Olanakları:**  
+  Turizm Fakültesi uygulama birimleri, Deniz Bilimleri su ürünleri havuzları ve **ÇOMÜ Dardanos Uygulama Oteli** yer alır. Otelcilik ve gastronomi öğrencileri burada doğrudan Boğaz manzaralı turizm tesisinde pratik eğitim alırlar.
+* **İnternet ve Kütüphane:**  
+  Anafartalar Kütüphanesi zengin bir eğitim bilimleri koleksiyonuna sahiptir; eduroam tüm binalarda aktiftir.
 
 ---
 
 ## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
 
-* **Yemekhane & Çevre:**  
-  Anafartalar Kampüsü içinde yemekhane ve ağaçlıklı bahçe kantini bulunur; kapıdan çıkınca ise Çanakkale çarşısının tüm öğrenci lokantaları ve kafeleri ayağınızın altındadır. Dardanos'ta ise denize sıfır tesisler ve yemekhane mevcuttur.
+* **Yemekhane:**  
+  Anafartalar Kampüsü içindeki tarihi yemekhanede 25-35 TL arasında lezzetli ve doyurucu 4 çeşit öğle yemeği verilir.
+* **Kafe Kültürü ve Kordon:**  
+  Anafartalar Kampüsü'nün arka kapısından çıktığınız anda Kordon Boyu'ndaki üçüncü nesil kahveciler, kitap kafeler ve çay bahçeleri başlar. Çanakkale'nin meşhur Peynir Helvacıları (Babaoğlu, Kadir Yaşar vb.) yürüme mesafesindedir. Dardanos Yerleşkesi'nde ise çam ağaçları altında deniz kenarı kafeteryalar bulunur.
 
 ---
 
 ## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
 
-* **Sosyal Yaşam:**  
-  Anafartalar'da dersten çıkıp 5 dakika sonra Kordon'da Truva Atı önünde kahve içebilir; Dardanos'ta ise ders bitimi doğrudan ÇOMÜ Dardanos Plajı'ndan denize girebilirsiniz!
+* **Türkiye'nin En Özgürlükçü Öğrenci Kenti:**  
+  Çanakkale, hoşgörüsü, kültürel zenginliği, bisiklet dostu sahil yolları ve sabahlara kadar canlı Kordonu ile üniversite öğrencisi için tam bir cennettir. Gece geç saatlerde kordonda oturup gitar çalmak, çimlerde sohbet etmek kentin en doğal parçasıdır.
+* **Dardanos Sosyal Tesisleri ve Plaj:**  
+  Dardanos Yerleşkesi öğrencilere kendi özel kum plajı, su sporları merkezi, açık yüzme havuzu ve futbol sahasıyla adeta 5 yıldızlı tatil köyü konforunda bir kampüs hayatı sunar. ÇOMÜ öğrencileri yaz ve bahar aylarında indirimli olarak Dardanos plajından yararlanır.
+* **Günübirlik Rotalar:**  
+  Feribotla 15 dakikada **Kilitbahir Kalesi** ve **Gelibolu Tarihi Alanı**'na geçmek, hafta sonu **Assos**, **Bozcaada** veya **Gökçeada**'ya gitmek ÇOMÜ öğrencilerinin standart hafta sonu aktivitesidir.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* Anafartalar'ın şehir merkezinde düz ayak konumda olması (yokuş ve otobüs derdi yok).
-* Dardanos'un denize sıfır plaj ve çam ormanı içinde tatil köyü atmosferi.
+* Anafartalar Kampüsü'nün şehrin, Kordon'un ve sosyal hayatın tam merkezinde olması; sıfır ulaşım maliyetiyle yaşayabilme.
+* Türkiye'nin en prestijli Eğitim Fakültelerinden birinde, köklü hocalardan nitelikli öğretmenlik formasyonu alma imkanı.
+* Dardanos Yerleşkesi sayesinde deniz kenarında plajı ve havuzu olan bir yerleşkeye sahip olma lüksü.
+* Şehrin son derece güvenli, huzurlu ve öğrenciye karşı son derece saygılı olması.
 
 ### ❌ Eksileri
-* Anafartalar çevresindeki (Cevatpaşa) binaların Barbaros/Kepez'e göre biraz daha eski olması.
-* Ana kampüsteki (Terzioğlu) 7/24 kütüphane için otobüs kullanma gerekliliği.
+* Çanakkale genelinde kira fiyatlarının ve apart maliyetlerinin büyükşehir seviyelerine yaklaşması.
+* Anafartalar Kampüsü'nün tarihi bir şehir içi kampüsü olması sebebiyle kapalı alan ve otopark sınırlarının bulunması.
+* Dardanos Yerleşkesi'nin kış aylarında rüzgarlı ve sessiz olması; merkeze ring saatlerine bağlı kalınması.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
-> 💬 **Öğrenci Notu:**  
-> "ÇOMÜ Eğitim Fakültesi'ni (Anafartalar) kazandıysan Terzioğlu yokuşunu çeken arkadaşlarını kıskandıracak kadar rahat bir öğrencilik seni bekliyor. Cevatpaşa veya Barbaros başlangıcında bir ev tut, bir de bisiklet al; 4 yıl boyunca otobüse binmeden Kordon'dan okula pedalla!"
+> 💬 **Öğrenci Notu (Eğitim Fakültesi - İngilizce Öğretmenliği):**  
+> "ÇOMÜ Eğitim Fakültesi'ni kazandıysanız Türkiye'nin en şanslı öğrencilerinden birisiniz. Dersiniz biter, 3 dakika sonra Kordon'da Truva Atı'nın önünde kahvenizi yudumlarsınız. Terzioğlu'ndaki arkadaşlar tepeye otobüsle tırmanırken siz her yere yürüyerek gidersiniz. Ev tutacaksanız Cevatpaşa veya İsmetpaşa mahallelerinde erken davranın!"
+
+> 💬 **Öğrenci Notu (Turizm İşletmeciliği / Dardanos):**  
+> "Dardanos Yerleşkesi ilkbahar ve yaz aylarında inanılmaz güzeldir. Kampüsün kendi plajında Boğaz'a nazır denize girmek, uygulama otelinde gerçek müşteri deneyimiyle staj yapmak çok büyük bir artı. Çanakkale'de bisiklet edinmeyi asla unutmayın, tüm hayatınız kordon boyunda pedal çevirerek geçecek!"

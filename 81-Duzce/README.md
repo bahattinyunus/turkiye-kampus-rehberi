@@ -15,7 +15,7 @@ Türkiye'nin en genç (81. plaka) ili olan Düzce; **İstanbul ve Ankara'nın ta
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Düzce Üniversitesi (DÜ)** | Devlet | Konuralp Merkez Kampüsü | Merkez (Konuralp) | Çok Yüksek (~26.000+) | [İncele](./Merkez/Duzce-Universitesi-Konuralp-Merkez-Kampusu.md) |
 | **Düzce Üniversitesi (DÜ)** | Devlet | Akçakoca Yerleşkesi (Siyasal Bilgiler, Turizm & MYO) | Akçakoca | Yüksek (~4.500+) | [İncele](./Akcakoca/Duzce-Universitesi-Akcakoca-Yerleskesi.md) |
-| **Düzce Üniversitesi (DÜ)** | Devlet | Turalı (Düzce MYO) & İlçe MYO'lar (Gölyaka, Gümüşova, Çilimli, Kaynaşlı) | Merkez / İlçeler | Orta-Yüksek | [Konuralp & Akçakoca Rehberleri](./Merkez/Duzce-Universitesi-Konuralp-Merkez-Kampusu.md) |
+| **Düzce Üniversitesi (DÜ)** | Devlet | Gölyaka MYO Yerleşkesi (Grafik Tasarım & Bilişim) | Gölyaka | Orta | [İncele](./Golyaka/Duzce-Universitesi-Golyaka-MYO.md) |
 
 ---
 
@@ -44,3 +44,4 @@ Düzce Üniversitesi'nin merkez ve Akçakoca yerleşkelerine ait detaylı rehber
 
 * 📍 **Merkez (Konuralp):** [Düzce Üniversitesi - Konuralp Merkez Kampüsü](./Merkez/Duzce-Universitesi-Konuralp-Merkez-Kampusu.md)
 * 📍 **Akçakoca:** [Düzce Üniversitesi - Akçakoca Yerleşkesi (Siyasal Bilgiler, Turizm ve MYO)](./Akcakoca/Duzce-Universitesi-Akcakoca-Yerleskesi.md)
+* 📍 **Gölyaka:** [Düzce Üniversitesi - Gölyaka Meslek Yüksekokulu (Grafik Tasarım & Bilişim)](./Golyaka/Duzce-Universitesi-Golyaka-MYO.md)

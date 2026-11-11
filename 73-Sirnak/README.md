@@ -15,7 +15,7 @@ Cudi ve Gabar dağlarının eteklerinde konumlanan Şırnak, yüksek rakımlı m
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Şırnak Üniversitesi** | Devlet | Mehmet Emin Acar Merkez Kampüsü | Merkez | Yüksek | [İncele](./Merkez/Sirnak-Universitesi-Mehmet-Emin-Acar-Kampusu.md) |
 | **Şırnak Üniversitesi** | Devlet | Cizre MYO Yerleşkesi | Cizre | Orta-Yüksek | [İncele](./Cizre/Sirnak-Universitesi-Cizre-MYO.md) |
-| **Şırnak Üniversitesi** | Devlet | Silopi MYO & İdil MYO | Silopi / İdil | Orta | [Cizre & İlçeler Rehberi](./Cizre/Sirnak-Universitesi-Cizre-MYO.md) |
+| **Şırnak Üniversitesi** | Devlet | Silopi MYO Yerleşkesi | Silopi | Orta | [İncele](./Silopi/Sirnak-Universitesi-Silopi-MYO.md) |
 
 ---
 
@@ -42,4 +42,5 @@ Cudi ve Gabar dağlarının eteklerinde konumlanan Şırnak, yüksek rakımlı m
 Aşağıdaki bağlantılardan Şırnak Üniversitesi'nin merkez ve ilçe yerleşkelerine ait detaylı kampüs rehberlerine ulaşabilirsiniz:
 
 * 📍 **Merkez:** [Şırnak Üniversitesi - Mehmet Emin Acar Merkez Kampüsü](./Merkez/Sirnak-Universitesi-Mehmet-Emin-Acar-Kampusu.md)
-* 📍 **Cizre (ve Silopi/İdil):** [Şırnak Üniversitesi - Cizre MYO ve İlçe Yerleşkeleri](./Cizre/Sirnak-Universitesi-Cizre-MYO.md)
+* 📍 **Cizre:** [Şırnak Üniversitesi - Cizre Meslek Yüksekokulu](./Cizre/Sirnak-Universitesi-Cizre-MYO.md)
+* 📍 **Silopi:** [Şırnak Üniversitesi - Silopi Meslek Yüksekokulu](./Silopi/Sirnak-Universitesi-Silopi-MYO.md)

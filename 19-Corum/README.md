@@ -15,7 +15,8 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **Hitit Üniversitesi** | Devlet | Kuzey Kampüsü & Güney Kampüsü (Merkez) | Tıp, Mühendislik, İİBF, İlahiyat, Spor Bilimleri, Fen-Edebiyat, Sağlık Bilimleri | [Merkez Kampüsler Rehberi](./Merkez/Hitit-Universitesi-Kuzey-ve-Guney-Kampusu.md) |
 | **Hitit Üniversitesi (Sungurlu)** | Devlet | Sungurlu Yerleşkesi (Sungurlu) | Sungurlu Meslek Yüksekokulu (Sağlık, Bilgisayar, Muhasebe) | [Sungurlu MYO Rehberi](./Sungurlu/Sungurlu-MYO.md) |
-| **Hitit Üniversitesi (Osmancık & Alaca)** | Devlet | Osmancık & Alaca Yerleşkeleri | Osmancık Ömer Derindere MYO, Alaca Avni Çelik MYO | [Osmancık & Alaca MYO Rehberi](./Osmancik/Osmancik-Omer-Derindere-MYO.md) |
+| **Hitit Üniversitesi (Osmancık)** | Devlet | Osmancık Yerleşkesi | Osmancık Ömer Derindere MYO (Bilişim, Tasarım, Elektronik) | [Osmancık MYO Rehberi](./Osmancik/Osmancik-Omer-Derindere-MYO.md) |
+| **Hitit Üniversitesi (Alaca)** | Devlet | Avni Çelik Yerleşkesi | Alaca Avni Çelik MYO (Aşçılık, Laborant ve Veteriner Sağlık, Gıda Teknolojisi) | [Alaca Avni Çelik MYO Rehberi](./Alaca/Alaca-Avni-Celik-MYO.md) |
 
 ---
 
@@ -49,4 +50,5 @@
 
 * 📍 **Merkez:** [Hitit Üniversitesi - Kuzey ve Güney Kampüsleri](./Merkez/Hitit-Universitesi-Kuzey-ve-Guney-Kampusu.md)
 * 📍 **Sungurlu:** [Hitit Üniversitesi - Sungurlu MYO](./Sungurlu/Sungurlu-MYO.md)
-* 📍 **Osmancık & Alaca:** [Hitit Üniversitesi - Osmancık Ömer Derindere MYO & Alaca Avni Çelik MYO](./Osmancik/Osmancik-Omer-Derindere-MYO.md)
+* 📍 **Osmancık:** [Hitit Üniversitesi - Osmancık Ömer Derindere MYO](./Osmancik/Osmancik-Omer-Derindere-MYO.md)
+* 📍 **Alaca:** [Hitit Üniversitesi - Alaca Avni Çelik MYO](./Alaca/Alaca-Avni-Celik-MYO.md)
