@@ -2,9 +2,9 @@
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Bursa / Nilüfer (Görükle)  
-> **Üniversite Türü:** Devlet (Araştırma Üniversitesi)  
-> **Kampüs Konumu:** Şehir Batısı Devasa Orman Kampüsü (İzmir Yolu 18. km / Bursaray Son Durağı)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.6/5)
+> **Üniversite Türü:** Devlet (YÖK Araştırma Üniversitesi)  
+> **Kampüs Konumu:** Şehir Batısı Devasa Orman Kampüsü (İzmir Yolu 18. km / Bursaray Üniversite İstasyonu)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.7/5)
 
 ---
 
@@ -12,92 +12,94 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 18 km / Metro ile ~30-35 dk | Bursaray (Metro) 2 numaralı hattın son durağı doğrudan kampüs içinde! |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs içinde 6'dan fazla devasa Kız ve Erkek KYK Yurdu mevcut |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 13.000 - 19.500 TL | Görükle (Dumlupınar, Kurtuluş, Sakarya), Özlüce ve Yüzüncüyıl |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Merkez yemekhane ve fakülte yemekhaneleri; vegan/vejetaryen opsiyonlu |
-| **📚 Kütüphane Kapasitesi** | 7/24 Açık | Merkez Kütüphane yıl boyu 7/24 açık, sınav döneminde çok yoğun |
-| **🌐 İnternet (eduroam)** | İyi | Fakülteler, kütüphane ve Mediko/Çarşı alanında hızlı bağlantı |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı | Kampüs bitişiğindeki Görükle, Türkiye'nin en hareketli öğrenci yerleşimlerinden biri |
+| **🚇 Şehir Merkezine Uzaklık** | 18 km / Metro ile ~30-35 dk | Bursaray 2 No'lu Hattın son durağı "Üniversite" kampüs girişinde; Görükle içine metro girmez! |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs içinde Halime Hatun Kız, Nilüfer Hatun Kız, Emir Sultan Erkek, Süleyman Çelebi Erkek (toplam 10.000+ yatak) |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 13.000 - 19.500 TL | Görükle (Dumlupınar, Kurtuluş, Sakarya), Göçmen Konutları, Balkan Mah., Yüzüncüyıl |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Merkez Yemekhane ve fakülte birimleri; 4 çeşit menü, vegan/vejetaryen opsiyonu |
+| **📚 Kütüphane Kapasitesi** | 7/24 Kesintisiz Açık | Prof. Dr. Fuat Sezgin Merkez Kütüphanesi; sınav haftasında gece 00:00 ve 02:00 çorba servisi |
+| **🌐 İnternet (eduroam)** | İyi ve Yaygın | Fakültelerde, ULUTEK Teknokent'te ve Mediko'da güçlü; yurt bahçelerinde yoğunlukta yavaşlama |
+| **🌆 Sosyal Yaşam & Çevre** | Türkiye Zirvesi | Görükle Öğrenci Cumhuriyeti (Trio Meydanı, Üçgen Park, Koza Cad.), FSM Bulvarı, Mudanya sahili |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım, Bursaray Gerçeği ve Ring Taktikleri
 
-* **Şehir Merkezinden Ulaşım:**  
-  Bursa Uludağ Üniversitesi Görükle Kampüsü, İzmir karayolu üzerinde şehir merkezine (Heykel/Osmangazi) 18 km, Nilüfer merkezine ise 8-10 km uzaklıktadır. En büyük avantajı **Bursaray (Metro) Üniversite İstasyonu**'nun doğrudan kampüsün girişinde (Tıp Fakültesi ve Rektörlük önünde) yer almasıdır. Şehrin her yerinden metroyla trafiğe takılmadan kampüse ulaşılır.
-* **Kampüs İçi Ulaşım (Ring Seferleri) ve Görükle Hatları:**  
-  Görükle Kampüsü, Türkiye'nin yüzölçümü en büyük 3 kampüsünden biridir (yaklaşık 16.000 dönüm orman ve tarım arazisi). Metro istasyonundan inip İİBF'ye yürümek 10 dakika sürerken, Mühendislik, Fen-Edebiyat, Veterinerlik veya KYK yurtlarına yürümek 20-30 dakika sürebilir. Bu nedenle metro çıkışından kalkan **kampüs içi ring otobüsleri** ile Görükle'den kampüs içine giren **35/G, 35/E, G4, 35/S** belediye otobüsleri aktif kullanılır.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  **Bursakart** öğrenci abonmanı ile metro ve kampüs içi/Görükle otobüs aktarmaları çok ekonomik şekilde kullanılır.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Bursa'nın meşhur lodosu ve kış yağmurlarında metro çıkışındaki otobüs duraklarında sabah 08:30-09:30 arası yoğun kuyruklar oluşur.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** Kampüs sınırları içerisinde çam ormanlarının arasında yer alan **Uludağ Kız KYK Yurdu**, **Nilüfer Hatun Kız KYK Yurdu** ve **Halime Hatun Kız KYK Yurdu** fakültelere yürüme ve ring mesafesindedir.
-  * **Erkek Yurtları:** Yine kampüs içerisinde yer alan **Emir Sultan Erkek KYK Yurdu**, **Süleyman Çelebi Erkek KYK Yurdu** ve **Orhangazi Erkek KYK Yurdu** yüksek kapasiteyle hizmet verir.
-* **Özel Yurtlar ve Apartlar:**  
-  Kampüsün hemen batı komşusu olan **Görükle**'de yüzlerce özel öğrenci yurdu, rezidans ve 1+0 / 1+1 eşyalı apart mevcuttur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  BUÜ öğrencilerinin %75'i **Görükle (Dumlupınar, Sakarya, Kurtuluş mahalleleri)** ve **Göçmen Konutları / Balkan Mahallesi**'nde yaşar. Görükle'de her bütçeye uygun eşyalı 1+1 daire bulmak çok kolaydır (13.000 - 18.000 TL). Daha sakin ve aile/site ortamı arayanlar ise metroya 1-2 durak mesafedeki **Yüzüncüyıl** ve **Özlüce** mahallelerini tercih eder.
+* **Bursaray Görükle'ye Girmiyor Gerçeği ve Minibüs/Yürüyüş Taktiği:**  
+  Bursa Uludağ Üniversitesi'ne ilk kez gelen öğrencilerin düştüğü en büyük yanılgı, Bursaray metrosunun öğrenci yerleşimi olan Görükle'nin merkezine kadar gittiğini sanmaktır. 
+  * Metro hattı sadece kampüs girişindeki **"Üniversite İstasyonu"**nda (Tıp Fakültesi önü) son bulur. İstasyon ile Görükle öğrenci mahallesi arasında yaklaşık 2.5 - 3 kilometrelik boş bir karayolu/arazi bandı vardır.
+  * Görükle'de oturan bir öğrencinin kampüse veya metroya ulaşması için 3 yolu vardır:
+    1. **Sarı Belediye Otobüsleri (35/G, 35/E, G4, 35/S):** Görükle'nin içini dolanıp metro istasyonuna ve kampüse gider. Sabah saatlerinde aşırı kalabalıktır.
+    2. **Görükle Sarı Minibüsleri:** Sürekli kalkar, hızlıdır ancak nakit veya Bursakart biniş ücreti gerektirir.
+    3. **Yürüyüş Yolu:** Havanın güzel olduğu günlerde Trio Meydanı'ndan metro istasyonuna yürüyüş yolu 25-30 dakika sürer. Ancak kış lodosunda veya yağmurda bu yolda yürümek oldukça zorlayıcıdır.
+* **Kampüs İçi Ulaşım & Fakülteler Arası Ringler:**  
+  BUÜ Görükle Kampüsü 16.000 dönüm orman ve mera arazisine yayılmıştır; Türkiye'nin en büyük yüzölçümlü kampüslerinden biridir. Metro istasyonunda inip İİBF veya Tıp Fakültesi'ne yürümek 5-10 dakika sürerken; Mühendislik, Fen-Edebiyat, Eğitim, Veterinerlik, Ziraat veya KYK Yurtlarına yürümek 25-35 dakika alır. Metro çıkışındaki aktarma peronundan kalkan **ücretsiz kampüs içi ring araçları** kullanılır. Sabah 08:30-09:15 arasında ring durağındaki yüzlerce metrelik öğrenci kuyruğunda kapıya hücum etmek bir Görükle klasiğidir.
+* **Otostop Noktaları:**  
+  Kampüs devasa olduğu için öğrenciler arasında otostop dayanışması çok güçlüdür:
+  * Kampüsten Görükle'ye gidişte: **Tıp Fakültesi Çıkışı** ve **Mühendislik Kavşağı** otostop duraklarıdır.
+  * Görükle'den kampüse gelişte: **Trio Meydanı Çıkışı / Atatürk Caddesi başı** el kaldıran öğrencilerle doludur. Öğrenci kartını gösterenler hemen araca alınır.
+* **Bursakart Öğrenci Abonmanı:**  
+  Aylık BURULAŞ öğrenci abonmanı metro, kampüs ringi ve Görükle otobüsleri arasında indirimli ve sınırsız biniş hakkı sağlar; Bursa'da okuyan her öğrencinin ilk hafta çıkarması gereken en temel belgedir.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma, Yurtlar ve Görükle Emlak Dinamikleri
 
-* **Kütüphane İmkanları:**  
-  Kampüs merkezindeki **BUÜ Merkez Kütüphanesi**, geniş okuma salonları, grup çalışma odaları ve zengin veri tabanıyla **7/24** hizmet verir. Sınav haftalarında geceleri sıcak çorba ikramı yapılır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  YÖK tarafından **Araştırma Üniversitesi** statüsüne alınan Bursa Uludağ Üniversitesi; Türkiye'nin en güçlü **Tıp**, **Mühendislik (Otomotiv, Makine, Bilgisayar, Elektrik-Elektronik, Endüstri, Tekstil)**, **Veteriner**, **Ziraat**, **İİBF** ve **Eğitim** fakültelerinden birine sahiptir. Kampüs içindeki **ULUTEK Teknoloji Geliştirme Bölgesi** yüzlerce yazılım ve Ar-Ge firmasına ev sahipliği yapar.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  eduroam tüm fakültelerde, kütüphanede ve öğrenci çarşısında yüksek hızda çalışmaktadır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  150'den fazla aktif öğrenci topluluğu vardır. ULUTEK/Mühendislik bünyesindeki **UMAKİT (Otonom/Hidrojenli Araç)**, **İHA/Roket takımları**, IEEE, Tıp, Tiyatro, Dağcılık (BUDAK) ve Müzik kulüpleri Türkiye çapında ödüllü çalışmalara imza atar.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane:**  
-  Kampüs merkezinde devasa bir Öğrenci Yemekhanesi ve Tıp/Mühendislik/İİBF taraflarında ek yemekhaneler bulunur. Öğle ve akşam yemeği servisi vardır (25-35 TL); ayrıca vejetaryen ve çölyak menüleri düzenli çıkar.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüsün sosyal kalbi **Mediko / Öğrenci Kültür Merkezi (ÖKM)** ve **Kampüs Çarşı** alanıdır. Burada zincir kahveciler, restoranlar, süpermarketler, bankalar, PTT, kırtasiyeler ve sinema/tiyatro salonları bulunur.
-* **Spor Tesisleri:**  
-  Olimpik atletizm pisti ve futbol sahaları, kapalı spor salonları, tenis kortları, fitness merkezi ve kilometrelere uzanan orman içi bisiklet/koşu parkurları mevcuttur.
+* **KYK Yurtları ve Oda Yaşamı:**  
+  * **Halime Hatun Kız KYK Yurdu:** Kampüs sınırları içinde çam ormanının ortasındadır. 3 ve 4 kişilik bazalı/ranzalı bloklara sahiptir. Banyo ve tuvalet oda içerisindedir. Kampüsteki fakültelere ringle veya yürüyerek 10-15 dakikada ulaşılır.
+  * **Nilüfer Hatun Kız KYK Yurdu & Uludağ Kız KYK:** Yüksek kapasiteli, çalışma salonları ve etüt alanları geniş bloklardır. Çamaşırhanede sıra beklememek için hafta içi sabah 07:00-09:00 arası yıkama taktiği uygulanmalıdır.
+  * **Emir Sultan Erkek KYK Yurdu:** Kampüs içindeki en büyük erkek yurdudur; 4 kişilik bazalı odalar mevcuttur. Tıp ve Mühendislik öğrencileri için konumu büyük avantajdır.
+  * **Süleyman Çelebi & Orhangazi Erkek KYK:** Kampüs içi ring güzergahındadır; spor sahaları ve bahçe kamelyaları aktiftir.
+* **Görükle Emlakçı & Alt Sayaç / Doğalgaz Çilesi:**  
+  Görükle (Dumlupınar, Kurtuluş ve Sakarya mahalleleri) Türkiye'nin en büyük öğrenci yerleşimlerinden biridir. Yaklaşık 40.000 öğrenci burada 1+0, 1+1 ve 2+1 eşyalı apartlarda yaşar. Ancak Görükle'de ev kiralarken öğrencilerin dikkat etmesi gereken kritik tuzaklar vardır:
+  * *Emlakçı Komisyonu ve Giriş Masrafı:* Birçok emlakçı 1 kira peşin, 1 kira depozito ve 1 kira emlak komisyonu ister; bu da taşınma maliyetini katlar.
+  * *Alt Sayaç (Süzme Sayaç) Kavgaları:* Görükle'deki bazı eski apartlarda elektrik, su veya doğalgaz abonelikleri bağımsız değil, bina altındaki ortak "süzme sayaç" üzerinden paylaştırılır. Bu durum ev sahibiyle veya üst kattaki komşuyla her ay fatura kavgası çıkmasına yol açar. **Mutlaka müstakil aboneliği olan daireleri tercih edin.**
+  * *Alternatif Sakin Bölgeler:* Görükle'nin gece gürültüsünden ve bar kalabalığından uzak durmak isteyenler metroya 1 durak mesafedeki **Göçmen Konutları**, **Balkan Mahallesi** veya **Yüzüncüyıl Mahallesi**'nde ev tutar.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🍽️ Beslenme, Sokak Lezzetleri ve Görükle Gastronomisi
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  **Nilüfer** ilçesi, Türkiye'nin en modern, kültür-sanat festivalleriyle yaşayan ve genç dostu ilçelerinden biridir. Görükle ise tamamen öğrencilerden oluştuğu için 24 saat yaşayan özgür bir ekosisteme sahiptir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  **Görükle Trio Meydanı ve Koza Caddesi**, **Özlüce Bulvarı**, **FSM Bulvarı**, **PodyumPark** ve **Nilüfer Belediyesi Nâzım Hikmet Kültürevi / Görükle Gençlik Merkezi** öğrencilerin vazgeçilmez mekanlarıdır. Hafta sonu **Mudanya / Tirilye** sahiline inmek, tarihi **Gölyazı** yarımadasında gün batımı izlemek (kampüse 15 dk!) ve kışın **Uludağ**'a çıkmak Bursa'da öğrenciliği unutulmaz kılar.
-* **Part-Time İş ve Staj Olanakları:**  
-  TOFAŞ, Oyak Renault, Bosch, TOGG (Gemlik), Valeo, Coşkunöz ve 17'den fazla Organize Sanayi Bölgesi ile ULUTEK Teknokent sayesinde Bursa, mühendislik ve İİBF öğrencileri için Türkiye'nin en büyük staj ve istihdam cennetidir. Görükle ve Nilüfer'deki yüzlerce kafe/restoranda part-time iş bulmak çok kolaydır.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* Araştırma Üniversitesi diploması, ULUTEK Teknokent ve Bursa'nın devasa sanayi devlerinde staj/iş garantisi.
-* Bursaray (Metro) hattının doğrudan kampüs içine kadar gelmesi ve kampüs içinde 6+ KYK yurdunun bulunması.
-* Bitişiğindeki Görükle ve Nilüfer ilçesinin sunduğu Türkiye'nin en canlı öğrenci sosyal hayatlarından biri.
-
-### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
-* **Bursaray'ın Görükle Yerleşimine Girmemesi Çilesi:** Bursaray sadece kampüs girişindeki 'Üniversite' durağına kadar gelir. Görükle yerleşiminde oturan bir öğrenci kampüse veya metroya gitmek için her gün sarı minibüslere binmek ya da 25 dakika rüzgara karşı yürümek zorundadır.
-* **Görükle Emlakçı & Esnaf Rantı:** "Öğrenciye her şey pahalı" yaklaşımı; faturalarda süzme sayaç kavgaları, depozito iadelerinde çıkarılan pürüzler ve apartlarda yetersiz ses/ısı yalıtımı öğrencilerin en çok yakındığı konular arasındadır.
-* **Kampüs İçi Mesafe ve Ringlerin Tıklım Tıklım Olması:** Tıp Fakültesi, İİBF ve Mühendislik binaları birbirinden uzaktır; sabah ve akşam saatlerinde kampüs içi ringlere binmek adeta bir güreş müsabakasına döner.
-* **Uludağ'ın Dondurucu Kış Ayazı:** Kış aylarında Uludağ'dan ovaya inen dondurucu rüzgar yüzünden açık kampüste yürümek oldukça zordur.
+* **Merkezi Yemekhane:**  
+  Merkez Kütüphane'nin arkasında yer alan devasa Merkezi Yemekhane ve fakültelerin kendi tali yemekhaneleri hizmet verir. BURULAŞ kartına internetten yüklenen bakiye ile turnikelerden geçilir. 4 çeşit yemek 25-35 TL'dir. Menüde her gün vegan/vejetaryen alternatifi çıkar.
+* **Görükle Üçgen Park Dönercileri & Sokak Lezzetleri:**  
+  Görükle'nin gece beslenme kalbi **Üçgen Park (Atatürk Caddesi Kavşağı)** ve çevresidir:
+  * Gece 03:00'e kadar açık tavuk dönerciler, soslu Hatay dönercileri, çiğ köfteciler ve midyeciler öğrenci bütçesini kurtarır.
+  * **Trio Meydanı ve Koza Caddesi:** Dünya mutfağı sunan kafeler, üçüncü nesil kahveciler ve publar Görükle'nin gündüz çalışma, akşam sosyalleşme mekanlarıdır.
+  * **Bursa İskender & Cantık:** Hafta sonu Heykel veya Kayhan Çarşısı'na inip cantık (minik yuvarlak pide) veya hakiki Bursa kebabı yemek gelenektir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 4. 📚 Akademik Hayat, Çan Eğrisi ve Sınav Dönemi Taktikleri
 
-> 💬 **Öğrenci Notu:**  
-> "Uludağ Üniversitesi Görükle Kampüsü, Türkiye'de gerçek 'kampüs üniversitesi' ruhunu iliklerine kadar yaşayacağın nadir yerlerden biridir. İlk yıl kampüs içindeki KYK yurtlarında kalıp ortamı tanı; Görükle'de eve çıkacaksan da gürültüden uzak ama 35/G otobüs durağına yakın (Dumlupınar veya Göçmen Konutları tarafı) yalıtımlı bir apart seç!"
+* **Fakültelerin Karakteristiği ve Çan Eğrisi:**  
+  * **Mühendislik Fakültesi:** Otomotiv, Makine, Bilgisayar, Elektrik-Elektronik, Endüstri ve Tekstil bölümlerinde **bağıl değerlendirme (çan eğrisi)** sistemi katıdır. Çan ortalaması 35-40'larda kalsa da öğretim üyelerinin koyduğu 40-50 arası final geçme alt barajı vardır. Vizeden 70 alıp final barajına takılarak dersten kalan öğrenci hikayeleri meşhurdur.
+  * **Tıp Fakültesi:** Entegre sistemle eğitim verir. Morfoloji binası ve Tıp Kütüphanesi 24 saat uykusuz çalışan öğrencilerle doludur; komite barajları zordur.
+  * **İktisadi ve İdari Bilimler (İİBF):** Türkiye'nin en kalabalık İİBF'lerinden biridir; amfiler vize/final haftasında iğne atsan yere düşmeyecek hale gelir.
+* **Kütüphanede Yer Kapma Yarışı & Gece Çorbası Saatleri:**  
+  * **Prof. Dr. Fuat Sezgin Merkez Kütüphanesi** yıl boyu **7/24** açıktır.
+  * Vize ve final dönemlerinde saat **09:30**'dan sonra prizli masa bulmak imkansızlaşır; öğrenciler sabah 08:00'de kütüphaneye akın eder. Grup çalışma odaları için BUÜ Kütüphane Otomasyonu üzerinden günler öncesinden yer ayırtmak şarttır.
+  * BUÜ'nün en efsanevi geleneği sınav haftalarında gece **00:00 ve 02:00**'de kütüphane girişinde dağıtılan sıcak mercimek çorbası ve taze somun ekmektir. Nilüfer Belediyesi'nin çorba aracı da kütüphane önünde gece nöbeti tutar.
+* **ULUTEK Teknokent ve Sanayi Ortaklıkları:**  
+  Kampüs içindeki ULUTEK Teknokent, Bursa'nın devasa otomotiv sanayisi (TOFAŞ, Renault, Bosch, TOGG) ve yazılım firmalarıyla doğrudan köprü kurar. TEKNOFEST takımları (UMAKİT otonom araç, hidrojenli araç takımları) dünya çapında derecelere sahiptir.
+
+---
+
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **Bursaray'ın Görükle Yerleşimine Girmemesi Çilesi:**  
+  Bursa Uludağ Üniversitesi'nin 1 numaralı kronik sorunudur. Metrodan inip Görükle'ye gitmek için her gün sarı minibüslere binmek veya 25 dakika rüzgara karşı yürümek zorunda kalmak öğrencileri canından bezdirir.
+* **Görükle Emlakçı & Esnaf Rantı:**  
+  "Öğrenci şehri" avantajının yanında esnaf ve emlakçıların fahiş komisyon, depozito kesintileri, alt sayaç fatura kavgaları ve yetersiz yalıtımlı apartlar öğrencilerin en çok yakındığı konudur.
+* **Uludağ Lodosu ve Dondurucu Kış Ayazı:**  
+  Bursa'nın meşhur lodosu kampüste tabelaları uçuracak, şemsiyeleri parçalayacak şiddete ulaşır; lodostan sonra gelen dondurucu Uludağ ayazı ise açık arazide fakülteden fakülteye yürümeyi dondurucu bir eziyete dönüştürür.
+* **Kampüs İçi Mesafeler ve Tıklım Tıklım Ringler:**  
+  Sabah 08:30 dersine yetişmek için metro çıkışında ring otobüsüne binmek adeta bir güreş müsabakasına döner; ring kaçarsa Mühendislik veya Veterinerlik binalarına yürümek 30 dakikayı bulur.
+
+---
+
+## 6. 💡 Uludağ Öğrencisine Altın Tavsiyeler
+
+1. **Ev Kiralarken Müstakil Sayaç Şartı:** Görükle'de ev kiralarken "süzme sayaç"lı hiçbir evi kabul etmeyin; elektrik ve doğalgaz aboneliğinin bağımsız olduğundan emin olun.
+2. **Ulaşım Kartı Abonmanı:** İlk hafta Bursakart öğrenci abonmanı çıkartın; ring, metro ve otobüsler arasında aktarma derdi olmadan seyahat edin.
+3. **Bursa Sanayisi ve ULUTEK Avantajı:** 2. sınıftan itibaren ULUTEK Teknokent firmalarını ve Organize Sanayi Bölgelerindeki (NOSAB, DOSAB) staj ilanlarını kovalayın; otomotiv ve mühendislikte Uludağ mezunu olmak büyük bir kapı açar.
+4. **Hafta Sonu Dinlenme Rotaları:** Mudanya sahili ve tarihi Tirilye minibüsle 30 dakika, Gölyazı yarımadası ise kampüse sadece 15 dakikadır; sınav stresini atmak için bu kaçış rotalarını kullanın.

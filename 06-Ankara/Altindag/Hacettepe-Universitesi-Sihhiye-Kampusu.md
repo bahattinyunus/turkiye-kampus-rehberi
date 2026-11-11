@@ -4,7 +4,7 @@
 > **İl / İlçe:** Ankara / Altındağ (Sıhhiye - Çankaya Sınırı)  
 > **Üniversite Türü:** Devlet  
 > **Kampüs Konumu:** Şehir Merkezi Kampüsü (Kızılay-Ulus Arası, Kurtuluş/Hamamönü Bitişiği)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.4/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.6/5)
 
 ---
 
@@ -13,93 +13,86 @@
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
 | **🚇 Şehir Merkezine Uzaklık** | 0 km (Tam Merkezde) | M1 Metro (Sıhhiye), ANKARAY (Kurtuluş/Kolej), Başkentray (Yenişehir) |
-| **🏠 KYK Yurt İmkanı** | Orta - İyi | Sıhhiye Kampüs İçi Öğrenci Yurdu + Cebeci/Kurtuluş KYK yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 14.000 - 21.000 TL | Kurtuluş, Cebeci, Kolej, Kocatepe, Demirlibahçe |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 30 TL / İyi | Sıhhiye Merkez Yemekhanesi; öğle ve akşam sıcak yemek |
+| **🏠 KYK & Üniversite Yurtları** | Kampüs İçi ve Çevresi | Sıhhiye Öğrenci Yurdu kampüs içinde; Cebeci ve Kurtuluş KYK'ları yürüme mesafesinde |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 14.000 - 22.000 TL | Kurtuluş, Kolej, Cebeci, Demirlibahçe ve Hamamönü etrafı 2+1/3+1 evler |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 30 TL / Yüksek Kalite | Sıhhiye Merkez Yemekhanesi; öğle ve nöbetçi öğrenciler için akşam sıcak yemek |
 | **📚 Kütüphane Kapasitesi** | 7/24 Açık (Tıp Kütüphanesi) | Tıp ve Sağlık Bilimleri Kütüphanesi TUS/DUS ve komite çalışanlarla 7/24 dolu |
-| **🌐 İnternet (eduroam)** | Çok İyi | Tüm amfilerde, hastanede ve kütüphanede hızlı eduroam |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı (Şehir Merkezi) | Hamamönü tarihi konakları, Kızılay ve Kurtuluş Parkı hemen kampüs kapısında |
+| **🌐 İnternet (eduroam)** | Çok Hızlı (Medikal Fiber) | Tüm amfilerde, hastane koridorlarında ve kütüphanede kesintisiz eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | Şehir Merkezi & Hamamönü | Hamamönü tarihi konakları, Kızılay, Kurtuluş Parkı ve Abdi İpekçi Parkı |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **Şehir Merkezinden Ulaşım:**  
-  Hacettepe Sıhhiye Kampüsü (Tıp, Diş Hekimliği, Eczacılık, Hemşirelik, Fizik Tedavi ve Rehabilitasyon, Sağlık Bilimleri fakülteleri), Ankara'nın tam kalbinde, Sıhhiye-Kurtuluş-Hamamönü üçgeninde yer alır. Ulaşım açısından Türkiye'nin en erişilebilir kampüslerinden biridir:
-  * **M1-M2-M3 Metrosu:** **Sıhhiye Durağı**'ndan yürüyerek 7-8 dakika.
-  * **ANKARAY:** **Kurtuluş** veya **Kolej** duraklarından yürüyerek 8-10 dakika.
-  * **Başkentray (Banliyö Treni):** **Yenişehir** veya **Kurtuluş** istasyonları hemen kampüsün yanındadır.
-  * **Önemli Not (İngilizce Hazırlık):** Sıhhiye bölümlerini kazanan öğrenciler, **İngilizce Hazırlık sınıfını Beytepe Kampüsü'nde** okurlar; 1. sınıftan itibaren Sıhhiye Kampüsü'ne geçerler!
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Sıhhiye Kampüsü; Hacettepe Erişkin Hastanesi, İhsan Doğramacı Çocuk Hastanesi, Onkoloji Hastanesi ve fakülte binalarının iç içe geçtiği kompakt bir yerleşkedir. Kampüsün bir ucundan diğerine 5-8 dakikada yürünür.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  **AnkaraKart Öğrenci Abonmanı** tüm metro ve otobüslerde geçerlidir; ancak Kurtuluş veya Cebeci'de ev tutan öğrenciler okula yürüyerek gider.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Şehrin tam merkezinde ve düz/hafif eğimli bir alanda olduğu için kışın ulaşımda hiçbir aksama yaşanmaz; binalar arası geçişlerin bir kısmı hastane koridorları ve tüp geçitlerle bağlantılıdır.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **Kampüs İçi Yurtlar ve KYK:**  
-  * **Hacettepe Sıhhiye Öğrenci Yurdu ve Öğrenci Evleri:** Doğrudan Sıhhiye Kampüsü'nün içinde (M Kültür Merkezi ve Kütüphane yakınında) kız ve erkek yurt blokları ile Öğrenci Evi bulunur. Tıp ve Diş öğrencileri için nöbetlerden veya gece kütüphaneden çıkıp 2 dakikada odaya geçmek büyük bir lükstür.
-  * **KYK Yurtları:** Yürüme mesafesindeki Cebeci, Kurtuluş ve Demirlibahçe çevresinde KYK yurtları mevcuttur.
-* **Özel Yurtlar ve Apartlar:**  
-  Kurtuluş, Kolej ve Cebeci'de tıp/hukuk öğrencilerinin yoğun kaldığı çok sayıda özel yurt ve apart bulunur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Sıhhiye öğrencilerinin %80'i kampüsün hemen arka kapısından çıkınca başlayan **Kurtuluş**, **Kolej**, **Cebeci** ve **Demirlibahçe** mahallelerinde ev tutar. Daireler genellikle 30-40 yıllık merkezi sistem (kömür/doğalgaz kaloriferli) apartmanlardır; kiralar Eskişehir Yolu'na göre daha uygundur (**14.000 - 20.000 TL**) ve okula yürüyerek 10 dakikada gelinir.
+* **Şehir Merkezinden Ulaşım (Üçlü Raylı Sistem Kesiti):**  
+  Hacettepe Sıhhiye Kampüsü (Tıp, Diş Hekimliği, Eczacılık, Hemşirelik, Fizik Tedavi ve Sağlık Bilimleri fakülteleri), Ankara'nın en erişilebilir noktalarından birindedir:
+  * **M1 Metrosu:** **Sıhhiye Durağı** köprü altı çıkışından Adliye yanındaki yaya yolundan yürünerek 6-7 dakikada ana girişe varılır.
+  * **ANKARAY:** **Kurtuluş** durağında inip Ziya Gökalp Caddesi arkasından kampüsün acil kapısına 5 dakikada yürünür.
+  * **Başkentray (Banliyö Treni):** Sincan veya Kayaş yönünden gelenler için **Yenişehir İstasyonu** Tıp Fakültesi Çocuk Hastanesi kapısının tam karşısındadır; **Kurtuluş İstasyonu** ise Diş Hekimliği ve Eczacılık nizamiyesine bakar.
+* **Hayati Uyarı - İngilizce Hazırlık Beytepe'dedir!:**  
+  Sıhhiye Kampüsü'ndeki bölümleri (Tıp, Diş, Eczacılık) kazanan öğrenciler, **İngilizce Hazırlık sınıfını Beytepe Kampüsü'nde** okurlar! 
+  * İlk yıl hazırlık okuyacakların Sıhhiye'de ev tutması durumunda her gün Beytepe'ye gitmesi gerekir.
+  * **Rektörlük Beytepe Servisi:** Sıhhiye M Kültür Merkezi önünden belirli saatlerde kalkan ücretsiz üniversite servisleri Beytepe'ye direkt ulaşım sağlar; metro aktarmasından çok daha konforludur.
+* **Gizli Kestirme Rota:**  
+  Kızılay'dan yürümek isteyenler Kolej üzerinden Hamamönü tarihi sokaklarına girip kampüsün arka nizamiyesinden turnikelerle içeriye 15 dakikada geçebilir.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma & KYK Gerçekleri
 
-* **Kütüphane İmkanları:**  
-  **Hacettepe Tıp ve Sağlık Bilimleri Kütüphanesi**, Türkiye'de tıp literatürünün kalbidir. Komite sınavları, TUS ve DUS hazırlığı nedeniyle yılın 365 günü en disiplinli ders çalışma atmosferine sahiptir; 7/24 açık salonları mevcuttur.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Türkiye'nin en yüksek puanlı Tıp, Diş Hekimliği ve Eczacılık fakültelerine ev sahipliği yapar. Kadavra, histoloji, simülasyon laboratuvarları, Diş Hekimliği preklinik/klinik üniteleri ve Türkiye'nin dört bir yanından en nadir vakaların geldiği **Hacettepe Hastaneleri**, öğrencilere benzersiz bir klinik eğitim sunar.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Tüm amfilerde ve kütüphanede **eduroam** sorunsuzdur.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  HÜTBAT (Hacettepe Tıp Bilimsel Araştırma Topluluğu), TurkMSIC, Müzik, Tiyatro ve Fotoğrafçılık toplulukları Sıhhiye **Kültür Merkezi (M Salonu ve Kırmızı Salon)** bünyesinde çok aktiftir.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane:**  
-  Sıhhiye Öğrenci Yemekhanesi'nde öğle ve akşam saatlerinde uygun fiyatlı (~30 TL) yemek servisi yapılır.
-* **Kantinler, Kafeler ve Çarşı (Hamamönü Avantajı):**  
-  Kampüs içinde **Morfoloji Kantini**, **Merkez Kafeterya** ve pelikanlı havuz çevresi öğrencilerin ders arası buluşma noktasıdır. Kampüsün arka kapısından adım attığınızda ise restore edilmiş tarihi Ankara konaklarıyla dolu **Hamamönü**'ne çıkarsınız; burada onlarca kafe, kahvaltıcı, çorbacı ve uygun fiyatlı öğrenci lokantası bulunur.
-* **Spor Tesisleri:**  
-  Kampüs içinde kapalı spor salonu ve fitness alanı bulunur; ayrıca hemen kampüsün alt tarafındaki yemyeşil **Kurtuluş Parkı** koşu parkuru, tenis kortları ve buz pateni pistiyle öğrencilerin arka bahçesidir.
+* **Kampüs İçi Hacettepe Sıhhiye Yurtları:**  
+  * Sıhhiye Kampüsü'nün hemen içinde, M Kültür Merkezi ve Kütüphane arkasında kız ve erkek öğrenci yurtları yer alır.
+  * Tıp ve Diş Hekimliği intörn ve stajyer öğrencileri için gece 03:00'te nöbetten çıkıp 2 dakikada yatağına gidebilmek paha biçilmez bir nimettir.
+  * Giriş-çıkış saatleri nöbet çizelgelerine göre esnektir; kartlı turnike sistemi uygulanır.
+* **Çevredeki KYK Yurtları:**  
+  * Kurtuluş ve Cebeci'deki KYK yurtları kampüse 10-15 dakikalık yürüyüş mesafesindedir.
+* **Öğrenci Mahalleleri & Ev Tutma Taktikleri:**  
+  * **Kurtuluş ve Kolej (Kıbrıs Cad., Ön Cebeci):** Sıhhiye tıp ve sağlık öğrencilerinin %75'inin oturduğu bölgedir. Evler 30-40 yıllık, merkezi sistem ısıtmalı veya kombili apartmanlardır (**15.000 - 22.000 TL**).
+  * **Ev Sahibi Algısı:** Kurtuluş ve Cebeci'deki ev sahipleri Hacettepe Tıp öğrencilerine ev vermeye bayılır ("sessiz, çalışkan, düzenli kiracı"); ancak bunu fırsat bilip yüksek depozito veya yıllık peşin kira isteyebilirler. Standart aylık ödemede ısrarcı olun.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Kurtuluş, Kolej ve Kızılay bölgesi on yıllardır öğrenci ve memur semtidir. Gündüzleri hastane ve üniversite yoğunluğuyla çok hareketlidir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Ders aralarında **Hamamönü**'nde kumda kahve içmek, **Kurtuluş Parkı**'nda çimlerde oturmak, yürüyerek 15 dakikada **Kızılay**'a veya **Tunalı Hilmi Caddesi**'ne inmek, Devlet Tiyatroları ve Opera-Bale (Sıhhiye'ye 10 dk yürüme mesafesinde) temsillerine gitmek Sıhhiye öğrencilerinin ayrıcalığıdır.
-* **Part-Time İş ve Staj Olanakları:**  
-  Sağlık bölümlerinin yoğun ders ve klinik staj temposu nedeniyle part-time işe vakit ayırmak zordur; ancak intörn doktorluk ve klinik stajlar doğrudan kampüs içindeki hastanelerde yapılır.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* **Türkiye'nin En Prestijli Sağlık Eğitimi:** Tıp, Diş, Eczacılık ve Fizyoterapide Türkiye'nin en güçlü akademik kadrosu ve vaka çeşitliliği buradadır.
-* **Mükemmel Merkezi Konum:** Kurtuluş/Cebeci'de ev tutup 6 yıl boyunca tek kuruş yol parası vermeden yürüyerek derse ve nöbete gidilebilir.
-* **Hamamönü ve Kurtuluş Parkı Komşuluğu:** Beton binalar arasında nefes alacak tarihi ve yeşil alanlar hemen kampüs kapısındadır.
-
-### ❌ Eksileri
-* **Hastane Kalabalığı:** Kampüs aynı zamanda dev bir hastane kompleksi olduğu için gündüz saatlerinde hasta ve hasta yakınlarıyla iç içe bir kalabalık vardır; Beytepe gibi izole bir orman kampüsü değildir.
-* **Çok Yoğun Komite ve Nöbet Temposu:** Akademik beklenti çok yüksektir, sınav dönemleri oldukça streslidir.
+* **Sıhhiye Merkez Yemekhanesi:**  
+  * Hacettepe Kart ile turnikelerden geçilir (~30 TL). Öğle ve akşam servisi vardır.
+  * Hastane mutfağıyla entegre kalitede çalıştığı için protein dengesi yüksektir. Nöbetçi sağlık öğrencileri ve intörn doktorlar için akşamları sıcak yemek ve çorba servisi aksamaz.
+* **Kapı Önü ve Çevre Lezzetleri:**  
+  * **Hamamönü Tarihi Konakları:** Kampüsün hemen bitişiğindeki Hamamönü sokaklarında uygun fiyatlı gözlemeciler, mantıcılar ve kahvaltı mekanları ders aralarında kafa dinleme yeridir.
+  * **Sıhhiye Köprü Altı & Adliye Pilavcıları:** Sıcak nohutlu tavuklu pilav ve ayran, acelesi olan stajyer öğrencilerin en hızlı öğünüdür.
+  * **M Kültür Merkezi Kantini:** Tost, sandviç ve çay eşliğinde komite çıkışı kritiği yapılan ana toplanma alanıdır.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 4. 📚 Akademik & Sınav Hayatta Kalma (Tıp ve Diş Komite Sistemi)
 
-> 💬 **Öğrenci Notu:**  
-> "Hacettepe Tıp, Diş veya Eczacılık kazandıysan unutma ki Hazırlık yılını Beytepe'de, 1. sınıftan sonrasını Sıhhiye'de okuyacaksın! 1. sınıfa geçerken evini mutlaka Kurtuluş Parkı çevresinde veya Cebeci'de tut; sabah 08:30 komitesine ve hastane vizitlerine yürüyerek 10 dakikada gitmenin rahatlığını hiçbir şeye değişmezsin."
+* **Hacettepe Tıp Ekolü & Komite Kuralları:**  
+  * Dönem 1, 2 ve 3'te komite (kurul) sistemi uygulanır.
+  * **%50 Baraj Kuralı:** Kurul sınavında Anatomi, Fizyoloji, Biyokimya gibi her ana branştan o dersin soru sayısının en az %50'sini doğru yapmak zorundasınız; altında kalırsanız eksi puan olarak genel komite notunuzdan düşülür.
+  * Final sınavı kurul ortalamasının %40 veya %50'sini oluşturur; sene sonu geçme notu barajı 60'tır.
+* **Diş Hekimliği Preklinik Sınavları:**  
+  * Diş Hekimliği 1. ve 2. sınıfta sabun ve alçı oyma, fantom kafa üzerinde dolgu-kanal çalışmaları sabahlara kadar sürer; el becerisi ve sabır gerektirir.
+* **Sıhhiye Tıp Kütüphanesinde 7/24 Yaşam:**  
+  * Tıp ve Sağlık Bilimleri Kütüphanesi Türkiye'nin en sessiz ve en yoğun çalışan kütüphanesidir.
+  * Komite haftalarında ve TUS döneminde sabah 06:30'da masalara Guyton, Robbins ve Netter atlasları bırakılarak yer tutulur.
+  * Gece 00:00'da rektörlük tarafından kütüphane önünde sıcak çorba ve ekmek ikramı yapılır.
+
+---
+
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **Yeşil Kampüs Yoksunluğu ve Hastane Kaosu:**  
+  Sıhhiye Kampüsü Beytepe gibi devasa çim alanları, ormanı ve göleti olan bir kampüs değildir; Türkiye'nin en büyük hastane komplekslerinden biriyle iç içedir. Gün boyu siren sesleri, poliklinik kalabalığı ve hasta yakınları arasında dersliklere yürünür.
+* **Aşırı Akademik Yük ve Uykusuzluk:**  
+  Tıp, Diş ve Eczacılık fakültelerinde sınav haftaları değil, neredeyse her hafta bir komite veya pratik sınav vardır; sosyal hayat sınav dönemlerinde sıfırlanabilir.
+* **Otopark Sorunu:**  
+  Şehir merkezinde olduğu ve hastane trafiği çektiği için arabayla gelen öğrenciler için otopark bulmak imkansıza yakındır.
+
+---
+
+## 6. 💡 Altın Tavsiyeler (İlk Hafta Hayatta Kalma Kiti)
+
+1. **Eğer Hazırlık Okuyacaksan Evini Beytepe'ye Göre Ayarla:** İlk yıl hazırlık sınıfının Beytepe'de olduğunu unutma; Sıhhiye'de ev tutarsan her gün 550 ringine gitmek zorunda kalırsın.
+2. **Kurtuluş'ta Yürüme Mesafesinde Ev Tut:** Bölüme başladığında Kurtuluş veya Kolej'de okula yürüyerek 10 dakikada gidilen bir ev bulmak nöbet dönemlerinde hayatını kurtarır.
+3. **Komiteye İlk Günden Çalış:** "Son iki hafta çalışır geçerim" yanılgısına düşenlerin büyük kısmı eksi puan barajına takılır; günü gününe atlas tekrarı yap.
+4. **Hamamönü'nde Zihnini Boşalt:** Yoğun laboratuvar ve komite stresinden bunaldığında arka kapıdan Hamamönü'ne çıkıp dut ağaçları altında bir fincan Türk kahvesi iç.

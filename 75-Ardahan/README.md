@@ -3,9 +3,9 @@
 > **Son Güncelleme:** Kasım 2026  
 > **Bölge:** Doğu Anadolu Bölgesi (Kuzeydoğu Anadolu / Kafkasya Kapısı)  
 > **Öğrenci Nüfusu:** ~5.500+  
-> **Genel Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.3/5)
+> **Genel Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (3.8/5)
 
-Türkiye'nin Kafkasya'ya açılan kapısı olan ve yaklaşık 1.850 metre rakımda yer alan Ardahan, Türkiye'nin nüfus bakımından en küçük ve en sakin illerinden biridir. Kura Nehri'nin ikiye böldüğü şehirde yükseköğretim hayatı, 2008 yılında kurulan **Ardahan Üniversitesi (ARÜ)** ve onun ödüllü mimariye sahip **Yenisey Merkez Kampüsü** etrafında şekillenir. Kış aylarının efsanevi soğuğu (-25 / -30°C) zorlayıcı olsa da, kampüsün içindeki modern KYK yurtları, kapalı yaşam alanları, düşük yaşam maliyeti ve samimi ortamı Ardahan'da öğrenciliği beklentilerin üzerinde konforlu kılmaktadır.
+Türkiye'nin Kafkasya'ya açılan kapısı olan ve yaklaşık 1.850 metre rakımda yer alan Ardahan, Türkiye'nin en sakin, doğası bozulmamış ve güvenli illerinden biridir. Kura Nehri'nin ikiye böldüğü şehirde yükseköğretim hayatı, 2008 yılında kurulan **Ardahan Üniversitesi (ARÜ)** ve onun ödüllü mimariye sahip **Yenisey Merkez Kampüsü** etrafında şekillenir. Kış aylarının sert soğuğu (-25°C / -35°C) zorlayıcı olsa da; kampüsün içindeki 24 saat fırın gibi yanan modern KYK yurtları, kapalı yaşam merkezleri, garantili yurt yerleşimi, çok düşük yaşam maliyeti ve donmuş **Çıldır Gölü** üzerindeki atlı kızak ritüelleri Ardahan'da öğrenciliği unutulmaz bir deneyime dönüştürür.
 
 ---
 
@@ -13,32 +13,32 @@ Türkiye'nin Kafkasya'ya açılan kapısı olan ve yaklaşık 1.850 metre rakım
 
 | Üniversite | Tür | Ana Kampüs / Yerleşke | Bulunduğu İlçe | Öğrenci Yoğunluğu | Rehber Bağlantısı |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Ardahan Üniversitesi** | Devlet | Yenisey Merkez Kampüsü | Merkez | Yüksek | [İncele](./Merkez/Ardahan-Universitesi-Yenisey-Merkez-Kampusu.md) |
-| **Ardahan Üniversitesi** | Devlet | Nihat Delibalta Göle MYO | Göle | Orta | [İncele](./Gole/Ardahan-Universitesi-Nihat-Delibalta-Gole-MYO.md) |
-| **Ardahan Üniversitesi** | Devlet | Çıldır MYO Yerleşkesi | Çıldır | Orta | [İncele](./Cildir/Ardahan-Universitesi-Cildir-MYO.md) |
+| **Ardahan Üniversitesi (ARÜ)** | Devlet | Yenisey Merkez Kampüsü | Merkez (Çamlıçatak) | Yüksek (~4.200+) | [İncele](./Merkez/Ardahan-Universitesi-Yenisey-Merkez-Kampusu.md) |
+| **Ardahan Üniversitesi (ARÜ)** | Devlet | Nihat Delibalta Göle MYO | Göle | Orta (~850) | [İncele](./Gole/Ardahan-Universitesi-Nihat-Delibalta-Gole-MYO.md) |
+| **Ardahan Üniversitesi (ARÜ)** | Devlet | Çıldır MYO Yerleşkesi | Çıldır | Orta (~450) | [İncele](./Cildir/Ardahan-Universitesi-Cildir-MYO.md) |
 
 ---
 
 ## 🌆 Şehirde Öğrencilik, Ulaşım ve Yaşam Dinamikleri
 
 ### 🚇 Ulaşım & Kart Sistemi
-* **Kampüs - Merkez Ulaşımı:** Yenisey Kampüsü, Ardahan-Çıldır karayolu üzerinde şehir merkezine yaklaşık **5 km** mesafededir. Şehir merkezinden (Kongre Caddesi ve Kura Köprüsü mevkii) kalkan kampüs dolmuşları ve belediye araçlarıyla 10 dakikada kampüse ulaşılır.
-* **Havalimanı & Tren Erişimi:** Ardahan'da havalimanı yoktur ancak komşu il **Kars Harakani Havalimanı** sadece 75-80 km (yaklaşık 1 saat) uzaklıktadır. Öğrenciler uçak ve **Doğu Ekspresi** tren yolculukları için Kars'ı aktif olarak kullanır; Kars-Ardahan arası gün boyu düzenli minibüs seferleri vardır.
+* **Kampüs - Merkez Minibüsleri:** Yenisey Kampüsü, Ardahan-Çıldır yolu üzerinde şehir merkezine yaklaşık **5 km** mesafededir. Şehir merkezinden (Kongre Caddesi ve Kura Köprüsü mevkii) kalkan kampüs minibüsleriyle 10 dakikada doğrudan kampüs içi duraklara varılır (öğrenci binişi ~15 - 18 TL).
+* **Havalimanı & Tren Ulaşımı:** Ardahan'da havalimanı yoktur; ancak komşu il **Kars Harakani Havalimanı** sadece 75 km (yaklaşık 1 saat 15 dk) uzaklıktadır. Uçak iniş ve kalkış saatlerine göre Kars Havalimanı ile Ardahan Merkez arasında düzenli servisler ve dolmuşlar çalışır. Ayrıca **Doğu Ekspresi** için Kars Tren Garı kullanılır.
 
 ### 🏠 Popüler Öğrenci Mahalleleri ve Barınma
-* **Kampüs İçi KYK Yurtları:** Ardahan'da öğrencilerin %80'inden fazlası doğrudan Yenisey Kampüsü'nün içinde yer alan KYK kız ve erkek yurtlarında kalır. Sert kış koşullarında kampüs içindeki yurttan çıkıp yürüyerek fakülteye gitmek en büyük avantajdır.
-* **Kaptanpaşa, Karagöl ve Yeni Mahalle (Merkez):** Şehir merkezinde ev veya apart tutmak isteyen öğrenciler **Kongre Caddesi** ve **Lise Caddesi** çevresindeki Kaptanpaşa ile Karagöl mahallelerini tercih eder. Doğalgaz altyapısı şehir merkezinde yaygındır; ancak kışın ısınma faturası bütçe planlamasında mutlaka hesaba katılmalıdır.
+* **Kampüs İçi KYK Yurtları (%98 Yerleşme):** Ardahan'da öğrencilerin %85'inden fazlası doğrudan Yenisey Kampüsü'nün içindeki **Kaşgarlı Mahmut KYK Erkek Yurdu**, **Ardahan KYK Kız Yurdu** ve **Serhat KYK Yurdu**'nda kalır. -30 derecede dışarıda hayat dururken yurtların merkezi ısıtması 24 saat kesintisiz yanar ve odalarda tişörtle oturulabilir. Girişler 23:00'te turnike ile kapanır.
+* **Şehir Merkezi (Kaptanpaşa ve Karagöl Mahalleleri):** Şehir merkezinde ev veya apart tutmak isteyen öğrenciler Kongre Caddesi çevresini tercih eder. Kiralar 7.500 - 12.000 TL aralığında çok uygundur; ancak kışın doğalgaz faturasının kabarık gelmemesi için binanın dış cephe mantolaması mutlaka kontrol edilmelidir.
 
 ### 💸 Yaşam Maliyeti (Kasım 2026 İtibarıyla)
-* **Ortalama Öğrenci Evi Kirası (1+1 / 2+1):** 7.500 TL – 12.000 TL (Ancak kış aylarında doğalgaz faturası yüksek gelebildiği için eşyalı ve merkezi ısıtmalı/faturalar dahil apartlar veya KYK yurdu çok daha ekonomiktir).
-* **Ulaşım (Öğrenci):** Şehir içi dolmuş öğrenci ücreti 15 - 18 TL civarındadır.
-* **Yeme-İçme:** Kampüs yemekhanesi ve çarşıdaki esnaf lokantaları oldukça ucuzdur. Meşhur Ardahan kaz eti, kaşar peyniri ve balı şehrin gastronomi simgeleridir.
+* **Ortalama Öğrenci Evi Kirası (1+1 / 2+1):** 7.500 TL – 12.000 TL bandındadır.
+* **Ulaşım Masrafı:** Kampüsteki KYK yurtlarında kalan öğrencilerin fakültelere ulaşım masrafı **0 TL**'dir (yürüme mesafesi).
+* **Gastronomi:** Coğrafi işaretli Ardahan kaşarı, tereyağlı Kafkas mantısı **Hangel**, fırın fesellisi, kış aylarında kurutulmuş kaz eti ve Çıldır Gölü sarıbalığı bütçe dostu yöresel lezzetlerdir.
 
 ---
 
 ## 📂 İlçe ve Kampüs Rehberleri
 
-Ardahan Üniversitesi'nin merkez ve ilçe yerleşkelerine ait detaylı rehberlere aşağıdan ulaşabilirsiniz:
+Ardahan Üniversitesi'nin merkez ve ilçe yerleşkelerine ait kapsamlı rehberler:
 
 * 📍 **Merkez:** [Ardahan Üniversitesi - Yenisey Merkez Kampüsü](./Merkez/Ardahan-Universitesi-Yenisey-Merkez-Kampusu.md)
 * 📍 **Göle:** [Ardahan Üniversitesi - Nihat Delibalta Göle Meslek Yüksekokulu](./Gole/Ardahan-Universitesi-Nihat-Delibalta-Gole-MYO.md)

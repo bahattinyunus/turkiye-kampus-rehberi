@@ -4,7 +4,7 @@
 > **İl / İlçe:** Osmaniye / Merkez (Fakıuşağı Mahallesi)  
 > **Üniversite Türü:** Devlet  
 > **Kampüs Konumu:** Merkez Kampüs (Fakıuşağı Öğrenci Mahallesi Bitişiği - Çarşıya ~4.5 km)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.3/5)
 
 ---
 
@@ -12,92 +12,101 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 4.5 km (Çarşı) / 0 km (Fakıuşağı) | Fakıuşağı'ndan yürüyerek, çarşıdan 5 dakikada bir dolmuş/otobüsle |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs hemen yanında Karacaoğlan Erkek ve Osmaniye/Kayıboyu Kız KYK |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 10.000 - 15.000 TL | Fakıuşağı Mahallesi (Kafeler Caddesi çevresi), Adnan Menderes |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Geniş merkezi yemekhane ve OKÜ Çarşı kafeteryaları |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri (Sınavda 7/24) | Modern ve geniş Merkez Kütüphane |
-| **🌐 İnternet (eduroam)** | Hızlı | Amfilerde, kütüphanede ve çarşı alanında güçlü eduroam |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı (Fakıuşağı) | Kampüs kapısı doğrudan Fakıuşağı Kafeler Caddesi'ne açılır |
+| **🚇 Şehir Merkezine Uzaklık** | 4.5 km (Çarşı) / 0 km (Fakıuşağı) | Fakıuşağı'ndan yürüyerek; çarşıdan 1 ve 2 nolu dolmuşlarla 10 dk |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs dibinde Karacaoğlan Erkek, Kayıboyu Kız ve Osmaniye Kız KYK yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 10.000 - 15.000 TL | Fakıuşağı Mahallesi (Kafeler Caddesi), Adnan Menderes ve Raufbey |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Büyük merkezi yemekhane (4 çeşit) ve OKÜ Çarşı kafeteryaları |
+| **📚 Kütüphane Kapasitesi** | Mesai Saatleri (Sınavda 7/24) | Modern Merkez Kütüphane; yaz sınavlarında klima altı masa kapma yarışı |
+| **🌐 İnternet (eduroam)** | Hızlı | Amfilerde, laboratuvarlarda, kütüphanede ve OKÜ Çarşı'da aktif |
+| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı (Fakıuşağı Cumhuriyeti) | Kampüs kapısı doğrudan Fakıuşağı Kafeler Caddesi'ne açılır |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚇 Ulaşım Ağı ve Hayat Kurtaran Taktikler
 
-* **Şehir Merkezinden ve Otogardan Ulaşım:**  
-  Karacaoğlan Yerleşkesi (öğrenciler arasında bilinen adıyla **Fakıuşağı Kampüsü**), Osmaniye şehir merkezinin güneyinde, Zorkun Yaylası yolu ve Amanos Dağları'nın yemyeşil eteklerinde yer alır. Osmaniye Çarşı merkezinden (Devlet Bahçeli Bulvarı, Park 328 AVM önü) ve Otogar'dan kalkan **Fakıuşağı / Üniversite** dolmuşları ve belediye otobüsleriyle 10-12 dakikada kampüs kapısına ulaşılır.
-* **Kampüs İçi Ulaşım:**  
-  Kampüs tek parça, etrafı çam ormanlarıyla çevrili, geniş bulvarları ve palmiye/portakal ağaçlarıyla son derece ferah bir yerleşkedir. Mühendislik ve Doğa Bilimleri Fakültesi, İktisadi ve İdari Bilimler Fakültesi, İnsan ve Toplum Bilimleri Fakültesi, Mimarlık, Tasarım ve Güzel Sanatlar Fakültesi, İlahiyat Fakültesi, Sağlık Bilimleri Fakültesi ve Osmaniye MYO binaları birbirine yürüme mesafesinde (5-10 dk) yer alır.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Şehir içi toplu taşımada indirimli öğrenci kartı (16 - 20 TL) geçerlidir. Ancak Fakıuşağı Mahallesi'ndeki KYK yurtlarında ve apartlarda kalan öğrenciler kampüse yürüyerek 3-5 dakikada girdiği için ulaşım masrafı yapmazlar.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Osmaniye'de Akdeniz iklimi hakimdir; kışın kar yağmaz, hava ılımandır. Sadece kış ve bahar aylarında ani ve kuvvetli Çukurova yağmurları görülebilir.
+* **Fakıuşağı Dolmuşları (1 ve 2 Nolu Hatlar):**  
+  Osmaniye Merkez (Devlet Bahçeli Bulvarı, Cumhuriyet Meydanı, Park 328 AVM) ve Otogar'dan kalkan **1 Nolu ve 2 Nolu Fakıuşağı dolmuşları** 5-7 dakikada bir hareket eder. Yaklaşık 10-12 dakikada kampüs giriş kapısına ve KYK yurtlarının önüne varır. Öğrenci binişi ~16 - 20 TL bandındadır.
+* **Fakıuşağı Bulvarı ve Meşhur "Otostop Kültürü":**  
+  Osmaniye Korkut Ata Üniversitesi'nin en kendine has öğrenci geleneği **otostop dayanışmasıdır!** 
+  * Fakıuşağı Bulvarı üzerinde veya kampüs nizamiyesi çıkışındaki duraklarda bekleyen öğrencileri, çarşıya giden yerel halk, akademisyenler ve sivil araç sahipleri hiçbir karşılık beklemeden arabalarına alır. 
+  * Kampüse dönüşte de Devlet Bahçeli Bulvarı kavşağında parmak kaldırmak yaygın bir adettir. Şehirde öğrenciye güven ve sevgi yüksek olduğundan otostop son derece güvenli ve gündelik bir ulaşım yöntemidir.
+* **TCDD Treni ile Adana ve Gaziantep'e Kaçış:**  
+  Osmaniye Tren Garı'ndan geçen bölgesel trenler ve Fırat Ekspresi ile sadece **1 saatte Adana'ya** veya **1 saat 15 dakikada Gaziantep'e** sembolik tren biletiyle ulaşılabilir. Cuma dersi erken biten öğrenciler hafta sonunu Adana Çukurova Barajı kıyısında veya Gaziantep gastronomi sokaklarında geçirmek için treni sıkça kullanır.
 
 ---
 
 ## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
 
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** Kampüsün hemen yanı başında ve Fakıuşağı Mahallesi içinde yer alan **Osmaniye KYK Kız Öğrenci Yurdu** ve **Kayıboyu KYK Kız Öğrenci Yurdu**, binlerce kız öğrenciye kampüse yürüyerek ulaşabilecekleri modern ve klimalı konaklama imkanı sunar.
-  * **Erkek Yurtları:** Yine kampüs sınırına komşu olan **Karacaoğlan KYK Erkek Öğrenci Yurdu**, yüksek kapasitesi ve kampüs kapısına birkaç dakikalık yürüme mesafesiyle erkek öğrencilerin en büyük avantajıdır.
-* **Özel Yurtlar ve Apartlar:**  
-  **Fakıuşağı Mahallesi** tamamen üniversiteyle birlikte sıfırdan kurulmuş modern bir öğrenci semtidir. Kampüs girişinin karşısında yüzlerce 1+0, 1+1 ve 2+1 havuzlu/güvenlikli öğrenci apart sitesi yer alır.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Öğrencilerin ilk ve tartışmasız tercihi **Fakıuşağı Mahallesi**'dir. Şehir merkezine ve AVM'ye yakın olmak isteyenler ise **Adnan Menderes** veya **Raufbey** mahallelerini seçer. Fakıuşağı'nda kiralar 10.000 - 15.000 TL aralığındadır; Eylül ve Mayıs-Haziran ayları sıcak olduğu için dairede klima bulunması şarttır.
+* **KYK Yurtları (İsimler, Klimalar ve Kurallar):**  
+  Osmaniye'de KYK yurtlarının neredeyse tamamı kampüsün hemen yanında, Fakıuşağı Mahallesi içindedir:
+  * **Karacaoğlan KYK Erkek Öğrenci Yurdu:** Kampüs sınırına bitişiktir. Fakültelere yürüyerek 4-5 dakikada gidilir. Odalar 3-4 kişilik, bazalı ve çalışma masalıdır.
+  * **Kayıboyu KYK Kız Yurdu & Osmaniye KYK Kız Yurdu:** Modern, geniş bahçeli bloklardır; kampüse yürüme mesafesindedir.
+  * **Klima Hayat Kurtarır:** Çukurova sıcağında odaların klimalı olması en kritik nimettir; yurtlarda merkezi iklimlendirme mevcuttur.
+  * **23:00 Turnike Kuralı:** KYK yurtlarında 23:00 turnike ve parmak izi okuma sistemi çok sıkı uygulanır. İzinler GSB Yurt İzin Sistemi üzerinden önceden alınmalıdır.
+* **Fakıuşağı Mahallesi (Öğrencinin Yaşam Alanı):**  
+  Osmaniye'de üniversite açıldıktan sonra sıfırdan kurulan **Fakıuşağı Mahallesi**, şehrin en genç ve dinamik semtidir:
+  * Yüzlerce 1+0, 1+1 ve 2+1 güvenlikli, asansörlü ve hatta havuzlu apart site bulunur.
+  * Kiralar 10.000 - 15.000 TL aralığındadır. 
+  * **Kritik Kural:** Ev kiralarken dairede **mutlaka çalışır durumda bir klima** bulunmalıdır. Klimasız bir evde mayıs, haziran ve eylül aylarında uyumak veya ders çalışmak fiziken imkansızdır.
+* **Adnan Menderes ve Raufbey Alternatifi:**  
+  Daha sakin, çarşıya ve Park 328 AVM'ye yakın olmak isteyenler bu iki nezih semtteki daireleri tercih eder.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 3. 🎓 Akademik Çeşitlilik, Sıcak Sınavlar ve Kütüphane Taktikleri
 
-* **Kütüphane İmkanları:**  
-  Kampüsün merkezinde yer alan **OKÜ Merkez Kütüphanesi**, geniş okuma salonları, bilgisayar laboratuvarları, iklimlendirmesi (yazın serin, kışın sıcak) ve vize/final dönemlerinde uzatılan/7/24 çalışma saatleriyle öğrencilere ferah bir çalışma ortamı sağlar.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  OKÜ, özellikle **Enerji**, **Mühendislik** (Bilgisayar, Elektrik-Elektronik, Makine, İnşaat, Gıda, Kimya, Harita) ve **İleri Teknoloji Araştırma Merkezi (OKÜTAM)** laboratuvarlarıyla bölgede öne çıkar. Kampüs içindeki **Büyük Amfi** ve Kongre Merkezi modern mimarisiyle dikkat çeker.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Tüm fakültelerde, kütüphanede ve OKÜ Çarşı alanında **eduroam** bağlantısı hızlıdır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  TEKNOFEST takımları, IEEE, Dağcılık ve Doğa Sporları (Amanos Dağları ve Zorkun Yaylası yürüyüşleri), Tiyatro, Müzik ve Genç Kızılay gibi 50'den fazla aktif öğrenci kulübü vardır. Bahar şenlikleri kampüs şenlik alanında büyük bir coşkuyla kutlanır.
+* **Merkez Kütüphane ve "Klima Altı Masa Kapma Savaşı":**  
+  OKÜ Merkez Kütüphanesi, geniş çalışma salonları ve zengin basılı koleksiyonuyla sınav dönemlerinde **7/24 açık** hizmet verir.
+  * Çukurova'da mayıs ve haziran finallerinde dışarıda sıcaklık 40-42 dereceyi bulduğunda, kütüphanenin serin ve klimalı ortamı öğrenciler için bir sığınağa dönüşür.
+  * Sabah saat 08:30'a kalındığında klima üfleme hizasındaki en konforlu masalar çoktan kapılmış olur. Öğrenciler sabah erkenden gelip yer kapar.
+* **Mühendislik, Enerji ve İleri Teknoloji (OKÜTAM):**  
+  Mühendislik Fakültesi, özellikle Enerji Sistemleri, Makine, Elektrik-Elektronik, Harita ve Gıda Mühendisliği laboratuvarlarıyla öne çıkar. Kampüsteki **OKÜTAM (İleri Teknoloji Araştırma Merkezi)** bölgedeki sanayi kuruluşlarına test ve analiz hizmeti veren akredite bir merkezdir.
+* **Osmaniye OSB ve TOSYALI Stajları:**  
+  Türkiye'nin en büyük yassı çelik üreticilerinden biri olan **TOSYALI Holding** tesisleri ve Osmaniye Organize Sanayi Bölgesi (OOSB), mühendislik öğrencileri için devasa bir staj sahasıdır.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 4. 🍽️ Beslenme, Sokak Lezzetleri ve Gastronomi
 
 * **Merkez Yemekhane:**  
-  Öğrenci yemekhanesinde hafta içi öğle saatlerinde 4 çeşit doyurucu yemek 25 - 35 TL bandında sunulur.
-* **Kantinler, Kafeler ve OKÜ Çarşı:**  
-  Kampüs içinde yer alan **OKÜ Yaşam Merkezi / Çarşı** alanında kafeler, kırtasiye, fotokopi, market, kuaför ve banka ATM'leri bulunur. Kampüs kapısından dışarı adım attığınız anda ise **Fakıuşağı Kafeler Caddesi** başlar; burada onlarca yeni nesil kahveci, tantunici, dönerci, tatlıcı ve oyun kafe gece geç saatlere kadar öğrencilere hizmet verir.
-* **Spor Tesisleri:**  
-  Kampüs içerisinde kapalı spor salonu, yarı olimpik kapalı yüzme havuzu, fitness salonu, halı sahalar, tenis kortları, basketbol/voleybol sahaları ve yürüyüş yolları mevcuttur.
+  Hafta içi öğle yemeklerinde 4 çeşit sıcak tabldot 25 - 35 TL aralığındadır. Yemekhane ferah ve temizdir.
+* **Osmaniye Yer Fıstığı Cenneti:**  
+  Türkiye yer fıstığı üretiminin ve ticaretinin başkenti Osmaniye'dir. Çarşıda taze kavrulmuş sıcak fıstık, fıstık ezmesi ve fıstıklı krokanlar çok ucuzdur; ders aralarında öğrencilerin enerji deposudur.
+* **Simit Kebabı ve Zırh Kıyması:**  
+  Osmaniye'nin tescilli efsanesi **Simit Kebabı**; zırhla çekilmiş kuzu kıymasının ince bulgur (simit), sarımsak ve nane ile yoğrulup şişte közlenmesiyle yapılır. Yanında közlenmiş biber ve açık ayranla tam bir öğrenci ödül yemeğidir.
+* **Buzlu Bici Bici & Şalgam:**  
+  Yaz aylarında sıcaktan bunalan öğrencilerin Fakıuşağı sokaklarında tükettiği en ferahlatıcı lezzet, rendelenmiş kar buz, gül suyu, pudra şekeri ve muzla yapılan buz gibi **bici bici** tatlısıdır.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 5. 🌆 Şehir Dinamikleri, Sosyal Hayat ve Kaçış Rotaları
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Fakıuşağı Mahallesi tamamen öğrencilerden ve genç akademisyenlerden oluştuğu için çok rahat, güvenli ve sosyal bir mahalledir. Osmaniye halkı da misafirperverdir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  * **Fakıuşağı Kafeler Caddesi & Masal Park:** Günlük sosyalleşmenin merkezidir.
-  * **Park 328 AVM & Devlet Bahçeli Bulvarı:** Sinema, alışveriş ve zincir mağazalar için 10 dakikada inilen şehir merkezidir.
-  * **Doğa, Yayla ve Deniz Rotaları:** Kampüsün hemen arkasından yükselen yol ile 30 dakikada Çukurova'nın en ünlü yaylası **Zorkun Yaylası**'na ve **Karaçay Şelalesi**'ne çıkılır; ayrıca 35 dakikada **Erzin Burnaz Plajı** veya **Dörtyol/Payas** sahilinde Akdeniz'de denize girilebilir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Türkiye'nin en büyük demir-çelik ve sanayi üslerinden biri olan **Osmaniye Organize Sanayi Bölgesi (TOSYALI / OOSB)** ve İskenderun Körfezi sanayisi, mühendislik ve teknik bölüm öğrencileri için muazzam bir staj ve istihdam kapısıdır. Fakıuşağı kafelerinde ve Park 328 AVM'de ise bolca part-time öğrenci işi bulunur.
+* **Fakıuşağı Kafeler Caddesi:**  
+  Kampüs nizamiyesinden çıktığınız anda başlayan caddede 3. nesil kahveciler, nargile kafeler, tavuk dünyası tarzı mekanlar, çiğ köfteciler ve oyun salonları sıralanır. Gece 01:00'e kadar sokaklar gençlerle doludur.
+* **Doğa ve Yayla Kaçışları:**  
+  * **Zorkun Yaylası:** Amanos Dağları'nda, kampüse 30 dakika mesafede Çukurova'nın en ünlü yaylasıdır. Yaz sıcağında serinlemek ve fırınlarda yayla tavası yemek için çıkılır.
+  * **Karaçay Şelalesi & Mesire Alanı:** Doğa yürüyüşü ve piknik için popülerdir.
+  * **Kastabala Antik Kenti & Karatepe-Aslantaş:** Tarih ve açık hava müzesi sevenler için harika bir hafta sonu turudur.
+  * **Akdeniz Sahili:** Erzin Burnaz veya Dörtyol plajlarına dolmuşla 35-40 dakikada gidilip denize girilebilir.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* **Fakıuşağı Öğrenci Mahallesi ve Kampüs Bütünlüğü:** Yurtların, apartların, kafelerin ve kampüsün tek bir alanda toplanmış olması sayesinde sıfır ulaşım masrafı.
-* **Harika Doğa ve İklim:** Arkası çam ormanlı Amanos Dağları olan yemyeşil, ferah kampüs ve kışın üşütmeyen Akdeniz iklimi.
-* **Güçlü Sanayi ve Staj Altyapısı:** Osmaniye OSB ve İskenderun/Adana sanayi havzasının hemen merkezinde yer alması.
+* **Fakıuşağı Bütünlüğü:** Yurdun, apartın, fakültenin ve kafelerin aynı mahallede olması; sıfır yol parası ve sabah rahat uyanma lüksü.
+* **Öğrenci Dostu Esnaf ve Otostop:** Şehirde öğrencilere duyulan sempati ve caddede kolayca araç bulabilme rahatlığı.
+* **Lezzetli ve Ucuz Mutfak:** Kebap, yer fıstığı ve sokak lezzetlerinin bütçeyi sarsmaması.
+* **Büyükşehirlere Yakınlık:** Trenle veya otobüsle 1 saatte Adana ve Gaziantep'e kaçabilme.
 
-### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
-* **Mayıs-Haziran ve Eylül Sıcakları:** Çukurova sıcağı ve nemi nedeniyle bahar sonu ve güz başında klimalı ortamların şart olması.
-* **Gece Hayatının Kafe Odaklı Olması:** Eğlence kültürünün büyük gece kulüplerinden ziyade Fakıuşağı'ndaki kafeler, nargile/oyun salonları ve canlı müzik mekanları etrafında dönmesi.
+### ❌ Eksileri ve Kronik Sorunları
+* **Kavurucu Yaz Sıcağı:** Mayıs, haziran ve eylül aylarında 40 dereceyi aşan nemli Çukurova sıcağı; klimasız ortamlarda yaşamanın eziyete dönüşmesi.
+* **Fakıuşağı Dışında Sakin Şehir Hayatı:** Fakıuşağı mahallesi dışındaki Osmaniye çarşısının akşam 20:00'den sonra sessizliğe gömülmesi ve öğrencilerin Fakıuşağı'na sıkışması.
+* **Sınav Döneminde Kütüphanede Sıcak/Klima İtişmesi:** Yaz finallerinde herkesin klimalı kütüphaneye hücum etmesi sebebiyle yer bulma yarışı.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "OKÜ Karacaoğlan Kampüsü'nü kazandıysanız başka hiçbir mahallede ev veya yurt aramayın; doğrudan Fakıuşağı Mahallesi'ndeki KYK yurtlarına veya apartlara yerleşin. Sabah portakal çiçeği ve çam kokuları arasında 5 dakikada yürüyerek amfinize gidersiniz; sıcak havalarda Karaçay'a veya Zorkun Yaylası'na çıkmak, hafta sonu da 35 dakikada denize ya da Adana'ya gitmek Osmaniye'de öğrenciliği çok keyifli yapar."
+> "Osmaniye Korkut Ata Üniversitesi'ne geliyorsan birinci kural: Ev tutacaksan klima pazarlığı yapmadan sakın sözleşme imzalama! Hayatın Fakıuşağı Mahallesi'nde geçecek; yurt veya evini buradan seçersen dersine yürüyerek girersin. Çarşıya giderken durakta parmak kaldırmaktan çekinme, Osmaniye'nin otostop kültürü hayat kurtarır. Akşamları da simit kebabı patlatıp buz gibi bici biciyle sıcakları savuştur!"

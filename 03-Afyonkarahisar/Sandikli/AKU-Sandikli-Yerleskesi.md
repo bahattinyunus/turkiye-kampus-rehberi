@@ -1,10 +1,10 @@
-# 🏛️ Afyon Kocatepe Üniversitesi - Sandıklı Yerleşkesi (Uygulamalı Bilimler ve Sandıklı MYO)
+# 🏛️ Afyon Kocatepe Üniversitesi - Sandıklı Yerleşkesi (Uygulamalı Bilimler ve MYO)
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Afyonkarahisar / Sandıklı  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** İlçe Yerleşkesi (Afyon Merkeze ~60 km, Antalya Yolu Üzeri)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.3/5)
+> **Kampüs Konumu:** İlçe Yerleşkesi (Afyon Merkeze ~60 km, Antalya-Denizli Yolu Üzeri)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.4/5)
 
 ---
 
@@ -12,87 +12,69 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | Afyon'a 60 km (~45 dk) / Sandıklı Merkeze 2 km | Afyon-Antalya karayolu üzerinde; sık ilçe minibüsleri ve şehir içi hatlar |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Sandıklı KYK Kız ve Erkek Öğrenci Yurdu hemen yerleşke yanında |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 6.500 - 10.000 TL | SANJET (jeotermal) ısınmalı ilçe merkez mahalleleri |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | AKÜ SKS yemekhanesi, öğle yemeği servisi |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri | Yerleşke kütüphanesi ve KYK çalışma salonları |
-| **🌐 İnternet (eduroam)** | İyi | Yerleşke binalarında eduroam aktif |
-| **🌆 Sosyal Yaşam & Çevre** | Kısıtlı | Termal turizm ilçesi; sakin ve ekonomik öğrenci hayatı |
+| **🚇 Şehir Merkezine Uzaklık** | Afyon'a 60 km (~45 dk) / İlçe Merkezine 2 km | D650 Antalya karayolu üzerinde; düzenli ilçe minibüsleri ve otobüsler |
+| **🏠 KYK Yurt İmkanı** | Çok Rahat & Jeotermal | Sandıklı KYK Yurdu yerleşkenin hemen bitişiğinde; SANJET ile sıcacık |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 6.500 - 10.000 TL | İlçe Merkezi, İstasyon Cad. ve Çay Mah. SANJET jeotermal ısıtmalı evler |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / Standart | AKÜ SKS bünyesinde 4 çeşit sıcak öğle yemeği |
+| **📚 Kütüphane Kapasitesi** | Mesai Saatleri | Yerleşke etüt salonu ve KYK kütüphanesi, sakin çalışma ortamı |
+| **🌐 İnternet (eduroam)** | Standart | Derslikler ve amfilerde eduroam aktif |
+| **🌆 Sosyal Yaşam & Çevre** | Termal Turizm & Doğa | Hüdai Kaplıcaları, Akdağ Tabiat Parkı / Tokalı Kanyonu, ilçe kafeleri |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **Şehir Merkezinden Ulaşım:**  
-  Sandıklı, Afyonkarahisar'ın en büyük ilçelerinden biridir ve Afyon-Denizli-Antalya D650 karayolu üzerinde yer alır. Afyon merkezden (Otogar veya Özdilek kavşağı) her yarım saatte bir kalkan **Sandıklı minibüsleri** veya Antalya/Denizli yönüne giden tüm şehirlerarası otobüslerle 45 dakikada ulaşılır. İlçe merkezinden yerleşkeye ise şehir içi minibüsler çalışır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Sandıklı Uygulamalı Bilimler Yüksekokulu ve Sandıklı Meslek Yüksekokulu aynı bahçe/yerleşke içerisindedir; yürüme mesafesi 1-2 dakikadır.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  KYK yurdu yerleşkenin hemen yanında olduğu için öğrencilerin büyük çoğunluğu derse yürüyerek gider.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Kışlar soğuk geçse de yurt ve okul yan yana olduğu için ulaşımda zorluk yaşanmaz.
+* **Afyon Merkezden ve Çevre İllerden Ulaşım:**  
+  Sandıklı, Afyonkarahisar'ın en büyük ve gelişmiş ilçesidir; Afyon-Antalya-Denizli transit karayolu üzerinde yer alır.
+  * Afyon Otogarı'ndan ve Özdilek kavşağından her 30 dakikada bir kalkan **Sandıklı Birlik** minibüsleri ile 40-45 dakikada ilçeye varılır.
+  * Ayrıca Antalya, Isparta, Burdur ve Denizli yönüne giden şehirlerarası otobüsler Sandıklı otogarından geçer; memlekete gidiş-dönüşte aktarma yapmadan seyahat edilebilir.
+* **İlçe İçi Ulaşım:**  
+  Yerleşke ilçe merkezine 2 km mesafededir. Ancak Sandıklı KYK Yurdu kampüsün hemen yanında olduğu için öğrencilerin okula ulaşım masrafı sıfırdır.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma & KYK Gerçekleri (SANJET Avantajı)
 
-* **KYK Yurtları:**  
-  * **Kız ve Erkek Yurtları:** Yerleşkenin hemen bitişiğinde/yakınında yer alan **Sandıklı KYK Öğrenci Yurdu** (modern bloklar, jeotermal ısınma) sayesinde ilçeyi kazanan öğrencilerin tamamına yakını KYK yurduna yerleşir.
-* **Özel Yurtlar ve Apartlar:**  
-  İlçe merkezinde sınırlı sayıda apart ve kiralık daire bulunur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Sandıklı'nın en büyük avantajı ilçenin tamamının **SANJET (Jeotermal Merkezi Isıtma)** ile ısınmasıdır. İstasyon Caddesi ve Çay Mahallesi çevresinde 6.500 - 10.000 TL bandında kiralık ev bulmak mümkündür.
-
----
-
-## 3. 🎓 Akademik ve Fiziki Altyapı
-
-* **Kütüphane İmkanları:**  
-  Okul binası içerisinde kütüphane ve bilgisayar laboratuvarı mevcuttur.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  4 yıllık **Sandıklı Uygulamalı Bilimler Yüksekokulu** (Sosyal Hizmet, Çocuk Gelişimi, Yönetim Bilişim Sistemleri vb.) ve 2 yıllık **Sandıklı MYO** modern dersliklere sahiptir.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  AKÜ **eduroam** altyapısı aktiftir.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Sosyal Hizmet ve Çocuk Gelişimi öğrencilerinin köy okulları ve huzurevi projeleri oldukça aktiftir.
+* **Sandıklı KYK Yurdu:**  
+  * Kız ve erkek blokları yan yana, kampüs arazisi içindedir. Kontenjan fazlasıyla yeterli olduğu için başvuran tüm öğrenciler yerleşir.
+  * Odalar 3-4 kişiliktir, bazalıdır.
+  * **En Büyük Artısı - Jeotermal Isınma:** Sandıklı'nın meşhur jeotermal kaynağı (SANJET) yurda verildiği için kışın dışarısı -15 derece olsa bile odalar tişörtle oturulacak kadar sıcaktır; 24 saat kesintisiz sıcak su mevcuttur.
+  * 23:00 turnike kontrolü standarttır.
+* **Kiralık Daireler:**  
+  * Ev tutmak isteyenler için İstasyon Caddesi ve Çay Mahallesi çevresinde 2+1 evler **6.500 - 10.000 TL** seviyesindedir. SANJET aboneliği olan binalarda yakıt parası doğalgaza göre 3 kat daha ucuzdur.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
-* **Merkez Yemekhane:**  
-  Yerleşke yemekhanesinde hafta içi öğle saatlerinde AKÜ Merkez Kampüsü ile aynı fiyata (~25-30 TL) 4 çeşit yemek verilir.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Okul kantini ve ilçe merkezindeki İstasyon Caddesi üzerindeki kafeler, pideciler (Sandıklı saç eti ve haşhaşlı pidesi meşhurdur) öğrencilerin buluşma noktasıdır.
-* **Spor Tesisleri:**  
-  Yerleşke içinde açık basketbol/voleybol sahaları ve halı saha bulunur.
-
----
-
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
-
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Sakin, güvenli ve kendi halinde bir İç Ege ilçesidir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  **Hüdai Kaplıcaları** (termal havuzlar ve çamur banyoları), **Akdağ Tabiat Parkı** (Tokalı Kanyonu ve geyik gözlem alanı) doğa sever öğrenciler için güzel rotalardır. Daha canlı bir sosyal hayat için hafta sonu 45 dakikada Afyon merkeze (Erenler veya Park Afyon AVM) gidilir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Hüdai Kaplıcaları bölgesindeki 5 yıldızlı termal otellerde hafta sonu veya yarı zamanlı çalışma imkanı bulunur.
+* **Yemekhane:**  
+  AKÜ SKS tabldot menüsü hafta içi öğle yemeğinde çıkar (~25-30 TL).
+* **Meşhur Sandıklı Lezzetleri:**  
+  * **Sıcak Sandıklı Leblebisi:** Çarşıdaki tarihi leblebicilerde odun ateşinde taze kavrulan haşhaşlı, tuzlu ve karanfilli leblebiler en ucuz ve en besleyici öğrenci atıştırmalığıdır.
+  * **Sandıklı Patatesi & Güveç:** Türkiye'nin patates ambarı olan ilçede fırın güveçleri ve patates yemekleri çok meşhur ve ekonomiktir.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 4. 📚 Akademik & Sınav Hayatta Kalma
 
-### ✅ Artıları
-* **Yurt ve Okulun Yan Yana Olması:** KYK yurdundan çıkıp 3 dakikada sınıfa girebilirsiniz, ulaşım masrafınız sıfırdır.
-* **Jeotermal Isınma (SANJET):** Kışın yurtlar ve evler kaplıca suyuyla ısındığı için ısınma sorunu hiç yaşanmaz.
-
-### ❌ Eksileri
-* **Küçük İlçe Atmosferi:** Büyük bir kampüs veya hareketli gece hayatı bekleyenler için oldukça sakindir.
+* **Uygulamalı Bilimler & MYO:**  
+  Sosyal Hizmet, Çocuk Gelişimi, Turizm ve Otel İşletmeciliği, Bilgisayar Programcılığı bölümleri öne çıkar.
+  * AKÜ'nün genel Bağıl Değerlendirme Sistemi (çan eğrisi) geçerlidir; 35 baraj notu aranır.
+  * Sınav dönemlerinde kütüphane kalabalıktan uzaktır; ders çalışmak ve yüksek ortalama yapmak çok daha kolaydır.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 5. ❌ Eksileri ve Kronik Sorunları
 
-> 💬 **Öğrenci Notu:**  
-> "Sandıklı'da okuyacaksan KYK yurdu hemen okulun dibinde olduğu için ilk senende kesinlikle yurtta kal. Bütçeni hiç zorlamadan para biriktirebileceğin, hafta sonu canın sıkıldığında 45 dakikada Afyon Erenler'e veya 2,5 saatte Antalya'ya inebileceğin sakin bir öğrencilik seni bekliyor."
+* **Sosyal Hayat Kısıtı:**  
+  İlçe akşamları erkenden sessizliğe bürünür. Kafe sayısı sınırlıdır; sinema veya konser için Afyon merkeze (veya hafta sonu Denizli/Antalya'ya) gitmek gerekir.
+* **Kış Ayazı:**  
+  Karasal iklim nedeniyle kışlar sert ve kar yağışlı geçer.
+
+---
+
+## 6. 💡 Altın Tavsiyeler
+
+1. **Hüdai Kaplıcaları Öğrenci İndirimini Kullan:** Dünyaca ünlü Hüdai Kaplıcaları ilçe merkezine 8 km'dir; belediye tesislerinde öğrenci indirimiyle termal havuz ve çamur banyolarının keyfini çıkar.
+2. **Kışın SANJET'siz Ev Tutma:** Eve çıkacaksan binanın SANJET altyapısını kontrol etmeden sözleşme imzalama.
+3. **Transit Otobüsleri Değerlendir:** Hafta sonu kaçamağı için Antalya veya Denizli sadece 2 saat mesafededir; anayol üzerinden geçen otobüslerle kolayca seyahat edebilirsin.

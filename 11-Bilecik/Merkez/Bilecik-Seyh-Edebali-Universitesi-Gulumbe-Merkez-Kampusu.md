@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Bilecik / Merkez  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Şehir Çeperi Ana Kampüs (Gülümbe / Pelitözü Mevki)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (3.8/5)
+> **Kampüs Konumu:** Şehir Çeperi Ana Kampüs (Gülümbe / Pelitözü Mevkii)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (3.9/5)
 
 ---
 
@@ -12,91 +12,76 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 5.5 km / ~12 - 15 dk | Çarşı, Bahçelievler ve Pelitözü'nden minibüslerle doğrudan ulaşım |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Halime Hatun Kız ve Ertuğrul Gazi Erkek KYK kampüs yanı/yakını |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 9.500 - 14.500 TL | Pelitözü (Kampüs yanı), Bahçelievler, Hürriyet ve Çarşı |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 20 - 28 TL / İyi | Merkezi yemekhane, uygun fiyatlı ve doyurucu 4 çeşit menü |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri (Sınavda 7/24) | Modern Merkez Kütüphane, sınav haftalarında çorba ikramı |
-| **🌐 İnternet (eduroam)** | İyi | Tüm fakülte bloklarında ve kütüphanede kesintisiz bağlantı |
-| **🌆 Sosyal Yaşam & Çevre** | Sakin / Eskişehir Destekli | Şehir küçük ve huzurlu; Pelitözü Göleti ve YHT ile 35 dk'da Eskişehir |
+| **🚇 Şehir Merkezine Uzaklık** | 5.5 km / ~12 - 18 dk | Tevfikbey Caddesi, Bahçelievler ve YHT Garı'ndan H1-H2 minibüsleri |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs kapısı karşısında Halime Hatun Kız ve Ertuğrul Gazi Erkek KYK; kontenjan sorunu yok |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 9.500 - 15.000 TL | Pelitözü (Kampüs altı öğrenci mahallesi), Bahçelievler ve Hürriyet |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 20 - 30 TL / Dengeli | Merkezi yemekhane, uygun fiyatlı 4 çeşit sıcak tabldot; sıra makul sürede erir |
+| **📚 Kütüphane Kapasitesi** | 7/24 (Sınav Döneminde) | 3 katlı modern Merkez Kütüphane; sınav haftası gece 23:30 sıcak çorba ikramı |
+| **🌐 İnternet (eduroam)** | Orta - Fakülte Bazlı İyi | Dersliklerde ve kütüphanede stabil, açık vadide ve yurt bahçelerinde zayıf |
+| **🌆 Sosyal Yaşam & Çevre** | Sakin & Taşra Rutini / YHT Destekli | Kampüs içi samimi; büyük eğlence için YHT ile 35 dakikada Eskişehir kaçamağı |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım, Minibüs Hatları ve Eskişehir Kaçış Taktikleri
 
-* **Şehir Merkezinden Ulaşım:**  
-  Gülümbe Kampüsü, Bilecik Merkez'in kuzeybatısında, İstanbul-Adapazarı karayolu ve Pelitözü kavşağında yer alır. Şehir merkezinden (Tevfikbey Caddesi, Atatürk Bulvarı), Bahçelievler'den ve YHT Garı'ndan kalkan şehir içi minibüsler (dolmuşlar) 5-10 dakikada bir kampüsün içine ve KYK yurtları önüne kadar gelir.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Gülümbe Kampüsü, dağların arasında yeşil ve düzenli bir vadi/yamaç üzerine kurulmuştur. İİBF, Mühendislik, Fen-Edebiyat, Tıp Fakültesi, Merkezi Derslikler ve Kütüphane birbirine 5-10 dakikalık yürüme mesafesindedir. Kampüs oldukça kompakt olduğu için iç ringe gerek kalmadan yürüyerek tüm birimlere ulaşılır.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Şehir içi minibüslerde elektronik öğrenci kartı (Bilecik Kart / Kentkart türevi) ile indirimli öğrenci tarifesi uygulanır. Pelitözü'nde veya kampüs karşısındaki KYK yurtlarında kalan öğrenciler ise okula yürüyerek gidip gelebilir.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Bilecik'in kışları sert ve sisli geçer; Gülümbe rampasında yoğun kar yağışlarında sabah saatlerinde minibüslerde yoğunluk yaşanabilir ancak ana karayolu üzerinde olduğu için yollar sürekli açık tutulur.
+* **Şehir Merkezinden Kampüse Ulaşım:**  
+  Gülümbe Kampüsü, İstanbul-Adapazarı karayolu üzerinde şehir merkezine 5.5 km uzaklıkta, vadiye bakan bir yamaçta kuruludur. Şehir merkezinden (Atatürk Bulvarı, Tevfikbey Caddesi) ve Bahçelievler'den kalkan **H1, H2 ve M1** minibüsleri ana ulaşım aracıdır.
+  * *Ulaşım Taktikleri:* Sabah 08:30 ve 09:30 derslerine giderken Bahçelievler durağında uzun sıralar oluşabilir; minibüs dolduğunda bir sonrakini beklemek 7-10 dakika kaybettirir. Pelitözü Mahallesi'nde veya kampüs karşısındaki KYK yurtlarında kalan öğrenciler ise kampüse doğrudan yürüyerek (5-10 dk) girerek minibüs derdinden tamamen muaf olurlar.
+* **YHT (Yüksek Hızlı Tren) Hayat Kurtarma Formülü:**  
+  Bilecik öğrencisi için Eskişehir uzak bir şehir değil, adeta bir "arka bahçe"dir. Bilecik YHT Garı'ndan kalkan trenlerle **Eskişehir Garı sadece 35 dakika** sürer. Öğrenci bileti oldukça ekonomiktir. Cuma akşamı veya dersin olmadığı günlerde YHT ile Eskişehir Tepebaşı/Adalar kafelerine gidip gece son trenle veya otobüsle geri dönmek Bilecik öğrencisinin temel sosyalleşme mekanizmasıdır.
+* **Otostop Noktaları:**  
+  Gülümbe rampası ve Pelitözü kavşağı otostopun en yaygın olduğu yerlerdir. Kampüs nizamiyesinden çıkan araçlara öğrenci kartını göstererek el kaldıran öğrenciler, hem öğretim üyeleri hem de Pelitözü köyü sakinleri tarafından çarşı merkezine veya gar yönüne ücretsiz götürülür.
 
 ---
 
 ## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
 
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** Kampüsün hemen yanı başında ve Pelitözü aksında yer alan **Halime Hatun Kız KYK Yurdu** ile **Bilecik Kız KYK Yurdu**, yüksek kapasitesi ve kampüse yürüme mesafesinde oluşuyla kız öğrenciler için büyük rahatlık sağlar.
-  * **Erkek Yurtları:** **Ertuğrul Gazi / Şeyh Edebali Erkek KYK Yurdu** kampüse ve merkeze kolay erişilebilir konumdadır; odalar 3-4 kişilik baza sistemlidir.
-* **Özel Yurtlar ve Apartlar:**  
-  Kampüs kapısının hemen altındaki **Pelitözü Mahallesi**'nde son yıllarda inşa edilmiş çok sayıda 1+0 ve 1+1 eşyalı öğrenci apartı mevcuttur. Ayrıca Çarşı ve Bahçelievler'de özel kız/erkek yurtları bulunur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Okula yürüyerek gitmek isteyenler **Pelitözü Mahallesi**'ni; akşamları kafeye, markete ve çarşıya yakın olmak isteyenler ise **Bahçelievler**, **Hürriyet** ve **İstiklal (Çarşı)** mahallelerini tercih eder. Doğalgazlı 1+1 ve 2+1 daire kiraları 9.500 - 14.500 TL bandındadır.
+* **KYK Yurtları ve Oda İncelemesi:**  
+  * **Halime Hatun Kız KYK Yurdu:** Kampüs nizamiyesinin hemen karşısında, Pelitözü yol ayrımında devasa bir komplekstir. Odalar 3 ve 4 kişilik bazalı sistemdir. Banyo ve tuvalet her odanın kendi içerisinde yer alır. Sıcak su 24 saat kesintisizdir. Çamaşırhanede sıra beklememek için hafta sonu yerine hafta içi gündüz saatlerini tercih etmek gerekir.
+  * **Ertuğrul Gazi Erkek KYK Yurdu:** Kampüsün hemen yan yamacında konumlanmıştır. Kampüsteki fakültelere yürüyerek 6-8 dakikada gidilebilir. Odalar genellikle 4 kişiliktir, banyolar oda içindedir. Bilecik, Türkiye'de KYK yurduna yerleşme oranının en yüksek olduğu illerden biridir; açıkta kalma stresi neredeyse sıfırdır.
+* **Pelitözü "Öğrenci Köyü" Dinamikleri:**  
+  Gülümbe Kampüsü'nün hemen altında yer alan tarihi **Pelitözü Köyü**, son 8 yılda hızla dönüşerek yüzlerce 1+0 ve 1+1 eşyalı apartın, kafelerin, çiğ köftecilerin ve kırtasiyelerin yer aldığı mini bir öğrenci kasabasına dönüşmüştür.
+  * *Kira ve Masraflar:* Pelitözü'ndeki apartların kiraları 9.500 - 13.500 TL aralığındadır. Doğalgaz kombili modern binalardır. Kampüse yürüyerek gitmek isteyen öğrencilerin 1 numaralı tercihidir.
+* **Bahçelievler ve Hürriyet Mahallesi:**  
+  Daha şehirli, süpermarketlere, çarşıya ve kafelere yakın olmak isteyen öğrenciler Bahçelievler'de ev tutar. Kiralar 11.000 - 15.000 TL arasındadır. Düz ayak yapısıyla kışın yürüyüşe elverişlidir.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 3. 🍽️ Beslenme, Kampüs Yaşamı ve Sokak Lezzetleri
 
-* **Kütüphane İmkanları:**  
-  Kampüsün merkezinde yer alan **BŞEÜ Merkez Kütüphanesi**, ferah okuma salonları, bilgisayar alanı ve grup çalışma odalarıyla öğrencilerin ders çalışma ihtiyacını fazlasıyla karşılar. Vize ve final dönemlerinde 24 saat açık kalır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Mühendislik Fakültesi (Bilgisayar, Elektrik-Elektronik, Makine, İnşaat, Kimya, Metalurji ve Malzeme), Merkezi Araştırma Laboratuvarı (MARAL) ve hızla gelişen Tıp Fakültesi ile Sağlık Bilimleri birimleri modern cihazlara sahiptir. Amfiler yeni ve ısıtma sistemi sorunsuzdur.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  eduroam kampüs genelinde yüksek hızda çekmektedir. Üniversitenin kendi geliştirdiği dijital öğrenci otomasyonu oldukça hızlıdır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Bilişim, Siber Güvenlik, Robotik, Tiyatro, Müzik, Doğa Sporları ve Tarih toplulukları aktiftir. Bahar aylarında kampüs amfi tiyatro ve stadyum alanında bahar şenlikleri düzenlenir.
+* **Merkezi Yemekhane:**  
+  Gülümbe Kampüsü'nün kalbinde yer alan merkezi yemekhanede öğle servisi (11:30 - 14:00) 20-30 TL bandında sunulur. Tabldot menü doyurucudur; mevsim salatası, çorba, ana yemek ve tatlı/meyve dengelidir.
+* **Pelitözü Göleti Kır Bahçeleri & Çay Ocakları:**  
+  Kampüse 1.5 km mesafedeki **Pelitözü Göleti**, Bilecik öğrencisinin açık hava sığınağıdır. Gölet kenarındaki çardaklarda semaverde çay içmek, mangal yakmak, bisiklet sürmek ve ders aralarında kafa dinlemek bir ritüeldir.
+* **Çarşı Pidecileri ve Şerbetli Tatlılar:**  
+  Tevfikbey Caddesi arkasındaki tarihi Bilecik güveç ve pide fırınlarında cantık benzeri kapalı kıymalı pideler öğrenci dostu fiyatlarla satılır. Ayrıca merkezdeki yöresel tatlıcılarda cevizli lokum ve boza kış aylarının vazgeçilmezidir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 4. 📚 Akademik Yaşam ve Sınav Dönemi Taktikleri
 
-* **Merkez Yemekhane:**  
-  Merkezi yemekhane binasında öğle saatlerinde (ve talep/yurt durumuna göre akşam) çok ekonomik fiyatlarla (20-28 TL) 4 çeşit sıcak yemek çıkar.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içinde öğrenci çarşısı, kafeteryalar, pastane/fırın konseptli mekanlar, kırtasiye, fotokopi ve ATM'ler bulunur. Ayrıca kampüs çıkışındaki Pelitözü'nde ve 1.5 km mesafedeki **Pelitözü Göleti** etrafında çok sayıda öğrenci kafesi ve restoran vardır.
-* **Spor Tesisleri:**  
-  Sentetik çim yüzeyli stadyum ve atletizm pisti, kapalı spor salonu, fitness salonu, halı saha ve tenis kortları kampüs içinde ücretsiz/indirimli olarak öğrencilere açıktır.
-
----
-
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
-
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Bilecik Türkiye'nin suç oranı en düşük, en huzurlu illerinden biridir. Esnaf ve halk öğrenciye karşı yardımseverdir; gece geç saatlerde bile güvenlik sorunu yaşanmaz.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Bilecik Merkez büyük bir metropol değildir, AVM ve gece kulübü beklentisi olanları ilk bakışta şaşırtabilir. Ancak **Pelitözü Göleti** (bisiklet yolu, göl kenarı kafeleri, mangal/piknik alanları), **Atatürk Orman Parkı**, **Şeyh Edebali Vadisi** ve Bahçelievler/Çarşı kafeleri öğrencilerin buluşma noktasıdır. En büyük koz ise **YHT ile 35 dakikada Eskişehir'e** geçip akşam tekrar Bilecik'teki yurduna dönebilmektir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Bilecik 1. ve 2. OSB ile Bozüyük OSB'deki dev seramik, metal ve mermer fabrikaları mühendislik ve İİBF öğrencilerine staj imkanı sunar. Kampüs içi kısmi zamanlı çalışma ve kafelerde baristalık/garsonluk yaygın part-time işlerdir.
+* **Fakültelerin Karakteristiği ve Barajlar:**  
+  * **Mühendislik Fakültesi:** Bilgisayar, Makine, Elektrik-Elektronik ve İnşaat bölümlerinde laboratuvar devamlılığı katıdır. MARAL (Merkezi Araştırma Laboratuvarı) donanımıyla yüksek lisans ve bitirme projelerinde güçlü imkanlar sunar.
+  * **İktisadi ve İdari Bilimler Fakültesi (İİBF):** Üniversitenin en kalabalık birimidir; bağıl değerlendirme (çan eğrisi) sistemi uygulanır. Çan altı kalma barajı genellikle 35 puandır.
+* **Kütüphanede Gece Çorbası ve Final Taktikleri:**  
+  BŞEÜ Merkez Kütüphanesi sınav döneminde 7/24 hizmet verir. Sınav haftalarında gece **23:30**'da rektörlük tarafından öğrencilere sıcak tarhana veya mercimek çorbası dağıtılır. Prizli masalar saat 10:00 gibi dolduğu için erken gelip yer tutmak önemlidir.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
 
-### ✅ Artıları
-* Yüksek Hızlı Tren (YHT) ile Eskişehir (35 dk), İstanbul ve Ankara'ya çok hızlı ve ucuz ulaşım.
-* KYK yurt kapasitesinin yüksek olması ve Pelitözü/kampüs çevresinde barınma sorununun yaşanmaması.
-* Yeşil, kompakt, yorucu olmayan kampüs yapısı ve ekonomik yaşam maliyeti.
-
-### ❌ Eksileri
-* Bilecik şehir merkezinin küçük olması; büyük AVM, geniş gece hayatı ve sosyal çeşitliliğin sınırlı kalması.
-* Şehrin engebeli/yokuşlu coğrafyası ve kış aylarında etkili olan yoğun sis ve soğuk hava.
-* Akşam geç saatlerden sonra şehir merkezi ile Pelitözü/Kampüs arasındaki minibüs seferlerinin seyrekleşmesi.
+* **Akşam 19:00'dan Sonra Gelen Boşluk ve Taşra Sessizliği:**  
+  Bilecik küçük bir şehirdir; akşam saat 19:30'dan sonra Gülümbe Kampüsü tamamen sessizliğe gömülür. Pelitözü'ndeki birkaç kafe dışında sokakta kimse kalmaz. Hareketli metropol hayatına alışkın olanlar için ilk aylar "taşra sıkıntısı" yoğun hissedilebilir.
+* **Yoğun Sis ve Dondurucu Vadi Ayazı:**  
+  Gülümbe rampası kış aylarında sabahları yoğun sisle kaplanır; görüş mesafesi 10 metreye kadar düşebilir. Vadi tabanından esen kuru ayaz yüzünden kışın kalın kaban ve atkı şarttır.
+* **Ulaşımın Tek Güzergaha Bağımlı Olması:**  
+  Şehir merkezinden kampüse giden tek ana arter olduğu için kaza veya yol çalışması olduğunda minibüs trafiği anında kilitlenir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 6. 💡 Bilecik Öğrencisine Altın Tavsiyeler
 
-> 💬 **Öğrenci Notu:**  
-> "Bilecik'i kazandığında 'Burası çok küçük, ne yapacağım?' diye korkma. Derslerine odaklanmak, ucuza yaşamak ve kafa dinlemek için harika bir yer; canın kalabalık ve eğlence çektiğinde ise YHT'ye atlayıp yarım saatte Eskişehir Adalar'da kahveni içebiliyorsun. Kampüse yürümek istiyorsan Pelitözü'nde, çarşıda yaşamak istiyorsan Bahçelievler'de kal!"
+1. **YHT Aboneliği:** TCDD mobil uygulamasını ilk günden telefonunuza indirin; genç tarifeli biletlerle Eskişehir'i ikinci eviniz yapın.
+2. **Barınma Seçimi:** Sosyal ve hareketli biriyseniz Bahçelievler'de ev tutun; sessizlik, uyku ve derse yürüyerek gitmek istiyorsanız kesinlikle Pelitözü apartlarını veya Halime Hatun/Ertuğrul Gazi KYK yurtlarını seçin.
+3. **Marmara OSB Stajları:** Bozüyük ve Bilecik OSB'deki seramik (Vitra, Bien vb.) ve otomotiv yan sanayi fabrikaları staj için eşsiz fırsattır; hocalarınızla iyi iletişim kurup 3. sınıfta staj ayarlayın.
+4. **Kış Hazırlığı:** Bilecik'in ayazı serttir; su geçirmez bot ve rüzgar kırmalı montunuzu valize koymadan gelmeyin.

@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** İstanbul / Fatih (Beyazıt - Laleli - Vezneciler - Çapa - Süleymaniye)  
 > **Üniversite Türü:** Devlet (Araştırma Üniversitesi)  
-> **Kampüs Konumu:** Tarihi Yarımada Merkez Kampüsleri  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.4/5)
+> **Kampüs Konumu:** Tarihi Yarımada'nın Kalbinde Tarihi Saray/Külliye Yerleşkeleri  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.5/5)
 
 ---
 
@@ -12,93 +12,74 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 0 km (Tarihi Yarımada'nın Kalbi) | **T1 Tramvayı** (Beyazıt, Laleli-Üniversite, Çapa) ve **M2 Metrosu** (Vezneciler-İÜ) kapıda! |
-| **🏠 KYK & İBB Yurt İmkanı** | Yüksek (Tramvay Hattında) | Vezneciler, Kadırga ve 15 dk mesafedeki Cevizlibağ KYK/İBB yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 18.000 - 28.000 TL | Çapa, Şehremini, Fındıkzade, Haseki, Kocamustafapaşa ve Zeytinburnu |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Merkez yemekhane ve Çapa Tıp yemekhanesinde ekonomik öğünler |
-| **📚 Kütüphane Kapasitesi** | Geniş ve Yeni | Yeni inşa edilen modern İÜ Merkez Kütüphanesi ve fakülte tarihî kütüphaneleri |
-| **🌐 İnternet (eduroam)** | İyi | Tüm fakültelerde, tarihi avluda ve kütüphanede eduroam aktif |
-| **🌆 Sosyal Yaşam & Çevre** | Tarihi ve Kültürel Merkez | Sahaflar Çarşısı, Süleymaniye, Sultanahmet, Eminönü ve M2 ile 10 dk Taksim |
+| **🚇 Şehir Merkezine Uzaklık** | 0 km (Tarihi Yarımada'nın Merkezi) | **T1 Tramvayı** (Beyazıt, Laleli-Üniversite, Çapa) ve **M2 Metrosu** (Vezneciler-İÜ) kapıda! |
+| **🏠 KYK & İBB Yurt İmkanı** | Yüksek (Tramvay Aksında) | Vezneciler Kız, Kadırga Erkek ve 15 dk mesafedeki Cevizlibağ KYK/İBB yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 19.000 - 29.000 TL | Fatih (Çapa, Şehremini, Fındıkzade, Kocamustafapaşa) ve Zeytinburnu (Kişi başı 7.000-10.000 TL) |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Beyazıt Merkez, Fen-Edebiyat ve Çapa yemekhaneleri + Saraçhane İBB Kent Lokantası |
+| **📚 Kütüphane Kapasitesi** | Çok Zengin | İÜ Merkez Kütüphanesi, Hukuk Kütüphanesi ve 7/24 açık tarihi **Beyazıt Devlet Kütüphanesi** |
+| **🌐 İnternet (eduroam)** | Stabil | Tarihi amfiler, kütüphaneler ve bahçede eduroam & IU-NET aktif |
+| **🌆 Sosyal Yaşam & Çevre** | Kültür, Tarih & Beyoğlu | Süleymaniye terasları, Sahaflar Çarşısı, Kapalıçarşı ve M2 ile 5 dk Galata/Taksim |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚇 Ulaşım Taktikleri: Tramvay Kapısı vs. Vezneciler Metrosu
 
-* **Şehir Merkezinden Ulaşım:**  
-  1453'e uzanan kökleriyle Türkiye'nin en eski yükseköğretim kurumu olan **İstanbul Üniversitesi (İÜ)**, Tarihi Yarımada'nın (Fatih) tam merkezinde yer alır ve toplu taşıma bağlantısı kusursuzdur:
-  * **Beyazıt Merkez Kampüsü (Hukuk, İktisat, Siyasal Bilgiler, İletişim, Eczacılık) & Laleli / Vezneciler (Edebiyat, Fen, İlahiyat):** İkonik tarihi **Beyazıt Ana Kapısı**'nın hemen önünden **T1 (Kabataş - Bağcılar) Tramvayı** (**Beyazıt** ve **Laleli-Üniversite** durakları), arka kapısından ise **M2 (Yenikapı - Hacıosman) Metrosu** (**Vezneciler - İstanbul Üniversitesi** durağı) geçer! Ayrıca **Marmaray (Sirkeci ve Yenikapı)** istasyonlarına da 10 dakikalık yürüme veya 1 durak mesafededir.
-  * **Çapa Kampüsü (İstanbul Tıp Fakültesi & Diş Hekimliği):** Beyazıt'tan T1 Tramvayı ile 4 durak (10 dk) batıda, **Çapa-Şehremini** durağının tam karşısındadır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Beyazıt Merkez Kampüsü, devasa çınar ve manolya ağaçlarıyla kaplı tarihi bir bahçe içindedir; Hukuk, İktisat ve Siyasal Bilgiler binaları aynı avlu içinde 3-5 dakikalık yürüme mesafesindedir. Edebiyat, Fen ve İletişim fakülteleri ise kampüs kapısının hemen karşısındaki Vezneciler-Laleli caddesi üzerindedir.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  T1 Tramvayı, M2 Metrosu, Marmaray ve Eminönü vapurlarında **İstanbulkart Öğrenci Abonmanı** kullanılır.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Tramvay ve metro doğrudan fakülte kapılarının önünde indiği için yağmurlu ve kış günlerinde ulaşım çok rahattır; sadece turist ve çarşı yoğunluğu nedeniyle T1 tramvayı sabah-akşam saatlerinde kalabalık olur.
+* **T1 Tramvay Kapısı vs. Vezneciler Kestirmesi:**  
+  İÜ Merkez Kampüsü'ne gelirken T1 Kabataş-Bağcılar tramvayının **"Beyazıt - Kapalıçarşı"** durağında inmek ilk akla gelen yoldur; ancak sabah saatlerinde turistler ve esnaf nedeniyle tramvay turnikelerinde ciddi yığılma olur.
+  * *Ulaşım Taktik 1:* **M2 Metrosu "Vezneciler - İstanbul Üniversitesi"** durağında inip arka kapıdan (Süleymaniye / Fen-Edebiyat kapısı) girmek tramvay kalabalığına hiç bulaşmadan kampüse 4 dakika kazandırır.
+  * *Ulaşım Taktik 2:* Çapa Tıp Fakültesi için T1'in **"Çapa-Şehremini"** durağında inildiğinde doğrudan poliklinik ve amfi girişlerine ulaşılır; alternatif olarak Vatan Caddesi üzerindeki M1A metrosu **Emniyet-Fatih** durağından yürüyerek 6 dakikada kampüsün arka kapısına geçilebilir.
+* **Sirkeci & Yenikapı Marmaray Bağlantısı:**  
+  Anadolu Yakası'ndan (Üsküdar / Kadıköy / Kartal) gelen öğrenciler Yenikapı'da inip M2 metrosuyla 1 durakta Vezneciler'e varır ya da Sirkeci'de inip T1 tramvayıyla 3 durakta Beyazıt'a ulaşır. Toplam süre Kadıköy rıhtımdan Beyazıt kapısına 20 dakikadır.
+* **Sahaflar ve Mercan Kapısı Kestirmesi:**  
+  Beyazıt Kampüsü'nden Eminönü sahiline veya Haliç kıyısına inmek isteyen öğrenciler tarihi Mercan Yokuşu'ndan aşağı yürüyerek 10 dakikada vapurlara ulaşır.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma, Yurtlar ve Mahalle Dinamikleri
 
-* **KYK ve İBB Yurtları:**  
-  * **Kampüs Çevresi:** Vezneciler metro çıkışının hemen yanında kız öğrenci yurtları, Kadırga'da **Kadırga KYK Erkek Yurdu** ve Fatih/Beyoğlu aksında **İBB Öğrenci Yurtları** yer alır.
-  * **Cevizlibağ Aksı (T1 Tramvayı ile 12-15 dk):** **Cevizlibağ Atatürk KYK Kız Yurdu**'nda kalan binlerce İÜ öğrencisi, yurdun tam önünden T1 tramvayına binip aktarmasız şekilde 10 dakikada Çapa'ya, 15 dakikada ise Laleli-Beyazıt kapısına ulaşmaktadır.
-* **Özel Yurtlar ve Apartlar:**  
-  Vezneciler, Şehzadebaşı, Fındıkzade, Çapa, Haseki ve Aksaray hattında onlarca özel kız ve erkek öğrenci yurdu mevcuttur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Beyazıt ve Laleli ticari/turistik bölge olduğu için öğrenciler evlerini **Çapa**, **Şehremini**, **Fındıkzade**, **Haseki** ve **Kocamustafapaşa** mahallelerinde tutar. Özellikle İstanbul Tıp (Çapa) ve Hukuk/Edebiyat öğrencilerinin yoğun yaşadığı Çapa-Fındıkzade hattı, düz ayak sokakları, öğrenci kafeleri ve T1 tramvay erişimiyle Fatih'in en rahat öğrenci bölgesidir (Kiralar 18.000 - 28.000 TL).
+### 🏢 KYK ve İBB Yurtları
+* **Vezneciler KYK Kız Yurdu:** Vezneciler Metro durağının hemen çaprazında, Edebiyat Fakültesi'ne 2 dakika mesafededir. İstanbul'un en merkezi konumlu kız yurtlarındandır.
+* **Kadırga KYK Erkek Yurdu:** Sultanahmet ve Kumkapı sırtlarında, Marmara Denizi manzaralı tarihi bir sokakta yer alır; Beyazıt Ana Kapısı'na yürüyerek 10-12 dakikada çıkılır.
+* **Cevizlibağ Atatürk KYK Kız Yurdu:** T1 tramvayı ile tek vesaitle 15 dakikada Beyazıt'a gelindiği için binlerce İÜ öğrencisinin evidir.
+* **Yurt Kuralları:** 23:00 / 00:00 turnike yoklamaları düzenli yapılır; sınav haftalarında Beyazıt Devlet Kütüphanesi çalışma fişiyle geç giriş izni kolayca alınır.
 
----
-
-## 3. 🎓 Akademik ve Fiziki Altyapı
-
-* **Kütüphane İmkanları:**  
-  Beyazıt Kampüsü'nde yeniden inşa edilerek hizmete açılan ultra-modern **İstanbul Üniversitesi Merkez Kütüphanesi**, yanı sıra **Hukuk Fakültesi Kütüphanesi** (Türkiye'nin en zengin hukuk arşivi), **İktisat Fakültesi Kütüphanesi** ve hemen kampüs kapısının dışındaki tarihi **Beyazıt Devlet Kütüphanesi** (7/24 açık) öğrencilere muazzam bir çalışma ortamı sunar.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Beyazıt Merkez Kampüsü'ndeki tarihi **Rektörlük Binası (Eski Harbiye Nezareti)**, **Hukuk Fakültesi 1 No'lu Amfisi**, **Edebiyat Fakültesi Şeref Holü** ve **İstanbul Tıp Fakültesi (Çapa)** hem tarihi miras hem de Türkiye'nin en güçlü akademik ekollerini barındırır. Çapa yerleşkesinde ve temel tıp binalarında deprem güçlendirme ve modern hastane/derslik yenileme projeleri peyderpey devreye alınmaktadır.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Kampüslerde **eduroam** ve İÜ'nün kendi geliştirdiği **AKSİS** (Öğrenci Otomasyon Sistemi) aktif olarak kullanılır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Hukuk, Siyasal, İktisat, Edebiyat, Tiyatro, Sinema, Çeviri, Münazara ve Müzik kulüpleri Türkiye'nin entelektüel ve edebi tarihinde iz bırakmış topluluklardır. Beyazıt bahçesindeki ve fakülte avlularındaki söyleşiler çok canlıdır.
+### 🏘️ Popüler Öğrenci Mahalleleri & Ev Kiraları
+* **Çapa, Şehremini ve Fındıkzade:** Tıp, Diş, Hukuk ve Edebiyat öğrencilerinin geleneksel semtleridir. Düz ayak sokakları, mahalle fırınları, 7/24 açık kafeleri ve tramvay erişimiyle Fatih'in en huzurlu bölgesidir (2+1 veya 3+1 daireler 20.000 - 28.000 TL; 3 öğrenci kişi başı 7.000 - 9.500 TL).
+* **Kocamustafapaşa ve Haseki:** Bütçe dostu, tarihi İstanbul mahalle dokusunu koruyan, esnaf dayanışması güçlü alternatiflerdir.
+* **Laleli ve Aksaray Çıkmazı:** Laleli toptan tekstil ve otel bölgesi olduğu için öğrenciler burada konaklamayı tercih etmez; gece saatlerinde tenha ve ticari niteliktedir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🍽️ Beslenme, Kampüs İçi Yaşam ve Sokak Lezzetleri
 
-* **Merkez Yemekhane:**  
-  Beyazıt Kampüsü içi, Vezneciler/Fen-Edebiyat ve Çapa Tıp yerleşkelerindeki öğrenci yemekhanelerinde öğle ve akşam yemekleri (25-35 TL) verilir. Ayrıca hemen Süleymaniye, Çapa ve Saraçhane'deki **İBB Kent Lokantaları** da İÜ öğrencilerinin en sevdiği ekonomik yemek noktalarıdır.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Beyazıt Merkez Kampüsü içindeki tarihi ağaçların altındaki **Beyazıt Çay Bahçesi / Kantinler**, Hukuk kantini ve Edebiyat Fakültesi **Hergele Meydanı / Kantini** öğrencilerin sosyalleşme kalbidir. Kampüs dışında ise **Süleymaniye Kuru Fasulyecileri**, **Vezneciler/Şehzadebaşı** öğrenci lokantaları, **Sahaflar Çarşısı** ve **Çapa Millet Caddesi** üzerindeki kahveciler sıralanır.
-* **Spor Tesisleri:**  
-  Vezneciler'deki **Prof. Dr. Turgay Atasü Spor Salonu**, fitness merkezi ve Beyazıt bahçesi yürüyüş alanları mevcuttur.
+* **Merkez Yemekhane:** Beyazıt bahçesi içindeki yemekhanede 4 çeşit sıcak öğün uygun fiyata sunulur; bahar aylarında yemek sonrası bahçedeki tarihi havuz başında oturmak üniversite klasiğidir.
+* **Tarihi Süleymaniye Kuru Fasulyecileri:** Kampüsün arka kapısından çıktığınızda Süleymaniye Camii'nin karşısına dizilen tarihi kuru fasulyeciler (Ali Baba vb.), bol köpüklü yayık ayran ve pirinç pilavıyla bütçe kutlamalarının adresidir.
+* **Çorlulu Ali Paşa Medresesi & Beyazıt Çınaraltı:** Tarihi medrese avlusunda közde Türk kahvesi içmek ve Beyazıt Meydanı çınaraltında taze gevrek (simit) kemirmek öğrencilerin vazgeçilmezidir.
+* **Saraçhane İBB Kent Lokantası:** Vezneciler'den 7 dakika yürüyerek Saraçhane İBB binası yanındaki Kent Lokantası'nda çok uygun fiyata 4 kap kaliteli sıcak yemek yenebilir.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 4. 📚 Akademik ve Hayatta Kalma Rehberi
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Beyazıt ve Laleli gündüz saatlerinde yerli-yabancı turistler, sahaflar, esnaf ve on binlerce öğrenciyle çok hareketli ve kozmopolittir. Çapa ve Fındıkzade ise akşam saatlerinde de öğrencilerin rahatça yaşadığı yerleşik mahallelerdir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  İÜ'de okumak, açık hava müzesinde okumak demektir: Ders arasında yürüyerek 5 dakikada **Kapalıçarşı**, **Sahaflar Çarşısı**, **Süleymaniye Camii terası** (Haliç manzaralı kafeler), **Gülhane Parkı**, **Sultanahmet** ve **Eminönü**'ne inebilirsiniz. M2 Metrosu'na (Vezneciler) bindiğinizde ise Haliç Köprüsü üzerinden **4 dakikada Şişhane/Galata'da, 6 dakikada Taksim/İstiklal Caddesi'ndesiniz**; Marmaray ile de 15 dakikada Üsküdar ve Kadıköy'e geçebilirsiniz!
-* **Part-Time İş ve Staj Olanakları:**  
-  Hukuk, İktisat, Siyasal ve İletişim öğrencileri için İstanbul'daki tüm büyük hukuk büroları, medya kuruluşları, bankalar ve finans kurumları metroyla 15-20 dakika mesafededir.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* İkonik Beyazıt Ana Kapısı'ndan girilen, Türkiye'nin en köklü Hukuk, Tıp, İktisat, Siyasal ve Edebiyat ekollerine sahip tarihi kampüs.
-* M2 Metrosu (Vezneciler), T1 Tramvayı (Beyazıt/Laleli/Çapa) ve Marmaray'ın tam kesişim noktasında eşsiz ulaşım kolaylığı.
-* Cevizlibağ KYK ve Vezneciler/Kadırga yurtlarından tramvayla 10-15 dakikada derse ulaşabilme imkanı.
-
-### ❌ Eksileri
-* Beyazıt ve Laleli çevresinin yoğun turist ve ticaret kalabalığı; kampüs dışında yeşil alanın azlığı (Gülhane Parkı hariç).
-* Edebiyat ve İletişim gibi bazı fakültelerin Beyazıt ana bahçesinin dışında, cadde üzerindeki binalarda yer alması.
-* Köklü fakültelerde yüksek öğrenci kontenjanları nedeniyle vize/final dönemlerinde amfi ve kütüphane yoğunluğu.
+* **AKSİS Otomasyon Sistemi ve Amfi 1 Yarışı:**  
+  Ders kayıtlarında AKSİS sistemindeki harç ve ders onayları takip edilmelidir. Özellikle Hukuk Fakültesi'nin efsanevi **1 No'lu Amfisi**'nde (Ali Fuat Başgil Amfisi) ön sıralarda oturup ders dinleyebilmek için sabah 08:00'de amfi kapısında beklenir.
+* **Yıllık Sistem ve Büt Maratonu:**  
+  İÜ Hukuk ve Tıp gibi köklü fakültelerde dersler genellikle dönemlik değil **yıllık sistem** üzerinden yürütülür. Vize notunun ağırlığı düşük, sene sonundaki final ve bütünleme (büt) sınavlarının etkisi büyüktür. Bu yüzden Haziran ve Temmuz ayları yoğun ders çalışma kamplarına dönüşür.
+* **Beyazıt Devlet Kütüphanesi 7/24 Nöbeti:**  
+  Kampüsün yanı başındaki Türkiye'nin ilk devlet kütüphanesinde sabahlara kadar ders çalışmak, gece çay molasına çıkıp Beyazıt Camii avlusunda yürümek İÜ'lü olmanın özüdür.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
 
-> 💬 **Öğrenci Notu:**  
-> "Tarihi Beyazıt Kapısı'ndan öğrenci kartını okutup o çınarlı yoldan içeri ilk yürüdüğün an tüylerin diken diken olacak. Barınma için T1 tramvay hattındaki Cevizlibağ KYK veya Çapa/Fındıkzade öğrenci evlerini seçersen ulaşımın çocuk oyuncağı olur. Boş ders saatlerinde Sahaflar Çarşısı'nı karıştırmayı, Süleymaniye'de Haliç'e karşı çay içmeyi ve Vezneciler'den metroya atlayıp 5 dakikada Beyoğlu'ndaki sergi ve tiyatrolara akmayı ihmal etme!"
+* **Turist, Göçmen ve Ticaret Kalabalığı:** Beyazıt Meydanı ve Laleli aksı gün boyu yüz binlerce turistin, döviz bürosunun ve kargo araçlarının geçtiği bir panayır yeridir; kampüs kapısından çıktığınız anda yoğun bir gürültü ve kaos karşılar.
+* **Cuma Günleri Meydan Yoğunluğu ve Güvenlik Önlemleri:** Beyazıt Meydanı tarihi eylemlerin odağı olduğu için bazı cuma günleri meydanda yoğun polis barikatları ve T1 tramvayında geçici kısıtlamalar yaşanabilir.
+* **Köklü Fakültelerin Aşırı Kalabalık Kontenjanları:** Hukuk ve İktisat gibi fakültelerde amfiler yüzlerce kişilik olduğundan hocayla birebir iletişim kurmak zordur; imza kağıtları ve not fotokopileri üzerinden dayanışma kurulur.
+
+---
+
+## 6. 💡 Altın Tavsiyeler
+
+> 💡 **Altın Kural 1:** Kampüse gelirken sabahları T1 tramvayındaki turist izdihamıyla uğraşmak yerine M2 Metrosu Vezneciler durağını kullan; zamanını ve enerjini koru.  
+> 💡 **Altın Kural 2:** Barınma için Çapa, Fındıkzade ve Haseki mahallelerini ilk sıraya koy; hem tramvay ve metroya yürüyebilirsin hem de güvenli bir öğrenci muhitinde yaşarsın.  
+> 💡 **Altın Kural 3:** Boş saatlerinde kampüste tıkılıp kalma; Vezneciler'den metroya atlayıp 4 dakikada Şişhane'ye, Galata'ya veya Beyoğlu kültür sanat merkezlerine geçerek İstanbul'un tadını çıkar.

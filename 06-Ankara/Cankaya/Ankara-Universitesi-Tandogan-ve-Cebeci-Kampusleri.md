@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Ankara / Çankaya (Tandoğan, Cebeci ve Sıhhiye)  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Şehir Merkezi Kampüsleri (ANKARAY Hattı Boyunca)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.5/5)
+> **Kampüs Konumu:** Şehir İçi Merkez Kampüsleri (ANKARAY & Başkentray Hattı Boyunca)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.7/5)
 
 ---
 
@@ -12,94 +12,86 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 0 km (Tam Merkezde) | ANKARAY (Anadolu/Tandoğan, Cebeci ve Sıhhiye durakları kapı önünde) |
-| **🏠 KYK Yurt İmkanı** | Orta - İyi | Tandoğan/Beşevler ve Cebeci çevresinde KYK ve üniversite yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 14.000 - 23.000 TL | Cebeci, Kurtuluş (14-18 bin TL) / Bahçelievler, Emek, Maltepe (18-24 bin TL) |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | Her yerleşkede ayrı öğrenci yemekhanesi, oldukça doyurucu |
-| **📚 Kütüphane Kapasitesi** | Geniş ve Köklü | Hukuk/SBF kütüphaneleri Türkiye'nin en zengin arşivlerine sahiptir |
-| **🌐 İnternet (eduroam)** | İyi | Tüm tarihi binalarda ve çardaklarda eduroam aktif |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı | Bahçelievler 7. Cadde, Anıtkabir komşuluğu, Cebeci öğrenci kültürü |
+| **🚇 Şehir Merkezine Uzaklık** | 0 km (Tam Kalbinde) | ANKARAY (Anadolu/Tandoğan, Beşevler, Cebeci, Kurtuluş) + Başkentray Treni |
+| **🏠 KYK & Üniversite Yurtları** | Yüksek Kapasite | Cumhuriyet, Vehbi Koç, Milli Piyango yurtları ve Cebeci/Kurtuluş KYK'ları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 14.000 - 24.000 TL | Cebeci, Kurtuluş, Saimekadın (14-19 bin TL) / Bahçelievler, Emek (19-25 bin TL) |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / Çok Başarılı | Her yerleşkede bağımsız yemekhane, vejetaryen menü seçeneği, doyurucu tabldot |
+| **📚 Kütüphane Kapasitesi** | Efsanevi Tarihi Arşiv | Hukuk ve Mülkiye kütüphaneleri, DTCF Kütüphanesi; sınav haftasında 7/24 |
+| **🌐 İnternet (eduroam)** | Çok İyi | Tarihi amfilerde ve bahçelerde eduroam altyapısı güçlü |
+| **🌆 Sosyal Yaşam & Çevre** | Şehrin Kültür Omurgası | Bahçelievler 7. Cadde, Anıtkabir, Mülkiye Bahçesi, DTCF Orta Bahçe, Kızılay |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **Şehir Merkezinden Ulaşım (ANKARAY Omurgası):**  
-  Cumhuriyet'in ilk üniversitesi olan Ankara Üniversitesi, şehrin kalbinde **ANKARAY (A1)** hafif raylı sistem hattı üzerine inci gibi dizilmiş yerleşkelerden oluşur:
-  1. **Tandoğan (Beşevler 10. Yıl) Yerleşkesi:** Fen, Eczacılık, Diş Hekimliği, Mühendislik (Kimya/Jeoloji/Fizik) fakülteleri ve Rektörlük buradadır. ANKARAY **Anadolu / Tandoğan** veya **Beşevler** durağında inince tam kampüs kapısındasınızdır.
-  2. **Cebeci Yerleşkesi:** Ünlü **Hukuk Fakültesi**, **Siyasal Bilgiler Fakültesi (Mülkiye - SBF)**, **İletişim (İLEF)** ve **Eğitim Bilimleri** fakülteleri buradadır. ANKARAY **Cebeci** veya **Dikimevi** durağı tam kampüsün önündedir.
-  3. **Sıhhiye (DTCF) ve Morfoloji (Tıp) Yerleşkesi:** Mimar Sinan eseri tarihi **Dil ve Tarih-Coğrafya Fakültesi (DTCF)** Sıhhiye Metro durağının hemen karşısında, Tıp Fakültesi ise Cebeci/Morfoloji hattındadır.
-  * *(Not: Yabancı Diller Hazırlık ile Bilgisayar/Elektrik/Yapay Zeka Mühendislikleri **Gölbaşı 50. Yıl Kampüsü**'ndedir; Ziraat ve Veterinerlik ise **Dışkapı/Keçiören** yerleşkesindedir).*
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Tandoğan ve Cebeci kampüsleri ağaçlık, düz ayak ve kendi içinde 5 dakikada yürünebilir şehir içi kampüslerdir; ringe ihtiyaç duyulmaz.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  **AnkaraKart Öğrenci Abonmanı** ile ANKARAY hattını kullanarak Cebeci'den Tandoğan'a veya Bahçelievler'e 8-10 dakikada geçilir.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Metro/ANKARAY kapının önünde olduğu için kışın kar veya yağmurda ulaşımda en ufak bir sorun yaşanmaz.
+* **Şehir Merkezinden Ulaşım (ANKARAY & Başkentray Mucizesi):**  
+  Ankara Üniversitesi'nin en büyük ayrıcalığı, raylı sistem omurgasının fakülte kapılarının önünde durmasıdır:
+  1. **Tandoğan (Beşevler 10. Yıl) Yerleşkesi:** Fen, Eczacılık, Diş Hekimliği fakülteleri ve Rektörlük buradadır. ANKARAY **Anadolu / Tandoğan** durağından inildiğinde 10. Yıl Kapısı, **Beşevler** durağında inildiğinde ise Eczacılık/Diş kapısı doğrudan karşınızdadır.
+  2. **Cebeci Yerleşkesi:** Hukuk, Siyasal Bilgiler (Mülkiye - SBF), İletişim (İLEF) ve Eğitim Bilimleri buradadır. ANKARAY **Cebeci** veya **Dikimevi** durakları kampüs ana nizamiyesinin 50 metre ilerisindedir.
+  3. **Başkentray Banliyö Treni Hilesi:** Sincan, Etimesgut, Eryaman veya Kayaş, Mamak yönünden gelen öğrenciler için metro aktarmasıyla vakit kaybetmek yerine **Başkentray** banliyö trenine binip **Cebeci** veya **Kurtuluş** istasyonunda inmek doğrudan fakültenin arka bahçesine çıkmayı sağlar.
+  4. **DTCF ve Morfoloji (Tıp):** Dil ve Tarih-Coğrafya Fakültesi (DTCF) **Sıhhiye Metro Durağı** karşısındadır; Tıp Fakültesi Morfoloji binası ise Kurtuluş / Cebeci aksında yer alır.
+* **Sabah 08:30 ANKARAY Yoğunluğunu Atlatma:**  
+  Kızılay'dan Dikimevi veya AŞTİ yönüne giden ANKARAY vagonları sabah 08:10 - 08:45 arası aşırı yoğun olur. Kızılay istasyonunda en arka vagon kapısında beklerseniz Tandoğan veya Cebeci'de turnike merdivenlerine en yakın noktada inersiniz.
+* **Hazırlık Git-Gel Tuzağı (Gölbaşı Kampüsü):**  
+  Yabancı Diller Yüksekokulu (Hazırlık) ve bazı yeni mühendislik bölümleri **Gölbaşı 50. Yıl Yerleşkesi**'ndedir! Eğer hazırlık okuyacaksanız ilk yıl Cebeci veya Tandoğan'da değil, Gölbaşı otobüslerinin kalktığı AŞTİ/Konya Yolu veya Gölbaşı merkezde barınmayı planlamalısınız.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma & KYK Gerçekleri (Cebeci vs Bahçelievler)
 
-* **KYK ve Üniversite Yurtları:**  
-  Ankara Üniversitesi'nin kendi bünyesindeki **Cumhuriyet Öğrenci Evi**, **Milli Piyango Öğrenci Evi** ve **Vehbi Koç Öğrenci Yurdu** ile Beşevler/Cebeci/Kurtuluş çevresindeki KYK yurtları öğrencilere hizmet verir.
-* **Özel Yurtlar ve Apartlar:**  
-  Cebeci, Kurtuluş, Maltepe, Tandoğan ve Bahçelievler'de yüzlerce özel kız/erkek öğrenci yurdu bulunur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Cebeci, Kurtuluş ve Abidinpaşa (Alt Kısım):** Hukuk, Mülkiye, İLEF, Tıp ve DTCF öğrencilerinin kalesidir. Kampüse yürüme mesafesindedir, kiralar Ankara ortalamasına göre daha makuldür (**14.000 - 18.500 TL**).
-  * **Bahçelievler, Emek ve Maltepe/Anıttepe:** Tandoğan Kampüsü'ne ve Anıtkabir'e komşu, kafeleriyle ünlü, nezih öğrenci mahalleleridir (**18.000 - 24.000 TL**).
-
----
-
-## 3. 🎓 Akademik ve Fiziki Altyapı
-
-* **Kütüphane İmkanları:**  
-  Özellikle Cebeci'deki **Hukuk Fakültesi Kütüphanesi** ve **SBF (Mülkiye) Kütüphanesi** ile DTCF Kütüphanesi, Türkiye'de sosyal bilimler alanındaki en derin koleksiyona sahiptir. Vize ve final haftalarında çalışma salonları gece geç saatlere kadar açıktır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  1930'lu ve 40'lı yılların Erken Cumhuriyet mimarisini taşıyan yüksek tavanlı, taş amfilerde ders işlemek bambaşka bir tarihsel atmosfer sunar. Diş Hekimliği (Tandoğan'daki yeni ve devasa binası çok moderndir), Eczacılık ve Tıp Fakültesi laboratuvarları oldukça güçlüdür.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Tüm yerleşkelerde **eduroam** bağlantısı güçlüdür.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Mülkiye'nin efsanevi **İnek Bayramı** geleneği, DTCF Tiyatro bölümü gösterileri, Hukuk münazara ve kurgusal duruşma kulüpleri, İLEF sinema/medya atölyeleri ve Tandoğan müzik toplulukları çok köklüdür.
+* **Üniversite Yurtları ve KYK Blokları:**  
+  * **Ankara Üniversitesi Kendi Yurtları:** **Cumhuriyet Öğrenci Evi** (Kız/Erkek, Tandoğan içinde), **Vehbi Koç Öğrenci Yurdu** ve **Milli Piyango Öğrenci Evi** doğrudan kampüs arazilerindedir; başvuru döneminde üniversite SKS sitesinden ayrıca talep edilir.
+  * **Cebeci ve Çevresi KYK Yurtları:** Şerife Bacı KYK, Cebeci KYK ve Hacı Mustafa Tarman yurtları; odalar 3-4 kişilik, baza ve çalışma masalı tiptedir. Banyo-tuvalet oda içerisindedir.
+  * *23:00 Turnikesi:* Parmak izi ve turnike denetimi dakiktir; hafta sonu memlekete gidişlerde GencizBiz izin sistemi kullanılır.
+* **Öğrenci Mahalleleri & Sokak Detayları:**  
+  * **Cebeci, Kurtuluş ve Kolej (Cemal Gürsel Cad. & Siyasal Sokak):** Mülkiye, Hukuk ve İLEF öğrencilerinin semtidir. 1970'lerden kalma yüksek tavanlı 2+1 ve 3+1 daireler yaygındır (**14.000 - 19.000 TL**). Kampüse ve Kızılay'a yürüyerek gidilir.
+  * **Bahçelievler ve Emek (1. - 7. Cadde Arası):** Tandoğan kampüsü öğrencilerinin kalesidir. Düz ayak, cıvıl cıvıl kafe sokakları, Anıtkabir komşuluğu vardır (**19.000 - 25.000 TL**).
+  * **Ev Sahiplerinin Eski Tesisat & Depozito Tuzakları:** Cebeci ve Kurtuluş'taki eski binalarda doğalgaz kombi ve petek tesisatları eski olabilir; kışın Ankara ayazında peteklerin iyi ısıtıp ısıtmadığını ve yalıtımı kontrol edin. Ayrıca evden çıkarken depozitoyu iade etmemek için boya masrafı bahanesi üreten ev sahiplerine karşı giriş fotoğraflarını sözleşmeye ekleyin.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
-* **Merkez Yemekhane:**  
-  Hem Tandoğan hem Cebeci hem de DTCF yerleşkelerinde büyük öğrenci yemekhaneleri vardır. Güncel yemek ücreti (~25-30 TL) karşılığında doyurucu 4 çeşit yemek çıkar.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Tandoğan'da **Güneş Meydanı** ve Olimpik Havuz kafeteryası, Cebeci'de **Mülkiye Sütunlu Salon / Bahçe** ve **Hukuk Arka Bahçe**, DTCF'de ise famosa **Orta Bahçe** öğrencilerin ders aralarında çay-simit eşliğinde sosyalleştiği efsanevi alanlardır.
-* **Spor Tesisleri:**  
-  Tandoğan Yerleşkesi içinde **Olimpik Kapalı Yüzme Havuzu**, kapalı spor salonu ve tenis kortları; Cebeci'de ise spor salonu ve halı saha mevcuttur.
-
----
-
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
-
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Tandoğan ve Cebeci tam anlamıyla öğrenci ve memur semtleridir. Fotokopicisinden esnaf lokantasına kadar tüm çevre öğrenci bütçesine göre şekillenmiştir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Tandoğan Kampüsü'nden çıkıp 5 dakikada **Anıtkabir**'i ziyaret etmek veya **Bahçelievler 7. Cadde**'deki kafelere akmak; Cebeci'den çıkıp **Kurtuluş Parkı**'na, **Hamamönü**'ne veya **Kızılay (Konur, Karanfil, Yüksel Caddesi)** kültür-sanat mekanlarına yürümek günlük hayatın parçasıdır.
-* **Part-Time İş ve Staj Olanakları:**  
-  Ankara Adliyesi, Bakanlıklar, TBMM, medya kuruluşları ve merkezdeki hukuk bürolarına çok yakın olduğu için staj ve part-time çalışma açısından Türkiye'nin en avantajlı konumundadır.
+* **Yemekhane Sistemi:**  
+  Her yerleşkede (Tandoğan, Cebeci, DTCF) bağımsız yemekhane hizmet verir. Öğrenci kartına yüklenen bakiye ile ~25-30 TL'ye 4 çeşit sıcak tabldot sunulur. Etli ve zeytinyağlı yemeklerin dengesi iyidir; vejetaryenler için ayrılan kontenjan rahattır.
+* **Kampüs İçi ve Kapı Önü Lezzet Efsaneleri:**  
+  * **Mülkiye Bahçesi & Sütunlu Salon Çayı:** Cebeci'de ders aralarında Mülkiye Bahçesi'nde çınar ağaçları altında karton bardakta demli çay içip ülke siyaseti tartışmak bir gelenektir.
+  * **Hukuk Kantini & Meşhur Tostçular:** Cebeci Kampüsü nizamiyesi karşısındaki salaş tostçularda çift kaşarlı salçalı tost ve yayık ayranı Cebeci efsanesidir.
+  * **DTCF Orta Bahçe:** Tarihi binanın avlusundaki Orta Bahçe, Cumhuriyet'in en entelektüel öğrenci buluşma noktalarından biridir; çay ve simit eşliğinde kitap okumak bir klasik haline gelmiştir.
+  * **Tandoğan Güneş Meydanı:** Güneşli bahar günlerinde ders çıkışı Tandoğan çimlerinde yayılmak ve Güneş Kafe'den simit-çay almak ritüeldir.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 4. 📚 Akademik & Sınav Hayatta Kalma (Hukuk & Mülkiye Ekolü)
 
-### ✅ Artıları
-* **Köklü Cumhuriyet Geleneği ve Ekol Fakülteler:** Ankara Hukuk, Mülkiye (SBF), Ankara Tıp ve DTCF diplomaları Türkiye'nin her kurumunda en saygın referanstır.
-* **Sıfır Ulaşım Sorunu (ANKARAY):** Kampüs kapısının tam önünde metro/ANKARAY durağı olması büyük bir şehir içi konforudur.
-* **Bahçelievler, Kızılay ve Kurtuluş'un Kalbinde:** Sosyal hayata ulaşmak için saatlerce ring otobüsü beklemenize gerek yoktur.
-
-### ❌ Eksileri
-* **Bölünmüş Yerleşkeler:** Tüm bölümler tek bir kampüste değildir; özellikle İngilizce Hazırlık ve bazı mühendisliklerin Gölbaşı'nda olması ilk yıl git-gel yaptırabilir.
-* **Tarihi Binalarda Fiziki Sınırlar:** Bazı tarihi amfilerde priz sayısı veya havalandırma yeni nesil binalar kadar modern olmayabilir.
+* **Ankara Hukuk Yıllık Sistem Gerçeği:**  
+  Ankara Üniversitesi Hukuk Fakültesi'nde dönemlik değil, **yıllık sınav sistemi** uygulanır!
+  * Senede sadece bir vize (nisan ayında) ve bir final (haziran ayında) yapılır.
+  * Bütünleme temmuz ayındadır. Bir dersten kalınca bütünleme sınavı son şanstır; tüm yılın emeği tek sınava bağlıdır.
+  * Medeni Hukuk, Ceza Hukuku ve Borçlar Hukuku dersleri efsanevi baraj derslerdir; hocaların kalın ders kitaplarını satır satır okumadan geçmek imkansızdır.
+* **Çan Eğrisi (Bağıl Değerlendirme):**  
+  Fen, Mühendislik, Eczacılık ve İİBF'de Bağıl Değerlendirme Sistemi (çan eğrisi) uygulanır. Ham başarı alt sınırı 35-40 puandır.
+* **Cebeci Hukuk Kütüphanesinde Sabah 06:00 Sırası:**  
+  * Final haftasında Cebeci Hukuk Kütüphanesi'nin tarihi taş salonunda yer bulmak için sabah 06:30'da kapıda sıraya girilir.
+  * Montla veya kitapla yer tutup 1 saat gelmeyenlerin eşyaları güvenlik tarafından masadan toplanır.
+  * Sınav haftalarında rektörlük ve Çankaya Belediyesi gece 23:30'da sıcak mercimek çorbası dağıtır.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
 
-> 💬 **Öğrenci Notu:**  
-> "Ankara Üniversitesi'ni kazandıysan önce İngilizce hazırlığın (varsa) Gölbaşı'nda olduğunu unutma; ama 1. sınıftan itibaren Tandoğan veya Cebeci'ye geçtiğinde ANKARAY senin en yakın dostun olacak. Baharda Tandoğan Güneş Meydanı'nda veya Cebeci bahçesinde çimlere oturup o tarihi taş binaların ruhunu solumak paha biçilemez!"
+* **Bölünmüş Yerleşke Çilesi (Gölbaşı Hazırlık):**  
+  Tandoğan veya Cebeci'de okuyacağını sanıp ilk yıl Gölbaşı yerleşkesine gitmek zorunda kalan hazırlık öğrencilerinin günlük 2.5 saati Konya Yolu otobüslerinde tükenir.
+* **Tarihi Binalarda Priz ve Havalandırma Sıkıntısı:**  
+  Cebeci ve DTCF'deki tarihi amfilerde duvar prizi sayısı çok sınırlıdır; ders dinlerken dizüstü bilgisayar şarj etmek için uzatma kablosu şarttır. Kışın bazı köşe sınıflarda kalorifer petekleri yetersiz kalabilir.
+* **İdari Bürokrasi Yavaşlığı:**  
+  Cumhuriyet'in en eski bürokratik geleneğine sahip olduğu için öğrenci işlerinde dilekçe ve evrak onay süreçleri dijital çağda bile zaman zaman yavaş işleyebilir.
+
+---
+
+## 6. 💡 Altın Tavsiyeler (İlk Hafta Hayatta Kalma Kiti)
+
+1. **Başkentray Kartını Hazırla:** Sincan'dan veya Mamak'tan geliyorsan trafiğe girmeden doğrudan Cebeci istasyonunda inerek kampüse arka kapıdan gir.
+2. **Hukuk Kazandıysan İlk Haftadan Ders Kitaplarını Al:** Sınavlar yıllık olduğu için "nasılsa nisanda vize var" rehavetine kapılanların %70'i haziranda bütünlemeye kalır; günü gününe not tut.
+3. **Mülkiye İnek Bayramı'na Mutlaka Katıl:** Mayıs ayında düzenlenen asırlık İnek Bayramı festivalinde mizahi ferman okuma geleneğini ve Mülkiye marşlarını yerinde yaşa.
+4. **Anıtkabir Komşuluğunun Tadını Çıkar:** Tandoğan'da okuyorsan 29 Ekim, 10 Kasım ve 19 Mayıs günlerinde ders çıkışı yürüyerek Ata'nın huzuruna çıkmanın gururunu yaşa.

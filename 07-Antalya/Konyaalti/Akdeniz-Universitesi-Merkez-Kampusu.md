@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Antalya / Konyaaltı  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Konyaaltı - Kepez - Muratpaşa Kesişimi (Dumlupınar Bulvarı)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.8/5)
+> **Kampüs Konumu:** Konyaaltı - Kepez - Muratpaşa Kesişimi (Dumlupınar Bulvarı Üzeri)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (5.0/5)
 
 ---
 
@@ -12,95 +12,84 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 4 - 5 km / ~10-15 dk | Antray Tramvay Hattı (T3 / T1A) doğrudan Üniversite ve Hastane kapısında durur |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs içinde ve sınırında on binlerce kişilik dev Elmalılı Hamdi Yazır ve Akdeniz KYK yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 15.000 - 24.000 TL | Kültür Mahallesi, Meltem, Gülveren, Ahatlı ve Toros |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / Çok İyi | Merkezi yemekhanede 4 çeşit dengeli menü; Olbia Çarşısı ve fakülte kafeleri |
-| **📚 Kütüphane Kapasitesi** | 7/24 Açık / Geniş | Akdeniz Üniversitesi Merkez Kütüphanesi sınav dönemlerinde kesintisiz 7/24 açık |
-| **🌐 İnternet (eduroam)** | Çok Hızlı | Kampüs genelinde fiber optik omurga, açık alanlarda ve amfilerde güçlü eduroam |
-| **🌆 Sosyal Yaşam & Çevre** | Zirve Düzeyde Canlı | Kültür Mahallesi öğrenci semti, Konyaaltı Sahili (2 km), Olbia Çarşısı |
+| **🚇 Şehir Merkezine Uzaklık** | 4 - 5 km / ~10-15 dk | Antray Tramvayı (T3 / T1A) doğrudan Üniversite ve Hastane kapısında durur |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs içinde Elmalılı Hamdi Yazır, Şehzadeler ve Akdeniz KYK yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 16.000 - 25.000 TL | Kültür Mahallesi, Meltem, Gülveren, Ahatlı ve Toros mahalleleri |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / Çok Başarılı | Olbia Çarşısı yanı devasa yemekhane, 4 çeşit dengeli menü, Ziraat ürünleri |
+| **📚 Kütüphane Kapasitesi** | 7/24 Kesintisiz / Çok Geniş | Akdeniz Üniversitesi Merkez Kütüphanesi sınav haftasında 7/24 açık ve ikramlı |
+| **🌐 İnternet (eduroam)** | Ultra Hızlı | Kampüs genelinde fiber optik omurga, Olbia ve açık alanlarda güçlü eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | Zirve Düzeyde Canlı | Kültür Mahallesi öğrenci cumhuriyeti, Konyaaltı Sahili (2 km), Kaleiçi |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **Şehir Merkezinden ve Otogardan Ulaşım:**  
-  Akdeniz Üniversitesi Merkez Kampüsü, Antalya'nın en stratejik noktasında, 3.7 milyon metrekarelik devasa bir vaha gibidir. Ulaşım ağı Türkiye'nin en konforlu kampüslerindendir:
-  * **Antray (Hafif Raylı Sistem):** Kampüsün doğu ve kuzey aksında iki kritik istasyon bulunur: **Üniversite Durağı** ve **Hastane Durağı**. Antalya Şehirlerarası Otobüs Terminali'nden (Otogar) Antray'a binen bir öğrenci **7 dakikada** kampüs kapısındadır! Şehir merkezi (Muratpaşa - Kaleiçi - Işıklar) ise tramvayla sadece 12-15 dakika sürer.
-  * **Belediye Otobüsleri:** **VF01, VF02, LF09, LF10, TK36, TK51, AC03** gibi onlarca ana belediye otobüsü kampüs içi ring duraklarına ve Dumlupınar Bulvarı kapılarına kesintisiz sefer düzenler.
-* **Denize Uzaklık:**  
-  Kampüsün Meltem çıkışından Konyaaltı Sahili'ne yürüyüş 20-25 dakika, bisiklet veya scooter ile yalnızca 7-8 dakikadır. Ders çıkışı çantayı alıp Akdeniz'e yüzmeye gitmek Akdeniz Üniversitesi öğrencilerinin en doğal günlük rutindir.
-* **Kampüs İçi Ulaşım:**  
-  Yerleşke çok büyük olduğu için fakülteler arasında **ücretsiz kampüs içi ring araçları** sefer yapar. Ayrıca geniş bisiklet yolları ve binlerce elektrikli paylaşımlı scooter (BinBin, Martı vb.) aktiftir.
-* **Öğrenci Abonman & Antalyakart:**  
-  Antalya Büyükşehir Belediyesi'nin kişiselleştirilmiş öğrenci **Antalyakart** tarifesi tramvay ve otobüslerde büyük indirim sağlar.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları (Dev Yerleşke):**  
-  Kampüs sınırları içerisinde ve Dumlupınar Bulvarı hattında Türkiye'nin en büyük yurt kompleksleri yer alır:
-  * **Elmalılı Hamdi Yazır KYK Yurdu:** Kampüs arazisi içinde binlerce erkek ve kız öğrenciyi barındırır.
-  * **Şehzadeler, Korkuteli ve Toroslar KYK Yurtları:** Kampüse yürüme mesafesinde yer alan yüksek kapasiteli bloklardır.
-  * Kontenjan büyüklüğü sayesinde öğrencilerin KYK yurtlarına yerleşme oranı oldukça yüksektir.
-* **Efsanevi Öğrenci Mahallesi: Kültür Mahallesi:**  
-  Kampüsün batı (Dumlupınar) kapısının hemen karşısında yer alan **Kültür Mahallesi**, Türkiye'de örneğine az rastlanan bağımsız bir "öğrenci cumhuriyetidir". Mahallede aile neredeyse yoktur; yüzlerce 1+1 ve 1+0 apart, çalışma kafeleri, PlayStation salonları, dönerciler, fotokopiciler ve barlar sokağı 24 saat boyunca cıvıl cıvıldır.
-* **Meltem ve Gülveren Mahalleleri:**  
-  * **Meltem Mahallesi:** Kampüsün hastane ve tıp kapısına komşudur. Tıp, Diş Hekimliği ve Hukuk öğrencilerinin sakin ve nezih apartman hayatı için ilk tercihidir.
-  * **Gülveren ve Ahatlı:** Kültür'e komşu, yeni inşa edilmiş sitelerin ve rezidansların bulunduğu, kiraların bir nebze daha dengeli olduğu mahallelerdir.
+* **Antray (Tramvay) & Otogar Kolaylığı:**  
+  Akdeniz Üniversitesi'nin en büyük ulaşım lüksü, raylı sistemin kampüs sınırından geçmesidir:
+  * **Üniversite İstasyonu:** İletişim, Hukuk, İİBF ve Kültür Mahallesi kapısına bakar.
+  * **Hastane İstasyonu:** Tıp Fakültesi, Diş Hekimliği, Sağlık Bilimleri ve Meltem kapısına bakar.
+  * **Otogardan 7 Dakika:** Şehirlerarası Otobüs Terminali'nden (Otogar) Antray'a binen öğrenci sadece 2 durak sonra (7 dakikada) kampüs nizamiyesindedir!
+  * **Havalimanından Ulaşım:** Havalimanından kalkan Antray (T1A) veya 800 numaralı otobüs ile doğrudan kampüse aktarmasız gelinir.
+* **Denize Uzaklık & Sahil Kestirmesi:**  
+  Kampüsün Meltem kapısından çıkıldığında **Konyaaltı Sahili** sadece 1.8 km mesafededir. Yürüyerek 20 dakika, bisiklet veya paylaşımlı scooter (BinBin, Martı) ile 6-7 dakikada sahildesinizdir. Cuma günleri son dersten çıkıp sırt çantasından havlu çıkararak denize atlamak bir Akdeniz klasiğidir.
+* **Kampüs İçi Ringler & Otostop:**  
+  3.700 dönümlük dev kampüste Ziraat, Mühendislik ve Beden Eğitimi fakülteleri arasında yürümek 20 dakikayı aşar.
+  * Kampüs içinde çalışan **ücretsiz belediye/üniversite ringleri** fakülteler arasında sürekli dolaşır.
+  * **Otostop Noktaları:** Olbia Çarşısı göbeği, Ziraat Fakültesi çıkışı ve Meltem kapısı cebi öğrencilerin el kaldırdığı yerlerdir; kampüs içi araçlar öğrencileri mutlaka alır.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma & KYK Gerçekleri (Kültür vs Meltem)
 
-* **Dünya Çapında Tıp ve Sağlık:**  
-  Akdeniz Üniversitesi Tıp Fakültesi ve Üniversite Hastanesi, Türkiye'nin ilk yüz ve çift kol nakillerine imza atmış, organ naklinde uluslararası referans merkezidir.
-* **Fakülteler ve Çeşitlilik:**  
-  Ziraat Fakültesi (kendi dev araştırma seraları ve narenciye bahçeleri bulunur), İletişim Fakültesi (ödüllü kısa film ve radyo stüdyoları), Turizm Fakültesi (sektörün en prestijli eğitim kadrosu), Hukuk Fakültesi ve Mühendislik Fakültesi son derece köklüdür.
-* **Merkez Kütüphane:**  
-  Kampüsün ortasında yer alan devasa kütüphane binası yüz binlerce basılı kaynağa ve dijital veri tabanına ev sahipliği yapar. Vize ve final dönemlerinde 7/24 kesintisiz hizmet verir, öğrencilere gece çorbası ve sıcak içecek dağıtılır.
-* **Olbia Çarşısı (Aga Khan Mimarlık Ödüllü):**  
-  Ünlü mimar Cengiz Bektaş tarafından tasarlanan Olbia Sosyal Tesisleri; su kanalları, göletler, amfi tiyatro, kitapçılar ve açık hava kafeleriyle Türkiye'nin mimari açıdan en estetik kampüs merkezlerinden biridir.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane:**  
-  Olbia Çarşısı'nın hemen yanında yer alan iki katlı dev yemekhanede her gün binlerce öğrenciye 4 çeşit sıcak ve doyurucu tabldot yemek sunulur. Fiyat 2026 yılı itibarıyla sembolik düzeydedir (~25-30 TL).
-* **Kafeler ve Restoranlar:**  
-  Fakülte kantinlerinin haricinde kampüs içinde çok sayıda ulusal kahve zinciri, Olbia tesisleri kafeleri ve Kültür Mahallesi geçişindeki uygun fiyatlı lokantalar mevcuttur.
-* **Spor Kompleksleri:**  
-  Uluslararası standartlarda açık atletizm stadyumu, kapalı yüzme havuzu, tenis kortları, tırmanma duvarı, fitness salonları ve futbol sahalarıyla spor olanakları bakımından Türkiye'nin en donanımlı kampüslerindendir.
+* **KYK Yurtlarının Detaylı Röntgeni:**  
+  * **Elmalılı Hamdi Yazır KYK Yurdu:** Kampüs sınırları içerisinde Türkiye'nin en büyük yurt yerleşkelerindendir (on binlerce kapasite). Odalar 3-4 kişilik, bazalı ve çalışma masalıdır. Banyo ve tuvalet oda içerisindedir.
+    * *Çamaşırhane Çilesi:* Pazar akşamları yüzlerce öğrenci çamaşırhaneye yığılır; çamaşırları hafta içi sabah 08:00'de yıkamak zorunludur.
+    * *23:00 Turnikesi:* Parmak izi okuma sistemi dakiktir; 3 gecikmede yurt müdürlüğü savunma ister.
+  * **Şehzadeler ve Akdeniz KYK Yurtları:** Kampüse yürüme mesafesinde diğer büyük bloklardır.
+* **Efsanevi Kültür Mahallesi vs Nezih Meltem:**  
+  * **Kültür Mahallesi (3805. Sokak & Kafeler Caddesi):** Kampüs Dumlupınar kapısının hemen karşısıdır. Mahallede neredeyse aile yaşamaz; tamamen 1+1 eşyalı apartlar, barlar, kafeler, dönerciler ve öğrencilerden oluşur. Gece 03:00'te bile sokakları cıvıl cıvıldır (**16.000 - 24.000 TL**).
+  * **Meltem Mahallesi:** Tıp ve Hukuk öğrencilerinin kalesidir. Düzenli siteler, yeşil parklar ve Konyaaltı sahiline en yakın noktadır (**18.000 - 26.000 TL**).
+  * **Büyük Ev Sahibi Tuzağı - "Yazın Turiste Günlük Kiralama Baskısı":** Antalya'daki bazı uyanık ev sahipleri öğrencilere "10 aylık sözleşme" veya "haziranda evi boşaltma taahhüdü" imzalatıp yazın evi yabancı turistlere fahiş fiyata kiralamak ister. Asla tahliye taahhütnamesine imza atmayın; 12 aylık standart yasal kira sözleşmesi yapın.
+  * **Klimasız Ev Tuzağı:** Antalya sıcağında klimasız bir evde yaşamak tıbben mümkün değildir! Ev kiralarken klimanın durumunu mutlaka kontrol edin.
 
 ---
 
-## 5. 🌆 Şehir Dinamikleri ve Sosyal Hayat
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
-* **Sahil ve Kent Hayatı:**  
-  Antalya'da öğrencilik yapmak adeta 9 ay süren bir tatil-kampüs sentezidir. Hafta sonları Konyaaltı Sahili, Falez Parkları, Kaleiçi tarihi sokakları, Düden Şelalesi ve Lara sahili öğrencilerin başlıca kaçış noktalarıdır.
-* **Part-Time ve Staj Fırsatları:**  
-  Antalya bir dünya turizm ve fuar başkenti olduğundan; yabancı dil bilen, turizm, iletişim, gastronomi veya mühendislik okuyan öğrenciler için 5 yıldızlı otellerde, acentelerde, kongre merkezlerinde ve havalimanında part-time iş ve staj olanakları sınırsızdır.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* **Eşsiz Konum ve Doğa:** Palmiyeler, çam ağaçları ve portakal kokuları arasında, Konyaaltı sahiline yürüyüş mesafesinde botanik bahçesi tadında bir kampüs.
-* **Tramvay ve Ulaşım Rahatlığı:** Antray tramvayının hem merkeze hem otogara kampüs kapısından aktarmasız bağlaması.
-* **Kültür Mahallesi Gerçeği:** Kampüsten adımınızı attığınız anda 7/24 yaşayan, sadece öğrencilerden oluşan benzersiz bir sosyal hayat alanı.
-* **Akademik Prestij:** Özellikle Tıp, Turizm, Ziraat ve İletişim alanında Türkiye'nin zirve fakülteleri.
-
-### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
-* **Boğucu Yaz Sıcağı ve Nem:** Mayıs ayı sonundan Ekim ortasına kadar Antalya'da sıcaklık 40°C'yi, nem ise %80'i aşar. Klimasız evde yaşamak imkansızdır; kampüs içinde öğle saatlerinde yürümek aşırı terleticidir.
-* **Yüksek Ev Kiraları:** Rusya-Ukrayna savaşı sonrası gelen göç dalgası ve kentin turizm cazibesi ev kiralarını çok yükseltmiştir. Kültür ve Meltem'de uygun ev bulmak için yaz aylarında erken davranmak şarttır.
-* **Turist Kalabalığı ve Fiyatlar:** Bahar ve yaz aylarında şehir merkezindeki kafe ve restoran fiyatları turist tarifesine yaklaşabilir.
+* **Merkez Yemekhane (Olbia Yanı):**  
+  İki katlı devasa yemekhanede Akdeniz Kart ile ~25-30 TL'ye 4 çeşit sıcak yemek sunulur. Ziraat Fakültesi'nin kendi seralarından ve bahçelerinden gelen mevsim meyveleri ve sebzeleri menüye girdiğinde yemek kalitesi tavan yapar.
+* **Kampüs İçi ve Çevre Lezzetleri:**  
+  * **Ziraat Satış Noktası:** Kampüs içinde Ziraat Fakültesi önündeki büfeden taze sıkılmış portakal suyu, mandalina, nar ve reçel piyasanın yarı fiyatına alınır.
+  * **Meşhur Antalya Tahinli Piyazı:** Meltem ve Kültür'deki esnaf lokantalarında tarator soslu, haşlanmış yumurtalı tahinli piyaz ve köfte öğrencinin en doyurucu ziyafetidir.
+  * **Kültür Mahallesi Gece Tavuk Dönercileri:** Sabaha kadar açık olan lavaş dönerciler ve midyeciler vize gecesi acıkanların kurtarıcısıdır.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 4. 📚 Akademik & Sınav Hayatta Kalma
 
-> 💬 **Öğrenci Notu:**  
-> "Akdeniz'i kazandıysan tebrikler, Türkiye'nin en güzel kampüs hayatlarından birine adım atıyorsun! İlk tavsiyem: Eğer eve çıkacaksan mutlaka ama mutlaka kliması çalışan bir ev tut, klimasız Antalya'da tek bir gece bile uyuyamazsın. Derslerden arta kalan zamanlarda bisiklet veya scooter edin; Meltem kapısından sahile inip gün batımında denize girmek tüm sınav stresini silip süpürür. Barınma için de KYK çıkarsa hiç düşünmeden yerleş; kampüs içi yurtlar hem masrafsızdır hem de sabah dersine 5 dakikada yürürsün!"
+* **Notlandırma & Çan Eğrisi:**  
+  Akdeniz Üniversitesi'nde Bağıl Değerlendirme Sistemi uygulanır. Ham başarı barajı 35 puandır.
+* **Tıp Fakültesi ve Organ Nakli Ekolü:**  
+  Dünyada ilk yüz ve çift kol nakillerini gerçekleştiren Prof. Dr. Ömer Özkan ekolüyle Tıp Fakültesi kurul sınavları son derece zorludur; klinikte vaka çeşitliliği olağanüstüdür.
+* **Merkez Kütüphanede Sınav Nöbeti:**  
+  Final haftasında 7/24 açık olan kütüphanede sabah 07:30'da mont bırakarak yer tutma yarışı yaşanır. Kütüphane bahçesinde gece 00:00'da rektörlük ve Antalya Büyükşehir Belediyesi tarafından sıcak çorba ve ekmek ikram edilir.
+
+---
+
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **Bunaltıcı 42 Derece Sıcak ve %85 Nem:**  
+  Mayıs sonundan Ekim ortasına kadar Antalya'da gündüz gölgede 40-42 dereceye çıkan kavurucu sıcak ve nefes aldırmayan nem öğrencileri pestile çevirir. Kampüs içinde öğle saatlerinde fakülteden fakülteye yürümek aşırı yorucudur.
+* **Fahiş Kira ve Depozito Baskısı:**  
+  Antalya'nın yoğun göç alması ve turizm kenti olması sebebiyle ev kiraları Türkiye ortalamasının çok üzerindedir; uygun ev bulabilmek için temmuz ayından itibaren arayışa başlamak gerekir.
+* **Turist Sezonu Fiyat Artışları:**  
+  Kaleiçi ve sahil şeridindeki işletmeler yaz aylarında fiyatları döviz üzerinden güncellediği için öğrenci bütçesini zorlayabilir.
+
+---
+
+## 6. 💡 Altın Tavsiyeler (İlk Hafta Hayatta Kalma Kiti)
+
+1. **Klimasız Eve Asla İmza Atma:** Antalya'da kombi değil klima esastır; yatak odasında ve salonda çalışan bir klima olmadan o evde yazın uyuyamazsın.
+2. **Çantanda Mayo ve Havlu Taşımaya Alış:** Ders çıkışında arkadaşlarınla tramvaya atlayıp Konyaaltı Sahili'ne giderek denize girmek bu okulun sana sunduğu en büyük ayrıcalıktır.
+3. **Kültür Mahallesi'nde Sosyalleş, Meltem'de Kafa Dinle:** Hareketli bir gece hayatı istiyorsan Kültür'de; sakin, deniz havası alan bir ortam istiyorsan Meltem'de ev bak.
+4. **Antray Tramvay Kartını İlk Hafta Çıkart:** Otogar, çarşı ve kampüs arasında hayatını kolaylaştıracak indirimli Antalyakart'ını hemen teslim al.

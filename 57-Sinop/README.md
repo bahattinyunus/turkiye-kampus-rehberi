@@ -2,10 +2,10 @@
 
 > **Son Güncelleme:** Kasım 2026  
 > **Bölge:** Batı / Orta Karadeniz (İnceburun Yarımadası)  
-> **Öğrenci Nüfusu:** ~15.000+  
-> **Genel Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
+> **Öğrenci Nüfusu:** ~15.500+  
+> **Genel Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.3/5)
 
-TÜİK araştırmalarında defalarca **"Türkiye'nin En Mutlu Şehri"** seçilen **Sinop**, üç tarafı Karadeniz ile çevrili Boztepe yarımadası üzerindeki konumu, trafik ışığı bile bulunmayan huzurlu şehir merkezi, yüksek güvenlik algısı ve denizle iç içe yaşamıyla benzersiz bir üniversite şehridir. **Sinop Üniversitesi (SNÜ)**; Merkez (Osmaniye/Korucuk ve Akliman/Karakum aksı) ile Boyabat, Gerze ve Ayancık gibi ilçelerine yayılan yerleşkeleriyle eğitim vermektedir.
+TÜİK araştırmalarında defalarca **"Türkiye'nin En Mutlu Şehri"** seçilen **Sinop**, üç tarafı hırçın Karadeniz ile çevrili Boztepe yarımadası üzerindeki konumu, tek bir trafik ışığı bile bulunmayan sakin şehir merkezi, suç oranının sıfıra yakın olduğu yüksek güvenlik algısı ve denizle iç içe yaşamıyla Türkiye'nin en butik öğrenci şehirlerinden biridir. **Sinop Üniversitesi (SNÜ)**; Merkezde yer alan **Kuzey Kampüsü (Osmaniye / Korucuk)** ve Akliman sahil birimlerinin yanı sıra Boyabat, Gerze ve Ayancık ilçelerine yayılan fakülte ve yüksekokullarıyla hizmet vermektedir.
 
 ---
 
@@ -21,25 +21,36 @@ TÜİK araştırmalarında defalarca **"Türkiye'nin En Mutlu Şehri"** seçilen
 
 ---
 
-## 🚇 Ulaşım Rehberi: Dolmuş Hatları ve Yarımada İçi Erişim
+## 🚇 Ulaşım Rehberi: Dolmuş Hatları, Rüzgar Taktikleri ve Otostop
 
-* **Şehir İçi Ulaşım:** Sinop şehir merkezi yarımada üzerinde oldukça kompakt olduğu için çarşı içindeki her yere (Sakarya Caddesi, Âşıklar Caddesi, İskele, Karakum) yürüyerek 10-15 dakikada ulaşılır.
-* **Kampüs Dolmuşları:** Şehir merkezinden Osmaniye/Korucuk Kampüsü'ne, Eğitim Fakültesi'ne, Su Ürünleri Fakültesi'ne (Akliman yolu) ve KYK yurtlarına **Osmaniye / Kampüs / Korucuk / Bostancılı** dolmuşları düzenli olarak çalışır. Öğrenci dolmuş tarifesi uygulanır.
-* **Şehirlerarası Ulaşım:** Sinop Havalimanı şehir merkezine sadece 8 km uzaklıktadır ve İstanbul'a düzenli uçuşlar vardır. Otogar ise Korucuk/Osmaniye girişinde, kampüs ve yurtlar bölgesine oldukça yakın bir konumdadır.
+* **Yarımada İçi Ulaşım:** Sinop şehir merkezi (Sakarya Caddesi, Âşıklar Parkı, Tersane ve İskele) yarımada üzerinde kuruludur ve çarşı içindeki her yere yürüyerek 10 dakikada varılır.
+* **Kuzey Kampüs Dolmuşları:** Merkezden (Valilik ve Eski Otogar önü) kalkan **Osmaniye / Kuzey Kampüs / Korucuk / Bostancılı** dolmuşları her 10 dakikada bir hareket eder; öğrencileri fakülte kapılarına kadar götürür. İndirimli öğrenci dolmuş tarifesi geçerlidir.
+* **Otostop Noktaları:** Korucuk Kavşağı ve Gelincik Mahallesi duraklarında bekleyen öğrencilere yerel halkın araç durdurup alması çok yaygın ve güvenli bir dayanışmadır.
+* **Şehirlerarası Ulaşım:** Sinop Havalimanı (İstanbul seferleri) kampüse 5 km mesafededir. Yeni Sinop Otogarı ise doğrudan Korucuk mevkiinde, Kuzey Kampüsü'nün hemen yanı başındadır.
 
 ---
 
-## 🏠 Popüler Öğrenci Mahalleleri ve Barınma Dinamikleri
+## 🏠 Barınma ve Mahalle Dinamikleri: Nem, Küf ve Kiralar
 
-Sinop'ta yazlık turizm ve memur/öğrenci talebi yüksek olduğu için ev kiralama sezonunda (Ağustos-Eylül) erken davranmak çok önemlidir.
+Sinop yarımada şeklinde olduğu için imarlı arsa stoku kısıtlıdır; bu durum ev kiralarını ilçe boyutuna göre biraz yukarı çeker.
 
-1. **Osmaniye ve Korucuk Mahallesi (Merkez):** Ana kampüse, Sağlık/Mühendislik/Fen-Edebiyat binalarına ve KYK yurtlarına en yakın bölgedir. Yeni yapılan modern siteler ve 1+1 öğrenci apartları burada yoğunlaşmıştır.
-2. **Gelincik ve Yeni Mahalle (Merkez):** Yarımadanın girişinde, hem çarşıya hem de kampüs dolmuş güzergahına yakın, öğrencilerin en çok tercih ettiği mahallelerdir.
-3. **Ada, Kaleyazısı ve Meydankapı Mahallesi:** Çarşı merkezine, limana ve sosyal mekanlara yürüyerek 5 dakika mesafededir; binalar biraz daha eski olsa da sosyal hayatın tam kalbindedir.
-4. **Bostancılı / Akliman Yolu:** Eğitim Fakültesi ve Su Ürünleri Fakültesi'ne yakın sahil aksıdır.
+1. **Osmaniye ve Korucuk Mahallesi (Merkez):** Kuzey Kampüs'e, yeni devlet hastanesine ve otogara en yakın bölgedir. 1+1 eşyalı modern apartlar ve siteler bu mahallede toplanmıştır (11.000 - 15.500 TL).
+2. **Gelincik Mahallesi:** Yarımada girişinde yer alır; hem sahile hem şehir merkezine hem de kampüs dolmuş hattına yakınlığıyla öğrencilerin gözdesidir.
+3. **Ada ve Kaleyazısı Mahallesi:** Çarşının tam kalbinde, kafelerin ve limanın yanındadır; binalar eski olsa da sosyal hayata adımsayar mesafesindedir.
 
-### KYK Yurt Durumu
-Sinop'ta deniz manzaralı ve yüksek kapasiteli **Mahmut Kefevi KYK Kız Öğrenci Yurdu**, **Sinop KYK Kız Öğrenci Yurdu** ve **Seyyid İbrahim Bilal KYK Erkek Öğrenci Yurdu** (Merkez) ile Boyabat, Gerze ve Ayancık'ta KYK yurtları hizmet vermektedir.
+### KYK Yurtları ve Oda Standartları
+* **Mahmut Kefevi KYK Kız Öğrenci Yurdu & Sinop KYK Kız Yurdu:** Osmaniye / Korucuk bölgesindedir; deniz manzaralı blokları bulunur. Odalar 3-4 kişiliktir, baza sistemi ve oda içi banyo mevcuttur.
+* **Seyyid İbrahim Bilal KYK Erkek Öğrenci Yurdu:** Şehir girişine yakın, geniş spor alanları bulunan modern bir tesistir.
+* ⚠️ **Nem ve Küf Uyarısı:** Üç tarafı denizle çevrili olduğu için Sinop'ta havadaki bağıl nem oranı çok yüksektir. Ev kiralarken kuzey cepheli bodrum ve zemin kat dairelerden kesinlikle uzak durulmalı, odaların hava sirkülasyonu ve binanın dış cephe ısı yalıtımı titizlikle kontrol edilmelidir.
+
+---
+
+## 🍽️ Beslenme, Sokak Lezzetleri ve Mutfak Kültürü
+
+* **Sinop Mantısı Efsanesi:** Sinop mantısı Türkiye'de eşsizdir. Hamuru elle incecik açılır, içine kıyma konularak bükülür. En büyük alametifarikası: **Yarısı dövülmüş cevizli, yarısı sarımsaklı yoğurtlu ve kızgın tereyağlı** servis edilmesidir. Sakarya Caddesi'ndeki mantıcılarda bu tabağı yemeden Sinop öğrencisi olunmaz.
+* **Sinop Nokulu:** İnce mayalı hamur arasına bol ceviz ve üzüm (veya baharatlı kıyma) serilerek rulo yapılan nefis fırın lezzeti; çay saatlerinin vazgeçilmezidir.
+* **Karadeniz Balıkçılığı (Palamut & Hamsi Tava):** Sonbahar ve kış aylarında İskele boyundaki balıkçılarda taze palamut ızgara ve çıtır hamsi tava çok makul fiyatlara öğrenci sofralarını şenlendirir.
+* **Liman Çay Bahçeleri:** Karadeniz'in dev dalgalarını izlerken semaverde demli çay yudumlamak Sinop'un ruhudur.
 
 ---
 
@@ -47,11 +58,11 @@ Sinop'ta deniz manzaralı ve yüksek kapasiteli **Mahmut Kefevi KYK Kız Öğren
 
 | Gider Kalemi | Ortalama Maliyet Aralığı | Açıklama |
 | :--- | :--- | :--- |
-| **🏠 Ev Kirası (Merkez 1+1 / 2+1)** | 11.000 TL – 16.500 TL | Turistik yarımada etkisiyle merkezde kiralar orta-üst seviyededir |
-| **🛏️ Özel Yurt / Apart** | 8.500 TL – 14.000 TL | Gelincik ve Osmaniye çevresinde eşyalı apartlar |
-| **🚌 Aylık Ulaşım (Dolmuş)** | 600 TL – 950 TL | Merkezde çoğu yere yürünür, sadece kampüse dolmuş kullanılır |
-| **🍽️ Yemekhane & Dışarıda Beslenme** | 4.000 TL – 7.000 TL | Kampüs yemekhanesi ~25 TL; Sinop mantısı ve balık kültürü meşhur |
-| **☕ Sosyal Yaşam & Kişisel** | 3.000 TL – 5.500 TL | İskele, Karakum ve Kale burcu kafeleri |
+| **🏠 Ev Kirası (2+1 Paylaşımlı Daire)** | 11.000 TL – 16.500 TL | Gelincik ve Osmaniye'de kişi başı 4.500-6.000 TL |
+| **🛏️ Özel Apart / Pansiyon** | 8.500 TL – 13.500 TL | Eşyalı ve faturalar dahil opsiyonlar |
+| **🚌 Aylık Ulaşım (Dolmuş)** | 600 TL – 950 TL | Şehir içinde yürünür; yalnızca kampüse gidiş-dönüşte dolmuş kullanılır |
+| **🍽️ Yemekhane & Dışarıda Beslenme** | 4.000 TL – 7.000 TL | Kampüs yemekhanesi 25-30 TL; mantı ve taze balık tüketimi |
+| **☕ Sosyal Yaşam & Kişisel** | 3.000 TL – 5.500 TL | İskele kafeleri, Karakum plajı, kale turları |
 
 ---
 

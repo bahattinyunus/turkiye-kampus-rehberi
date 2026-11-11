@@ -3,7 +3,7 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Tekirdağ / Süleymanpaşa (Değirmenaltı)  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Merkez Kampüs (Deniz Manzaralı ve Öğrenci Mahallesiyle Bütünleşik)  
+> **Kampüs Konumu:** Merkez Kampüs (Marmara Denizi Manzaralı ve Değirmenaltı Öğrenci Mahallesiyle Bütünleşik)  
 > **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.5/5)
 
 ---
@@ -12,91 +12,96 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | Süleymanpaşa Çarşı: 7 km (~15 dk) | Değirmenaltı öğrenci mahallesinin tam bitişiğinde; çarşıya 5 dk'da bir minibüs |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Kampüs içinde ve sınırında büyük Kız ve Erkek KYK yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 13.500 - 20.000 TL | Değirmenaltı, Namık Kemal ve Hürriyet Mahallesi |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | Merkezi Yemekhane ve Yaşam Merkezi içinde doyurucu menüler |
-| **📚 Kütüphane Kapasitesi** | Mesai + Sınav Dönemi 7/24 | Merkez Kütüphane deniz manzaralı ve modern |
-| **🌐 İnternet (eduroam)** | İyi | Fakülteler, kütüphane ve sosyal yaşam merkezinde hızlı |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı | Kampüs kapısından çıktığınız an Değirmenaltı kafe/bar sokağı ve sahil |
+| **🚇 Şehir Merkezine Uzaklık** | Süleymanpaşa Çarşı: 7 km (~12-15 dk) | Değirmenaltı öğrenci mahallesinin dibinde; çarşıya her 3-5 dk'da bir TETUS ve TEULAŞ |
+| **🏠 KYK Yurt İmkanı** | Yüksek | Kampüs içinde ve üst kotta Tekirdağ, Namık Kemal ve Süleymanpaşa KYK yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 13.500 - 20.000 TL | Değirmenaltı (öğrenci cumhuriyeti), Namık Kemal ve Hürriyet Mahallesi |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | Merkezi Yemekhane ve Yaşam Merkezi bünyesinde 4 çeşit dengeli menü |
+| **📚 Kütüphane Kapasitesi** | Mesai + Sınav Dönemi 7/24 | Merkez Kütüphane ferah; sınav haftasında deniz manzaralı masalar hızla dolar |
+| **🌐 İnternet (eduroam)** | İyi | Fakülte derslikleri ve kütüphanede hızlı; açık alanlarda rüzgarlı günlerde zayıflayabilir |
+| **🌆 Sosyal Yaşam & Çevre** | Efsanevi Hareketlilik | Kampüs nizamiyesinden çıktığınız an kafeler, publar, bistrolar ve Marmara sahili |
 
 ---
 
 ## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
 
-* **Şehir Merkezinden Ulaşım:**  
-  NKÜ Değirmenaltı Merkez Kampüsü, Süleymanpaşa şehir merkezinin İstanbul yönündeki girişinde, Marmara Denizi'ne bakan ferah bir yamaçta yer alır. Şehir merkezinden (Köprübaşı, Sahil Dolgu Alanı, Otogar) kalkan **1, 2, 10 ve 11 numaralı TETUS minibüsleri ve belediye otobüsleri** her 3-5 dakikada bir hareket ederek hem Değirmenaltı Mahallesi'nin içinden hem de kampüs üst kapısı ve Tıp Fakültesi Hastanesi önünden geçer.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Kampüs giriş kapısı (Değirmenaltı) ile en üst noktadaki Tıp Fakültesi Hastanesi ve KYK Yurtları arasında tatlı-dik bir yokuş vardır. Ancak belediye otobüsleri kampüsün içine ve hastane/yurtlar bölgesine kadar çıktığı için yürümek istemeyen öğrenciler Tekkart ile birkaç dakikada üst kotlara ulaşabilir. Ziraat, İİBF, Fen-Edebiyat, Hukuk ve Merkezi Derslikler ise birbirine yakın yürüme mesafesindedir.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  **Tekkart** öğrenci kartı tüm otobüs ve TETUS araçlarında geçerlidir. Değirmenaltı Mahallesi'nde yaşayan binlerce öğrenci ise kampüse yürüyerek 5-10 dakikada ulaştığı için ulaşım ücreti ödemez.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Trakya'nın meşhur Balkan soğuğu ve poyraz rüzgarı kışın kampüs yamaçlarında sert hissedilir. Yağmurlu havalarda Tıp Fakültesi ve üst yurtlardan aşağı inerken otobüsleri kullanmak pratiktir.
+* **Şehir Merkezinden Kampüse Ulaşım:**  
+  NKÜ Değirmenaltı Merkez Kampüsü, Süleymanpaşa şehir merkezinin doğu girişinde, Marmara Denizi'ne hakim geniş bir yamaçta kuruludur.
+  * **TETUS Sarı Minibüsleri & TEULAŞ Otobüsleri:** Süleymanpaşa Çarşı (Köprübaşı, Sahil Dolgu Alanı, Eski Otogar) ve Hürriyet Mahallesi'nden kalkan **1, 2, 8, 10 ve 11 numaralı hatlar** her 3-5 dakikada bir hareket eder. Minibüsler hem Değirmenaltı Mahallesi içinden geçer hem de kampüs ana kapısı, Tıp Fakültesi Araştırma Hastanesi ve üst yurtlar bölgesine kadar tırmanır.
+  * **İndirimli Tekkart:** Toplu taşımada indirimli öğrenci **Tekkart** kullanılır.
+  * **Otostop Taktikleri:** Değirmenaltı alt kapı nizamiyesinden tepedeki Tıp Fakültesi ve KYK yurtlarına çıkarken öğrencilerin el kaldırması ve geçen araçların öğrenciyi alması günlük bir alışkanlıktır.
+* **İstanbul Entegrasyonu:**  
+  Tekirdağ Otogarı'ndan ve Değirmenaltı kavşağından İstanbul Esenler Otogarı, Alibeyköy ve Harem'e her yarım saatte bir ekspres otobüs seferi vardır. Yaklaşık 1.5 - 2 saatte İstanbul'a ulaşılabilmesi, öğrencilerin konser, sergi ve aile ziyaretlerini kolaylaştırır.
+* **Kış ve Lodos Fırtınaları:**  
+  Marmara Denizi'nin sert lodos ve poyraz fırtınalarında sahil boyunda yürürken dalgaların kıyı yoluna taştığı görülür; denizden gelen şiddetli rüzgara karşı su geçirmez rüzgarlık ve mont kampüs yokuşlarında hayat kurtarır.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma, Yurtlar ve Değirmenaltı Mahalle Dinamikleri
 
-* **KYK Yurtları:**  
-  * **Kız ve Erkek Yurtları:** Kampüs alanı içerisinde ve hemen komşuluğunda yüksek kapasiteli **Tekirdağ KYK Kız Öğrenci Yurdu**, **Namık Kemal KYK Kız Öğrenci Yurdu** ve **Süleymanpaşa KYK Erkek Öğrenci Yurdu** bulunur. Odalar yeni tip (3-4 kişilik) olup kampüsteki fakültelere yürüme mesafesindedir.
-* **Özel Yurtlar ve Apartlar:**  
-  Kampüsün hemen alt kapısından başlayan **Değirmenaltı Mahallesi**, Bursa Görükle veya Muğla Kötekli gibi tamamen öğrenci apartları ve özel yurtlarla donatılmış bir mahalledir. 1+0 ve 1+1 eşyalı stüdyo daireler çok yaygındır.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Değirmenaltı Mahallesi:** "Dersten çıkıp 5 dakikada evime ve kafelere geçeyim" diyen öğrencilerin 1 numaralı adresidir (1+1 kiraları 14.000 - 20.000 TL).
-  * **Hürriyet ve Namık Kemal Mahallesi:** Kampüsün batı komşusudur; daha geniş 2+1 ve 3+1 dairelerde 3 arkadaş eve çıkmak isteyenler için idealdir.
-  * **100. Yıl ve Ertuğrul (Çarşı):** Daha uygun kira (11.000 - 15.000 TL) arayan ve 15 dakikalık minibüs yolculuğunu sorun etmeyen öğrencilerin tercihidir.
-
----
-
-## 3. 🎓 Akademik ve Fiziki Altyapı
-
-* **Kütüphane İmkanları:**  
-  Kampüs merkezindeki **Merkez Kütüphane**, geniş çalışma salonları, bireysel kabinleri ve Marmara Denizi manzarasıyla öğrencilerin favori mekanıdır. Vize ve final haftalarında çalışma saatleri 7/24 düzenine geçer.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  **NKÜ Tıp Fakültesi Uygulama ve Araştırma Hastanesi** Trakya'nın en modern sağlık komplekslerinden biridir. Köklü bir geçmişe sahip olan **Ziraat Fakültesi** (bağcılık, tarla bitkileri, gıda ve biyosistem laboratuvarları), **Hukuk Fakültesi** (kurgusal duruşma salonu), **Veteriner Fakültesi** ve **NABİLTEM (Merkezi Araştırma Laboratuvarı)** oldukça güçlü donanıma sahiptir. *(Önemli Not: Mühendislik Fakültesi bu kampüste değil, Çorlu ilçesindedir!)*
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Merkezi dersliklerde, kütüphanede ve fakültelerde **eduroam** hızlı çalışır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Yelken ve Denizcilik, Tiyatro, Müzik, Doğa Sporları (Uçmakdere Yamaç Paraşütü), Hukuk, Tıp (TurkMSIC) ve Girişimcilik toplulukları kampüsün büyük konferans salonunda ve bahar şenliklerinde çok aktiftir.
+* **KYK Yurtları ve Standartlar:**  
+  * **Tekirdağ KYK Kız Yurdu & Namık Kemal KYK Kız Yurdu:** Kampüs arazisinin üst kısmında, Tıp Fakültesi Hastanesi'nin hemen arkasındadır. Odalar çoğunlukla 3-4 kişiliktir; baza, çalışma masası, mini buzdolabı ve oda içi banyo/WC mevcuttur. Çamaşırhanelerde sıra fişiyle haftalık yıkama yapılır.
+  * **Süleymanpaşa KYK Erkek Yurdu:** Kampüs sınırındadır; dersliklere yürüyerek 5-10 dakikada inilir.
+* **Değirmenaltı Mahallesi (Öğrenci Cumhuriyeti):**  
+  Kampüsün alt kapısıyla Marmara sahili arasında kalan Değirmenaltı Mahallesi, Bursa Görükle veya Muğla Kötekli gibi neredeyse %85'i üniversite öğrencilerinden oluşan bağımsız bir yaşam alanıdır.
+  * Mahallede yüzlerce 1+1, 1+0 eşyalı stüdyo apart yer alır (13.500 - 20.000 TL).
+  * ⚠️ **Kira ve Su Uyarısı:** Öğrenci yoğunluğu nedeniyle ev sahipleri ve emlakçılar yüksek kira ve depozito talep edebilmektedir. Ayrıca sahil hattındaki eski binalarda kışın deniz nemi sebebiyle ısınma maliyeti yüksek olabilir; yaz aylarında ise zaman zaman şebeke suyu basınç düşüklüğü yaşanabilmektedir.
+* **Alternatif Mahalleler:**  
+  * **Hürriyet ve Namık Kemal Mahallesi:** Kampüse komşu, 3 arkadaş paylaşımlı geniş 2+1 ve 3+1 aile tipi nezih binalardır.
+  * **100. Yıl Mahallesi:** Çarşı yönünde, daha ekonomik kira arayanların minibüsle 15 dakikada gidip geldiği bölgedir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🎓 Akademik İklim, Fakülteler ve Kütüphaneler
+
+* **Köklü Ziraat ve Sağlık Ekolü:**  
+  NKÜ Ziraat Fakültesi, Türkiye'nin en köklü tarım ve gıda ekollerindendir; bağcılık, tarla bitkileri ve biyosistem laboratuvarları çok güçlüdür. NKÜ Tıp Fakültesi Araştırma Hastanesi ise Trakya'nın en yoğun sağlık merkezlerindendir; stajyer doktorlar için yoğun vaka çeşitliliği sunar.
+* **Hukuk ve İİBF Dinamikleri:**  
+  Hukuk Fakültesi'nde kurgusal duruşma salonu ve amfi dersleri ciddiyetle yürütülür; vize ve final sınavlarında klasik baraj puanları geçerlidir.
+* ⚠️ **Önemli Fakülte Uyarısı:** Mühendislik Fakültesi (Bilgisayar, Makine, Endüstri vb.) bu kampüste değil, **40 km uzaktaki Çorlu ilçesinde** yer almaktadır! Tercih yaparken bu ayrım mutlaka bilinmelidir.
+* **Merkez Kütüphane Masa Kapma Savaşları:**  
+  Marmara Denizi'ne bakan Merkez Kütüphane, sınav haftalarında **7/24 açık** tutulur. Gece sıcak çorba servisi yapılır. Ancak sınav döneminde deniz gören ferah masaları kapabilmek için sabah saatlerinde kütüphanede olmak gerekir.
+
+---
+
+## 4. 🍽️ Beslenme, Sokak Lezzetleri ve Mutfak Kültürü
 
 * **Merkez Yemekhane:**  
-  Sosyal Yaşam Merkezi içerisindeki öğrenci yemekhanesinde öğle yemeği 25 - 30 TL bandında sunulur.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içindeki **Sosyal Yaşam Merkezi**'nde kafeler, kırtasiye, banka ATM'leri ve dinlenme alanları vardır. Ayrıca kampüsün alt kapısından adımınızı attığınız anda **Değirmenaltı Bahar Caddesi** üzerindeki yüzlerce öğrenci lokantası, kahveci, tatlıcı ve zincir market karşınıza çıkar.
-* **Spor Tesisleri:**  
-  NKÜ Spor Kompleksi içerisinde **Olimpik Kapalı Yüzme Havuzu**, büyük kapalı spor salonu, fitness salonu, halı saha ve tenis kortları mevcuttur.
+  Kampüsteki yemekhanede öğle ve akşam yemeği **25 - 30 TL** aralığındadır. Doyurucu 4 çeşit menü çıkar; Yaşam Merkezi'nde alternatif sandviç ve sıcak yemek noktaları da bulunur.
+* **Tekirdağ Gastronomi Haritası:**  
+  * **Tekirdağ Köftesi:** İrmik ve özel baharat karışımıyla meşe kömüründe pişirilen, parmak şeklinde sulu köftedir (Özcanlar, İki İkizler, Köfteci Şaban). Yanında sunulan **özel acı biber salçası sosu** ve sirkeli piyaz köftenin vazgeçilmezidir.
+  * **Fırınlanmış Sıcak Peynir Helvası:** Tuzsuz taze koyun/keçi peyniri, irmik ve şekerle hazırlanan, fırında üzeri altın sarısı kızartılarak güveçte sıcak servis edilen efsane lezzettir. Üzerine dondurma koydurarak yemek Tekirdağ geleneğidir.
+  * **Hayrabolu Tatlısı:** İçi peynirli, şerbetli ve üzeri tahin-ceviz kaplı Trakya klasiği.
+  * **Değirmenaltı Sokak Lezzetleri:** Gece ders çalışırken sipariş verilen kaşarlı öğrenci tostları, kumrular ve Değirmenaltı sahilindeki seyyar sıcak midyeciler.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 5. 🌆 Şehir Dinamikleri ve Değirmenaltı Sosyal Hayatı
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Tekirdağ (Süleymanpaşa) halkı son derece aydın, hoşgörülü ve çağdaş bir yaşam tarzına sahiptir. Kız ve erkek öğrenciler günün ve gecenin her saatinde Değirmenaltı'nda ve sahilde güvenle vakit geçirebilir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  **Değirmenaltı Sahili ve Kafe Sokağı**, Süleymanpaşa **Sahil Dolgu Alanı**, **Yelken Kulübü**, **Tekira AVM**, Haziran ayındaki meşhur **Uluslararası Tekirdağ Kiraz Festivali** ve doğa/kamp tutkunları için **Uçmakdere – Şarköy** rotası sosyal hayatı çok zenginleştirir. Ayrıca hafta sonu 1.5 saatte İstanbul'daki konser ve etkinliklere gidip dönmek çok yaygındır.
-* **Part-Time İş ve Staj Olanakları:**  
-  Kampüs içindeki **NKÜTEK (Teknopark)**, Değirmenaltı'ndaki onlarca kafe/restoran ve Tekira AVM'deki kurumsal mağazalar öğrencilere geniş part-time iş imkanı sunar.
+* **Değirmenaltı Gece & Gündüz Dinamiği:**  
+  Değirmenaltı Caddesi boyunca dizilen kafeler, kitapçılar, üçüncü nesil kahveciler ve bistrolar haftanın 7 günü dolup taşar. Dersten çıkan öğrencinin arkadaşlarıyla buluşup kahve içmesi veya sahilde oturması için toplu taşımaya ihtiyacı yoktur.
+* **Süleymanpaşa Sahil Kordonu & Uçmakdere:**  
+  Süleymanpaşa sahil dolgu alanındaki çay bahçeleri ve bisiklet yolları bahar aylarında çok hareketlidir. Şehrin batısındaki **Uçmakdere**, Marmara Denizi üzerinde yamaç paraşütü yapmak ve kamp kurmak isteyen doğa tutkunu öğrencilerin hafta sonu rotasıdır.
+* **Özgür ve Modern Trakya Ruhu:**  
+  Tekirdağ halkı öğrencilere karşı hoşgörülü ve medenidir; kadın ve erkek öğrenciler günün her saatinde sokaklarda huzurla dolaşabilir.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* **Değirmenaltı Öğrenci Mahallesi:** Kampüsle iç içe, denize kıyısı olan, yürüyerek her yere ulaşılabilen tam bir üniversite kasabası ortamı.
-* **Özgür, Güvenli ve İstanbul'a Yakın Konum:** Trakya'nın medeni sosyal yaşamı ve İstanbul'a 1.5 saat mesafede olması.
-* **Güçlü Kampüs Tesisleri:** Olimpik yüzme havuzu, yeni Tıp Hastanesi ve modern Merkez Kütüphane.
+* **Değirmenaltı Ayrıcalığı:** Kampüsün kapısından çıktığınız an tüm sosyal hayatın, kafelerin ve sahile uzanan sokakların içinde olma lüksü.
+* **İstanbul'a Çok Yakın Olmak:** 1.5 saatte İstanbul'a geçip konser, tiyatro veya aile ziyaretini günübirlik halledebilme imkanı.
+* **Marmara Manzaralı Kampüs:** Kütüphanesinden ve yemekhanesinden denizi gören ferah yerleşke.
 
-### ❌ Eksileri
-* **Yüksek Kira Fiyatları:** Değirmenaltı'nda yoğun öğrenci talebi ve İstanbul yakınlığı nedeniyle 1+1 apart kiralarının büyükşehirlerle yarışması.
-* **Kampüs İçi Yokuş:** Alt kapıdan üstteki Tıp Fakültesi ve KYK yurtlarına doğru yükselen eğim.
+### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+* **Mühendislik Öğrencilerinin Çorlu Sürgünü:** Mühendislik Fakültesi'nin merkezde sanılıp Çorlu Sanayi Bölgesi'ne düşülmesi hayal kırıklığı yaratabilir.
+* **Değirmenaltı Ev Fiyatları:** Öğrenci yoğunluğu sebebiyle mahalledeki apart kiralarının ve yeme-içme fiyatlarının gereğinden fazla yükselmesi.
+* **Marmara Lodosu ve Fırtınası:** Kış aylarında esen sert rüzgarların kampüs yokuşlarında yürümeyi zorlaştırması.
+* **Yazın Su Basıncı Sorunları:** Sıcak yaz aylarında Değirmenaltı'nda zaman zaman yaşanan su kesintileri ve basınç düşüşleri.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "NKÜ Tıp, Hukuk, İİBF, Ziraat, Fen-Edebiyat veya Merkez MYO'ları kazandıysanız sosyal hayat ve kampüs ortamı açısından Trakya'nın en şanslı öğrencilerindensiniz. Değirmenaltı'nda ev/apart tutacaksanız Eylül ayına bırakmayın; en güzel ve uygun fiyatlı daireler Ağustos sonunda kapışılır."
+> "Mühendislik yazacaksanız Süleymanpaşa sahilinde değil, 40 km uzaktaki Çorlu'da okuyacağınızı bilin! Değirmenaltı'nda ev tutacaksanız rüzgar alan kuzey cephe bodrum katlardan uzak durun, kışın doğalgaz faturası canınızı yakmasın. Peynir helvasını paket alıp soğuk yemeyin; çarşıdaki helvacılarda fırından yeni çıkmış sıcacık güveçte, dondurmalı yiyin. Hafta sonu da Değirmenaltı sahilinde gün batımını çay eşliğinde izlemeyi ihmal etmeyin!"

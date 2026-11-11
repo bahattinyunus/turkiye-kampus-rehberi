@@ -12,65 +12,71 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 40 - 55 km / ~60-90 dk | Kadıköy, Üsküdar ve Bostancı'dan üniversite servisleri (shuttle) ve ekspres hatlar |
-| **🏠 Yurt İmkanı** | Çok Yüksek (%80+ Konaklama) | Sabancı'da gölet kıyısı modern yurtlar; Özyeğin'de LEED Gold sertifikalı rezidanslar |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 22.000 - 38.000 TL | Sabancı için Kurtköy/Pendik/Tuzla; Özyeğin için Çekmeköy/Taşdelen/Sancaktepe |
-| **🍽️ Yemekhane & Restoranlar** | Zengin Çeşit / Yüksek Fiyat | Kampüs yemekhaneleri, bistro/kafeler, zincir restoranlar |
-| **📚 Kütüphane Kapasitesi** | 7/24 Kesintisiz & Dijital | Sabancı Bilgi Merkezi ve Özyeğin Kütüphanesi modern bireysel ve grup çalışma alanları |
-| **🌐 İnternet (eduroam)** | Ultra Hızlı | Fiber altyapı, açık alanda kesintisiz Wi-Fi, araştırma laboratuvarları |
-| **🌆 Sosyal Yaşam & Çevre** | Kendi Kendine Yeten Eko-Kampüs | Gölet çevresi, modern spor merkezleri, öğrenci kulüpleri, açık amfiler |
+| **🚇 Şehir Merkezine Uzaklık** | 40 - 55 km / ~60-80 dk | Kadıköy, Bostancı ve Üsküdar'dan shuttle servisleri; Marmaray İçmeler ve M5 Çekmeköy Metrosu entegrasyonu |
+| **🏠 Yurt İmkanı** | Çok Yüksek (%80+ Kapasite) | Sabancı'da gölet kıyısı modern yurtlar; Özyeğin'de LEED Gold sertifikalı rezidans blokları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 22.000 - 36.000 TL | Sabancı için Kurtköy/Yenişehir/Tuzla Aydınlı; Özyeğin için Çekmeköy/Taşdelen/Sancaktepe |
+| **🍽️ Yemekhane & Restoranlar** | Zengin Çeşit / Vakıf Standartları | Merkez yemekhane menüleri, bistrolar, zincir kahveciler (Starbucks, Nero, Espressolab) |
+| **📚 Kütüphane Kapasitesi** | 7/24 Kesintisiz & Dijital | **Sabancı Bilgi Merkezi** ve **Özyeğin Kütüphanesi** (Akıllı çalışma kabinleri, 7/24 ikramlar) |
+| **🌐 İnternet (eduroam)** | Ultra Hızlı / Gigabit | Kampüs genelinde gigabit Wi-Fi, araştırma laboratuvarları ve süper bilgisayar bağlantıları |
+| **🌆 Sosyal Yaşam & Çevre** | Bağımsız Eko-Kampüs | Gölet çevresi, olimpik spor salonları, açık hava sinemaları, Viaport ve Taşdelen çevresi |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚇 Ulaşım Taktikleri: Ekspres Shuttle Hatları ve Toplu Taşıma
 
-* **Sabancı Üniversitesi (Tuzla Kampüsü) Ulaşımı:**  
-  İstanbul'un Anadolu Yakası'nın en doğu ucunda, Kocaeli sınırında (Tuzla Orta Mahalle / Akfırat mevkii) kuruludur.
-  * **Marmaray & Metro Entegrasyonu:** Marmaray İçmeler İstasyonu ve M4 Tavşantepe Metrosu'ndan İETT hatları (132H, 133P) ve üniversite ring servisleri çalışır.
-  * **Özel Servisler (Shuttle):** Kadıköy, 4. Levent, Bostancı ve Taksim'den ücretli üniversite servisleri kalkar; ancak yolculuk trafiğe bağlı olarak 1 saatten 2 saate kadar uzayabilir.
-  * **Sabiha Gökçen Havalimanı Komşuluğu:** Kampüs havalimanına 15 dakika mesafededir; şehir dışından gelen öğrenciler için büyük avantajdır.
-* **Özyeğin Üniversitesi (Çekmeköy Kampüsü) Ulaşımı:**  
-  Çekmeköy'ün Nişantepe ormanlık alanında inşa edilmiştir.
-  * **M5 Metrosu:** M5 (Üsküdar - Çekmeköy - Samandıra) metrosunun Çekmeköy veya Madenler duraklarından kampüse düzenli ringler çalışır.
-  * Kadıköy, Altunizade ve Bostancı'dan üniversite servisleri ile 40-50 dakikada ulaşılır.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Yaşam Alanları
-
-* **Sabancı Yurtları:**  
-  Öğrencilerin ezici çoğunluğu kampüsteki yurtlarda barınır. 2 ve 4 kişilik odalarda çalışma masası, banyo ve internet standarttır. Kampüste gölet etrafında yürüyüş parkuru, sinema salonu, süpermarket ve sağlık merkezi yer alır.
-* **Özyeğin Yurtları:**  
-  Türkiye'nin en modern yurt binalarından birine sahiptir. LEED Gold sertifikalı binalarda enerji verimliliği yüksektir; fitness, çamaşırhane, çalışma salonları ve dinlenme terasları otel standartlarındadır.
+* **Sabancı Üniversitesi (Tuzla Kampüsü) Ulaşım Taktikleri:**  
+  Kampüs Kocaeli-Gebze sınırına çok yakın bir noktada (Tuzla Orhanlı/Orta Mahalle) konuşludur.
+  * *Marmaray & Otobüs Bağlantısı:* **Marmaray İçmeler İstasyonu**'ndan kalkan **133P** veya **M4 Pendik/Tavşantepe** metrosundan kalkan **132H** İETT otobüsleri ile kampüs kapısına ulaşılır.
+  * *Kadıköy & 4. Levent Shuttle Seferleri:* Üniversitenin Kadıköy Rıhtım, Bostancı İskelesi ve 4. Levent'ten kalkan özel servisleri (shuttle) otoyoldan ekspres gider; ancak pik saatlerde köprü/otoyol trafiği hesaba katılmalıdır.
+  * *Sabiha Gökçen Havalimanı Kolaylığı:* Kampüse sadece 15 dakika mesafededir; şehir dışından veya yurt dışından gelen öğrenciler için büyük lojistik konfordur.
+* **Özyeğin Üniversitesi (Çekmeköy Kampüsü) Ulaşım Taktikleri:**  
+  Çekmeköy Nişantepe orman arazisinde yer alır.
+  * *M5 Metrosu ve Ringler:* **M5 (Üsküdar - Çekmeköy - Samandıra) Metrosu**'nun **Çekmeköy** veya **Necip Fazıl** istasyonlarından kampüse düzenli ring servisleri çalışır.
+  * *Kadıköy ve Altunizade Shuttle:* Metrobüs Altunizade durağı ve Kadıköy'den kalkan servislerle 40-45 dakikada kampüs içine girilir.
 
 ---
 
-## 3. 🎓 Akademik Model ve İnovasyon
+## 2. 🏠 Barınma, Yurtlar ve Mahalle Dinamikleri
 
-* **Sabancı Üniversitesi - Çekirdek Müfredat ve Bölüm Seçme Özgürlüğü:**  
-  Öğrenciler üniversiteye girerken fakülteye girer; 1. sınıfın sonunda hiçbir sınava girmeden istediği lisans programını (Mühendislik, İİBF veya Sanat) özgürce seçebilir. Bu model Türkiye'de benzersizdir.
-* **Özyeğin Üniversitesi - Uygulamalı Girişimcilik:**  
-  Girişimcilik Fabrikası, Havacılık (Pilotaj simülatörleri), Gastronomi ve Mutfak Sanatları Le Cordon Bleu işbirliği ve Hukuk Fakültesi mahkeme salonu simülasyonları ile uygulamalı eğitimde öncüdür.
+### 🏢 Kampüs İçi Rezidans ve Yurt Hayatı
+* **Sabancı Yurtları:** Gölet etrafına dizilmiş modern yurt bloklarıdır. 2 ve 4 kişilik odalarda çalışma masası, banyo-tuvalet, buzdolabı ve merkezi havalandırma standarttır. Öğrencilerin %85'i kampüste kaldığı için 7/24 canlı bir yurt kültürü vardır. Turnike sistemi güvenlidir; çamaşırhane kullanımı ücretsiz/dijital randevuludur.
+* **Özyeğin Yurtları:** Türkiye'nin sürdürülebilir yeşil bina (LEED Gold) sertifikalı ilk kampüs yurtlarıdır. Fitness odaları, etüt salonları, ortak mutfaklar ve dinlenme teraslarıyla beş yıldızlı otel konforundadır.
 
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* Sabancı'da bölüm seçme özgürlüğü; Özyeğin'de girişimcilik ve sektör içi staj/iş birlikleri.
-* Türkiye'nin en güvenli, yeşil, çevre dostu ve modern yurt altyapılarına sahip olmaları.
-* Sabiha Gökçen Havalimanı'na yakınlık sebebiyle şehir dışından gelen öğrencilere hızlı lojistik avantajı.
-* Kütüphane, spor salonları ve sosyal tesislerin 7/24 yaşayan bir Amerikan kampüsü havası vermesi.
-
-### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
-* **İstanbul Dışında Yaşama Gerçeği (Coğrafi İzolasyon):** Her iki üniversite de haritada İstanbul olarak görünse de fiiliyatta şehir merkezine 40-55 km uzaklıktadır. Sabancı Üniversitesi Tuzla/Orhanlı'da neredeyse Gebze-Kocaeli sınırındadır; Kadıköy'e veya Beşiktaş'a gitmek git-gel 3-4 saatlik çileli bir yolculuktur. Öğrenciler haftalarca kampüs sınırları dışına çıkmadan "fanusta" yaşamak zorunda kalır.
-* **Shuttle (Servis) Bağımlılığı ve Fiyatları:** Toplu taşıma seçenekleri kısıtlı ve aktarmalı olduğu için öğrenciler üniversitenin özel servislerine mahkumdur. Servis ücretlerinin dönemlik maliyetleri bütçeleri zorlar; akşam son servis saatini kaçıran bir öğrencinin kampüse taksiyle dönmesi ise servet harcamak demektir.
-* **Tuzla Organize Sanayi ve Koku Problemi (Sabancı):** Sabancı Kampüsü'nün yakın çevresinde yer alan Tuzla ve Gebze sanayi tesisleri, rüzgarın tersten estiği bazı günlerde kampüse kimyasal veya atık kokusu taşıyabilmektedir; bu durum açık alanda vakit geçirmeyi olumsuz etkileyebilir.
-* **Yüksek Kampüs İçi Maliyetler ve Sınıfsal Farklar:** Vakıf üniversitesi ekosistemi içinde yemek, kahve, kırtasiye ve sosyal harcamalar oldukça yüksektir. Burslu okuyan öğrenciler ile zengin öğrenci profili arasındaki harcama kapasitesi uçurumu kampüs hayatında hissedilir.
+### 🏘️ Çevre Öğrenci Mahalleleri & Ev Kiraları
+* **Kurtköy / Yenişehir (Sabancı İçin):** Kampüse minibüs ve otobüsle 15 dakika mesafededir; siteler, marketler ve kafeler yoğundur (2+1 daireler 22.000 - 30.000 TL).
+* **Taşdelen / Alemdağ (Özyeğin İçin):** Çekmeköy metrosuna ve kampüs ringlerine yakın, esnaf lokantalarının bol olduğu bütçe dostu semtlerdir (2+1 daireler 20.000 - 28.000 TL).
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 3. 🍽️ Beslenme, Kampüs İçi Yaşam ve Sokak Lezzetleri
 
-> 💬 **Öğrenci Notu:**  
-> "Sabancı'da bölüm seçme özgürlüğü ve Özyeğin'de girişimcilik ruhu Türkiye'nin en iyisidir; eğitim kalitesine kimse laf edemez. Ama 'İstanbul'da okuyup her akşam Moda'da çimlere oturacağım' kafasındaysan fena yanılırsın! Burası kendi kuralı olan kapalı bir cumhuriyettir; yurt çıkmazsa dışarıda ev tutmak veya her gün saatlerce yol çekmek hayatını karartır. Mutlaka yurt başvurusunu ilk gün yap ve kampüs içi sosyal kulüplerde aktif ol!"
+* **Sabancı Çarşı & Gölet Restoranları:** Kampüs içindeki Çarşı binasında süpermarket (Carrefour), yemekhane, pizzacılar, burgerciler ve zincir kahveciler yer alır. Gölet kenarında termosla kahve içmek kampüsün en popüler anıdır.
+* **Özyeğin Öğrenci Merkezi:** Dünyaca ünlü **Le Cordon Bleu Mutfak Sanatları** programına ev sahipliği yapan Özyeğin'de gastronomi öğrencilerinin hazırladığı menüler ve kaliteli bistrolar kampüste yer alır.
+* **Viaport AVM Kaçamağı:** Sabancı öğrencileri için 10 dakika mesafedeki açık hava konseptli Viaport AVM; sinema, bowling ve outlet alışverişi için vazgeçilmez kaçış noktasıdır.
+
+---
+
+## 4. 📚 Akademik ve Hayatta Kalma Rehberi
+
+* **Sabancı Üniversitesi - Bölüm Seçme Özgürlüğü ve Çekirdek Müfredat:**  
+  Sabancı'ya giren hiçbir öğrencinin bölümü ilk yıldan belli değildir. 1. sınıfta ortak **Temel Geliştirme Yılı (HUM, SPS, MATH, NS)** dersleri alınır; 2. sınıfın sonunda öğrenci istediği mühendislik veya sosyal bilimler bölümüne puansız/koşulsuz kayıt yaptırabilir.
+* **Özyeğin Üniversitesi - Girişimcilik Fabrikası ve Sektör Odaklılık:**  
+  Pilotaj simülatörleri, mahkeme salonu ve Girişimcilik Fabrikası ile öğrenciler mezun olmadan kendi start-up'larını kurma ve holdinglerde uzun dönem staj yapma imkanına erişir.
+* **Kütüphanelerde 7/24 Sabahlama:**  
+  Sabancı Bilgi Merkezi ve Özyeğin Kütüphanesi final haftalarında sabaha kadar doludur; öğrencilere ücretsiz kahve, sandviç ve meyve ikramları yapılır.
+
+---
+
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **Coğrafi İzolasyon ve Şehir Merkezine Uzaklık:** Her iki kampüs de haritada İstanbul olsa da Kadıköy veya Beşiktaş'a gitmek git-gel 3 saati bulur; hafta içi şehre gitmek pratik değildir.
+* **Shuttle Ücretleri ve Kaçırma Stresi:** Servislerin dönemlik abonmanları öğrenci bütçesini zorlayabilir; gece son servisi kaçıran bir öğrencinin taksi tutması oldukça maliyetlidir.
+* **Tuzla Organize Sanayi Kokusu (Sabancı):** Rüzgarın tersten estiği bazı günlerde yakın çevredeki sanayi bölgelerinden gelen hafif kimyasal koku öğrencilerin dile getirdiği bir sorundur.
+
+---
+
+## 6. 💡 Altın Tavsiyeler
+
+> 💡 **Altın Kural 1:** Kampüs yurtlarında kalmayı birinci hedef yap; şehir merkezinden her gün Tuzla veya Çekmeköy'e gidip gelmek enerjini ve ders çalışma verimini yarı yarıya düşürür.  
+> 💡 **Altın Kural 2:** Sabancı'daysan 1. sınıfta farklı fakültelerden dersler alıp bölüm seçme özgürlüğünü sonuna kadar kullan; Özyeğin'deysen Girişimcilik Fabrikası'nın etkinliklerini ilk günden takip et.  
+> 💡 **Altın Kural 3:** Sabiha Gökçen Havalimanı'na yakınlığı avantaja çevir; yurt dışı değişim programları ve memleket seyahatlerinde İstanbul trafiğine girmeden uçuşa yetişme konforunu yaşa.

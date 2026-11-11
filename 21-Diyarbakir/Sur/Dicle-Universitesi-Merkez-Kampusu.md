@@ -1,10 +1,10 @@
 # 🏛️ Dicle Üniversitesi (DÜ) - Merkez Kampüsü
 
 > **Son Güncelleme:** Kasım 2026  
-> **İl / İlçe:** Diyarbakır / Sur (Kampüs Yerleşkesi)  
-> **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Merkez Ana Kampüs (Dicle Nehri Doğu Yakası)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4/5)
+> **İl / İlçe:** Diyarbakır / Sur (Dicle Yerleşkesi)  
+> **Üniversite Türü:** Devlet (Köklü Bölge Üniversitesi - 1973)  
+> **Kampüs Konumu:** Merkez Ana Kampüs (Dicle Nehri Doğu Yakası Platosu)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.3/5)
 
 ---
 
@@ -12,96 +12,84 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | Dağkapı/Ofis: 5 km (~15 dk) / Kayapınar: 12 km (~30 dk) | Belediye otobüsleri (A1-A4, E1, E8, F2) ve üniversite minibüsleri |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs içinde Selahattin Eyyubi, Halid Bin Velid, Süleyman Bin Halid KYK yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 9.500 - 17.000 TL | Ofis (Sanat Sokağı çevresi), Diclekent, Fırat Mah., 75. Yol |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Merkez Öğrenci Yemekhanesi; doyurucu bölge mutfağı menüleri |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri + Sınav Dönemi Gece Açık | Merkez Kütüphane + 7/24 açık çalışma salonları |
-| **🌐 İnternet (eduroam)** | Orta-İyi | Fakültelerde ve kütüphanede güçlü, açık alanlarda kampüs büyüklüğü nedeniyle değişken |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı | Sur İçi tarihi mekanlar, Ofis Sanat Sokağı, 75. Yol / Diclekent kafeleri |
+| **🚇 Şehir Merkezine Uzaklık** | Dağkapı/Ofis: 5 km (~12-15 dk) / Kayapınar: 12 km (~25-30 dk) | A1, A2, A3, E1 belediye otobüsleri ve Ofis-Üniversite minibüsleri |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (Kampüs İçi Şehir) | Selahattin Eyyubi Kız, Halid Bin Velid Erkek, Süleyman Bin Halid KYK yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 9.500 - 16.500 TL | Ofis (Sanat Sokağı çevresi), Diclekent, Medya Mah., 75. Yol |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / Çok Doyurucu | Merkez Öğrenci Yemekhanesi; etli ve zengin Güneydoğu menüleri |
+| **📚 Kütüphane Kapasitesi** | Sınav Dönemleri 7/24 Açık | DÜ Merkez Kütüphanesi (geniş okuma salonları, gece ikramları) |
+| **🌐 İnternet (eduroam)** | Orta-İyi | Fakültelerde, kütüphanede ve hastanede hızlı; açık arazide değişken |
+| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı & Tarihi | Sur İçi tarihi konaklar, Hasan Paşa Hanı, Ofis Sanat Sokağı, 75. Yol kafeleri |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Ağı, Dicle Nehri Geçişi ve Kampüs İçi Ring Taktikleri
 
-* **Şehir Merkezinden Ulaşım:**  
-  Dicle Üniversitesi Merkez Kampüsü, tarihi Diyarbakır Surları ve Dicle Nehri'nin hemen doğu yakasında, Ongözlü Köprü ve Fiskaya'nın karşısındaki platoda yer alır. Şehir merkezinden (Dağkapı ve Ofis) sadece 10-15 dakikada, yeni yerleşim bölgesi Kayapınar (Diclekent / 75. Yol) ve Otogar'dan ise **A1, A2, A3, A4, E1, E8, F2** numaralı belediye otobüsleri ve üniversite minibüsleriyle 25-35 dakikada doğrudan kampüs içindeki fakülte duraklarına ulaşılır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Kampüs 27.000 dönümle adeta kendi başına bir ilçe büyüklüğündedir. Tıp Fakültesi ve Hastaneler bölgesinden başlayıp Mühendislik, Hukuk, Eğitim, Veterinerlik ve KYK yurtlarına kadar uzanan geniş bir ring hattı mevcuttur; belediye otobüsleri ve minibüsler kampüsün en uçtaki yurtlar bölgesine kadar girer.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Büyükşehir Belediyesi'nin **Diyarkart** sistemi belediye otobüslerinde geçerlidir ve öğrenci biniş ücreti Türkiye'deki büyükşehirler arasında en ekonomik olanlardan biridir. Minibüslerde ise nakit öğrenci tarifesi uygulanır.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Diyarbakır'da kışlar çok yoğun kar yağışlı geçmez ancak Aralık-Şubat arası sabahları keskin bir kuru soğuk ve sis olabilir. Asıl iklim zorluğu Mayıs ortasından Eylül sonuna kadar süren **40°C üzeri yaz sıcaklarıdır**; bu dönemde klimalı belediye otobüsleri hayati önem taşır.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  Dicle Üniversitesi, kampüs içi KYK yurt kapasitesi açısından çok avantajlıdır:
-  * **Kız Yurtları:** Kampüs içindeki **Selahattin Eyyubi KYK Kız Öğrenci Yurdu**, **Süleyman Bin Halid KYK Kız Öğrenci Yurdu** ve **İbn-i Sina KYK Kız Öğrenci Yurdu** binlerce öğrenciyi barındırır. Odalar yeni tip bloklarda 3-4 kişiliktir.
-  * **Erkek Yurtları:** Kampüs içindeki **Halid Bin Velid KYK Erkek Öğrenci Yurdu** fakültelere ve merkez yemekhaneye çok yakındır.
-* **Özel Yurtlar ve Apartlar:**  
-  Yenişehir (Ofis) ve Kayapınar ilçelerinde özel kız/erkek öğrenci yurtları ve stüdyo daireler bulunmaktadır.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Kampüs arazisi üniversiteye ait olduğu için kampüsün hemen bitişiğinde kiralık sivil konut azdır (Seyrantepe/Fiskaya üstü hariç). Öğrenciler nehrin karşı yakasındaki merkezi mahallelerde ev tutar:
-  * **Ofis (Yenişehir - Sanat Sokağı / Ekinciler / Gevran Cad.):** Kampüse en yakın modern semttir. Tek otobüsle 10 dakikada kampüse geçilir. Öğrenci bütçesine uygun 2+1 ve 3+1 daireler bulunur.
-  * **Diclekent & Fırat Mahallesi (Kayapınar):** Geniş caddeleri, parkları, alışveriş merkezleri ve güvenlikli siteleriyle 3-4 öğrencinin birleşip geniş daire kiraladığı en popüler bölgedir.
+* **Dicle Nehri Geçişi ve Şehir Merkezinden Ulaşım:**  
+  Dicle Üniversitesi Kampüsü, tarihi Diyarbakır Surları ve Dicle Nehri'nin hemen karşı yakasındaki geniş platoda kuruludur. Şehir merkezinden kampüse geçiş Dicle Üniversitesi Köprüsü üzerinden sağlanır.  
+  * **Belediye Otobüsleri (Diyarkart):** Dağkapı, Ofis (Yenişehir), Bağlar ve Kayapınar (Diclekent / Gaziler) aksından kalkan **A1, A2, A3, A4, E1, E8 ve F2** belediye otobüsleri doğrudan kampüs içine girer. Diyarkart öğrenci ücreti Türkiye'deki büyükşehirler arasındaki en ucuz biniş tarifelerinden biridir.
+  * **Üniversite Minibüsleri:** Ofis ve Dağkapı'dan kalkan mavi minibüsler nakit öğrenci tarifesiyle birkaç dakikada bir kampüse yolcu taşır.
+* **27.000 Dönümlük Devasa Kampüste Ring Sırları:**  
+  Dicle Üniversitesi, arazisi bakımından Türkiye'nin en büyük kampüslerinden biridir. Tıp Fakültesi Hastaneleri nizamiyeye yakınken, Hukuk, Mühendislik, İlahiyat, Veterinerlik ve KYK Yurtları kampüsün kilometrelerce derinliğindedir.  
+  * Nizamiyede inip amfilere yürümeye çalışmayın; belediye otobüsleri ve kampüs içi ring araçları en uçtaki yurtlar bölgesine kadar dolaşır. Ders başlangıç saatlerinden 15 dakika önce ringe binmek zorunludur.
+* **Gece Ulaşımı Uyarısı:**  
+  Saat 22.00'den sonra şehir merkezinden kampüse giden belediye seferleri seyrekleşir. Gece şehirden kampüsteki yurda dönen öğrencilerin son minibüs saatlerini (genellikle 23.00) kaçırmaması veya ortaklaşa taksi kullanması gerekir.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma, Mahalle Dinamikleri ve Yurt Düzeni
 
-* **Kütüphane İmkanları:**  
-  Kampüs merkezinde yer alan **Dicle Üniversitesi Merkez Kütüphanesi**, geniş okuma salonları, internet erişimli bilgisayar odaları ve grup çalışma alanlarıyla hizmet verir. Sınav dönemlerinde geç saatlere kadar açık çalışma salonları ve kampüs içindeki KYK yurtlarının etüt odaları yoğun olarak kullanılır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  1966'da Ankara Üniversitesi'ne bağlı Tıp Fakültesi olarak temelleri atılan ve 1973'te kurulan Dicle Üniversitesi; **Tıp, Diş Hekimliği, Eczacılık, Hukuk, Veterinerlik, Mimarlık ve Mühendislik** alanlarında bölgenin referans kurumudur. **DÜBTAM** (Bilim ve Teknoloji Uygulama ve Araştırma Merkezi) gelişmiş laboratuvar altyapısına sahiptir. Tıp Fakültesi Hastanesi tüm Güneydoğu bölgesine hitap eden devasa bir sağlık kompleksidir; bu nedenle tıp ve sağlık öğrencilerinin gördüğü vaka çeşitliliği Türkiye ortalamasının çok üzerindedir.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Fakülte binaları ve kütüphanede `eduroam` aktif olarak çalışır. Öğrenci Bilgi Sistemi (OBS) üzerinden ders kayıtları ve belge işlemleri sorunsuz yürütülür.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Kampüs içindeki Kongre Merkezi'nde yıl boyunca ulusal kongreler, tiyatro gösterileri ve konserler düzenlenir. Tıp, Hukuk, Genç Yeşilay, Doğa Sporları, Havacılık ve TEKNOFEST takımları oldukça aktiftir.
+* **Kampüs İçi KYK Yurtları (Güvenli ve Huzurlu Yaşam):**  
+  Kampüs arazisi içinde kız ve erkek öğrenciler için devasa KYK yurtları yer alır:  
+  * **Kız Yurtları:** **Selahattin Eyyubi KYK Kız Yurdu**, **Süleyman Bin Halid KYK Kız Yurdu** ve **İbn-i Sina KYK Kız Yurdu**. Odalar 3-4 kişiliktir, bazalıdır ve banyolar oda içindedir. Yurtların etrafı çam ağaçlarıyla çevrili, güvenlikli ve son derece sakindir.
+  * **Erkek Yurtları:** **Halid Bin Velid KYK Erkek Yurdu**; yemekhaneye, spor sahalarına ve fakültelere yakın konumuyla erkek öğrencilerin ilk tercihidir. Çamaşırhanelerde sıra beklememek için hafta içi gündüz saatleri tercih edilmelidir.
+* **Öğrenci Evleri İçin Popüler Mahalleler (Nehrin Karşı Yakası):**  
+  Kampüsün hemen bitişiğinde sivil konut alanı bulunmadığı için ev tutan öğrencilerin tamamı nehrin karşı yakasındaki semtlerde yaşar:
+  * **Ofis (Yenişehir - Sanat Sokağı & Gevran Cad.):** Şehrin kalbidir. Kampüse tek minibüsle 10-12 dakikadır. 2+1 ve 3+1 daireler uygundur; kafe, tiyatro, kitapçı ve sokak hayatı çok zengindir.
+  * **Diclekent & 75. Yol (Kayapınar):** Diyarbakır'ın yeni, modern ve geniş bulvarlara sahip bölgesidir. Güvenlikli sitelerde havuzlu, otoparklı 3+1 veya 4+1 dairelerde 3-4 arkadaş birleşerek ev tutmak çok yaygındır.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🍽️ Beslenme, Ciğer Ritüeli ve Sur İçi Sokak Lezzetleri
 
 * **Merkez Yemekhane:**  
-  Kampüs içindeki Öğrenci Merkez Yemekhanesi'nde hafta içi öğle saatlerinde 4 çeşit doyurucu yemek çıkar. Diyarbakır'ın zengin mutfak kültürü yemekhane menülerine de olumlu yansır; et yemekleri ve çorbalar ortalamanın üzerindedir.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içindeki Öğrenci Çarşısı, Gölet alanı çevresindeki kafeler, Dicle Nehri manzaralı sosyal tesisler, banka şubeleri/ATM'ler, PTT ve kırtasiyeler bir öğrencinin kampüsten çıkmadan tüm ihtiyaçlarını karşılamasını sağlar.
-* **Spor Tesisleri:**  
-  Kampüs bünyesinde kapalı spor salonları, olimpik yüzme havuzu, futbol stadyumu, halı sahalar, tenis kortları ve Dicle Vadisi'ne bakan yürüyüş parkurları mevcuttur.
+  Kampüs merkezindeki devasa öğrenci yemekhanesinde 25-35 TL bandında çıkan menüler Güneydoğu mutfağının cömertliğini taşır. Et yemekleri bol porsiyonlu ve lezzetlidir.
+* **Diyarbakır Ciğeri Kültürü (Sabah & Gece Ciğercileri):**  
+  Diyarbakır'da ciğer günün 24 saati yenir!  
+  * **Sur İçi ve Dağkapı Durakları:** Ciğerci Muharrem, Ciğerci Remzi veya Dağkapı sokaklarındaki salaş ciğercilerde küçük şişlere dizilmiş kuzu ciğeri közde pişirilir. Tırnak pide üzerine çekilen ciğer; sumaklı maydanozlu soğan ezmesi, közlenmiş acı yeşil biber ve köpüklü yayık ayranıyla sarılarak yenir. Sınav haftalarında gece yarısı ciğere gitmek bir Dicle ritüelidir.
+* **Hasan Paşa Hanı Kahvaltısı ve Burma Kadayıf:**  
+  * Tarihi taş avlulu **Hasan Paşa Hanı**'nda hafta sonları yöresel otlu peynirler, kavurmalı yumurta ve çörekle serpme kahvaltı yapmak harika bir gelenektir.
+  * Şehir merkezindeki **Sıtkı Usta** veya **Hacı Levent**'te tereyağlı çıtır çıtır cevizli ya da fıstıklı sıcak burma kadayıf yemek sınav stresini unutturur.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 4. 📚 Sağlıkta Bölgesel Güç, Dicle Tıp ve Hukuk Amfileri
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Diyarbakır halkı ve esnafı şehir dışından gelen öğrencilere karşı son derece misafirperver ve ikram severdir. Özellikle Sur İçi ve Ofis esnafı öğrencilere her konuda yardımcı olur.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Diyarbakır sosyal yaşam açısından iki farklı dünya sunar:
-  1. **Tarihi Sur İçi:** **Hasan Paşa Hanı**'nda kahvaltı, **Sülüklü Han**'da şarap veya menengiç kahvesi, **Ulu Cami**, **Dört Ayaklı Minare**, **İçkale Müzesi**, **Cahit Sıtkı Tarancı ve Ahmed Arif Müzeleri** ile **Ongözlü Köprü** çevresi kültür ve tarih dolu bir atmosfer sunar.
-  2. **Modern Kayapınar (75. Yol & Diclekent) ve Ofis:** **Sanat Sokağı**, **Mahabad Bulvarı (75. Yol)** üzerindeki devasa üçüncü nesil kahveciler, dünya mutfağı restoranları, **Ceylan Karavil Park** ve **Forum Diyarbakır AVM** modern şehir yaşamının kalbidir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Kampüs içindeki **Dicle Teknokent**, yazılım ve mühendislik öğrencileri için önemli bir Ar-Ge ve staj merkezidir. Ayrıca 75. Yol, Diclekent ve AVM'lerdeki kafe ve mağazalarda part-time iş olanakları oldukça fazladır.
+* **Dicle Tıp & Diş Hekimliği'nin Devasa Klinik Gücü:**  
+  Dicle Üniversitesi Tıp Fakültesi Hastaneleri; Onkoloji, Kalp, Çocuk ve Acil Travma merkezleriyle tüm Güneydoğu Anadolu ve komşu ülkelere hitap eden dev bir sağlık üssüdür. Tıp öğrencileri ve asistanlar Türkiye'nin hiçbir yerinde göremeyecekleri karmaşık vakaları, travmaları ve nadir hastalıkları ilk elden tedavi ederek yetişir.
+* **Hukuk ve Mühendislik Geleneği:**  
+  Dicle Hukuk Fakültesi bölgenin en saygın hukukçularını ve hakim-savcılarını yetiştirmiştir. Amfilerdeki münazara kültürü ve kurgusal duruşmalar öğrencileri mesleğe hazırlar.
+* **DÜBTAM Laboratuvarları:**  
+  Bilim ve Teknoloji Uygulama ve Araştırma Merkezi (DÜBTAM), ileri teknoloji cihazlarıyla fen ve mühendislik araştırmacılarına hizmet verir.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
 
-### ✅ Artıları
-* **Devasa Kampüs ve Kampüs İçi KYK Yurtları:** Yurtların doğrudan kampüs içinde olması barınma ve ulaşım masrafını sıfıra indirir.
-* **Güçlü Tıp, Hukuk ve Mühendislik Geleneği:** 50 yılı aşkın akademik birikimi ve bölge hastanesi sayesinde özellikle uygulamalı bölümlerde çok güçlü bir eğitim verir.
-* **Eşsiz Gastronomi ve Canlı Sosyal Hayat:** Ciğer kebabı, kaburga dolması, burma kadayıf gibi lezzetlere öğrenci bütçesiyle bile ulaşabilmek ve 75. Yol / Sur İçi gibi çok canlı sosyal alanlara sahip olmak büyük ayrıcalıktır.
-
-### ❌ Eksileri
-* **Kavurucu Yaz Sıcakları:** Mayıs sonundan Eylül ortasına kadar hava sıcaklıkları 40-45°C'yi bulur; bahar dönemi finallerinde sıcak bunaltıcı olabilir.
-* **Kampüsün Çok Büyük Olması:** Fakülteler arası mesafeler uzak olduğu için kampüs içinde yürümek bazen yorucudur, ring/otobüs beklemek gerekir.
-* **Sabah Saatlerinde Köprü Trafiği:** Şehir merkezinden kampüse geçişi sağlayan Seyrantepe ve Üniversite Köprüsü kavşaklarında sabah 08.00-09.00 arası trafik yoğunluğu yaşanır.
+* **40-45°C'yi Aşan Kavurucu Yaz Sıcağı:**  
+  Mayıs sonundan Eylül sonuna kadar Diyarbakır'da dışarısı adeta fırına döner. Klimalı amfiler ve kütüphane dışında öğle saatlerinde açık kampüs arazisinde yürümek imkansızdır.
+* **Kampüsün Şehirden İzole Olması:**  
+  Kampüs kendi içinde bir dünya olsa da, akşamları şehir merkezindeki bir kafeye veya sinemaya gitmek için köprüyü geçip şehre inmek gerekir; gece dönüşlerinde minibüs bulmak zorlaşabilir.
+* **Cuma Akşamı Memlekete Kaçış Boşluğu:**  
+  Öğrencilerin büyük bölümü Batman, Mardin, Siirt, Şanlıurfa ve Elazığ'dan geldiği için Cuma öğleden sonra kampüsteki yurtlar ve fakülteler boşalır.
+* **Geniş Arazide eduroam Kopmaları:**  
+  Fakülte binaları içinde hızlı olan kablosuz internet, binalar arasındaki geniş mesafelerde çekmez.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 6. 💡 İlk Günden Mezuniyete Altın Tavsiyeler
 
-> 💬 **Öğrenci Notu:**  
-> "Diyarbakır'a gelmeden önce kafanızda önyargılar varsa ilk haftada Sülüklü Han'da bir kahve içip akşam 75. Yol'daki kafelere gittiğinizde hepsinin yıkıldığını göreceksiniz. İlk senenizde mutlaka kampüs içindeki KYK yurtlarını (Selahattin Eyyubi veya Halid Bin Velid) tercih edin; eve çıkacaksanız da ulaşım kolaylığı için Ofis'i veya modern yaşam için Diclekent'i seçin."
+1. **İlk Yıl Kampüs İçi KYK Yurtlarında Kal:** Şehir merkezinden her gün nehir köprüsünü geçip kampüsün içine kadar gelmektense, kampüsteki ağaçlık KYK yurtlarında kalmak sabahları sana en az 1 saat kazandırır.
+2. **Yaz Sıcağına Karşı Hazırlıklı Ol:** Açık renkli pamuklu kıyafetler, şapka ve güneş gözlüğü Diyarbakır'da bir tarz değil, zorunlu bir ihtiyaçtır.
+3. **Sur İçi ve Hevsel Bahçeleri'ni Keşfet:** UNESCO Dünya Mirası Hevsel Bahçeleri, On Gözlü Köprü ve tarihi Sur sokaklarında çay içmeyi ve fotoğraf çekmeyi ihmal etme.
+4. **Diyarkart Öğrenci Abonmanını İlk Hafta Al:** Otobüslerdeki ucuz öğrenci tarifesinden faydalanarak şehir içinde sınırsızca dolaş.
+5. **Kütüphanenin Klimalı Salonlarını Sığınak Yap:** Yaz aylarında final sınavlarına çalışırken Merkez Kütüphane'nin klimalı etüt salonları en verimli çalışma ortamındır.

@@ -3,7 +3,7 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Sivas / Merkez (Kayseri Yolu - Kızılırmak Kıyısı)  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Ana Kampüs (18 fakültenin tek çatı altında toplandığı devasa yerleşke)  
+> **Kampüs Konumu:** Ana Kampüs (18 fakültenin ve 10.000 kişilik KYK kentinin tek çatı altında toplandığı 11.000 dönümlük devasa yerleşke)  
 > **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.3/5)
 
 ---
@@ -12,91 +12,96 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 6 km (~15-20 dk) | Meydan ve Yenişehir'den sürekli halk otobüsü seferleri |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek (5/5) | Türkiye'nin en büyük KYK kompleksi (10.000+ kişilik) kampüs içinde |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 9.000 - 14.500 TL | Yenişehir, Kardeşler (Bağdat Cad.), Eğriköprü |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 20 - 25 TL / İyi | Merkezi Yemekhane + Cumhuriyet Kart sistemi |
-| **📚 Kütüphane Kapasitesi** | 7/24 Açık (Sınav Dönemleri) | Prof. Dr. Fuat Sezgin Merkez Kütüphanesi |
-| **🌐 İnternet (eduroam)** | İyi | Fakülteler, kütüphane ve öğrenci merkezinde güçlü |
-| **🌆 Sosyal Yaşam & Çevre** | Canlı (Kampüs Kenti) | Kampüs içi gölet, kafeler, çarşı + Bağdat ve İstasyon Caddesi |
+| **🚇 Şehir Merkezine Uzaklık** | 6 km (~15 dk) | Kent Meydanı, İstasyon Caddesi ve Kümbet'ten sürekli halk otobüsü hatları |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (5/5) | Binali Yıldırım KYK Yerleşkesi (10.000+ kişilik dev kompleks) doğrudan kampüs içinde |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 9.000 - 14.500 TL | Yenişehir, Bağdat Caddesi (Kardeşler), Eğriköprü, Kümbet |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 20 - 25 TL / Çok İyi | Merkezi Yemekhane + Tıp yemekhanesi; 4 çeşit zengin menü |
+| **📚 Kütüphane Kapasitesi** | 7/24 Açık (Sınav Dönemleri) | Prof. Dr. Fuat Sezgin Merkez Kütüphanesi; vize/final haftasında sabah 07:30'da dolar |
+| **🌐 İnternet (eduroam)** | İyi | Fakülte içleri ve kütüphanede hızlı; açık alanlarda kışın sinyal dalgalanabilir |
+| **🌆 Sosyal Yaşam & Çevre** | Kampüs Şehri Dinamiği | Kampüs içi çarşı, gölet, atlı spor tesisleri + İstasyon ve Bağdat Caddesi kafeleri |
 
 ---
 
 ## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
 
-* **Şehir Merkezinden Ulaşım:**  
-  SCÜ Merkez Kampüsü, Sivas şehir merkezinin güneyinde, tarihi Eğriköprü ve Kızılırmak nehrinin hemen ötesinde 11.000 dönümlük devasa ve **düz** bir arazi üzerinde yer alır. Şehir merkezinden (Kent Meydanı, İstasyon Caddesi, Yenişehir) kalkan **Üniversite** ve **Yurtlar** hattı özel halk otobüsleri 3-5 dakikada bir hareket ederek kampüsün içindeki fakülte duraklarını ve KYK yurtlarını dolaşır. Ayrıca şehirdeki diğer mahallelerden (Kümbet, Aydoğan, Fatih, Karşıyaka vb.) doğrudan kampüse gelen **"Ü"** kodlu çapraz otobüs hatları mevcuttur.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Kampüs düz ayak olduğu için Tıp, Diş, Eczacılık, Mühendislik, Eğitim, Hukuk, İİBF, Edebiyat ve Fen fakülteleri arasında yürümek çok rahattır. Kampüs içi bisiklet ve elektrikli scooter kullanımı (bahar/sonbahar aylarında) oldukça yaygındır. Ayrıca belediye otobüsleri kampüsün en uç noktasındaki Binali Yıldırım KYK Yurtları'ndan başlayarak tüm fakültelerin önünden geçtiği için doğal bir ring görevi görür.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  **Sivas Kentkart** öğrenci kartı kullanılır. Mobil uygulama üzerinden otobüslerin anlık konumu ve QR kodla biniş imkanı mevcuttur.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Sivas kışın Türkiye'nin en soğuk illerinden biridir (-15°C / -20°C'ler görülür). Ancak belediye ve üniversite kar küreme konusunda çok tecrübeli olduğu için kampüs yolları hiçbir zaman kapanmaz. Yurtlardan fakültelere giderken Sivas ayazına karşı termal içlik, bere ve kaymaz tabanlı bot hayati önem taşır.
+* **Şehir Merkezinden Kampüse Ulaşım:**  
+  SCÜ Merkez Kampüsü, Sivas şehir merkezinin 6 km güneyinde, tarihi Eğriköprü ve Kızılırmak vadisinin ardındaki geniş ve düz bir plato üzerine kuruludur.
+  * **Belediye Halk Otobüsleri:** Tarihi Kent Meydanı, İstasyon Caddesi ve Kümbet Mahallesi'nden kalkan **"Üniversite / Yurtlar"** halk otobüsleri her 3-5 dakikada bir hareket eder. İndirimli **Sivas Kentkart** kullanılır. Otobüsler kampüs nizamiyesinden girip sırasıyla Tıp, Diş, Mühendislik, İİBF, Eğitim, Rektörlük ve en arkadaki Binali Yıldırım KYK yurt bloklarına kadar tırmanır.
+  * **Çapraz Mahalle Hatları:** Kümbet, Aydoğan, Şirinevler ve Karşıyaka mahallelerinden doğrudan kampüse aktarmasız giden "Ü" kodlu hatlar öğrenci transferinde büyük kolaylıktır.
+* **YHT (Yüksek Hızlı Tren) Hayat Kurtaran Hat:**  
+  Sivas YHT Garı'ndan kalkan yüksek hızlı trenlerle **Ankara'ya 2 saat 30 dakikada**, **İstanbul'a ise 6 saatte** ulaşılır. Sivas'ta okuyan Ankaralı veya İç Anadolulu öğrenciler hafta sonlarını memleketlerinde geçirebilmektedir. Biletler yoğun talep gördüğü için perşembe-cuma seferlerine en az 1 hafta önceden rezervasyon yapılmalıdır.
+* **Kampüs İçi Ulaşım ve Düz Arazi:**  
+  11.000 dönümlük arazide fakülteler ve sosyal tesisler birbirine düz yürüyüş yollarıyla bağlıdır. Karadeniz kampüsleri gibi dik yokuşlar yoktur; ancak kış aylarında binalar arasındaki geniş açıklıklarda esen Sivas ayazı yürümeyi zorlaştırabilir.
 
 ---
 
 ## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
 
-* **KYK Yurtları:**  
-  * **Binali Yıldırım Kampüsü KYK Kız ve Erkek Yurtları:** Kampüsün hemen içinde yer alan 10.000 kişilik bu devasa yurt kompleksi, otel standartlarında 3-4 kişilik odalara, kendi içinde çarşıya, kafeye, spor salonlarına ve konferans salonuna sahiptir.
-  * **Diğer Kampüs İçi KYK Yurtları:** **Kadı Burhaneddin KYK Erkek Yurdu**, **Şems-i Sivasî KYK Kız Yurdu** ve **İzzeddin Keykavus KYK Kız Yurdu** da kampüs sınırları içerisindedir. Özetle SCÜ'yü kazanan bir öğrencinin açıkta kalma ihtimali neredeyse yoktur ve tüm yurtlar fakültelere yürüme/5 dk otobüs mesafesindedir.
-* **Özel Yurtlar ve Apartlar:**  
-  Özellikle **Yenişehir Mahallesi**'nde "elektrik + su + ısınma + internet dahil" konseptiyle çalışan 1+0 ve 1+1 eşyalı öğrenci apartları çok yaygındır. Kışın yüksek doğalgaz faturası sürprizi yaşamak istemeyen öğrenciler "yakıt dahil" apartları tercih eder.
+* **Binali Yıldırım KYK Yurt Yerleşkesi (Türkiye'nin En Büyük Yurt Kenti):**  
+  Doğrudan kampüs arazisi içinde yer alan bu devasa kompleks, 10.000'i aşkın kız ve erkek öğrenciye ev sahipliği yapar. Kampüs içinde adeta kendi başına bir ilçe gibidir:
+  * **Oda Standartları:** Odalar çoğunlukla 3 veya 4 kişiliktir. Her odada kişisel çalışma masası, bazalı yatak, mini buzdolabı ve banyo/tuvalet bulunur.
+  * **Isınma & Sıcak Su:** Sivas'ın -25 dereceyi bulan ayazında merkezi kalorifer sistemi 24 saat yüksek derecede yanar; sıcak su kesintisizdir.
+  * **Sosyal İmkânlar:** Kompleks içerisinde kendi öğrenci çarşısı, marketler, erkek/kadın kuaförleri, terzi, PTT, bankamatikler, çamaşırhaneler (sıra fişiyle çalışır), kafeteryalar ve dev spor salonları yer alır.
+  * **Diğer Yurtlar:** Kampüs içi **Kadı Burhaneddin KYK**, **Şems-i Sivasi KYK** ve **Sancaktar KYK** yurtları sayesinde Sivas'ta hiçbir öğrenci açıkta kalmaz.
 * **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Eğriköprü ve Kardeşler Mahallesi (Bağdat Caddesi):** Kampüs giriş kapısına en yakın, son yıllarda inşa edilmiş lüks sitelerin ve öğrenci kafelerinin toplandığı en popüler bölgedir.
-  * **Yenişehir Mahallesi:** İva Park AVM çevresi; marketlere, otobüs duraklarına ve şehir merkezine yakınlığıyla bilinir.
+  * **Yenişehir Mahallesi & İva Park Çevresi:** Rezidansların, 1+1 ve 2+1 yeni apartların bulunduğu, kışın merkezi sistem veya kombiyle ısınan modern öğrenci bölgesidir (9.000 - 14.500 TL).
+  * **Bağdat Caddesi (Kardeşler Mahallesi):** Kampüs giriş köprüsüne en yakın elit bölgedir; üçüncü nesil kahvecilerle çevrilidir.
+  * **Kümbet ve İstasyon Caddesi:** Şehir merkezinin kalbidir; tren garına ve çarşıya yürüme mesafesinde daha ekonomik aile tipi evler bulunur.
+  * ⚠️ **Doğalgaz ve İzolasyon Uyarısı:** Sivas'ta müstakil ev tutarken mantolaması olmayan eski binalardan kesinlikle kaçının; Sivas ayazında kötü yalıtımlı bir dairenin aylık gaz faturası ev kirasını geçebilir!
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 3. 🎓 Akademik İklim, Tıp Ekolü ve Kütüphaneler
 
-* **Kütüphane İmkanları:**  
-  Kampüsün merkezinde yer alan **Prof. Dr. Fuat Sezgin Merkez Kütüphanesi**, geniş çalışma salonları, grup odaları ve zengin veri tabanıyla hizmet verir. Sınav dönemlerinde 7/24 açık tutulur.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  SCÜ, **Tıp Fakültesi Araştırma ve Uygulama Hastanesi**, **Diş Hekimliği Fakültesi Hastanesi**, **Eczacılık**, **Veteriner Fakültesi Hayvan Hastanesi** ve **Mühendislik** laboratuvarlarıyla Doğu/İç Anadolu'nun en büyük sağlık ve Ar-Ge üssüdür. Tüm bu fakültelerin tek bir merkez kampüste yan yana olması disiplinlerarası çalışmalar için büyük avantajdır.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Kampüs genelinde **eduroam** altyapısı güçlüdür.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Cumhuriyet Üniversitesi'nde 100'e yakın öğrenci kulübü vardır. Kayak ve Kış Sporları Kulübü (Yıldız Dağı Kayak Merkezi etkinlikleri), TEKNOFEST takımları, Tiyatro, Müzik ve Dağcılık kulüpleri oldukça aktiftir.
+* **Yarım Asırlık Tıp ve Sağlık Ekolü:**  
+  SCÜ Tıp Fakültesi Araştırma ve Uygulama Hastanesi ile Diş Hekimliği Fakültesi, İç ve Doğu Anadolu'nun en köklü sağlık merkezlerindendir. Tıp Fakültesi'nde komite sistemi katıdır; devam zorunluluğu ve baraj sınavları tavizsiz uygulanır.
+* **Mühendislik ve Baraj Dersleri:**  
+  Mühendislik Fakültesi'nde Matematik, Mukavemet, Statik, Diferansiyel Denklemler ve Termodinamik dersleri klasik baraj dersleridir. Çan eğrisi uygulanmakla birlikte hocaların belirlediği taban geçme notunun altına düşenler doğrudan büte kalır.
+* **Prof. Dr. Fuat Sezgin Merkez Kütüphanesi:**  
+  Kampüsün kalbinde yer alan kütüphane, vize ve final dönemlerinde **7/24 açık** tutulur. Gece saatlerinde sıcak çorba ve kek ikramı yapılır. Sınav haftalarında sabah 07:30'a kadar gidilmezse prizli çalışma masaları tükenir; öğrenciler mont ve kitap bırakarak yer kapma yarışına girer.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 4. 🍽️ Beslenme, Sokak Lezzetleri ve Mutfak Kültürü
 
 * **Merkez Yemekhane:**  
-  Merkezi Yemekhane binasında öğle yemekleri **20 - 25 TL** gibi oldukça ekonomik bir fiyata sunulur. Ayrıca Tıp Fakültesi ve personel/öğrenci sosyal tesislerinde alternatif yemek imkanları mevcuttur.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içindeki **Cumhuriyet Çarşısı**, **Gölet (Botaş) çevresi kafeleri**, **Manej Kafe (Atlı Spor Tesisleri)**, banka şubeleri, PTT, kırtasiyeler ve zincir kahveciler sayesinde kampüsten dışarı çıkmadan tüm ihtiyaçlar karşılanabilir.
-* **Spor Tesisleri:**  
-  Yarı olimpik kapalı yüzme havuzu, Taha Akgül Spor Salonu, atletizm pisti, halı sahalar, tenis kortları ve **Atlı Spor Tesisleri (binicilik)** kampüs içindedir.
+  Merkezi Öğrenci Yemekhanesi'nde 4 çeşit öğle menüsü **20 - 25 TL** aralığındadır. Cumhuriyet Kart ile geçiş yapılır; porsiyonlar doyurucudur ve etli yemekler sıkça çıkar.
+* **Sivas Gastronomi Rehberi:**  
+  * **Tescilli Sivas Köftesi:** Yalnızca dana-kuzu kıyması ve kaya tuzuyla yoğrulup meşe kömüründe incecik pişirilen tescilli köfte (Kirli Ahmet, Nihat Usta, Köfteci İsmail). Baharatsız ve ekmeksiz olması sayesinde etin gerçek lezzeti hissedilir; yanında acı sivri biber ve tırnak pideyle servis edilir.
+  * **Sivas Katmeri & Tahinli Çörek:** Sabah fırınlardan dumanı üstünde çıkan tel tel tereyağlı katmer ve tahinli çörek; çayla birlikte öğrencilerin en ucuz ve en zengin kahvaltı klasiğidir.
+  * **Sivas Etli Ekmeği:** Taş fırınlara kıymalı harç götürülerek yaptırılan incecik çıtır lezzet.
+  * **Kelle Fırını (Kelle Kırma):** Sabah 06:00'da taş fırınlarda saatlerce nar gibi kızaran kuzu kellesini elle kırarak yemek sınav haftalarının gizli dopingidir.
+  * **Pezik Turşusu & Madımak:** Sivas yaylalarından toplanan madımak otu aşı ve pancar sapından kurulan sarımsaklı pezik turşusu.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 5. 🌆 Şehir Dinamikleri ve Sosyal Yaşam
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  50 yıllık üniversite geçmişi sayesinde Sivas halkı ve esnafı öğrenciye tamamen alışkındır. Şehir güvenli ve düzenli bir yapıya sahiptir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Kampüs girişindeki **Bağdat Caddesi (Kardeşler)** üçüncü nesil kahvecileri ve restoranlarıyla yeni nesil öğrenci sokağıdır. Şehir merkezinde ise trafiğe kapalı **İstasyon Caddesi**, Selçuklu eserlerinin (Çifte Minareli Medrese, Buruciye ve Şifaiye Medreseleri) bulunduğu **Tarihi Kent Meydanı**, **Paşabahçe Mesire Alanı** ve kışın oldukça ekonomik fiyatlarla kayak yapılabilen **Yıldız Dağı Kış Sporları Turizm Merkezi** öne çıkar.
-* **Part-Time İş ve Staj Olanakları:**  
-  Kampüs içindeki **Cumhuriyet Teknokent** bilişim ve mühendislik öğrencileri için önemli bir staj merkezidir. Ayrıca üniversite bünyesinde her yıl yüzlerce kısmi zamanlı öğrenci istihdam edilir.
+* **İstasyon ve Bağdat Caddesi:**  
+  Sivas'ta sosyal yaşam Tarihi Kent Meydanı'ndan Tren Garı'na uzanan **İstasyon Caddesi** ile kampüs önündeki **Bağdat Caddesi** üzerinde döner. Gençler ders çıkışında buralardaki kafe ve restoranlarda vakit geçirir.
+* **Yıldız Dağı Kayak Merkezi:**  
+  Türkiye'nin en modern ve öğrenciler için en ekonomik kış sporları merkezlerinden biridir. Kış aylarında üniversite servisleriyle Yıldız Dağı'na gidip çok cüzi skipass ücretleriyle kayak ve snowboard yapılabilir.
+* **Tarihi Medreseler ve Kültür:**  
+  Çifte Minareli Medrese, Buruciye Medresesi ve Şifaiye Medresesi avlusunda oturup açık havada Türk kahvesi içmek Sivas'ın en huzurlu anlarındandır.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* **Tüm Fakültelerin ve Dev KYK Yurtlarının Tek Kampüste Olması:** Ulaşım ve barınma derdi olmadan, gerçek bir kampüs üniversitesi deneyimi.
-* **Yüksek Hızlı Tren (YHT) Bağlantısı:** Ankara'ya 2.5 saatte, İstanbul'a hızlı trenle doğrudan ulaşım.
-* **Ekonomik Öğrencilik:** Büyükşehirlerle kıyaslandığında yemek, yurt ve ulaşım giderlerinin çok uygun olması.
+* **Barınma Konusunda Sıfır Stres:** 10.000 kişilik Binali Yıldırım KYK yurdunun kampüs içinde olması sayesinde öğrencilerin açıkta kalmaması ve okula yürüyerek gitmesi.
+* **Yüksek Hızlı Trenle Başkente 2.5 Saat:** Hafta sonu Ankara'ya hızlı trenle kaçabilme özgürlüğü.
+* **Kompakt ve Düz Kampüs:** Tüm fakültelerin, hastanenin, çarşının ve kütüphanenin tek bir yerleşkede yan yana bulunması.
 
-### ❌ Eksileri
-* **Sert Kış İklimi:** Kasım sonundan Mart ortasına kadar süren dondurucu soğuklar ve ev tutanlar için yüksek doğalgaz faturaları.
-* **Deniz veya Metropol Gece Hayatı Olmaması:** Daha geleneksel ve sakin bir İç Anadolu şehir profiline sahip olması.
+### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+* **Dondurucu Sivas Kuru Ayazı:** Kışın hava sıcaklığının -20 derecelere kadar inmesi, açık kampüste yürürken kaşların, kirpiklerin ve sakalların buz tutması; termal içliksiz dışarı çıkılamaması.
+* **Tekdüze Sosyal Yaşam:** Şehir merkezinin İstasyon Caddesi'nden ibaret olması, gece kulübü ve büyük konser gibi alternatif eğlence olanaklarının kısıtlılığı.
+* **Yüksek Doğalgaz Faturaları:** Yalıtımsız kiralık evlerde kış aylarında kombi faturalarının bütçeyi sarsması.
+* **İlçe MYO'larının Merkezden Kopukluğu:** Suşehri (130 km) ve Şarkışla (85 km) gibi yerleşkelerin merkezden çok uzakta olması.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Sivas soğuğundan korkup tercih etmekten çekinmeyin; KYK yurtları ve fakülte amfileri kışın hamam gibi yanar, içeride kısa kolluyla oturursunuz! Eğer ev veya apart tutacaksanız mutlaka **merkezi sistem (yakıt kiraya dahil)** veya ara kat, güney cephe daire seçin; aksi halde Ocak-Şubat aylarında kira kadar doğalgaz faturası ödeyebilirsiniz."
+> "Sivas'a gelirken valizine en az 2 takım termal içlik, kaliteli yün çorap ve kalın tabanlı bot koymayı sakın unutma; buranın ayazı şakaya gelmez! İlk sene kesinlikle kampüs içindeki Binali Yıldırım KYK'da kal, sabah sıcacık odandan çıkıp 5 dakikada fakültede olursun. Cuma akşamları Ankara'ya hızlı trenle gitmek istiyorsan biletini pazartesi sabahından kap. Sabahları da fırından sıcak tahinli katmer alıp arkadaşlarınla bölüşmeyi adet edin!"

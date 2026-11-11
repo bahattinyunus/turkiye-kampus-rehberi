@@ -4,7 +4,7 @@
 > **İl / İlçe:** Rize / Merkez (Fener Mah.)  
 > **Üniversite Türü:** Devlet  
 > **Kampüs Konumu:** Denize Sıfır Şehir İçi Ana Kampüs (Çarşıya 3 km)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
 
 ---
 
@@ -12,82 +12,103 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 3 km (~8-10 dk) | Fener - Çarşı dolmuşları ile 5-10 dk; yürüyerek sahilden 25 dk |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Fener, sahil ve merkezde yüksek kapasiteli KYK kız ve erkek yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 13.000 - 20.000 TL | Fener Mahallesi, Müftü ve İslampaşa |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 TL / Çok İyi | Vakıf destekli kaliteli menüler, kampüs içi ücretsiz çay ikram noktaları |
-| **📚 Kütüphane Kapasitesi** | Geniş / Sınav Dönemi 7/24 | Deniz manzaralı modern Merkez Kütüphane |
-| **🌐 İnternet (eduroam)** | Çok İyi | Tüm fakülteler, laboratuvarlar ve kütüphanede yüksek hızlı |
-| **🌆 Sosyal Yaşam & Çevre** | Sakin & Doğa Odaklı | Fener sahili kafeleri, Şimal AVM, Ayder/Çamlıhemşin yaylaları, Trabzon'a 50 dk |
+| **🚇 Şehir Merkezine Uzaklık** | 3 km (~8-10 dk) | Fener - Çarşı dolmuşları her 2-3 dakikada bir; sahilden yürüyerek 25 dk |
+| **🏠 KYK Yurt İmkanı** | Yüksek | Fener sahilinde ve merkezde Ayder, Fener ve Rize KYK yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 13.000 - 20.000 TL | Fener Mahallesi, Müftü, Yeniköy ve İslampaşa |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 TL / Çok İyi | Vakıf destekli zengin menüler; kampüs içi ücretsiz Rize çayı ikram noktaları |
+| **📚 Kütüphane Kapasitesi** | Geniş / Sınav Dönemi 7/24 | Karadeniz dalgalarına bakan cam cepheli modern Merkez Kütüphane |
+| **🌐 İnternet (eduroam)** | Çok Hızlı | Tüm fakülteler, laboratuvarlar ve kütüphanede kesintisiz |
+| **🌆 Sosyal Yaşam & Çevre** | Doğa & Sahil Odaklı | Fener sahil kafeleri, Şimal AVM, Fırtına Vadisi/Ayder, Batum'a 1 saat |
 
 ---
 
 ## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
 
-* **Şehir Merkezinden Ulaşım:**  
-  Türk çaycılığının kurucusu Zihni Derin'in adını taşıyan **RTEÜ Merkez Kampüsü**, Rize'nin batı girişindeki **Fener Mahallesi**'nde, Karadeniz Sahil Yolu'nun hemen kenarında ve denize sıfır konumda yer alır. Rize Cumhuriyet Meydanı ve Atatürk Caddesi'nden kalkan **Fener** dolmuşları ve belediye otobüsleriyle 8-10 dakikada kampüs kapısına ulaşılır. Tıp Fakültesi ve Eğitim Araştırma Hastanesi ise şehrin doğu yakasındaki **İslampaşa Mahallesi**'nde (çarşıya 10 dk) yer alır.
-* **Kampüs İçi Ulaşım:**  
-  Zihni Derin Kampüsü kompakt ve dikey/yatay entegre binalardan oluştuğu için kampüs içinde tüm fakültelere, kütüphaneye ve yemekhaneye 3-5 dakikada yürünür.
+* **Şehir Merkezinden ve Havalimanından Ulaşım:**  
+  Türk çaycılığının öncüsü Zihni Derin'in adını taşıyan **RTEÜ Merkez Kampüsü**, Rize'nin batı çıkışındaki **Fener Mahallesi**'nde, Karadeniz Sahil Yolu'nun hemen kenarında ve denize sıfır konumda yer alır. Rize Cumhuriyet Meydanı ve Atatürk Caddesi'nden kalkan **Fener dolmuşları** ve belediye halk otobüsleri her 2-3 dakikada bir sefer yaparak 8-10 dakikada kampüs kapısına ulaştırır. Tıp Fakültesi ve Sağlık birimleri ise şehrin doğu yakasındaki **İslampaşa Mahallesi**'nde (çarşıya 10 dk) yer alır.
+* **Rize-Artvin Havalimanı (RZV) Erişimi:**  
+  Pazar ilçesinde deniz dolgusu üzerine inşa edilen **Rize-Artvin Havalimanı (RZV)** kampüse 35 km mesafededir. Havalimanından kalkan HAVAŞ servisleri ve Pazar-Rize sahil dolmuşları doğrudan kampüs önünden geçer (yolculuk ~30 dk). Ayrıca batıdaki Trabzon Havalimanı (TZX) 65 km uzaklıkta olup her saat başı HAVAŞ servisi bulunur.
+* **Kampüs İçi Ulaşım ve Otostop Kültürü:**  
+  Zihni Derin Kampüsü sahil dolgusu üzerinde kompakt ve birbirine bağlı binalardan oluştuğu için kampüs içi tüm fakültelere 3-5 dakikada yürünür. Akşamları Fener sahil nizamiyesinde Çarşı veya Derepazarı yönüne **otostop çekmek** çok yaygındır; Rizeli sürücüler yağmurlu günlerde durakta bekleyen öğrencileri hemen arabaya alır.
+* **Öğrenci Abonman & Ulaşım:**  
+  Şehir içi dolmuşlarda öğrenci ücreti ~14-16 TL civarındadır.
 * **Kış / Yağışlı Hava Koşullarında Ulaşım ("Rize Yağmuru" Gerçeği):**  
-  Türkiye'nin en çok yağış alan şehri Rize'de **yılın yaklaşık 200 günü yağmurludur**! Kampüste binalar arası geçişler ve üst geçitler yağmurdan korunacak şekilde tasarlanmış olsa da su geçirmez mont, bot ve rüzgara dayanıklı şemsiye Rize'de hayatta kalma ekipmanıdır.
+  Türkiye'nin en çok yağış alan ili olan Rize'de **yılın yaklaşık 200 günü yağışlıdır**! Kampüste fakülteler arası kapalı tüp geçitler bulunsa da binalardan çıkıldığı anda fırtınalı yatay yağmurlar başlar. Klasik telli şemsiyeler Karadeniz poyrazında dakikalar içinde parçalandığı için sağlam bir balıkçı yağmurluğu, rüzgar geçirmez Gore-Tex bot ve polarlı kapüşonlu mont zorunlu hayatta kalma teçhizatıdır.
 
 ---
 
 ## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
 
-* **KYK Yurtları:**  
-  Kampüs yakınındaki **Fener / Sahil aksı KYK yurtları** ve merkezdeki **Ayder KYK Kız ve Erkek Öğrenci Yurtları**, öğrencilerin en çok tercih ettiği barınma noktalarıdır.
+* **KYK Yurtları (İsimler, Donanım ve Giriş Kuralları):**  
+  * **Ayder KYK Kız ve Erkek Yurtları:** Kampüsün hemen üst yamacında ve sahil aksında yer alır. Odalar 3-4 kişiliktir, banyo-WC oda içerisindedir.
+  * **Fener Kız KYK Yurdu:** Kampüse yürüme mesafesinde (5 dk) yer alır; sabah dersine sıfır dolmuş masrafıyla ulaşım sağlar.
+  * **Çamaşırhane ve Nem Durumu:** Yurtlarda çamaşırhaneler randevulu sistemle çalışır. Rize'nin aşırı nemli havası nedeniyle çamaşırların oda içinde kuruması günler sürdüğünden yurtlardaki endüstriyel kurutma makineleri öğrenciler için altın değerindedir.
+  * **Giriş Saatleri ve Katılık:** Giriş saati **23.00**'tür. Parmak izi ve yüz tanıma turnike sistemleriyle katı kontrol yapılır; geç kalmalarda aileye SMS ve disiplin tutanağı prosedürü işletilir.
 * **Öğrenci Evleri ve Fener Mahallesi:**  
-  Rize'de düz arsa çok az olduğu için binalar 12-15 katlı yüksek apartmanlar şeklindedir ve kiralık daire bulmak (özellikle Eylül ayında) rekabetlidir. Öğrenciler en çok kampüsün bulunduğu **Fener Mahallesi**'ni (altında kafelerin ve kurumsal marketlerin olduğu apartmanları) tercih eder.
+  Rize'de dağlar denize dik indiği için düz arsa son derece azdır; binalar genellikle 10-15 katlıdır ve daire kiraları Karadeniz ortalamasının üzerindedir. Öğrencilerin %80'i kampüsün kapı komşusu olan **Fener Mahallesi**'ndeki apartmanlarda kalır (1+1 eşyalı daireler 13.000 - 18.000 TL). Merkeze yakın olmak isteyenler ise **Müftü** ve **Yeniköy** mahallelerini tercih eder. Ev tutarken kesinlikle kuzey/deniz cepheli rutubetli zemin katlardan kaçınılmalı, ısı yalıtımlı ara katlar seçilmelidir.
 
 ---
 
-## 3. 🎓 Akademik, Fiziki Altyapı ve Burs İmkanları
+## 3. 🎓 Akademik Altyapı, Çay İhtisası ve Kütüphane Savaşları
 
-* **Güçlü Vakıf Desteği ve Burslar:**  
-  RTEÜ'yü diğer pek çok Anadolu üniversitesinden ayıran en önemli özellik, **RTEÜ Geliştirme Vakfı**'nın sağladığı güçlü mali destektir. YKS'de dereceyle veya ilk tercihlerinde yerleşen öğrencilere yüksek miktarlı nakdi burslar, ücretsiz yemek/kitap destekleri ve yurt dışı dil okulu (Erasmus+) imkanları sunulmaktadır.
-* **Fakülteler ve Laboratuvarlar:**  
-  Zihni Derin ve Merkez yerleşkelerinde **Tıp Fakültesi** (gelişmiş Simülasyon Merkezi ile), **Diş Hekimliği Fakültesi** (denize sıfır modern binasında), **Mühendislik ve Mimarlık Fakültesi**, **Hukuk Fakültesi**, **İktisadi ve İdari Bilimler Fakültesi**, **Fen-Edebiyat Fakültesi**, **İlahiyat Fakültesi**, **Su Ürünleri Fakültesi** ve **Turgut Kıran Denizcilik Fakültesi** (Derepazarı/Fener sahilinde tam donanımlı gemi simülatörleriyle) yer alır. Merkezi Araştırma Laboratuvarı ve **Dijitalpark Teknokent** son teknoloji cihazlara sahiptir.
-* **Merkez Kütüphane:**  
-  Karadeniz'e sıfır manzaralı okuma salonlarıyla Türkiye'nin en güzel manzaralı kütüphanelerinden biridir; sınav haftalarında 7/24 açıktır ve ücretsiz çay/çorba ikramı yapılır.
+* **YÖK Çay İhtisas Üniversitesi:**  
+  RTEÜ, YÖK tarafından **"Çay Alanında Bölgesel Kalkınma Odaklı İhtisas Üniversitesi"** seçilmiştir. Kampüsteki Çay İhtisas Laboratuvarları, ÇAYKUR ortaklı Ar-Ge projeleri, yeşil çay, beyaz çay, matcha ve çay ekstraktı üretimiyle Türkiye'nin çay biyoteknolojisi merkezidir.
+* **Gelişmiş Simülasyon Merkezleri ve Tıp:**  
+  * **Tıp ve Diş Hekimliği Fakülteleri:** Klinik Simülasyon Eğitim Merkezi (RSİM), Türkiye'nin en modern robotik hasta simülatörlerine sahiptir. Entegre komite sistemi uygulanır; baraj sınavları oldukça zorludur.
+  * **Turgut Kıran Denizcilik Fakültesi:** Derepazarı yerleşkesinde 360 derece tam donanımlı Köprüüstü Simülatörü, GMDSS ve gemi makineleri laboratuvarlarıyla uluslararası standartta zabit yetiştirir.
+* **Merkez Kütüphane ve Final Savaşları:**  
+  Karadeniz dalgalarının köpürdüğü kıyıya sıfır inşa edilmiş olan **Merkez Kütüphane**, panoramik cam cephesiyle Türkiye'nin görsel açıdan en büyüleyici kütüphanelerindendir. Vize ve final dönemlerinde 7/24 açıktır. Sabah 08.00'de masa tutulmazsa deniz manzaralı salonlarda yer bulmak imkansızlaşır; geceleri rektörlük ve vakıf tarafından sıcak çorba, poğaça ve sınırsız çay ikramı yapılır.
+* **RTEÜ Geliştirme Vakfı Bursları:**  
+  Bölümünü dereceyle kazanan veya ilk tercihlerinde yazan öğrencilere düzenli nakdi burs, yurt desteği ve yabancı dil eğitimi teşvikleri sağlanır.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 4. 🍽️ Beslenme, Sokak Lezzetleri ve Kampüs İçi Yaşam
 
-* **Merkez Yemekhane ve Ücretsiz Çay Kültürü:**  
-  Kampüs yemekhanesinde 25 TL'ye 4 çeşit kaliteli yemek çıkar. Rize'nin başkentliğini yaptığı çay kültürü gereği kampüs içinde öğrencilere ücretsiz Rize çayı ikram edilen noktalar ve uygun fiyatlı sahil kafeteryaları bulunur.
+* **Merkez Yemekhane:**  
+  Öğrenci yemekhanesinde 4 çeşit sıcak menü ~25 TL'dir. Vakıf katkısıyla etli yemekler ve tatlılar oldukça kalitelidir.
+* **Meşhur Sokak ve Yöresel Lezzetleri:**  
+  * **Rize Kuru Fasulyesi:** Çayeli usulü tereyağlı bakır helvahanelerde fırınlanan İspir kuru fasulyesidir. **Hüsrev**, **Lale Lokantası** ve merkezdeki esnaf lokantalarında pilav üstü kuru ve turşu kavurmasıyla vize kutlama ziyafetlerinin baş tacıdır.
+  * **Laz Böreği:** İncecik çıtır baklava yufkalarının arasında fırınlanan özel muhallebisi, üzerine dökülen şerbeti ve hafif karabiber dokunuşuyla Karadeniz'in en meşhur tatlısıdır.
+  * **Rize Simidi (Kel Simit):** Susamsız, dut pekmezi suyuna batırılıp taş fırında odun ateşinde pişirilen çıtır simit; tulum peyniri ve sıcak Rize çayı ile ders aralarının vazgeçilmezidir.
+  * **Pepeçura & Muhlama:** Siyah kokulu İsabella üzümünden yapılan mor renkli meyveli pelte (pepeçura) ile kolot peynirli sıcak muhlama kütüphane molalarının enerji kaynağıdır.
+  * **Kampüste Ücretsiz Çay Odaları:** Kampüsün muhtelif noktalarında öğrencilerin ücretsiz olarak gün boyu demli taze Rize çayı alabildiği ikram çeşmeleri bulunur.
 * **Spor Tesisleri:**  
-  Kapalı olimpik yüzme havuzu, büyük kapalı spor salonu, fitness merkezi ve halı saha kampüs içinde yer alır.
+  Olimpik kapalı yüzme havuzu, fitness salonu ve kapalı spor kompleksleri öğrencilere açıktır.
 
 ---
 
 ## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
 
 * **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Rize halkı muhafazakâr ve geleneksel Karadeniz kültürüne sahiptir; pratik zekalı, tez canlı ve misafirperverdir. Şehirde asayiş ve güvenlik düzeyi yüksektir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  * **Fener Sahili & Ziraat Botanik Çay Bahçesi:** Kampüsün hemen yanındaki Fener sahil şeridi kafeleri ve şehre tepeden bakan **Ziraat Çay Bahçesi** (bardak çay ve Rize simidi eşliğinde deniz manzarası) öğrencilerin günlük uğrak yeridir.
-  * **Şimal AVM:** Şehir merkezinde sinema, alışveriş ve zincir restoranların bulunduğu büyük alışveriş merkezidir.
-  * **Kaçkarlar, Ayder ve Trabzon Kaçamağı:** Hafta sonları **Çamlıhemşin, Fırtına Deresi (rafting ve zipline), Ayder Yaylası, Zilkale ve Pokut/Gito yaylalarına** gitmek veya sahil otobüsüyle **50 dakikada Trabzon'a / 1,5 saatte Batum'a (Gürcistan)** geçmek RTEÜ öğrencilerinin en büyük sosyal ayrıcalığıdır!
+  Rize halkı tez canlı, misafirperver ve korumacıdır. Şehirde asayiş son derece güvenlidir; kadın öğrenciler gece sahil kordonunda rahatça yürüyebilir.
+* **Sosyal Alanlar ve Efsane Rotalar:**  
+  * **Fener Sahili & Şimal AVM:** Sahil yürüyüş yolu boyunca kafeler, zincir restoranlar ve sinema gençlerin akşam buluşma merkezidir.
+  * **Ziraat Botanik Çay Bahçesi:** Şehre ve denize tepeden bakan yemyeşil teraslarda çay içmek klasiğidir.
+  * **Ayder, Pokut, Huser ve Fırtına Vadisi (Kaçkar Kaçamakları):** Hafta sonları Fırtına Deresi'nde rafting ve zipline yapmak, bulut denizinin üstündeki Huser ve Pokut yaylalarında tulum eşliğinde horon tepmek öğrenciliğin en unutulmaz anlarıdır.
+  * **Batum (Gürcistan) ve Trabzon Yakınlığı:** Sarp Sınır Kapısı'ndan pasaporta gerek olmadan **sadece yeni kimlik kartıyla 1 saatte Batum'a** geçebilmek veya 50 dakikada Trabzon Forum/Meydan'a gitmek hafta sonu rutini haline gelir.
 
 ---
 
 ## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
 
 ### ✅ Artıları
-* Denize sıfır, laboratuvar ve simülasyon altyapısı çok zengin, modern bir merkez kampüs ve güçlü vakıf bursları.
-* Tıp, Diş Hekimliği, Denizcilik ve Su Ürünleri gibi uygulama bölümlerinde çok yüksek vaka ve ekipman kalitesi.
-* Ayder/Kaçkar yaylalarına, Rize-Artvin Havalimanı'na, Trabzon'a (50 dk) ve Gürcistan/Batum sınırına (1 saat) yakınlık.
+* Denize sıfır, dalga sesleri arasında eğitim veren, simülasyon ve laboratuvar altyapısı çok güçlü modern bir kampüs.
+* Güçlü RTEÜ Geliştirme Vakfı sayesinde yüksek burs, ücretsiz çay ve sosyal destek imkanları.
+* Kaçkarlar, yaylalar, Fırtına Vadisi ve 1 saat mesafedeki Batum (Gürcistan) ile benzersiz doğa ve yurt dışı kaçış rotaları.
+* Rize kuru fasulyesi, Laz böreği ve muhlama gibi muazzam lezzetler.
 
-### ❌ Eksileri
-* Yılın büyük bölümünde devam eden yoğun yağış ve nem; güneşli gün sayısının azlığı.
-* Şehirde bar/gece hayatı kültürünün olmaması ve sosyal yaşamın kafe/AVM/doğa gezileriyle sınırlı kalması.
-* Engebeli arazi nedeniyle şehirde kiralık daire sayısının az, kiraların ise yüksek olması.
+### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+* **Yılda 200 Gün Dinmeyen Yağmur:** Sürekli kapalı gri gökyüzü, dinmeyen sağanaklar ve güneşe hasret kalma hissi; melankoliye yatkın öğrencileri zorlayabilir.
+* **Dik Yokuşlar ve Rutubet:** Şehrin yamaçlarında merdiven tırmanma zorunluluğu ve evlerdeki yüksek nem/küf problemi.
+* **Gece Hayatının Yokluğu:** Büyükşehir tarzı gece kulübü veya pub ortamının olmaması; sosyal hayatın çay ocakları, kafe sohbetleri ve doğa yürüyüşleriyle sınırlı olması.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Rize'ye gelirken 'yağmurla barışık olmayı' öğrenmeniz şart; Zihni Derin Kampüsü'nde kütüphanenin camından dev Karadeniz dalgalarını ve yağmuru izleyerek ders çalışmanın tadı bambaşkadır. İlk tercihiniz mutlaka KYK yurdu olsun, hafta sonları ise kimlik kartınızla günübirlik Batum'a veya Fırtına Vadisi'ne geziye gitmeyi ihmal etmeyin."
+> "1. Rize'ye gelirken telli ucuz şemsiye almayın, ilk Karadeniz poyrazında çöp olur; onun yerine **sağlam bir rüzgarlık/yağmurluk ve Gore-Tex su geçirmez bir bot** edinin.  
+> 2. Barınmada ilk tercihiniz Fener sahilindeki KYK yurtları olsun; hem kampüse yürürsünüz hem de çamaşır kurutma derdiniz olmaz.  
+> 3. Yeni çipli kimlik kartınızı cebinize koyun; hafta sonları arkadaş grubunuzla toplanıp 1 saatte sınırdan Batum'a günübirlik geçip gezmek hayatınızın en keyifli anılarından biri olur.  
+> 4. Kütüphanenin en üst katında cam kenarına oturup fırtınalı Karadeniz dalgalarına karşı taze demli çay eşliğinde final çalışmanın tadını başka hiçbir yerde bulamazsınız!"

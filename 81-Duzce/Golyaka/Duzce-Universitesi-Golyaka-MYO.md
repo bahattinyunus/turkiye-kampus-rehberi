@@ -4,7 +4,7 @@
 > **İl / İlçe:** Düzce / Gölyaka  
 > **Üniversite Türü:** Devlet  
 > **Kampüs Konumu:** İlçe Yerleşkesi (Efteni Gölü ve Güzeldere Şelalesi Aksı - Merkeze ~20 km)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (3.9/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.0/5)
 
 ---
 
@@ -12,90 +12,80 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Düzce Merkez'e Uzaklık** | 20 km / ~20-25 dk | Düzce Merkez Otogar ve duraklardan düzenli Gölyaka otobüsleri |
-| **🏠 Barınma ve Konaklama** | Orta - İlçe Çözümleri | Yerel apartlar, kiralık evler veya Düzce Merkez KYK yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.000 - 12.500 TL | Fatih, Kültür ve Kuyudüzü mahalleleri |
+| **🚇 Düzce Merkez'e Uzaklık** | 20 km / ~20-25 dk | Düzce Merkez Otogarı ve duraklardan her 15-20 dk'da bir Gölyaka belediye otobüsleri |
+| **🏠 Barınma ve Konaklama** | Orta - İlçe Apartları | İlçe içi uygun kiralık apartlar veya Düzce Merkez KYK yurtlarından gidiş-geliş |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.000 - 12.500 TL | Fatih Mahallesi, Kültür Mahallesi ve Kuyudüzü çevresi |
 | **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Yüksekokul yemekhanesinde sıcak öğle yemeği ve kafeterya |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri | Tasarım ve bilişim yayınları odaklı çalışma salonu |
-| **🌐 İnternet (eduroam)** | Hızlı | Dersliklerde, çizim atölyelerinde ve laboratuvarlarda eduroam |
-| **🌆 Sosyal Yaşam & Çevre** | Doğa Harikası Kasaba | Efteni Gölü Yaban Hayatı Sahası, Güzeldere Şelalesi, rafting |
+| **📚 Kütüphane Kapasitesi** | Mesai Saatleri | Tasarım ve bilişim odaklı çalışma salonu ve bilgisayar odaları |
+| **🌐 İnternet (eduroam)** | Hızlı | Çizim atölyeleri, fotoğraf stüdyosu ve amfilerde kesintisiz eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | Doğa Cenneti Kasaba | Efteni Gölü Kuş Cenneti, Güzeldere Şelalesi, Melen Çayı raftingi |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚇 Ulaşım Ağı ve Öğrenci Taktikleri
 
 * **Düzce Merkez ve Konuralp'ten Ulaşım:**  
-  **Gölyaka Meslek Yüksekokulu**, Düzce il merkezinin yaklaşık **20 km** güneybatısında, İstanbul-Ankara TEM Otoyolu Gölyaka gişelerinin hemen yanı başındaki Gölyaka ilçesinde yer alır. Düzce Eski/Yeni Otogar'dan ve şehir içi duraklarından her 15-20 dakikada bir kalkan Gölyaka belediye otobüsleri ve kooperatif minibüsleriyle **yaklaşık 20-25 dakikada** yerleşke kapısına ulaşılır. Konuralp Ana Kampüsü'nden gelen öğrenciler Düzce Merkez aktarmasıyla toplam 35-40 dakikada yerleşkeye varır.
-* **TEM Otoyolu ve İstanbul/Ankara Avantajı:**  
-  Gölyaka, TEM Otoyolu çıkışında yer aldığı için Sakarya/Kocaeli ve İstanbul yönünden gelen şehirlerarası otobüslerin güzergahına çok yakındır. Öğrencilerin hafta sonu memleketlerine gidiş-dönüşü son derece pratiktir.
-* **İlçe İçi Ulaşım:**  
-  Gölyaka kompakt, düz ayak ve son derece güvenli bir yerleşimdir. Yüksekokul binası, ilçe çarşısı, marketler ve kiralık evler birbirine yürüme mesafesindedir (5-10 dakika). İlçe içi taşıma masrafı oluşmaz.
-* **Hava Koşulları ve İklim:**  
-  Göl havzası ve ormanların kesişiminde yer alan Gölyaka bol oksijenli ve yemyeşildir; sonbahar ve kış aylarında yağışlı ve sisli geçebilir. Yolları düz olduğu için kışın ulaşımda aksama yaşanmaz.
+  **Gölyaka Meslek Yüksekokulu**, Düzce il merkezinin 20 km güneybatısında, İstanbul-Ankara TEM Otoyolu Gölyaka gişelerinin hemen bitişiğindedir. Düzce Şehirlerarası Otobüs Terminali'nden ve merkez duraklarından gün boyu her 15-20 dakikada bir kalkan Gölyaka belediye otobüsleri ve kooperatif minibüsleriyle **yaklaşık 20-25 dakikada** yerleşke kapısına ulaşılır. Konuralp Ana Kampüsü'nden gelen öğrenciler Düzce Merkez Çoban Kavşağı üzerinden aktarmayla 40 dakikada varır.
+* **TEM Otoyolu Gişeleri Avantajı:**  
+  Gölyaka, TEM Otoyolu gişelerinin dibinde yer aldığı için Sakarya/Kocaeli ve İstanbul yönünden gelen şehirlerarası otobüsler talep halinde Gölyaka yol ayrımında yolcu indirir. Hafta sonu memleketine gidip gelen öğrenciler için Düzce otogarına girmeden ilçeye ulaşmak büyük zaman kazandırır.
+* **İlçe İçi Ulaşım Masrafsızlığı:**  
+  Gölyaka kompakt, düzayak ve son derece güvenli bir ilçedir. Yüksekokul binası, ilçe çarşısı, marketler ve kiralık evler birbirine 5-10 dakikalık yürüme mesafesindedir; ilçe içinde minibüse veya taksiye para harcanmaz.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma, Apartlar ve Mahalle Hayatı
 
-* **Barınma Seçenekleri ve Popüler Tercihler:**  
-  * **Gölyaka İlçe Merkezi Apartları:** Öğrencilerin önemli bir bölümü **Fatih Mahallesi**, **Kültür Mahallesi** ve **Kuyudüzü** çevresindeki yeni 1+1 ve 2+1 eşyalı apart daireleri tercih eder. Kiralar 8.000 TL ile 12.500 TL aralığında olup Konuralp ve Düzce merkeze göre oldukça ekonomiktir.
-  * **Düzce Merkez KYK Yurtları:** İlçe Düzce merkeze sadece 20 dakika mesafede olduğu için kurumsal KYK yurdunda kalmak isteyen öğrenciler Düzce Merkez veya Konuralp'teki KYK yurtlarında kalarak her gün minibüsle Gölyaka'ya gidip gelmeyi de sıklıkla tercih etmektedir.
-
----
-
-## 3. 🎓 Akademik ve Fiziki Altyapı
-
-* **Bölümler ve Tasarım/Bilişim Odağı:**  
-  Gölyaka Meslek Yüksekokulu, dijital teknoloji, tasarım ve yaratıcı medya sektörlerine odaklanmış çok popüler ve güncel ön lisans programlarına sahiptir:
-  * **Grafik Tasarımı (Tasarım Bölümü):** Dijital illüstrasyon, tipografi, logo tasarımı, kurumsal kimlik ve ambalaj tasarımı eğitimi.
-  * **Bilgisayar Programcılığı (Bilgisayar Teknolojileri):** Yazılım, web geliştirme, mobil programlama ve veri tabanı yönetimi.
-  * **Halkla İlişkiler ve Tanıtım:** Reklamcılık, kriz iletişimi ve medya planlama.
-  * **E-Ticaret ve Pazarlama:** Dijital pazarlama, SEO, sosyal medya yönetimi ve e-ihracat.
-  * **Turizm ve Otel İşletmeciliği:** Konaklama ve servis uygulamaları.
-* **Atölyeler ve Laboratuvarlar:**  
-  Okul bünyesinde yüksek donanımlı bilgisayar laboratuvarları, profesyonel grafik çizim masaları, ışık ve çekim ekipmanlarına sahip fotoğraf stüdyosu, gastronomi ve servis uygulama mutfağı yer almaktadır.
-* **İnternet:**  
-  Yerleşke genelinde **eduroam** yüksek hızda kesintisiz hizmet vermektedir.
+* **İlçe İçi Apartlar ve Kiralık Evler:**  
+  * Gölyaka'da öğrencilerin büyük kısmı **Fatih Mahallesi** ve **Kültür Mahallesi**'ndeki 1+1 ve 2+1 eşyalı daireleri tercih eder. Kiralar 8.000 TL ile 12.500 TL aralığında olup Düzce merkeze ve Konuralp'e göre oldukça uygundur.
+  * Doğalgazlı binalar çoğunluktadır; kışın ısınma sorunu yaşanmaz.
+* **Düzce Merkez KYK Yurtlarından Gidiş-Geliş:**  
+  Kurumsal KYK yurdunda kalmak isteyen veya Düzce merkez sosyal hayatından kopmak istemeyen öğrenciler, Düzce Merkez veya Konuralp'teki KYK yurtlarında kalarak her gün 20 dakikalık minibüs yolculuğuyla Gölyaka'ya gidip gelmektedir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🎓 Tasarım, Bilişim ve Uygulamalı Eğitim
 
-* **Yemekhane:**  
-  Hafta içi her gün öğle saatlerinde Düzce Üniversitesi SKS Daire Başkanlığı denetiminde 4 çeşit sıcak tabldot yemek (25 - 35 TL) çıkar.
-* **Kantin ve İlçe Esnafı:**  
-  Okul kantininde kahvaltı ve sıcak içecekler bulunur. Gölyaka ilçe merkezinde ise Çerkes tavuğu, yerel gözleme ve börekler, pideciler ve ev yemekleri sunan temiz esnaf lokantaları öğrencilere bütçe dostu seçenekler sunar.
+* **Grafik Tasarımı ve Dijital Medya Odağı:**  
+  Gölyaka MYO, Düzce Üniversitesi'nin yaratıcı tasarım ve medya üssüdür. Grafik Tasarımı programında illüstrasyon, logo, tipografi, ambalaj tasarımı ve dijital medya eğitimleri verilir.
+* **Atölye ve Stüdyo Donanımı:**  
+  Okulda yüksek konfigürasyonlu bilgisayar laboratuvarları, grafik çizim masaları ve profesyonel ışık/çekim donanımına sahip bir **fotoğraf stüdyosu** bulunur. Proje ve sergi teslim haftalarında öğrenciler stüdyolarda geç saatlere kadar çalışabilir.
+* **Bilgisayar Programcılığı ve E-Ticaret:**  
+  Yazılım geliştirme, veri tabanı ve dijital pazarlama alanlarında pratik laboratuvar dersleri ağırlıktadır.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 4. 🍽️ Beslenme ve Yöresel Lezzetler
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Gölyaka halkı sakin, saygılı ve öğrencileri sahiplenen bir yapıya sahiptir. İlçe genelinde güvenlik üst düzeydedir; gece geç saatlerde dahi yürümek son derece rahattır.
-* **Eşsiz Tabiat Harikaları (Efteni Gölü & Güzeldere Şelalesi):**  
-  Gölyaka MYO öğrencileri, Türkiye'nin en ünlü doğa rotalarının tam kalbinde yaşar:
-  * **Efteni Gölü Yaban Hayatı Geliştirme Sahası:** Göçmen kuşların uğrak noktası, ahşap yürüyüş iskeleleri ve kuş gözlem kuleleriyle okul çıkışında kafa dinlemek için harika bir yerdir.
-  * **Güzeldere Şelalesi Tabiat Parkı:** 135 metre yükseklikten dökülen büyüleyici şelale, kayın ve gürgen ağaçları altında piknik ve kamp alanları sunar.
-  * **Topuk Yaylası ve Göleti:** Hafta sonu kamp ve yürüyüş meraklılarının vazgeçilmezidir.
-* **Part-Time İş ve Staj:**  
-  Grafik Tasarımı ve Bilgisayar öğrencileri için Düzce Teknopark şirketlerinde, reklam ajanslarında ve freelance dijital platformlarda; Turizm öğrencileri için ise bölgedeki butik dağ otelleri ve termal tesislerde zengin staj fırsatları mevcuttur.
+* **Okul Yemekhanesi:** Hafta içi 25 - 35 TL'ye 4 çeşit sıcak ve besleyici yemek verilir.
+* **Gölyaka Çarşı Lokantaları:** İlçe merkezinde Çerkes tavuğu, yerel gözleme ve mantılar, etli köy yemekleri ve Karadeniz pidesi sunan uygun fiyatlı esnaf lokantaları mevcuttur.
+
+---
+
+## 5. 🌲 Tabiat Harikaları ve Doğa Rotaları
+
+* **Efteni Gölü ve Kuş Cenneti:**  
+  Yerleşkeye sadece birkaç kilometre mesafedeki Efteni Gölü, 150'den fazla göçmen kuş türünün uğrak noktasıdır. Ahşap yürüyüş iskeleleri ve seyir kuleleri okul çıkışlarında kafa dinlemek ve fotoğraf çekmek için mükemmel bir kaçış noktasıdır.
+* **Güzeldere Şelalesi Tabiat Parkı:**  
+  135 metreden dökülen devasa şelale, kayın ve gürgen ormanları altında kamp ve piknik alanları sunar. Bahar aylarında grafik ve fotoğrafçılık öğrencileri buraya açık hava çekimlerine gelir.
+* **Topuk Yaylası ve Melen Rafting:**  
+  Hafta sonu doğa sporları ve Melen Çayı'nda rafting Gölyaka öğrencilerinin en büyük sosyal aktivitesidir.
 
 ---
 
 ## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* **Tasarım ve Bilişimde Güçlü Altyapı:** Grafik çizim atölyeleri, fotoğraf stüdyosu ve yazılım laboratuvarlarıyla uygulamalı üretim ortamı.
-* **Doğa İçinde Sessiz ve Verimli Yaşam:** Metropol kaosundan uzak, proje çizmeye ve portfolyo hazırlamaya son derece uygun sakinlik.
-* **Düzce Merkeze 20 Dakika Yakınlık:** Canınız şehir hayatı istediğinde 20 dakikada Düzce çarşıya veya Krempark AVM'ye inebilme rahatlığı.
+* **Güçlü Tasarım ve Bilişim Altyapısı:** Fotoğraf stüdyosu ve çizim atölyeleriyle kaliteli portfolyo hazırlama ortamı.
+* **Huzurlu ve Doğayla İç İçe Yaşam:** Stresten uzak, tertemiz hava ve büyüleyici göl/şelale manzaraları.
+* **Düzce Merkeze 20 Dakika Yakınlık:** Canınız AVM veya sinema istediğinde 20 dakikada şehir merkezine inebilme rahatlığı.
 
 ### ❌ Eksileri ve Kronik Sorunları
-* **İlçe İçi Sosyal Mekan Azlığı:** Büyük kafeler, sinema veya eğlence mekanlarının bulunmaması (sosyal hayat için Düzce Merkez'e gidilmesi gerekir).
-* **Kış Yağışları ve Nem:** Batı Karadeniz iklimine bağlı olarak sonbahar ve kışın sisli ve kapalı havaların uzun sürmesi.
+* **Kısıtlı Gece Hayatı:** İlçe akşamları erkenden sessizleşir; gençlere hitap eden kafe sayısı sınırlıdır.
+* **Kış Sisi:** Efteni Gölü havzası nedeniyle kış aylarında sabahları yoğun sis ve nem görülür.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 💡 Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Gölyaka MYO'da Grafik Tasarımı veya Bilgisayar Programcılığı okuyacaksanız dizüstü bilgisayarınızı, grafik tabletinizi kapıp gelin. Şehir gürültüsü olmadan, Efteni Gölü manzarası eşliğinde portfolyonuzu doldurmak ve kendinizi geliştirmek için mükemmel bir sessizlik var. İster Gölyaka'da uygun fiyata ev tutun, ister Düzce Merkez'de KYK yurdunda kalıp 20 dakikalık minibüsle gelin. Hafta sonu da Güzeldere Şelalesi'nde yürüyüş yapmayı sakın ihmal etmeyin!"
+> "Gölyaka MYO'da Grafik Tasarımı veya Bilgisayar okuyacaksan burayı kendini geliştirebileceğin huzurlu bir kamp alanı gibi gör. Çizim masaları ve fotoğraf stüdyosu sana ait. İlçe çok sakin ama Düzce merkez dolmuşla 20 dakika. Bahar geldiğinde Efteni Gölü iskelesinde gün batımını fotoğraflamadan ve Güzeldere Şelalesi'nde doğa yürüyüşü yapmadan sakın mezun olma!"

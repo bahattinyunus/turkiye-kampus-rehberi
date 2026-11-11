@@ -25,77 +25,82 @@
 ## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
 
 * **Şehir Merkezinden Ulaşım:**  
-  Karacasu Kampüsü, Kahramanmaraş-Gaziantep karayolu aksında, Dulkadiroğlu ilçesinin doğu yakasında yer alır. Şehir merkezinden (Piazza AVM, Azerbaycan Bulvarı / Necip Fazıl Kültür Merkezi) Karacasu yönüne giden belediye otobüsleri ve halk otobüsleri ile 20-25 dakikada ulaşım sağlanır. Ayrıca Kahramanmaraş Havalimanı'na ve Şehirlerarası Otogar'a oldukça yakın (10-15 dk) bir konumdadır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Kampüs düz ayak ve kompakt bir yerleşke olduğu için tüm fakülte, yüksekokul ve yemekhane binaları birbirine 3-5 dakikalık yürüme mesafesindedir; ring aracına ihtiyaç duyulmaz.
+  Karacasu Kampüsü, Kahramanmaraş-Gaziantep karayolu aksında (Doğu Çevre Yolu), Dulkadiroğlu ilçesinin doğu çıkışında yer alır. Şehir merkezinden (Piazza AVM, Trabzon Caddesi, Necip Fazıl Kısakürek Kültür Merkezi) Karacasu yönüne çalışan **14, 28 ve 40** numaralı belediye ve özel halk otobüsleriyle 20-25 dakikada kampüs nizamiyesine ulaşılır. Kampüs, Kahramanmaraş Havalimanı'na sadece 5 km, Şehirlerarası Otobüs Terminali'ne ise yaklaşık 7 km mesafededir.
+* **Kampüs İçi Ulaşım ve Otostop:**  
+  Kampüs derli toplu ve düz bir araziye yayılmıştır; binalar arası mesafe en fazla 3-5 dakikalık yürüyüştür, bu yüzden ring aracına ihtiyaç kalmaz. Kampüs önünden geçen Gaziantep yolu dolmuşları ve yerel araçlar, şehir merkezine inen öğrencilere sıklıkla otostop imkânı sunar.
 * **Öğrenci Abonman & Ulaşım Kartı:**  
-  **KahramanKart** geçerlidir (Öğrenci biniş: ~12,50 TL).
+  **KahramanKart** geçerlidir (Öğrenci basım ücreti: ~12,50 TL).
 * **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Düz bir ovada yer aldığı için kışın buzlanma veya dik yokuş sorunu yaşanmaz; ancak kampüs çevresi açık alan olduğundan kışın rüzgarlıdır.
+  Düz ovada yer aldığı için dik yokuş ya da kaygan rampa riski yoktur; ancak kışın açık havza sebebiyle ayaz ve rüzgar etkilidir. Sabah erken saatlerde otobüs sefer aralıkları 15-20 dakikayı bulabilir.
 
 ---
 
 ## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
 
-* **KYK Yurtları:**  
-  * **Karacasu KYK Yurdu:** Kampüsle neredeyse bütünleşik konumda bulunan KYK yurt blokları sayesinde KİÜ öğrencilerinin barınma sorunu büyük ölçüde çözülmüştür. Yurt odaları 4 kişiliktir ve kampüse yürüyerek 5 dakikada geçilebilir.
-* **Özel Yurtlar ve Apartlar:**  
-  Karacasu bölgesi daha çok sanayi ve yeni konut gelişim aksında yer aldığından kampüs kapısı önünde özel apart seçeneği azdır. Özel apart isteyen öğrenciler genellikle şehir merkezine veya Onikişubat bölgesine yönelir.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Ev tutmak isteyen öğrenciler, tek otobüsle ulaşabilecekleri **Necip Fazıl / Yirmiikigün** mahallelerini veya Piazza AVM çevresindeki sağlam binaları tercih ederler. Kiralar Onikişubat'ın lüks mahallelerine göre biraz daha uygundur (9.000 - 14.000 TL).
+* **KYK Yurtları (İsimler, Donanım ve Giriş Kuralları):**  
+  * **Karacasu KYK Kız ve Erkek Yurdu Blokları:** Kampüs sahasıyla neredeyse bitişik konumdadır. Yurt binaları deprem yönetmeliğine uygun olup 3 ve 4 kişilik bazalı/çalışma masalı odalardan oluşur. Banyo-WC oda içerisindedir. Katlarda ortak çamaşırhane (randevu çizelgesiyle) ve 24 saat sıcak su vardır.
+  * **Giriş Saati ve Katılık:** Giriş saati **23.00** olup parmak izi okutma zorunludur. Hafta sonu izinleri GencizBiz sistemi üzerinden önceden talep edilir.
+* **Özel Yurtlar ve Kiralık Ev Dinamikleri:**  
+  Karacasu sanayi ve lojistik kavşağı olduğundan kapı önünde öğrenci rezidansı ya da 1+1 apart sayısı yok denecek kadar azdır. Ev kiralamak isteyen KİÜ öğrencileri genellikle tek otobüsle gidilebilen **Doğukent TOKİ Konutları**, **Yahya Kemal Mahallesi** veya Onikişubat aksındaki güvenli binalara yönelir. Kiralar 8.500 - 13.500 TL aralığındadır.
 
 ---
 
 ## 3. 🎓 Akademik ve Fiziki Altyapı
 
-* **Kütüphane İmkanları:**  
-  Kampüs içi kütüphane ve okuma salonu, öğrenci sayısının butik olması sayesinde sınav dönemlerinde bile yer bulma sıkıntısı yaşatmaz.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  2018'de KSÜ'den ayrılarak kurulan genç bir üniversite olan KİÜ; **İnsan ve Toplum Bilimleri Fakültesi**, **İletişim Fakültesi**, **Turizm Fakültesi**, **Mimarlık, Güzel Sanatlar ve Tasarım Fakültesi** ile **Sağlık Hizmetleri MYO** birimlerini hızla yeni ve prefabrik/betonarme güçlendirilmiş binalara taşımıştır. Özellikle gastronomi uygulama mutfakları, havacılık/savunma sanayii odaklı MYO atölyeleri ve bilgisayar laboratuvarları yeni cihazlarla donatılmıştır.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  `eduroam` altyapısı tüm dersliklerde aktiftir ve kullanıcı yoğunluğu aşırı olmadığından hızı tatmin edicidir.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Gastronomi, İletişim ve Medya, Havacılık ve Savunma Sanayii toplulukları üniversitenin vizyonuna paralel olarak etkinlikler ve TUSAŞ/teknokent gezileri düzenlemektedir.
+* **Kütüphane ve Çalışma Ortamı:**  
+  Kampüs kütüphanesi butik ölçekli olsa da KSÜ Avşar'daki gibi "sabah 8'de sıra bekleme / yer bulamama" stresi kesinlikle yaşanmaz; sınav dönemlerinde sessiz, klimalı ve ferah bir çalışma ortamı sunar.
+* **Fakülteler ve TUSAŞ İşbirlikleri:**  
+  2018'de kurulan genç devlet üniversitesi KİÜ; **Mühendislik Fakültesi**, **İletişim Fakültesi**, **Turizm Fakültesi**, **İnsan ve Toplum Bilimleri Fakültesi** ve teknik MYO birimlerine sahiptir. En büyük akademik avantajı, Türk Havacılık ve Uzay Sanayii (**TUSAŞ**) Kahramanmaraş Havacılık Yapısalları Üretim Tesisi ile yapılan protokoldür; havacılık, kompozit ve makine öğrencileri uygulamalı eğitim ve stajda doğrudan sektörün içindedir.
+* **Uygulamalı Mesleki Eğitim Modeli (3+1 ve 7+1):**  
+  Meslek Yüksekokullarında 3 dönem okul + 1 dönem tam zamanlı fabrika stajı (3+1), fakültelerde ise 7 dönem ders + 1 dönem tam zamanlı sanayi stajı (7+1) modeli uygulanır. Bu sistem mezuniyet sonrası işe alımlarda öğrencilere devasa avantaj sağlar.
+* **İnternet (eduroam):**  
+  Kampüs nüfusu devasa olmadığı için `eduroam` bant genişliği doygundur ve dersliklerde kesintisiz çalışır.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 4. 🍽️ Beslenme, Sokak Lezzetleri ve Kampüs İçi Yaşam
 
 * **Merkez Yemekhane:**  
-  Kampüs yemekhanesinde hafta içi öğle saatlerinde 4 çeşit sıcak yemek (25 TL) çıkar. Sıra bekleme süresi oldukça kısadır.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içinde öğrenci kantini ve dinlenme alanları mevcuttur. Ancak kampüsün hemen dışında KSÜ Avşar'daki gibi geniş bir kafe/restoran caddesi yoktur; market ve sosyal ihtiyaçlar için otobüsle 15-20 dakikada Piazza AVM veya Binevler bölgesine gidilir.
-* **Spor Tesisleri:**  
-  Açık basketbol/voleybol sahaları ve halı saha mevcuttur.
+  Hafta içi öğle saatlerinde tabldot sıcak yemek servisi yapılır (~25 TL). Sıra beklemeden, gürültüsüzce yemek yenebilir.
+* **Sokak Lezzetleri ve Öğrenci Durakları:**  
+  * **Sanayi Fırınları ve Eli Böğründe Tepsisi:** Kampüsün hemen bitişiğindeki sanayi fırınlarında kasaptan hazırlatılan kıymalı pide, lahmacun ve kuşbaşılı tepsi (eli böğründe) çok hesaplıya fırına verdirilir.
+  * **Paçacılar ve Ciğerciler:** Gaziantep yolundaki esnaf paçacıları ve çarşıdaki ciğerciler öğrencilerin uygun fiyatlı protein depolarıdır.
+  * **Gaziantep Gastronomi Hattı:** Karacasu, Gaziantep sınırına sadece 50 dakika mesafede olduğu için öğrenciler hafta sonları otobüsle Gaziantep'e geçip beyran, baklava ve kebap turları yapar.
+* **Kantin ve Sosyal Tesis:**  
+  Yerleşkede temel ihtiyaçları karşılayan bir kantin bulunur. Ancak kafe-restoran çeşitliliği için öğrenciler ders bitimi merkeze geçer.
 
 ---
 
 ## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Karacasu sakin bir bölgedir. Öğrenciler gündüz derslerini tamamlayıp öğleden sonra vakitlerini çoğunlukla şehir merkezinde veya Onikişubat'taki kafe/AVM bölgelerinde geçirirler.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Otobüsle 15 dakika mesafedeki **Piazza AVM** (sinema, restoranlar, mağazalar) KİÜ öğrencilerinin ders çıkışı en sık uğradığı buluşma noktasıdır.
-* **Part-Time İş ve Staj Olanakları:**  
-  TUSAŞ (Türk Havacılık ve Uzay Sanayii) Kahramanmaraş tesisleri ve Türkoğlu/Karacasu OSB işletmeleriyle üniversitenin protokolleri bulunmaktadır. Özellikle teknik MYO ve mühendislik öğrencileri için uygulamalı eğitim (3+1 / 7+1 modeli) avantajı vardır.
+* **Yerel Halk ve Çevre:**  
+  Karacasu sakin, sanayi ve kırsal alan dengesinde bir yerleşkedir. Gündüz hareketli, akşamları ise son derece sakindir.
+* **Sosyal Merkezler:**  
+  Ders bitiminde 15 dakikada **Piazza AVM** ve **Trabzon Caddesi** aksına gidilerek kafelerde zaman geçirilir.
+* **Part-Time İş ve Staj:**  
+  Gaziantep yolu üzerindeki tekstil fabrikaları, gıda işletmeleri ve TUSAŞ tesisleri öğrencilere staj ve yarı zamanlı çalışma kapıları aralar.
 
 ---
 
 ## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
 
 ### ✅ Artıları
-* Genç ve butik bir üniversite olması sayesinde akademisyenlerle birebir iletişim kurabilme ve kalabalıktan uzak eğitim.
-* Kampüsün hemen yanı başında KYK yurdunun bulunması, otogar ve havalimanına çok yakın olması.
-* Savunma sanayii (TUSAŞ işbirlikleri) ve uygulamalı mesleki eğitime verilen öncelik.
+* Butik öğrenci sayısı: Hocalarla birebir proje yapabilme ve laboratuvar olanaklarına kolay erişim.
+* Kampüsün hemen yanında KYK yurdu olması sayesinde sıfır ulaşım masrafıyla okuyabilme.
+* TUSAŞ ve OSB iş birlikleri sayesinde güçlü 3+1 ve 7+1 sanayi stajı avantajı.
+* Kütüphanede masa kapma yarışının olmaması; sessiz ve dingin akademik ortam.
 
-### ❌ Eksileri
-* Kampüs çevresinde yürüme mesafesinde sosyal mekan, kafe ve alışveriş olanaklarının çok kısıtlı olması.
-* Üniversitenin fiziki yapılanmasının ve yeni kampüs binalarının inşaat süreçlerinin halen devam ediyor olması.
-* Sosyal hayat için her seferinde Onikişubat / Piazza tarafına otobüsle gitme zorunluluğu.
+### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+* **Sosyal İzolasyon:** Kampüs kapısından çıktığınızda oturacak 3. nesil bir kahveci ya da canlı bir öğrenci caddesi bulamazsınız; her sosyal aktivite için şehir merkezine otobüsle gitmek zorunludur.
+* **Akşam Sessizliği:** Kampüs çevresindeki dükkanlar erken saatte kapanır; akşam 20.00'den sonra yerleşke çevresi tamamen sanayi sessizliğine gömülür.
+* **Gelişmekte Olan Altyapı:** Yeni kurulan bir üniversite olduğu için bazı sosyal ve sportif tesis inşaatları dönemsel olarak devam eder.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Karacasu Kampüsü tam anlamıyla 'dersime gireyim, hocamla projemi yapayım, kütüphanede sakin sakin çalışayım' diyenler için ideal. Kampüsün hemen yanındaki KYK yurdunda kalırsanız yol parası ödemezsiniz ama akşamları canınız sıkılabilir; bu yüzden KahramanKart'ınızda her zaman bakiye olsun, ders bitimi Piazza veya Binevler otobüsüne atlayıp şehre karışın."
+> "1. KİÜ Karacasu'ya gelirken 'büyükşehir kampüs hayatı' hayaliyle gelmeyin; burası odaklanma, sakinlik ve sanayiyle iç içe staj yapma yeridir.  
+> 2. Yurtta kalacaksanız Karacasu KYK'yı tercih edin; yürüme mesafesinde olduğu için hem uykunuzdan hem cebinizden tasarruf edersiniz.  
+> 3. TUSAŞ ve yerel sanayi protokollerini 1. sınıftan itibaren araştırın; 3+1 stajınızı bu fabrikalarda tamamlarsanız mezun olduğunuzda işiniz hazır olabilir.  
+> 4. Hafta sonu bunaldığınızda Gaziantep'e günübirlik kaçışlar yapın, otobüsle 50 dakikada bambaşka bir dünyaya geçersiniz!"

@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Balıkesir / Bandırma  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Şehir Çeperi Ana Kampüs (Çanakkale Karayolu Üzeri)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
+> **Kampüs Konumu:** Şehir Çeperi Ana Kampüs (Çanakkale Karayolu Üzeri 5. km)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.3/5)
 
 ---
 
@@ -12,91 +12,80 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 5 km / ~15 - 20 dk | Cumhuriyet Meydanı ve İDO İskelesi'nden belediye otobüsleri |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Kampüs içi ve bitişiğinde Kız ve Erkek KYK yurtları mevcut |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 14.000 - 20.000 TL | Paşabayır, Paşakent, İhsaniye, 17 Eylül ve Sunullah mahalleleri |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Modern Öğrenci Yaşam Merkezi yemekhanesi, 4 çeşit menü |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri (Sınavda 7/24) | Yeni nesil Merkez Kütüphane, deniz/körfez esintili ferah çalışma alanı |
-| **🌐 İnternet (eduroam)** | Hızlı | Genç ve modern altyapı sayesinde fakültelerde çekim gücü yüksek |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı | Deniz kıyısı liman şehri, sahil kordonu, İstanbul'a İDO ile 2 saat |
+| **🚇 Şehir Merkezine Uzaklık** | 5 km / ~12 - 20 dk | Cumhuriyet Meydanı ve İDO İskelesi'nden belediye otobüsleri ve dolmuşlar |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs içinde Fatma Ana Kız KYK, Yarbay Vecihi Bey Erkek KYK ve Ayhan Songar KYK |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 14.000 - 20.500 TL | Paşabayır, Paşakent, 17 Eylül, İhsaniye ve Sunullah mahalleleri |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Öğrenci Yaşam Merkezi yemekhanesi, 4 çeşit dengeli menü; sıra hızlı erir |
+| **📚 Kütüphane Kapasitesi** | 7/24 (Sınav Döneminde) | Yeni nesil ferah kütüphane; sınav haftalarında gece 00:00 çorbası ikramı |
+| **🌐 İnternet (eduroam)** | Hızlı ve Stabil | Kampüs yeni kurulduğu için fiber altyapı fakültelerde ve yaşam merkezinde kuvvetli |
+| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı | Marmara kıyısı liman kenti, sahil kordonu, İDO ile İstanbul'a 2 saatte geçiş |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Ağı ve Kampüs Ulaşım Taktikleri
 
-* **Şehir Merkezinden Ulaşım:**  
-  Bandırma Onyedi Eylül Üniversitesi Merkez Yerleşkesi, Bandırma-Çanakkale yolu üzerinde, şehir merkezine (Cumhuriyet Meydanı ve İDO Feribot İskelesi'ne) sadece 5 km mesafededir. Şehir merkezinden kalkan **8 numaralı Kampüs/Fakülte** belediye otobüsleri ve kampüs güzergahından geçen hatlarla 15-20 dakikada ulaşım sağlanır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Kampüs binaları (Rektörlük, İİBF, Mühendislik ve Doğa Bilimleri, Denizcilik, Sağlık Bilimleri, Tıp ve Merkezi Derslikler) birbirine yürüme mesafesinde modern bir master planla konumlandırılmıştır. Otobüsler kampüs içine kadar girip yurtlar ve fakülteler önünde duraklama yapar.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Balıkesir Büyükşehir Belediyesi'nin **Balkart** sistemi Bandırma'da da geçerlidir. Öğrenci pasosu ile indirimli biniş yapılır.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Marmara Denizi kıyısında yer alan Bandırma'da kışın kar yağışı nadir görülür ancak sert poyraz ve yağmur etkilidir. Kampüs düz/hafif eğimli bir tepede yer aldığı için kışın ulaşımda kapanma yaşanmaz, sadece rüzgarlı havalarda şemsiye kullanmak imkansız hale gelir.
+* **Cumhuriyet Meydanı & İDO İskelesi'nden Kampüse:**  
+  Bandırma merkezden kampüse ulaşımın ana omurgası **8 numaralı Kampüs/Fakülte** belediye otobüsleri ve sarı dolmuşlardır. İDO iskelesi ve Cumhuriyet Meydanı duraklarından kalkan araçlar, Paşabayır ve Sunullah aksını geçerek Çanakkale yolu üzerindeki ana kapıya ve kampüs içine 15 dakikada ulaşır.
+  * *Ulaşım Taktikleri:* Sabah 08:30 dersi için meydandaki ilk duraktan binmek en rahatıdır; ara duraklarda (özellikle İhsaniye ve Liman AVM önü) araçlar dolabilir. Kampüs dönüşünde ise fakülte çıkışında doğrudan yaşam merkezinin önündeki ana duraktan binilmelidir.
+* **İstanbul - Bandırma İDO Avantajı:**  
+  Bandırma Onyedi Eylül Üniversitesi'ni tercih eden öğrencilerin en büyük lüksü, İstanbul Yenikapı ve Kadıköy'den kalkan İDO hızlı deniz otobüsleridir. Hafta sonu cuma akşamı feribota binip 2 saatte İstanbul'a varmak, pazar akşamı geri dönmek Bandırma öğrencisinin günlük rutini gibidir.
+* **Otostop Kültürü:**  
+  Liman AVM kavşağı ve Çanakkale Karayolu kampüs sapağında otostop çok yaygındır. Hem akademisyenler hem de yerel sürücüler öğrenci kimliğini gösteren gençleri kampüs kapısına kadar rahatlıkla bırakır.
+* **Ulaşım Kartı (Balkart):**  
+  Balkart öğrenci vizesiyle belediye otobüslerinde indirimli tarife geçerlidir. Dolmuşlarda ise nakit veya temassız kredi kartı opsiyonu bulunur.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma, Yurtlar ve Mahalle Dinamikleri
 
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** Kampüs yerleşkesi içinde/bitişiğinde yer alan **Bandırma KYK Kız Öğrenci Yurdu** ve **Fatma Ana Kız KYK Yurdu** sayesinde kız öğrenciler derse yürüyerek gidebilir.
-  * **Erkek Yurtları:** Yine kampüs bölgesinde konumlanan **Prof. Dr. Ayhan Songar Erkek KYK Yurdu** modern odaları ve kampüse yürüme mesafesiyle büyük avantaj sağlar.
-* **Özel Yurtlar ve Apartlar:**  
-  Bandırma merkezde (özellikle İhsaniye, 17 Eylül ve Sunullah mahallelerinde) çok sayıda özel kız/erkek yurdu ve 1+1 öğrenci apartı bulunur.
+* **KYK Yurtları ve Oda Şartları:**  
+  * **Fatma Ana Kız KYK Yurdu:** Kampüs arazisinin hemen bitişiğindedir. 3 ve 4 kişilik bazalı, çalışma masalı modern odalara sahiptir. Banyo ve tuvalet her odanın kendi içinde bağımsızdır. Çamaşırhane dijital randevu sistemiyle çalışır; yurttan çıkıp derse yürümek yalnızca 5 dakikadır.
+  * **Yarbay Vecihi Bey Erkek KYK Yurdu:** Kampüs sınırında yer alan yüksek kapasiteli erkek yurdudur. Odalar bazalı ve ferahtır. Sıcak su 24 saat kesintisizdir; kampüs içine yürüme mesafesinde olduğu için erkek öğrenciler için sabah yol stresi sıfırdır.
+  * **Prof. Dr. Ayhan Songar Erkek KYK Yurdu:** Şehir merkezine yakın konumdadır; kampüse otobüsle gidip gelinir fakat çarşıya ve sahile yürüme mesafesinde olmanın sosyal avantajını sunar.
 * **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Bandırma, Balıkesir'in merkezinden daha pahalı ve hareketli bir emlak piyasasına sahiptir. Öğrenciler en çok sahile ve merkeze yakın olan **17 Eylül**, **İhsaniye**, **Sunullah**, **Paşabayır** ve **Paşakent** mahallelerini tercih eder. Kampüse daha yakın olan **Yeni Mahalle** (Liman AVM çevresi) ise ulaşım kolaylığı arayanların gözdesidir. Kiralar 14.000 TL ile 20.000 TL arasında değişmektedir.
+  Bandırma, bir ilçe olmasına rağmen Balıkesir il merkezinden daha hareketli ve talep gören bir emlak piyasasına sahiptir.
+  * **17 Eylül ve İhsaniye Mahalleleri:** Öğrencilerin en yoğun kümelendiği bölgelerdir. Sevgi Yolu'na, kafelere ve kordona yürüyerek 5-10 dakikadır. Kiralar eşyalı 1+1 dairelerde 14.000 - 18.000 TL aralığındadır.
+  * **Paşabayır ve Paşakent:** Şehrin daha nezih, geniş caddelere ve deniz esintisine sahip aile-öğrenci karma mahalleleridir. 2+1 ve 3+1 ev arkadaşı arayan gruplar için uygundur (16.000 - 22.000 TL).
+  * **Yeni Mahalle (Liman AVM Çevresi):** Kampüse en yakın bölgedir. Sabahları derse yürüyerek veya tek durakla gitmek isteyenlerin tercihi olan modern siteler bulunur.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 3. 🍽️ Beslenme, Kampüs Yaşamı ve Sokak Lezzetleri
 
-* **Kütüphane İmkanları:**  
-  Modern mimariye sahip **BANÜ Merkez Kütüphanesi**, geniş grup çalışma odaları, bilgisayar laboratuvarları, sesli/sessiz okuma salonları ve bol prizli masalarıyla öğrencilerin en sevdiği alanlardan biridir. Sınav dönemlerinde 7/24 açık tutulur.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  2015'te kurulan genç bir üniversite olmasına rağmen köklü Bandırma İİBF mirası üzerine inşa edilmiştir. **Denizcilik Fakültesi** simülasyon laboratuvarları, **Mühendislik** (Yazılım, Bilgisayar, Elektrik-Elektronik, Akıllı Ulaşım Sistemleri) laboratuvarları ve yeni kurulan **Tıp Fakültesi** derslikleri son teknolojiyle donatılmıştır.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  eduroam tüm kampüs binalarında ve sosyal yaşam merkezinde yüksek hızda çalışır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Denizcilik ve Yelken Kulübü, IEEE BANÜ, Yazılım ve Yapay Zeka Topluluğu, Lojistik Topluluğu ve Girişimcilik kulüpleri çok aktiftir. Türkiye'nin önde gelen liman ve sanayi devleriyle sektörel kariyer günleri düzenlenir.
+* **Merkezi Yemekhane:**  
+  Öğrenci Yaşam Merkezi bünyesindeki yemekhane çok ferahtır. Öğle ve akşam yemeği servisi (25-35 TL) düzenli olarak 4 çeşit şeklinde çıkar. Yemekhane turnikeleri barkodlu/kartlı sistemle çok hızlı ilerler.
+* **Meşhur Bandırma Liman Tostçuları:**  
+  Bandırma'da öğrenci olup da liman ve iskele çevresindeki tarihi büfelerden "Liman Tostu" yemeyen yoktur. Özel ekmeğinde bol Mihaliç/kaşar peyniri, ev yapımı kasap sucuğu ve salçalı sosuyla hazırlanan bu tost, gece kütüphaneden veya deniz kenarı yürüyüşünden çıkan öğrencilerin bir numaralı vazgeçilmezidir.
+* **Sahil Balık Ekmekçileri ve Simit Fırınları:**  
+  Cumhuriyet Meydanı arkasındaki balık halinde taze hamsi ve sardalya ekmek oldukça bütçe dostudur. Ayrıca sabah dersine koşarken sahildeki seyyar gevrekçilerden çıtır simit almak bir gelenektir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 4. 📚 Akademik Yaşam ve Sınav Dönemi Taktikleri
 
-* **Merkez Yemekhane:**  
-  Öğrenci Yaşam Merkezi içerisindeki yemekhane ferah ve temizdir. Öğle yemekleri 25-35 TL bandında olup kartlı rezervasyon/bakiye sistemiyle çalışır.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içinde Öğrenci Çarşısı, kafeteryalar, kırtasiye, PTT/kargo noktası ve ATM'ler bulunur. Ayrıca kampüse çok yakın mesafedeki **Liman AVM** yemek katı, sineması ve mağazalarıyla öğrencilerin öğle aralarında bile uğradığı bir noktadır.
-* **Spor Tesisleri:**  
-  Kapalı spor salonu, fitness merkezi, kapalı yüzme havuzu, halı saha ve basketbol/tenis kortları kampüs içinde aktif hizmet vermektedir.
-
----
-
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
-
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Bandırma, kültürel ve sosyal açıdan Trakya ve Ege sahil kasabalarına benzeyen, modern, özgürlükçü ve öğrenci dostu bir liman kentidir. Gece geç saatlerde sahilde yürümek güvenlidir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  **Bandırma Sahil Bandı (Kordon)**, **Cumhuriyet Meydanı**, **Sevgi Yolu**, **Livatya (Levent) Sahili** ve sahil arkasındaki pub/kafe sokakları akşamları tıklım tıklımdır. Hafta sonu **Erdek** plajlarına veya **Kapıdağ Yarımadası**'na (kampa) 20 dakikada minibüsle gidilebilir; **İDO** ile İstanbul'a 2 saatte geçilebilir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Çelebi Bandırma Limanı, BAGFAŞ, Eti Maden, büyük lojistik firmaları, rüzgar enerjisi ve gıda sanayi tesisleri Denizcilik, İİBF ve Mühendislik öğrencileri için eşsiz staj imkanları sunar. Sahildeki kafe ve restoranlarda part-time iş bulmak çok kolaydır.
+* **Fakültelerin Karakteristiği ve Barajlar:**  
+  * **Denizcilik Fakültesi:** Deniz Ulaştırma İşletme Mühendisliği ve Gemi Makineleri bölümlerinde üniforma zorunluluğu, disiplin kuralları ve simülatör baraj sınavları titizlikle uygulanır. Denizcilik öğrencileri kampüsün en disiplinli grubudur.
+  * **İktisadi ve İdari Bilimler Fakültesi (İİBF):** Üniversitenin en köklü birimidir; çan eğrisi sistemi uygulanır ancak dersine göre 40-45 arası çan altı kalma barajları konulabilir.
+  * **Mühendislik ve Doğa Bilimleri:** Yazılım, Bilgisayar ve Akıllı Ulaşım Sistemleri bölümlerinde TEKNOFEST takımları ile sanayi destekli bitirme projeleri öne çıkar.
+* **Kütüphanede Yer Kapma & Gece Çorbası:**  
+  Merkez Kütüphane vize ve final dönemlerinde 7/24 esasına geçer. Sınav haftalarında gece **00:00**'da rektörlük tarafından kütüphane önünde sıcak mercimek/tarhana çorbası ikram edilir. Üst katlardaki bireysel çalışma kabinleri erken saatte dolar; grup çalışma odaları için BANÜ kütüphane portalından erken randevu almak şarttır.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
 
-### ✅ Artıları
-* İlçe olmasına rağmen birçok ilden daha gelişmiş, deniz kıyısında, modern ve canlı bir sosyal hayata sahip olması.
-* İstanbul'a İDO feribotuyla 2 saatte, İzmir'e trenle, Bursa ve Çanakkale'ye otobüsle 1.5-2 saatte ulaşım imkanı.
-* Kampüsün merkeze yakın (5 km) olması ve KYK yurtlarının kampüs içinde/bitişiğinde yer alması.
-
-### ❌ Eksileri
-* Kira fiyatlarının ve yaşam maliyetinin Balıkesir Merkez'e göre daha yüksek olması.
-* Kış aylarında Marmara'dan esen çok sert poyraz rüzgarı ve zaman zaman gübre/sanayi tesislerinden gelen rüzgar altı kokusu.
-* Şehir içi trafiğin ve ana caddelerin akşam saatlerinde sıkışması.
+* **Şemsiye Parçalayan Sert Liman Poyrazı:**  
+  Bandırma'nın rüzgarı efsanedir. Kış aylarında denizden esen sert fırtına nedeniyle klasik şemsiyelerin dakikalar içinde telleri kırılır. Rüzgar kesici kapüşonlu outdoor montlar ve bere olmadan kampüs yürüyüş yolunda yürümek yüz felci hissi yaratabilir.
+* **Rüzgar Altı Fabrika/Sanayi Kokusu:**  
+  Liman bölgesindeki sanayi tesisleri, gübre fabrikaları ve tavukçuluk işletmeleri nedeniyle lodos veya ters rüzgar estiğinde şehrin bazı mahallelerinde ağır bir sanayi kokusu hissedilebilir.
+* **Kiralarda Liman ve İstanbul Baskısı:**  
+  İstanbul'a yakınlığı ve gelişmiş liman sanayisi sebebiyle ev kiraları Anadolu standartlarının üzerindedir. Özellikle eylül ayında emlakçıların yüksek komisyon ve peşinat talepleri yeni gelen öğrencileri zorlayabilir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 6. 💡 Bandırma Öğrencisine Altın Tavsiyeler
 
-> 💬 **Öğrenci Notu:**  
-> "Bandırma'yı 'ilçe üniversitesi' sanıp önyargıyla yaklaşanlar sahile inince şok oluyor. Burası öğrenci için tam bir küçük İzmir/Kadıköy karışımıdır. Bahar geldi mi Livatya'da gün batımı izlenir, hafta sonu Erdek'te denize girilir. Ev tutacaksan İhsaniye veya 17 Eylül Mahallesi'nde erken davran, Eylül ayında ev kiraları bir anda fırlar!"
+1. **Rüzgara Karşı Doğru Ekipman:** Bandırma'ya gelirken standart bir şemsiye almak yerine kaliteli, rüzgar geçirmeyen gore-tex bir mont edinin.
+2. **İDO Bilet Taktikleri:** İstanbul'a gidecekseniz İDO biletlerini seyahatten en az 2-3 hafta önce alın; cuma gidiş - pazar dönüş biletleri son günlerde çok pahalanır.
+3. **Erdek & Kapıdağ Avantajı:** Bahar ve yaz aylarında bunaldığınız anda 20 dakikalık minibüsle Erdek plajlarına gidip kamp yapabilir, denize girebilirsiniz.
+4. **Denizcilik ve Lojistik Stajları:** Çelebi Bandırma Limanı ve lojistik antrepolar öğrencilere açık birer açık hava laboratuvarıdır; kulüp etkinlikleri üzerinden staj bağlantılarını 2. sınıftan itibaren kurun.

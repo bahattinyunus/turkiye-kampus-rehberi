@@ -2,9 +2,9 @@
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Denizli / Pamukkale  
-> **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Merkez Ana Kampüs (Kınıklı)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.5/5)
+> **Üniversite Türü:** Devlet (Köklü Ege Üniversitesi & Sağlık/Mühendislik Üssü)  
+> **Kampüs Konumu:** Merkez Ana Kampüs (Kınıklı Mevkii / Çamlık Yanı)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.6/5)
 
 ---
 
@@ -12,93 +12,85 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 5 km (~15 dk Çınar Meydanı) | Kınıklı ve Forum Çamlık aksı zaten şehrin sosyal merkezi konumunda |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Asmalıevler ve Kınıklı'da kampüse yürüme mesafesinde dev KYK blokları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 10.500 - 16.500 TL | Kınıklı, Yunus Emre, Asmalıevler, Çamlaraltı (1+1 apart cenneti) |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | PAÜ Pusula üzerinden haftalık/günlük rezervasyonlu akıllı kart sistemi |
-| **📚 Kütüphane Kapasitesi** | Sınav Dönemleri 7/24 Açık | Prof. Dr. Fuat Sezgin Kütüphanesi (yüksek kapasiteli, modern) |
-| **🌐 İnternet (eduroam)** | Hızlı | Kampüs genelinde, kütüphanede ve gölet çevresinde güçlü çekim |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı | Kampüs Caddesi, Forum Çamlık, Çamlık Parkı, Kınıklı kafe/pub sokakları |
+| **🚇 Şehir Merkezine Uzaklık** | 5 km (~12-15 dk Çınar Meydanı) | Kınıklı ve Forum Çamlık zaten şehrin ana gençlik ve sosyal merkezi konumundadır |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (Kampüs İçi & Bitişik) | Pamukkale Kız, Denizli Kız, Reşat Vural Erkek, Biruni Erkek KYK yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 10.500 - 16.500 TL | Kınıklı, Yunus Emre, Asmalıevler, Çamlaraltı (Türkiye'nin 1+1 apart cenneti) |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | PAÜ Pusula üzerinden haftalık rezervasyonlu akıllı yemekhane sistemi |
+| **📚 Kütüphane Kapasitesi** | Sınav Dönemleri 7/24 Kesintisiz | Prof. Dr. Fuat Sezgin Kütüphanesi (Geniş oturma kapasitesi, gece çorbası) |
+| **🌐 İnternet (eduroam)** | Hızlı | Kampüs geneli, amfiler ve laboratuvarlarda yüksek hızlı fiber eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | Efsanevi Dinamik & Ege Havası | Kampüs Caddesi kafeleri, Forum Çamlık AVM, Çamlık Mesire Alanı, Bağbaşı Teleferik |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Ağı, Kapı Taktikleri ve Eğimli Kampüs Rehberi
 
-* **Şehir Merkezinden Ulaşım:**  
-  Kınıklı Kampüsü, Denizli-Antalya karayolu üzerinde, şehrin en canlı bölgesi olan Çamlık ve Kınıklı'nın kesişiminde yer alır. Denizli Otogarı'ndan ve Çınar Meydanı'ndan **110, 120, 130, 190, 300** numaralı belediye otobüsleri ile Kınıklı/Asmalıevler minibüsleri doğrudan kampüs kapılarına gelir. Kınıklı, Yunus Emre veya Asmalıevler'de yaşayan bir öğrencinin toplu taşımaya binmesine gerek yoktur; yürüyerek 5-15 dakikada fakültesine ulaşır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Kampüs oldukça geniş ve çam ağaçlarıyla kaplı yeşil bir alana yayılmıştır. Alt kapı (Rektörlük/Hastane) ile üst kısımdaki fakülteler (Eğitim, İİBF, Teknoloji) arasında hafif bir eğim vardır. Kampüs içerisinde belediye otobüsleri ring güzergahı çizer; ayrıca bisiklet ve elektrikli scooter kullanımı çok yaygındır.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  **Denizli Kart** öğrenci tarifesi oldukça ekonomiktir. Aylık abonman paketleri tanımlanabilmekte ve otobüsler arası 1 saat içinde ücretsiz/indirimli aktarma imkanı sunulmaktadır.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Denizli'de kışlar İç Anadolu kadar sert geçmez; kar yağışı şehir merkezinde yılda sadece birkaç gün görülür (hemen üstteki Bağbaşı Yaylası ve Honaz Dağı karla kaplıyken bile kampüs ılımandır). Ancak sonbahar ve kış aylarında sağanak yağışlarda sabah ders saatlerinde otobüsler çok kalabalık olur.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** **Pamukkale KYK Kız Öğrenci Yurdu** ve **Denizli KYK Kız Öğrenci Yurdu** kampüsün hemen üst ve yan sınırında (Kınıklı/Asmalıevler) yer alır. Fakültelere yürüyerek 5-10 dakikada geçilir.
-  * **Erkek Yurtları:** **Reşat Vural KYK Erkek Yurdu**, **Biruni KYK Erkek Yurdu** ve **Hüsamettin Kulaklı KYK Yurdu** Asmalıevler bölgesindedir. Kampüsün üst kapısından yürüyerek veya tek otobüsle dakikalar içinde dersliklere ulaşılır.
-* **Özel Yurtlar ve Apartlar:**  
-  Denizli, Eskişehir ile birlikte Türkiye'de **1+0 ve 1+1 eşyalı öğrenci apartı** kültürünün en gelişmiş olduğu şehirdir. Kınıklı, Yunus Emre ve Asmalıevler'de hemen her sokakta öğrencilere yönelik güvenlikli, doğalgaz/merkezi ısıtmalı, internet dahil apart binalar bulunur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Kınıklı & Yunus Emre:** Gece gündüz yaşayan, marketlerin, fotokopicilerin ve kafelerin hiç kapanmadığı tam bir öğrenci merkezidir.
-  * **Asmalıevler:** KYK yurtlarıyla iç içe, biraz daha yeni binaların olduğu ve kampüsün üst kapısına yakın mahalledir.
-  * **Çamlaraltı:** Forum Çamlık AVM'ye ve Çamlık Ormanı'na komşu, daha nezih ve ağaçlık sokaklara sahip bölgedir; kiralar Kınıklı'ya göre biraz daha yüksektir.
+* **Alt Kapı vs Üst Kapı Ayrımı (Hangi Kapıdan Girilmeli?):**  
+  PAÜ Kınıklı Kampüsü, Honaz Dağı yamaçlarına doğru tatlı bir eğimle yükselir. Kampüste iki ana giriş kapısı vardır ve yanlış kapıdan girmek 15 dakikalık dik yokuş tırmanışı demektir:
+  * **Alt Kapı (Rektörlük / Hastane Kapısı):** Denizli-Antalya yolu üzerindedir. Tıp Fakültesi, Diş Hekimliği, PAÜ Üniversite Hastanesi ve Morfoloji binasına gidecekseniz kesinlikle buradan inmelisiniz.
+  * **Üst Kapı (Kınıklı / Asmalıevler Kapısı):** Eğitim Fakültesi, İİBF, Teknoloji Fakültesi, Mühendislik amfileri, Merkez Yemekhane ve KYK Yurtlarına gidecekseniz bu kapıyı kullanmalısınız.
+* **Belediye Otobüsleri (Denizli Kart):**  
+  Şehirlerarası Otogar'dan, Çınar Meydanı'ndan ve Bayramyeri'nden kalkan **110, 120, 130, 190 ve 300** numaralı belediye otobüsleri doğrudan her iki kapıya da sefer yapar. Öğrenci Denizli Kart ücreti çok uygundur ve 1 saat içinde ücretsiz aktarma geçerlidir.
+* **Kampüs İçi Eğim ve Scooter/Bisiklet Yaşamı:**  
+  Kampüs içi geniş kaldırımlara ve bisiklet yollarına sahiptir. Yokuş aşağı inişler çok rahattır ancak yaz sıcağında alt kapıdan üst fakültelere yürümek yorucu olabilir; bu yüzden kampüs içi çalışan belediye ring otobüsleri ve elektrikli scooterlar öğrenciler arasında çok popülerdir.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma Dinamikleri, Apart Tuzakları ve KYK Yurtları
 
-* **Kütüphane İmkanları:**  
-  Kampüsün merkezinde yer alan **Prof. Dr. Fuat Sezgin Kütüphanesi**, geniş oturma kapasitesi, bireysel çalışma kabinleri, grup çalışma odaları ve zengin dijital veri tabanıyla bölgenin en iyi kütüphanelerinden biridir. Vize ve final dönemlerinde 7/24 açıktır; gece çalışan öğrencilere çorba ve çay ikramı yapılır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  PAÜ Tıp Fakültesi (probleme dayalı öğrenim - PDÖ sistemiyle Türkiye'de öncüdür) ve kampüs içindeki dev Üniversite Hastanesi çok güçlü bir klinik altyapı sunar. Mühendislik (özellikle Tekstil, Makine, Bilgisayar, Elektrik-Elektronik) ve Teknoloji Fakültesi laboratuvarları Denizli sanayisiyle entegredir.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  PAÜ'nün kendi geliştirdiği **Pusula Bilgi Sistemi** (OBS, yemekhane rezervasyonu, kütüphane, sağlık randevusu tek ekranda) Türkiye'deki en başarılı üniversite otomasyonlarından biridir. Kampüs genelinde `eduroam` çekim gücü yüksektir.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  100'e yakın aktif öğrenci topluluğu vardır. **PAÜ Siber (Siber Güvenlik)**, **Elektromobil / Hidromobil** takımları, Dağcılık ve Doğa Sporları (PAÜDAK), Tiyatro ve Müzik kulüpleri çok aktiftir. Gölet çevresinde düzenlenen bahar şenlikleri ve açık hava konserleri oldukça renkli geçer.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane:**  
-  Kampüs içindeki büyük öğrenci yemekhanesinde öğle ve akşam yemekleri çıkar. Pusula sistemi üzerinden bir hafta önceden rezervasyon yapılarak indirimli fiyattan (25-35 TL) yemek yenir; rezervasyonsuz "son dakika" yemek ücreti daha yüksektir. Vejetaryen ve diyet menü alternatifleri mevcuttur.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüsün tam kalbindeki **PAÜ Gölet** çevresi, Gençlik Merkezi, kafeteryalar, kırtasiyeler ve banka ATM'leriyle öğrencilerin ders aralarında çimlere yayılıp sosyalleştiği ana merkezdir.
-* **Spor Tesisleri:**  
-  PAÜ Spor Merkezi bünyesinde **olimpik kapalı yüzme havuzu**, devasa kapalı spor salonu (PAÜ Arena), fitness merkezi, açık/kapalı tenis kortları ve stadyum bulunur. Öğrenciler indirimli üyelikle havuz ve fitness olanaklarından faydalanabilir.
+* **KYK Yurtları (Oda Sayıları, Banyo ve Çamaşırhane):**  
+  * **Kız Yurtları:** Kampüsün hemen üst sınırında yer alan **Pamukkale KYK Kız Yurdu** ve **Denizli KYK Kız Yurdu**, fakültelere yürüyerek 3-7 dakika mesafededir. Odalar 3-4 kişiliktir; bazalı yataklar, gardırop, çalışma masası ve banyo oda içerisindedir. Çamaşırhanelerde sıra beklememek için hafta içi sabah erken saatler tercih edilmelidir.
+  * **Erkek Yurtları:** Asmalıevler sınırındaki **Reşat Vural KYK Erkek Yurdu**, **Biruni KYK Erkek Yurdu** ve **Hüsamettin Kulaklı KYK Yurdu** kampüsün üst kapısına yürüyüş mesafesindedir.
+* **Kınıklı ve Çamlık Apart Cenneti (Tuzaklara Dikkat!):**  
+  Denizli, Türkiye'de Eskişehir'le yarışacak düzeyde bir **1+1 ve 1+0 stüdyo apart** kültürüne sahiptir:
+  * **Kınıklı & Yunus Emre:** Kampüs Caddesi'nin hemen arkasındaki sokaklarda binlerce öğrenci apartı bulunur. Gece 03.00'te bile sokaklar güvenli ve cıvıl cıvıldır.
+  * **Apart Aidat ve Elektrik Oyunları (Önemli Uyarı):** Bazı apart yönetimleri "fatura dahil" konsepti altında süzme sayaçla fahiş elektrik ücreti talep edebilir veya merkezi sistem ısınma bedelini adaletsiz paylaştırabilir. Sözleşme yaparken süzme sayaç yerine bireysel abonelikli veya şeffaf pay ölçerli binaları seçin; çıkışta depozitonun iade şartlarını netleştirin.
+  * **Çamlaraltı & Asmalıevler:** Çamlaraltı, Forum Çamlık AVM ve Çamlık Parkı çevresindeki nezih, ağaçlık sokaklarıyla bilinir; kiralar Kınıklı'ya göre 1.000-2.000 TL daha yüksektir ama ortamı çok sakindir.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🍽️ Beslenme, Sokak Lezzetleri ve Kınıklı Tavuk Pilavcıları
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Denizli halkı Ege kültürünün getirdiği hoşgörülü, modern ve samimi bir yapıya sahiptir. Kınıklı, Çamlaraltı ve Asmalıevler tamamen öğrenci odaklı semtler olduğu için gece geç saatlerde bile sokaklar aydınlık, canlı ve güvenlidir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Kampüsten yürüyerek 10 dakikada ulaşılan **Forum Çamlık AVM** (açık hava sokak konseptli AVM), **Kıbrıs Şehitler Caddesi**, **Kampüs Caddesi** üzerindeki publar, canlı müzik mekanları ve üçüncü nesil kahveciler öğrencilerin buluşma noktasıdır. Hafta sonları **Çamlık Kent Ormanı**, **Bağbaşı Yaylası (Teleferik)**, **Pamukkale Travertenleri & Hierapolis Antik Kenti** ve **Laodikeia** en popüler gezi rotalarıdır.
-* **Part-Time İş ve Staj Olanakları:**  
-  Kampüs içindeki **Pamukkale Teknokent** yazılım ve mühendislik öğrencileri için büyük bir fırsattır; pek çok öğrenci daha 3. sınıftayken Teknokent firmalarında part-time çalışmaya başlar. Ayrıca Kınıklı ve Forum Çamlık'taki kafe/mağazalarda part-time iş bulmak oldukça kolaydır.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* **Türkiye'nin En İyi Kampüs-Şehir Entegrasyonlarından Biri:** Kampüs, yurtlar, öğrenci evleri ve sosyal mekanlar (Kınıklı-Asmalıevler-Çamlık) tamamen yürüme mesafesinde tek bir ekosistemdir.
-* **Güçlü Dijital ve Fiziki Altyapı:** Pusula otomasyon sistemi, olimpik spor tesisleri, gölet alanı ve Pamukkale Teknokent olanakları çok gelişmiştir.
-* **Sosyal ve Modern Yaşam:** Ege'nin rahat sosyal ortamı, doğa harikalarına yakınlığı ve ulaşım kolaylığı öğrenciliği keyifli kılar.
-
-### ❌ Eksileri
-* **Yaz ve Bahar Sonu Sıcakları:** Mayıs sonundan Ekim başına kadar Denizli oldukça sıcak ve nemli/bunaltıcı olabilir; klimasız apartlarda yaz okulu zor geçer.
-* **Yemekhane Rezervasyon Kuralı:** Pusula'dan haftalık yemek rezervasyonunu unutursanız günlük yemek ücreti ciddi oranda zamlı ödenir.
-* **Kınıklı'da Artan Apart Kiraları:** Kampüse yürüme mesafesindeki 1+1 apartlara talep çok yüksek olduğu için eylül ayında fiyatlar hızla tırmanır.
+* **Pusula Yemekhane Rezervasyonu Sırrı:**  
+  PAÜ'de yemekler üniversitenin yazılımı olan **Pusula Bilgi Sistemi** üzerinden bir hafta önceden seçilir ve rezerve edilir. Rezerve edilen 4 çeşit menü 25-35 TL bandında çok ekonomikken, son dakika rezervasyonsuz biniş ücreti iki katına çıkar! Bu yüzden her Pazar akşamı gelecek haftanın yemek rezervasyonunu yapmak PAÜ öğrenciliğinin altın alışkanlığıdır.
+* **Kınıklı Tavuk Pilavcıları Efsanesi:**  
+  Gece kütüphaneden veya kafelerden çıkan PAÜ öğrencilerinin değişmez buluşma noktası Kınıklı amfi çıkışındaki tavuk pilavcılardır. Bol didiklenmiş tavuk, tereyağlı tane nohutlu pilav, karabiber ve köpüklü yayık ayranı öğrenci bütçesinin en sadık dostudur.
+* **Denizli Kebabı (Kaleiçi Tarihi Fırın Kebabı):**  
+  Denizli'ye gelip Kaleiçi Çarşısı'nda taş fırınlarda sakız ağacı odununda nar gibi pişen tarihi **Denizli Kebabı**'nı yememek olmaz. Bu kebabın en büyük özelliği **çatal ve bıçak kullanılmadan elle yenmesidir**; pide üzerine serilen lokum gibi kuzu eti kemiğinden sıyrılarak tüketilir.
+* **Zafer Gazozu Ritüeli:**  
+  Denizli'nin 1934'ten beri üretilen tescilli efsanesi Zafer Gazozu'dur. Kampüs kafelerinde ders aralarında veya gölet kıyısında simit eşliğinde buz gibi bir şişe Zafer Gazozu yudumlamak vazgeçilmez bir gelenektir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 4. 📚 PAÜ Kütüphanesinde Yer Tutma Savaşları ve Akademik Hayat
 
-> 💬 **Öğrenci Notu:**  
-> "PAÜ Kınıklı Kampüsü, Türkiye'de 'gerçek üniversite kampüsü' hissini sonuna kadar yaşayacağınız nadir yerlerden biridir. Yurt çıkmazsa veya eve çıkacaksanız Kınıklı-Asmalıevler aksından şaşmayın, otobüs parası bile vermeden 4 yılınızı yürüyerek geçirirsiniz. Pusula sisteminden Cuma günleri haftalık yemekhane rezervasyonunuzu yapmayı sakın unutmayın!"
+* **Prof. Dr. Fuat Sezgin Kütüphanesi'nde Sabah Yer Tutma Savaşları:**  
+  Modern mimarisi ve binlerce kişilik kapasitesiyle Türkiye'nin en güzel kütüphanelerinden biri olan Fuat Sezgin Kütüphanesi, vize ve final haftalarında adeta bir savaş alanına döner.  
+  * Sabah saat 07.30'da kapıda kuyruk oluşur; saat 08.15'te tüm prizli masalar tükenir.
+  * Masaya not bırakıp 1 saatten fazla kaybolan öğrencilerin eşyaları güvenlik görevlilerince toplanır. Sınav döneminde 7/24 kesintisiz hizmet verir ve gece saat 23.30'da sıcak çorba ikramı yapılır.
+* **Tıp PDÖ (Probleme Dayalı Öğretim) Sistemi:**  
+  PAÜ Tıp Fakültesi, Türkiye'de PDÖ sistemini en disiplinli uygulayan üniversitelerden biridir. Klasik ezber yerine küçük grup oturumlarında senaryolar ve gerçek klinik vakalar üzerinden eğitim verilir. Sınavları zordur ancak öğrenciye hekimlik nosyonunu ilk yıldan kazandırır.
+* **Mühendislik ve Sanayi Entegrasyonu:**  
+  Denizli, Türkiye'nin en büyük tekstil, mermer, kablo ve makine ihracatçısı şehirlerinden biridir. PAÜ Mühendislik ve Teknoloji Fakültesi öğrencileri yerel sanayi devlerinde (Denizli OSB) kolaylıkla uzun dönem staj ve mezuniyet projeleri yapabilirler.
+
+---
+
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **Kampüsün Eğimli Rampaları (Bacak Kası Yaptıran Coğrafya):**  
+  Günde birkaç kez alt kapı ile üst fakülteler arasında yürümek zorunda kalan öğrenciler için kampüs tam anlamıyla bir kondisyon merkezine döner; sıcak yaz günlerinde bu rampaları çıkmak terletir.
+* **Cuma Akşamı Memlekete Kaçış Sendromu:**  
+  Öğrencilerin çok büyük bir bölümü İzmir, Aydın, Muğla, Manisa, Uşak ve Antalya gibi çevre illerden geldiği için Cuma 15.00'ten sonra Kınıklı otobüs durakları bavullu öğrencilerle dolar. Hafta sonu kampüs ve Kınıklı sokakları inanılmaz derecede sessizleşir.
+* **Gölet Çevresinde eduroam Sinyal Kopmaları:**  
+  Fakültelerin içinde yüksek hızda çalışan eduroam, açık gölet çimlerinde ve bahçelerde yoğunluk anlarında sinyal kaybı yaşayabilir.
+* **Yaz Sıcağında Ege Güneşi:**  
+  Mayıs ve Haziran aylarında Denizli sıcağı bunaltıcı olabilir; öğle derslerine giderken güneş kremi ve şapka gerekebilir.
+
+---
+
+## 6. 💡 İlk Günden Mezuniyete Altın Tavsiyeler
+
+1. **Pusula Yemek Rezervasyonunu Asla Unutma:** Her Pazar akşamı telefonuna alarm kur ve haftalık yemeklerini seç; iki katı para ödemekten kurtul.
+2. **Kütüphaneye Sabah Erken Git:** Vize/final haftasında Fuat Sezgin Kütüphanesi'nde yer kapmak istiyorsan sabah 07.45'te kapıda ol.
+3. **Kınıklı ve Çamlık'ın Tadını Çıkar:** Kampüs kapısından çıktığın an başlayan Kampüs Caddesi'nde kahveni iç, Çamlık Mesire Alanı'nda çam ağaçları altında koşu yap.
+4. **Bağbaşı Teleferiği ile Yaylaya Çık:** Şehir sıcaktan kavrulurken Bağbaşı Teleferiği'ne binip 1500 metredeki yaylaya çıkarak serinlemek PAÜ öğrenciliğinin en güzel hafta sonu kaçamağıdır.
+5. **Denizli Kart Aktarmalarını Kullan:** Şehir içi ulaşımda 1 saatlik indirimli aktarma avantajını kullanarak merkezdeki tarihi çarşılara ve AVM'lere ekonomik şekilde ulaş.

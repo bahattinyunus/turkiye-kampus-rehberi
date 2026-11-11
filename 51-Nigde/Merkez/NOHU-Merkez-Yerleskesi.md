@@ -4,7 +4,7 @@
 > **İl / İlçe:** Niğde / Merkez  
 > **Üniversite Türü:** Devlet  
 > **Kampüs Konumu:** Bor Yolu Üzeri Ana Kampüs (Merkeze 6 km)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
 
 ---
 
@@ -12,81 +12,102 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 6 km (~12-15 dk) | Aşağı Kayabaşı ve Çarşı'dan 3-5 dakikada bir kalkan Kampüs otobüsleri |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs içinde 4-5 adet dev KYK kız ve erkek öğrenci yurdu |
+| **🚇 Şehir Merkezine Uzaklık** | 6 km (~12-15 dk) | Aşağı Kayabaşı ve Çarşı'dan 3-5 dakikada bir kalkan Kampüs - Bor otobüsleri |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs içinde Sultan II. Kılıçarslan, Milli Piyango, Ertuğrul Gazi ve Ömer Halisdemir KYK yurtları |
 | **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 9.000 - 15.000 TL | Aşağı Kayabaşı, Fertek ve Dr. Sami Yağız Caddesi çevresi |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 TL / İyi | Merkezi Öğrenci Yemekhanesi; doyurucu ve sıra hızlı ilerliyor |
-| **📚 Kütüphane Kapasitesi** | Geniş / Sınav Dönemi 7/24 | Merkez Kütüphane (geniş çalışma salonları ve bireysel masalar) |
-| **🌐 İnternet (eduroam)** | İyi | Tüm fakülteler, kütüphane ve Kongre Merkezi'nde güçlü bağlantı |
-| **🌆 Sosyal Yaşam & Çevre** | Dengeli & Ekonomik | Aşağı Kayabaşı/Sami Yağız kafeleri, Aladağlar doğa sporları, Adana/Mersin/Kapadokya'ya 1-1.5 saat |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 TL / İyi | Merkezi Öğrenci Yemekhanesi; doyurucu tabldot ve hızlı turnike akışı |
+| **📚 Kütüphane Kapasitesi** | Geniş / Sınav Dönemi 7/24 | Merkez Kütüphane (bireysel çalışma masaları, gece çorba servisi) |
+| **🌐 İnternet (eduroam)** | Hızlı | Tüm fakülteler, kütüphane ve Kongre Merkezi'nde kesintisiz |
+| **🌆 Sosyal Yaşam & Çevre** | Dengeli & Çok Ekonomik | Aşağı Kayabaşı kafeleri, Aladağlar dağcılık, Kapadokya (1 sa), Mersin/Adana (1.5 sa) |
 
 ---
 
 ## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
 
-* **Şehir Merkezinden Ulaşım:**  
-  NÖHÜ Merkez Yerleşkesi, Niğde-Bor karayolunun 5. kilometresinde, Akkaya Barajı'nın hemen kıyısında yer alan devasa ve dümdüz bir arazi üzerine kurulmuştur. Şehir merkezinden (Dr. Sami Yağız Caddesi, Niğde Garı, Aşağı Kayabaşı) kalkan **Kampüs Özel Halk Otobüsleri** doğrudan kampüsün içine girer ve tüm fakülteler ile KYK yurtlarının önünden ring yaparak geçer.
-* **Kampüs İçi Ulaşım:**  
-  Kampüs tamamen düz ayak olduğu için yürümek ve bisiklet kullanmak son derece rahattır. Kampüs içi otobüs durağı ağı çok sıktır.
+* **Şehir Merkezinden ve İlçelerden Ulaşım:**  
+  NÖHÜ Merkez Yerleşkesi, Niğde-Bor karayolunun 5. kilometresinde, Akkaya Barajı kıyısında yer alan devasa ve dümdüz bir arazi üzerine kurulmuştur. Şehir merkezinden (Dr. Sami Yağız Caddesi, Tren Garı, Eski Hükümet Meydanı, Aşağı Kayabaşı) kalkan **Kampüs Özel Halk Otobüsleri (51 No'lu Kooperatif)** her 3-5 dakikada bir hareket eder ve doğrudan kampüsün içine girerek tüm fakülte ve yurt duraklarını ring şeklinde dolaşır.
+* **Kampüs İçi Düz Ayak Ulaşım ve Otostop:**  
+  Kampüs arazisi tamamen düzdür; bu sayede bisiklet, paten ve elektrikli scooter kullanımı çok yaygındır. Ders bitiminde kampüs ana nizamiyesinde **Aşağı Kayabaşı veya Çarşı yönüne otostop çekmek** öğrenciler arasında bir gelenektir; personeller ve Niğdeli sürücüler el kaldıran öğrencileri tereddütsüz alır.
+* **Öğrenci Abonman & Ulaşım Kartı:**  
+  **Niğde Kentkart** geçerlidir. Öğrenci biniş tarifesi ~12-14 TL bandındadır; Kentkart mobil üzerinden bakiye yüklenebilir.
 * **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Niğde (1.230 m rakım) sert karasal iklime sahiptir; kış geceleri ciddi ayaz yapar ve kar yağar. Ancak kampüs ve şehir yolu tamamen düz olduğu için ulaşımda aksama yaşanmaz.
-* **Akkaya Barajı Kokusu Notu:**  
-  Kampüsün hemen arkasında yer alan sığ Akkaya Barajı'ndan, özellikle havaların ısındığı Mayıs-Haziran ve Eylül aylarında rüzgar yönüne bağlı olarak zaman zaman koku gelebilmektedir (son yıllarda arıtma yatırımlarıyla azaltılmış olsa da adayların bilmesi gereken yerel bir detaydır).
+  Niğde (1.230 m rakım) sert karasal İç Anadolu iklimindedir; kış geceleri keskin ayaz yapar ve yollar buzlanabilir. Ancak kampüs ve ana bulvar tamamen düz ayak olduğu için dik rampa/yokuş tehlikesi yoktur; belediye ekipleri güzergahı sürekli tuzlar.
+* **Akkaya Barajı Kokusu Gerçeği:**  
+  Kampüsün arka sınırında yer alan sığ Akkaya Baraj Gölü'nden, özellikle havaların ilk ısındığı Mayıs ve Eylül aylarında rüzgar yönüne bağlı olarak zaman zaman sülfür/bataklık kokusu gelebilmektedir. Arıtma çalışmalarıyla azaltılmış olsa da kampüse yeni gelecek öğrencilerin şaşırmaması gereken yerel bir durumdur.
 
 ---
 
 ## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
 
-* **KYK Yurtları:**  
-  NÖHÜ Merkez Kampüsü, KYK yurtlarının doğrudan kampüs içinde yer almasıyla öğrencilere büyük konfor sunar:
-  * **Kız ve Erkek Yurtları:** Kampüs içerisindeki **Sultan II. Kılıçarslan KYK**, **Milli Piyango KYK**, **Ertuğrul Gazi KYK** ve **Ömer Halisdemir KYK** yurtları sayesinde binlerce öğrenci sabah otobüse binmeden yürüyerek amfilerine ulaşır.
+* **KYK Yurtları (İsimler, Donanım ve Giriş Kuralları):**  
+  NÖHÜ Merkez Kampüsü, Türkiye'de KYK yurtlarının doğrudan kampüs sahasında toplandığı en konforlu üniversitelerdendir:
+  * **Kız ve Erkek Yurtları:** Kampüs içindeki **Sultan II. Kılıçarslan KYK Kız Yurdu**, **Milli Piyango KYK Yurdu**, **Ertuğrul Gazi KYK Yurdu** ve **Ömer Halisdemir KYK Yurdu** devasa yatak kapasitesine sahiptir. Odalar genellikle 3-4 kişiliktir, banyo-lavabo oda içerisindedir. Katlarda çamaşırhaneler (sıra fişiyle) ve çalışma odaları mevcuttur. Sabah 08.30 dersine yurttan çıkıp 5 dakikada yürüyerek gitmek sıfır yol masrafı sağlar.
+  * **Giriş Saatleri ve Katılık:** Giriş saati **23.00** olup turnikeler yüz tanıma/parmak iziyle çalışır; gecikmelerde tutanak prosedürü işletilir.
 * **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Eve çıkmak isteyen öğrencilerin favorisi, kampüs ile çarşı arasında yer alan **Aşağı Kayabaşı Mahallesi** ve **Fertek** aksıdır. Burada 1+1 eşyalı apartlar (8.500 - 13.000 TL) ve yeni doğalgazlı siteler yoğunlaşmıştır.
+  Eve çıkmak isteyen öğrencilerin tartışmasız 1 numaralı tercihi **Aşağı Kayabaşı Mahallesi**'dir. Şehir merkezi ile kampüs arasında yer alan bu mahallede kafeler, zincir marketler, spor salonları ve yüzlerce 1+1 eşyalı apart yer alır (8.500 - 13.000 TL). Kampüse yürüme mesafesinde olmak isteyenler ise **Fertek** ve **Bor Yolu** üzerindeki yeni rezidansları seçerler.
 
 ---
 
 ## 3. 🎓 Akademik ve Fiziki Altyapı
 
-* **Öne Çıkan Fakülteler ve Araştırma Merkezleri:**  
-  1992'de kurulan köklü üniversitenin Merkez Kampüsü'nde; **Mühendislik Fakültesi**, Türkiye'de %100 İngilizce eğitim veren nadir tarım fakültelerinden biri olan **Tarım Bilimleri ve Teknolojileri Fakültesi** (uluslararası değişim ve araştırma projeleri çok güçlüdür), **Tıp Fakültesi**, **Diş Hekimliği Fakültesi**, **Eğitim Fakültesi**, **Fen-Edebiyat Fakültesi**, **İktisadi ve İdari Bilimler Fakültesi**, **İslami İlimler Fakültesi**, **İletişim Fakültesi**, **Mimarlık Fakültesi** ve **Spor Bilimleri Fakültesi** bir arada bulunur. Ayrıca **Merkezi Araştırma Laboratuvarı** ve **Niğde Teknopark** (özellikle güneş enerjisi/fotovoltaik ve tarım teknolojileri alanında) kampüs içindedir.
-* **Merkez Kütüphane ve Kongre Merkezi:**  
-  Merkez Kütüphane vize ve final dönemlerinde 7/24 açıktır. **Şehit Ömer Halisdemir Kongre ve Kültür Merkezi** ise İç Anadolu'nun en büyük üniversite salonlarından birine sahiptir.
+* **Merkez Kütüphane ve Final Savaşları:**  
+  Geniş cam tavanlı Merkez Kütüphane, vize ve final haftalarında 7/24 esasına geçer. Gece saatlerinde öğrencilere sıcak mercimek çorbası ve kek-meyve suyu dağıtılır. Prizli masalar erken saatlerde dolduğundan grup çalışma odaları için erken randevu almak şarttır.
+* **Öne Çıkan Fakülteler ve İhtisas Alanları:**  
+  * **Tarım Bilimleri ve Teknolojileri Fakültesi:** Türkiye'de %100 İngilizce eğitim veren sayılı fakültelerdendir; Ayhan Şahenk Vakfı desteğiyle öğrencilere burs, yurt dışı değişim ve yüksek teknoloji sera/laboratuvar imkanı sunar.
+  * **Mühendislik Fakültesi:** Makine, Elektrik-Elektronik, Maden ve İnşaat bölümlerinde MÜDEK akreditasyonları bulunur; laboratuvarlar sanayi standartlarındadır. Bağıl değerlendirme (çan eğrisi) uygulanır.
+  * **Tıp ve Diş Hekimliği Fakülteleri:** Niğde Ömer Halisdemir Eğitim ve Araştırma Hastanesi yerleşkeye yakındır; vaka sayısı tatmin edicidir.
+  * **Niğde Teknopark ve Güneş Enerjisi İhtisası:** Güneş enerjisi ve fotovoltaik teknolojiler alanında Türkiye'nin önemli araştırma merkezlerindendir.
+* **İnternet (eduroam):**  
+  Tüm dersliklerde, kütüphanede ve Kongre Merkezi'nde `eduroam` altyapısı hızlı ve kesintisizdir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 4. 🍽️ Beslenme, Sokak Lezzetleri ve Kampüs İçi Yaşam
 
 * **Merkez Yemekhane:**  
-  Öğrenci yemekhanesinde 25 TL'ye doyurucu 4 çeşit yemek çıkar.
-* **Kampüs Çarşısı ve Spor Tesisleri:**  
-  Kampüs içi öğrenci çarşısında market, kırtasiye, kafe/pastane, kuaför ve ATM'ler mevcuttur. Kampüste **kapalı olimpik yüzme havuzu**, stadyum, büyük kapalı spor salonu, fitness merkezi ve tenis kortları yer alır.
+  Öğrenci yemekhanesinde hafta içi öğle ve akşam sıcak yemek ~25 TL'dir. Sıra turnikeleri hızlı akar; porsiyonlar doyurucudur.
+* **Meşhur Sokak ve Yöresel Lezzetleri:**  
+  * **Niğde Tavası:** Kuzu kuşbaşı, sarımsak, sivri biber ve domatesin kuyruk yağıyla harmanlanıp mahalle taş fırınlarına sürülmesidir; tırnak pideyle 3-4 arkadaş birleşerek fırın önünde yemek en büyük gelenektir.
+  * **Niğde Tahinli Pidesi:** Çarşıdaki tarihi fırınlardan sabah sıcak çıkan bol tahinli çıtır pide; çayla birlikte sınav sabahlarının vazgeçilmezidir.
+  * **Orijinal Niğde Gazozu:** Frambuaz aromalı meşhur cam şişe gazoz kütüphane molalarının milli içeceğidir.
+  * **Bor Söğürmesi & Mangır Çorbası:** Yöresel esnaf lokantalarında uygun fiyatla tadılabilecek etli lezzetlerdir.
+* **Spor Tesisleri:**  
+  Yarı olimpik kapalı yüzme havuzu, atletizm stadyumu, kapalı spor salonları, fitness merkezi ve tenis kortları kampüs içinde yer alır.
 
 ---
 
 ## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
 
 * **Sosyal Alanlar:**  
-  Şehirde öğrenci sosyalleşmesi **Dr. Sami Yağız Caddesi (Eski İstasyon Caddesi)** ve **Aşağı Kayabaşı** üzerindeki kafeler, tatlıcılar, bilardo/oyun salonları ve pub/bistrolarda yoğunlaşır. Doğa ve dağcılık tutkunları için Türkiye'nin Alpleri sayılan **Aladağlar Milli Parkı (Demirkazık)** ve **Çiniligöl (Bolkarlar)** sadece 45-50 dakika uzaklıktadır; üniversitenin Dağcılık Kulübü Türkiye'nin en aktif kulüplerindendir.
-* **Hafta Sonu Kaçamak Avantajı:**  
-  Niğde'nin en güzel yanlarından biri; otoyoldan otobüsle **1 saatte Kapadokya'ya (Nevşehir/Göreme)** ve güney yönünde **1,5 saatte Adana veya Mersin (Akdeniz sahiline)** inebilmenizdir.
+  Niğde'de öğrenci sosyal yaşamı **Aşağı Kayabaşı** kafeler caddesi ve **Dr. Sami Yağız Caddesi** üzerinde yoğunlaşır. Butik kahveciler, kitap kafeler ve bilardo salonları akşam buluşma noktalarıdır.
+* **Efsane Kaçamak Rotaları (Aladağlar, Kapadokya, Akdeniz):**  
+  * **Aladağlar Milli Parkı & Demirkazık (45 Dk):** Dağcılık, kaya tırmanışı ve trekking için dünya çapında bir merkezdir; üniversite kulüpleri her hafta sonu Aladağlar kampları düzenler.
+  * **Kapadokya (1 Saat):** Hafta sonu otobüsle 1 saatte Göreme ve Ürgüp vadilerine geçilebilir.
+  * **Adana ve Mersin (1,5 Saat):** Pozantı tünellerinden geçerek 1,5 saatte Akdeniz sahiline inmek ve Mersin tantunisi / Adana kebabı turu yapmak Niğdeli öğrencilerin en sevdiği hafta sonu klasiğidir.
+* **Part-Time İş ve Staj:**  
+  Organize Sanayi Bölgesi (tekstil, gıda, yapı kimyasalları) ve Niğde Teknopark firmalarında teknik öğrenciler staj imkânı bulabilir.
 
 ---
 
 ## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
 
 ### ✅ Artıları
-* Tüm fakültelerin, kütüphanenin, spor tesislerinin ve KYK yurtlarının tek bir düz, yeşil ve büyük kampüste toplanmış olması.
-* Öğrenci bütçesini yormayan uygun kira ve yaşam maliyetleri.
-* Kapadokya'ya 1 saat, Adana ve Mersin'e 1,5 saat mesafede olması; Aladağlar ile doğa sporları cenneti olması.
+* Bütün fakültelerin, yurtların ve spor tesislerinin tek bir düz ve geniş merkez kampüste toplanmış olması.
+* Kampüs içi KYK yurt kapasitesinin çok yüksek olması; barınma sorununun bulunmaması.
+* Türkiye'nin en ekonomik öğrenci şehirlerinden biri olması; uygun kira ve gıda fiyatları.
+* Aladağlar doğa sporlarına, Kapadokya'ya (1 sa) ve Mersin/Adana sahillerine (1.5 sa) çok yakın stratejik konum.
 
-### ❌ Eksileri
-* Şehirde büyük bir AVM veya gece hayatı çeşitliliğinin olmaması; sosyal hayatın birkaç ana caddeyle sınırlı kalması.
-* Sıcak havalarda kampüs arkasındaki Akkaya Barajı'ndan zaman zaman gelen koku.
-* Kış gecelerinde sert İç Anadolu ayazı.
+### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+* **Sosyal Hayatın Darlığı:** Büyük bir alışveriş merkezi veya konser/eğlence kulübü olmaması; sosyal çevrenin birkaç cadde kafesiyle sınırlı kalması.
+* **Akkaya Barajı Kokusu:** Yaz başı ve sonbaharda rüzgar yönüne göre hissedilen dönemsel gölet kokusu.
+* **Kış Ayazı ve Pazar Issızlığı:** Pazar günleri şehir merkezindeki dükkanların çoğunun kapalı olması ve dondurucu kuru İç Anadolu ayazı.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Niğde tam anlamıyla 'param cebimde kalsın, kampüsüm büyük ve düzenli olsun, hafta sonu canım sıkılırsa 1 saatte Mersin'e denize ya da Kapadokya'ya gezilere gideyim' diyen öğrenci şehridir. Düz ayak olduğu için kampüste bisiklet kullanmak çok keyiflidir; eve çıkacaksanız da Aşağı Kayabaşı Mahallesi'nden şaşmayın."
+> "1. Niğde'yi yazarken bütçenizi dert etmeyin; Türkiye'nin en ucuz öğrenci şehirlerinden birine geliyorsunuz. Kampüs içi KYK yurtlarında kalırsanız cep harçlığınız size fazlasıyla yeter.  
+> 2. Eve çıkacaksanız kesinlikle Aşağı Kayabaşı Mahallesi'ni seçin; hem otobüsler kapınızdan geçer hem de arkadaşlarınızla oturabileceğiniz tüm kafeler bu sokaktadır.  
+> 3. Kampüs düz ayak olduğu için ikinci el bir bisiklet edinin; yurt ile amfiler arasında pedallamak çok keyiflidir.  
+> 4. Hafta sonu canınız sıkıldığında trenle veya otobüsle 1.5 saatte Mersin sahiline inip denizi koklayın ya da Aladağlar Dağcılık Kulübü kamplarına katılın!"

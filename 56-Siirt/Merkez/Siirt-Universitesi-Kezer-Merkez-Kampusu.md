@@ -1,9 +1,9 @@
 # 🏛️ Siirt Üniversitesi (SİÜ) - Kezer Merkez Kampüsü
 
 > **Son Güncelleme:** Kasım 2026  
-> **İl / İlçe:** Siirt / Merkez (Kezer - Pınarca Mevki)  
-> **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Şehir Dışı Ana Kampüs (Siirt - Kurtalan Yolu 10. km)  
+> **İl / İlçe:** Siirt / Merkez (Kezer - Pınarca Mevkii)  
+> **Üniversite Türü:** Devlet (Bölgesel İhtisas Üniversitesi)  
+> **Kampüs Konumu:** Şehir Dışı Ana Yerleşke (Siirt - Kurtalan Karayolu 10. km)  
 > **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.0/5)
 
 ---
@@ -12,89 +12,92 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 10 km (~15-20 dk) | Belediye otobüsleri ve Kezer minibüsleri ile kampüs içine ulaşım |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs içinde ve hemen yakınında yüksek kapasiteli KYK yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.500 - 13.500 TL | Şehir merkezinde Bahçelievler ve Kooperatif Mah. |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 20 - 25 TL / İyi | Merkez yemekhanede 4 çeşit doyurucu öğle yemeği |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri + Sınav Dönemi 7/24 | Geniş ve modern Merkez Kütüphane binası |
-| **🌐 İnternet (eduroam)** | İyi | Fakülteler, kütüphane ve merkezi dersliklerde kesintisiz |
-| **🌆 Sosyal Yaşam & Çevre** | Kampüs Odaklı / Dengeli | Kampüs içi olanaklar iyi, akşam sosyal yaşamı için 15 dk ile Siirt merkez |
+| **🚇 Şehir Merkezine Uzaklık** | 10 km (~15-20 dk) | Sarı belediye otobüsleri ve Kezer minibüsleri doğrudan kampüs içine girer |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs içinde İbrahim Hakkı Kız KYK ve İsmail Fakirullah Erkek KYK; açıkta kalma oranı sıfıra yakın |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.500 - 13.500 TL | Şehir merkezinde Bahçelievler (Güres aksı) ve Kooperatif Mahalleleri |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 20 - 25 TL / Çok İyi | 4 çeşit doyurucu menü, etli yöresel yemekler sıkça çıkar, sıra hızlı erir |
+| **📚 Kütüphane Kapasitesi** | Mesai + Sınav Dönemi 7/24 | Modern Merkez Kütüphane; sınav haftasında gece çorba ikramı yapılır |
+| **🌐 İnternet (eduroam)** | Orta - İyi | Fakülte binalarında ve kütüphanede stabil; açık kampüs alanlarında yer yer kopabilir |
+| **🌆 Sosyal Yaşam & Çevre** | Kampüs & Güres Caddesi | Kampüste kulüp etkinlikleri; akşam sosyal hayatı Güres Caddesi kafelerinde akar |
 
 ---
 
 ## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
 
-* **Şehir Merkezinden Ulaşım:**  
-  Kezer Merkez Kampüsü, Siirt şehir merkezinin batısında, Kurtalan karayolunun 10. kilometresinde Kezer Çayı yakınında düz ve geniş bir araziye kurulmuştur. Şehir merkezinden (Güres Caddesi, Hükümet Bulvarı, Merkez Kampüs önü) kalkan **Siirt Belediyesi otobüsleri** ve **Kezer Kampüsü minibüsleri** gün boyu her 10-15 dakikada bir hareket ederek kampüsün içindeki fakülte duraklarına kadar girer.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Kampüs arazisi düz olduğu için Tıp, Veteriner, Mühendislik, Eğitim, İlahiyat, Ziraat, Fen-Edebiyat ve İİBF binaları arasında yürümek oldukça kolaydır. Şehir merkezinden gelen otobüsler kampüs içinde ring güzergahı izleyerek öğrencileri fakültelerin önüne bırakır.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Belediye otobüslerinde **Siirtkart** öğrenci tarifesi geçerlidir ve oldukça ekonomiktir.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Siirt'in kışları yağışlı ama Doğu Anadolu illerine göre daha ılımandır. Kezer yolu bölünmüş duble yol olduğu için kışın ulaşımda aksama yaşanmaz; sadece sabah ders başlangıç (08.00-09.00) ve akşam çıkış (16.00-17.00) saatlerinde otobüslerde yoğunluk oluşur.
+* **Şehir Merkezinden Kampüse Ulaşım:**  
+  Kezer Kampüsü, Siirt şehir merkezinin 10 kilometre batısında, Kurtalan yolu üzerindedir. Ulaşım iki ana hatla sağlanır:
+  * **Sarı Belediye Otobüsleri:** Güres Caddesi başı, Eski Valilik Meydanı ve Merkez Yerleşke önünden hareket eder. İndirimli **Siirtkart** ile binilir; ücret Türkiye'nin en ucuz toplu taşıma tarifelerindendir.
+  * **Kezer Minibüsleri (Dolmuşlar):** Her 7-10 dakikada bir kalkar, doğrudan kampüs içi ring güzergahına girerek Tıp, Mühendislik, Eğitim, Ziraat ve İlahiyat fakültelerinin önünde yolcu indirir.
+  * **Ders Giriş-Çıkış Yoğunluğu:** Sabah 08:15 - 08:45 ile akşam 16:30 - 17:15 saatlerinde otobüsler balık istifi dolar; ilk duraklardan binmek ayakta kalmamak için hayat kurtarır.
+* **Kampüs İçi Ulaşım ve Otostop Kültürü:**  
+  Kezer Kampüsü geniş ve düz bir ovaya kuruludur. Fakülteler arası mesafe yürünebilir düzeydedir (3-7 dakika). Ayrıca kampüs nizamiyesinden şehir merkezine dönen öğretim görevlileri ve personelin öğrencileri arabalarına alması (otostop) yerleşik bir dayanışma kuralıdır.
+* **Kurtalan Tren Bağlantısı:**  
+  Kampüse 15 km mesafedeki Kurtalan ilçe garı, Ankara'ya kadar uzanan efsanevi **Güney Kurtalan Ekspresi**'nin başlangıç noktasıdır. Öğrenciler tatil dönemlerinde kompartımanlı tren yolculuğu ile çok ucuza İç Anadolu ve Doğu illerine seyahat eder.
 
 ---
 
 ## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
 
-* **KYK Yurtları:**  
-  * **Kız ve Erkek Yurtları:** Kezer Kampüsü içerisinde ve hemen bitişiğinde **İbrahim Hakkı KYK Kız Öğrenci Yurdu**, **Siirt KYK Kız Yurdu** ve **İsmail Fakirullah KYK Erkek Öğrenci Yurdu** yer alır. Yurtlar yeni tip (3-4 kişilik odalar, oda içi banyo/WC, çalışma masası) standartlardadır. Yurtlardan fakültelere yürüyerek 5-10 dakikada ulaşılabilmesi büyük bir konfordur.
-* **Özel Yurtlar ve Apartlar:**  
-  Kezer Kampüsü şehir dışında olduğu için özel apartlar daha çok Siirt şehir merkezinde (Bahçelievler ve Kooperatif mahallelerinde) toplanmıştır.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Ev tutmak isteyen öğrenciler Siirt merkezdeki **Bahçelievler Mahallesi (Güres Caddesi çevresi)** ve **Kooperatif Mahallesi**'ni tercih eder. Buradaki binaların çoğu son 10-15 yılda yapılmış, asansörlü ve doğalgazlıdır. 2+1 veya 3+1 daireler 2-3 arkadaş paylaşıldığında kişi başı kira maliyeti oldukça düşüktür.
+* **Kampüs İçi KYK Yurtları (Altın Konfor):**  
+  * **İbrahim Hakkı KYK Kız Yurdu & Siirt KYK Kız Yurdu:** Doğrudan Kezer Kampüsü arazisi içerisindedir. Fakültelere ve Merkez Kütüphane'ye yürüyerek 5 dakikada ulaşılır. Odalar çoğunlukla 3 veya 4 kişiliktir. Banyo ve tuvalet oda içerisindedir; bazalı yataklar ve kişisel çalışma masaları mevcuttur.
+  * **İsmail Fakirullah KYK Erkek Yurdu & Hassa Hatun KYK:** Kampüs girişindedir. Çamaşırhanelerde haftalık sıra listesi asılır; çamaşır makineleri temizdir. Sıcak su 24 saat kesintisiz akar.
+  * Siirt'te KYK yurt kontenjanı şehirdeki öğrenci sayısına kıyasla çok geniş olduğu için öğrencilerin neredeyse tamamı ilk tercihte yurda yerleşir.
+* **Öğrenci Evleri ve Mahalleler:**  
+  * **Bahçelievler Mahallesi (Güres Caddesi Çevresi):** Şehrin modern yüzüdür. Mağazalar, süpermarketler ve kafeler bu caddededir. Merkez Yerleşke'ye 5 dakika mesafededir.
+  * **Kooperatif Mahallesi:** Yeni yapılan sitelerin, 1+1 ve 2+1 eşyalı apartların bulunduğu bölgedir. Doğalgaz kombilidir (Kira: 8.500 - 13.500 TL). 2-3 arkadaş birleştiğinde kişi başı barınma gideri büyükşehirlere oranla üçte bir düzeyindedir.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 3. 🎓 Bölgesel İhtisas, Akademik İklim ve Kütüphaneler
 
-* **Kütüphane İmkanları:**  
-  Kezer Kampüsü'ndeki **Merkez Kütüphane**, geniş okuma salonları, bilgisayar laboratuvarı ve grup çalışma odalarıyla öğrencilerin en çok vakit geçirdiği noktadır. Vize ve final haftalarında çalışma saatleri gece geç saatlere/24 saate uzatılır ve ücretsiz çorba/çay ikramı yapılır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Üniversite son yıllarda yapılan yatırımlarla çok modern fakülte binalarına kavuşmuştur. Özellikle **Veteriner Fakültesi Hayvan Hastanesi**, **Ziraat Fakültesi Uygulama Alanları (Siirt Fıstığı ve Arıcılık Araştırma Merkezleri)**, **Mühendislik Merkezi Laboratuvarı** ve **Tıp Fakültesi Morfoloji Binası** bölgesinde oldukça güçlü bir altyapıya sahiptir.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Fakülte binalarında ve kütüphanede **eduroam** hızlı çalışır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Genç Kızılay, Doğa ve Kampçılık (Botan Vadisi gezileri), Tiyatro, Müzik, Hayvan Hakları ve Mesleki Gelişim toplulukları kampüs konferans salonunda düzenli etkinlikler yapar.
+* **Tarım ve Hayvancılıkta Türkiye'nin İhtisas Üniversitesi:**  
+  Siirt Üniversitesi, YÖK tarafından "Tarım ve Hayvancılık" alanında Türkiye'nin ihtisas üniversitesi seçilmiştir. Bu kapsamda bünyesindeki **Veteriner Fakültesi ve Hayvan Hastanesi**, bölgenin en donanımlı kliniklerine sahiptir. Ziraat Fakültesi'nin Siirt Fıstığı Araştırma ve Uygulama Merkezi ile Arıcılık laboratuvarları ulusal projeler yürütür.
+* **Tıp ve Mühendislik Barajları:**  
+  Tıp Fakültesi Morfoloji binası ve anatomi laboratuvarları modern altyapıya sahiptir; devam zorunluluğu sıkıdır. Mühendislik Fakültesi'nde laboratuvar deney raporları ve vize baraj notları ciddiye alınır.
+* **Merkez Kütüphane ve Sınav Dönemi:**  
+  Kezer Kampüsü'nün kalbindeki Merkez Kütüphane, sınav haftalarında **7/24 hizmete açılır**. Gece saatlerinde öğrencilere ücretsiz sıcak çorba ve kek/çay ikram edilir. Sınav döneminde ferah grup çalışma salonlarında masa bulabilmek için sabah saatlerinde kütüphanede olmak önerilir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 4. 🍽️ Beslenme, Sokak Lezzetleri ve Mutfak Kültürü
 
 * **Merkez Yemekhane:**  
-  Kampüs yemekhanesinde öğle yemeği 20 - 25 TL bandında sunulur ve yemeklerin lezzeti ile porsiyonları öğrenciler tarafından beğenilir.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içerisinde öğrenci çarşısı, kafeteryalar, kırtasiye, fotokopi merkezi, market ve ATM'ler mevcuttur. Kezer Çayı kenarındaki yeşil alanlar bahar aylarında öğrencilerin dinlenme noktasıdır.
-* **Spor Tesisleri:**  
-  Kampüste kapalı spor salonu, halı saha, açık basketbol/voleybol ve tenis kortları ile yürüyüş yolları bulunur.
+  Kampüsteki yemekhanede öğle menüsü **20 - 25 TL** sembolik bir ücrete sahiptir. Porsiyonlar gayet doyurucudur; Siirt'in et ağırlıklı mutfak kültürünün etkisiyle etli güveç ve taze bakliyat menüleri öğrencilerden tam not alır.
+* **Siirt Sokak Lezzetleri ve Gastronomi Ekolü:**  
+  * **Sabah Büryan Kebabı Ritüeli:** Siirt'te büryan kebabı akşam değil, **sabah 05:30 ile 08:30 arasında** kuyu tandırında nar gibi kızartılarak yenir. Kemikli veya kemiksiz kuzu etinin sıcak tırnak pide üstünde domates ve sumaklı soğanla sunulduğu bu lezzet, sınav sabahları veya hafta sonu ödülüdür.
+  * **Perde Pilavı:** Fes şeklindeki bakır kaplarda, keklik veya tavuk eti, çam fıstığı ve bademle yoğrulmuş ince hamur içinde fırınlanan Siirt klasiği.
+  * **Cokat (Kuru Patlıcan Dolması) & Reyhan Şerbeti:** Sumaklı kuru dolma ve sıcak günlerde içilen taze reyhan şerbeti.
+  * **Güres Kaçak Çay Ocakları:** Düşük taburelerde oturup demli kaçak çay eşliğinde saatlerce süren sohbetler Siirt öğrenciliğinin vazgeçilmezidir.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 5. 🌆 Şehir Dinamikleri ve Sosyal Yaşam
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Siirt halkı misafirperverdir ve öğrencilere karşı sıcakkanlıdır. Şehir merkezi küçük ve güvenli olduğu için öğrenciler günlük yaşamda zorluk çekmez.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Şehir merkezindeki trafiğe kapalı **Güres Caddesi** kafelerin, tatlıcıların, giyim mağazalarının ve restoranların kalbidir; akşamları tüm şehir ve öğrenciler burada buluşur. Hafta sonları ise Türkiye'nin en etkileyici doğa harikalarından **Botan Vadisi Milli Parkı (Rasıl Hacar - Taşbaşı)**, **Veysel Karani (Ziyaret)** ve **Tillo (Aydınlar) Kalesi Cam Teras** öğrencilerin favori gezi rotalarıdır. Ayrıca Siirt Büryan Kebabı ve Perde Pilavı gastronomik olarak mutlaka deneyimlenmelidir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Üniversitenin Sağlık, Kültür ve Spor Daire Başkanlığı (SKS) her yıl kütüphane, yemekhane ve laboratuvarlarda yüzlerce öğrenciye **kısmi zamanlı (part-time)** çalışma imkanı sağlar. Şehir merkezindeki kafe ve kurs merkezlerinde de çalışma olanakları vardır.
+* **Güres Caddesi Sosyal Döngüsü:**  
+  Trafiğe kapalı Güres Caddesi, Siirt'in İstiklal Caddesi gibidir. Akşam saatlerinde tüm üniversite gençliği ve şehir halkı bu caddede yürüyüşe çıkar, kafelere oturur.
+* **Botan Vadisi ve Doğa Rotaları:**  
+  Türkiye'nin en derin ve büyüleyici kanyonlarından biri olan **Botan Vadisi Milli Parkı**, **Rasıl Hacar (Deliklitaş)** seyir terası, **Tillo Cam Terası** ve **Veysel Karani Türbesi**, hafta sonları doğa yürüyüşü ve piknik yapmak isteyen öğrencilerin sığınağıdır.
+* **Halkın Yaklaşımı:**  
+  Siirt esnafı ve yerel halk öğrencileri bir misafir gibi sahiplenir; sokakta adres sorduğunuzda sizi gideceğiniz yere kadar bırakan insanlarla karşılaşmak olağandır.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* **Yüksek KYK Yurt Kapasitesi ve Kampüs İçi Konum:** Yurt çıkmama stresinin olmaması ve yurtlardan fakültelere yürüyerek ulaşım.
-* **Modern Fakülte Binaları ve Uygulama Altyapısı:** Yeni inşa edilmiş amfiler, laboratuvarlar ve Hayvan Hastanesi.
-* **Bütçe Dostu Yaşam:** Büyükşehirlerdeki kira ve ulaşım maliyetlerinin çok altında, ekonomik bir öğrencilik.
+* **Barınma Garantisi ve Düşük Yaşam Maliyeti:** KYK yurtlarının doğrudan fakülte kapısında olması, yurt çıkmama riskinin bulunmaması ve Türkiye'nin en ucuz öğrenci bütçelerinden birine sahip olması.
+* **Tarım, Veteriner ve Sağlıkta Güçlü Altyapı:** Modern laboratuvarlar, hayvan hastanesi ve ihtisas üniversitesi fonları.
+* **Sıcak ve Güvenli Şehir Atmosferi:** Asayiş açısından son derece huzurlu, esnafın öğrenciyi koruyup gözettiği bir ortam.
 
-### ❌ Eksileri
-* **Kampüsün Şehir Dışında Olması:** Kezer Kampüsü çevresinde yurtlar dışında sivil yerleşim veya eğlence mekanı olmaması; her sosyal aktivite için 10 km uzaklıktaki merkeze otobüsle gitme gerekliliği.
-* **Kısıtlı Gece Hayatı ve AVM İmkanı:** Büyükşehir temposuna alışkın öğrenciler için şehirdeki sosyal alternatiflerin sınırlı kalması.
+### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+* **Taşra Sıkıntısı & Tek Caddeye Sıkışan Hayat:** Şehrin sosyal alanlarının neredeyse yalnızca Güres Caddesi'nden ibaret olması; sinema, tiyatro, AVM ve konser etkinliklerinin yok denecek kadar azlığı.
+* **Yazın 42 Derece Sıcak, Kışın Bozkır Ayazı:** Temmuz-Ağustos ve Eylül aylarında Güneydoğu'nun kavurucu sıcağında kampüs içinde yürümek zordur; kışın ise Kezer açıklarında kuru rüzgar dondurur.
+* **Akşam Minibüs Seferlerinin Erken Seyrelmesi:** Akşam 20:00'den sonra Kezer ile Siirt merkezi arasındaki minibüs seferlerinin azalması, taksiye mecbur kalma hissi yaratır.
+* **eduroam Kopmaları:** Fakültelerin açık alanlarında ve bazı yurt bloklarının uzak odalarında internetin çekim gücünün düşmesi.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Kezer Kampüsü'ndeki bir bölümü kazandıysanız ilk yılınızda kesinlikle kampüs içindeki KYK yurtlarını tercih edin; sabah 8 dersine 7.45'te uyanıp yetişebilmek paha biçilemez. Hafta sonları yurtta kapanıp kalmayın; fotoğrafçılık ve doğa kulüplerinin **Botan Vadisi** ve **Hasankeyf/Mardin** gezilerine mutlaka katılın!"
+> "Buraya geliyorsan ilk sene kesinlikle Kezer'deki KYK yurtlarında kal; sabah 8 dersine pijama üstüne mont atıp 5 dakikada yürüyerek gitmenin lüksünü başka hiçbir yerde bulamazsın! Siirt'in büryan kebabını sakın öğleden sonra yemeye kalkma, sabah 7'de fırına gidip o çıtır pide üstündeki lezzeti tat. Hafta sonu bunaldığında da botanik fotoğrafçılık kulübüne takılıp Deliklitaş'a git; kanyon manzarasında demlenen çay tüm sınav stresini siler götürür!"

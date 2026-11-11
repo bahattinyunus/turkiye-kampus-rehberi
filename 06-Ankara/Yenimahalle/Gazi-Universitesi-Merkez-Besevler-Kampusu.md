@@ -1,10 +1,10 @@
-# 🏛️ Gazi Üniversitesi & AHBVÜ - Beşevler Merkez Kampüsü (ve Maltepe / Emek Yerleşkeleri)
+# 🏛️ Gazi Üniversitesi & AHBVÜ - Beşevler Merkez Kampüsü (ve Maltepe / Emek)
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Ankara / Yenimahalle (Beşevler - Emek - Maltepe Aksı)  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Şehir Merkezi Ana Kampüsü  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.5/5)
+> **Kampüs Konumu:** Şehir Merkezi Ana Kampüsü (ANKARAY Beşevler Kapısı Önünde)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.7/5)
 
 ---
 
@@ -12,91 +12,82 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 0 km (Şehrin Kalbinde) | ANKARAY (Beşevler, Bahçelievler, Emek ve Maltepe durakları) |
-| **🏠 KYK Yurt İmkanı** | Orta - İyi | Sabancı Kız Yurdu, Gazi Yurdu, Beştepe ve Tahir Büyükkörükçü KYK yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 17.000 - 25.000 TL | Beşevler, Bahçelievler, Emek, Balgat, Gazi Mahallesi |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | Merkez Kütüphane altı ve fakülte yemekhaneleri oldukça doyurucu |
-| **📚 Kütüphane Kapasitesi** | 7/24 Açık (Merkez Kütüphane) | Gazi Merkez Kütüphanesi Ankara'nın en popüler 7/24 çalışma merkezlerinden |
-| **🌐 İnternet (eduroam)** | İyi | Tüm fakültelerde ve kütüphanede güçlü eduroam bağlantısı |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı | Bahçelievler 7. Cadde ve Emek 8. Cadde hemen kampüsün karşısında |
+| **🚇 Şehir Merkezine Uzaklık** | 0 km (Şehrin Kalbinde) | ANKARAY (Beşevler, Emek, Bahçelievler, Maltepe durakları kapı önünde) |
+| **🏠 KYK Yurt İmkanı** | Yüksek | Sabancı Kız, Beştepe Kız, Gazi Kız ve Tahir Büyükkörükçü Erkek KYK yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 17.000 - 26.000 TL | Beşevler, Emek, Bahçelievler (1-7. Cad.), Balgat, Gazi Mahallesi |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / Çok Başarılı | Merkez Kütüphane altı yemekhanesi, Teknoloji ve Maltepe yemekhaneleri |
+| **📚 Kütüphane Kapasitesi** | 7/24 Açık Merkez Kütüphane | Gazi Kütüphanesi + Yürüme mesafesinde Milli Kütüphane & Millet Kütüphanesi |
+| **🌐 İnternet (eduroam)** | Çok İyi | Tüm tarihi binalarda, amfilerde ve laboratuvarlarda hızlı eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | Efsanevi Canlılık | Bahçelievler 7. Cadde, Emek 8. Cadde, Anıtkabir, Meşhur Aspavalar |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **Şehir Merkezinden Ulaşım:**  
-  Mimar Kemalettin Bey'in 1926 tarihli ikonik Rektörlük binasıyla simgeleşen **Gazi Üniversitesi Merkez (Beşevler) Kampüsü**, Ankara'nın en merkezi noktalarından birindedir. (2018'deki bölünme sonrasında aynı Beşevler/Emek aksında hem **Gazi Üniversitesi**'nin Eğitim, Fen, Teknoloji, Tıp, Eczacılık fakülteleri hem de **Ankara Hacı Bayram Veli Üniversitesi - AHBVÜ**'nün Hukuk, İİBF ve İletişim fakülteleri komşu olarak yer alır; Mühendislik ve Mimarlık ise 2 durak ötedeki **Maltepe Yerleşkesi**'ndedir).  
-  Ulaşımda **ANKARAY (A1)** hattının **Beşevler Durağı** tam kampüs giriş kapısının önündedir! Ayrıca Konya Yolu (Mevlana Bulvarı) ve Hipodrom Caddesi'nden geçen onlarca EGO otobüsü ve dolmuş ile Ankara'nın her köşesinden tek vasıtayla ulaşılır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Beşevler Merkez Kampüsü ağaçlıklı, düz ayak ve yürünebilir bir yerleşkedir. Giriş kapısından Rektörlük, Eğitim Fakültesi, Fen Fakültesi, Teknoloji Fakültesi ve Merkez Kütüphane'ye 3-7 dakikada yürünür.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  **AnkaraKart Öğrenci Abonmanı** geçerlidir. Bahçelievler, Emek veya Gazi Mahallesi'nde oturan binlerce öğrenci okula yürüyerek gidip gelir.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Tamamen düz ayak ve ANKARAY durağı dibinde olduğu için kışın kar veya yağmurda ulaşımda hiçbir zorluk yaşanmaz.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** Kampüsün hemen karşısında/yakınında yer alan **Sabancı KYK Kız Yurdu**, **Beştepe KYK Kız Yurdu** ve **Gazi KYK Kız Yurdu** sayesinde kız öğrenciler yürüyerek derse gidebilir.
-  * **Erkek Yurtları:** Konya Yolu/Balgat aksındaki **Tahir Büyükkörükçü KYK Erkek Yurdu** ve **Osman Tan KYK Erkek Yurdu** kampüse yürüme veya tek otobüs/altgeçit mesafesindedir.
-* **Özel Yurtlar ve Apartlar:**  
-  Beşevler, Emek, Bahçelievler ve Maltepe'de yüzlerce özel kız ve erkek öğrenci yurdu mevcuttur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Bahçelievler ve Emek (8. Cadde / Bişkek Cad.):** Kampüsten çıkıp Konya Yolu üst geçidini geçtiğiniz anda Ankara'nın en nezih öğrenci semti olan Emek ve Bahçelievler'desinizdir. 2+1 ve 3+1 daireler **18.000 - 25.000 TL** aralığındadır.
-  * **Gazi Mahallesi (Silahtar Cad.) ve Yenimahalle Merkez:** Daha uygun kira (**14.000 - 18.000 TL**) arayan öğrencilerin tercih ettiği, kampüse 10-15 dakika mesafedeki mahallelerdir.
+* **Şehir Merkezinden Ulaşım (ANKARAY Beşevler Kapısı):**  
+  Gazi Üniversitesi Merkez Kampüsü ve komşusu Ankara Hacı Bayram Veli Üniversitesi (AHBVÜ), Ankara'nın en merkezi ulaşım aksındadır:
+  * **ANKARAY (A1):** **Beşevler İstasyonu** doğrudan kampüs ana giriş kapısının altındadır! Turnikelerden çıkıp merdivenleri tırmandığınız anda nizamiye kapısındasınızdır.
+  * **Maltepe Yerleşkesi (Mühendislik ve Mimarlık):** ANKARAY **Maltepe Durağı** çıkışında yer alır; Beşevler'e 2 durak (3 dakika) mesafededir.
+  * **Emek Yerleşkesi (AHBVÜ İİBF ve Hukuk):** ANKARAY **Emek Durağı** veya Beşevler'den 5 dakikalık yürüyüşle ulaşılır.
+  * **Başkentray Banliyö Alternatifi:** Etimesgut, Sincan veya Mamak yönünden gelen öğrenciler **Gazi İstasyonu** veya **Hipodrom İstasyonu**'nda inip 7-8 dakikada kampüs arka kapısından girebilir.
+* **Sabah 08:30 Yoğunluğu:**  
+  ANKARAY'da sabah saatlerinde Beşevler yönü AŞTİ ve Kızılay'dan gelen öğrencilerle dolar; ilk vagon kapısından inmek merdiven çıkışında zaman kazandırır.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma & KYK Gerçekleri (Bahçeli vs Emek)
 
-* **Kütüphane İmkanları:**  
-  Beşevler Kampüsü içindeki **Gazi Üniversitesi Merkez Kütüphanesi**, 4 katlı geniş yapısı, grup çalışma odaları ve **7/24 açık okuma salonlarıyla** öğrencilerin ikinci evidir. Sınav dönemlerinde sıcak çorba/çay ikramı yapılır. Ayrıca kampüse 10 dakika yürüme mesafesinde Türkiye'nin en büyük kütüphaneleri olan **Milli Kütüphane** ve **Cumhurbaşkanlığı Millet Kütüphanesi** yer alır!
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Gazi Üniversitesi özellikle **Gazi Eğitim Fakültesi** (Türkiye'nin öğretmen yetiştiren en köklü kurumu), **Teknoloji Fakültesi** (atölye ve uygulama ağırlıklı mühendislik), **Maltepe Mühendislik-Mimarlık** ve hemen kampüs bitişiğindeki **Gazi Hastanesi (Tıp Fakültesi)** ile çok güçlü bir laboratuvar ve uygulama altyapısına sahiptir.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Tüm yerleşkelerde **eduroam** ve Gazi Bilgi Sistemi (OBS) sorunsuz çalışır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Akademik ve teknik kulüpler, TEKNOFEST takımları, Türk Dünyası toplulukları, eğitim ve spor kulüpleri aktiftir.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane:**  
-  Merkez Kütüphane'nin alt katındaki ve fakültelerdeki öğrenci yemekhanelerinde öğle ve akşam saatlerinde uygun fiyatlı (~25-30 TL) ve doyurucu 4 çeşit yemek çıkar.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içinde **Merkez Kantin (Çardaklar)**, fakülte kantinleri, PTT, banka ve kırtasiyeler bulunur. Kampüs kapısından dışarı adım attığınızda ise **Beşevler Burger/Döner sokağı**, **Emek 8. Cadde** ve **Bahçelievler 7. Cadde** üzerindeki yüzlerce kafe ve restoran elinizin altındadır.
-* **Spor Tesisleri:**  
-  Spor Bilimleri Fakültesi'nin de Beşevler'de olması sayesinde kampüs içinde **Kapalı Yüzme Havuzu**, büyük spor salonları, çim futbol sahası, atletizm pisti ve fitness salonları mevcuttur.
+* **KYK Yurtlarının Detaylı Röntgeni:**  
+  * **Sabancı KYK Kız Yurdu & Beştepe KYK:** Kampüsün hemen bitişiğindedir; kız öğrenciler okula yürüyerek 3-5 dakikada geçer. Odalar 3-4 kişiliktir, bazalıdır.
+  * **Tahir Büyükkörükçü KYK Erkek Yurdu:** Konya Yolu üzerindedir; Beşevler kampüsüne altgeçit ve yaya yoluyla 10-12 dakikada yürünür.
+  * **Gazi KYK Kız Yurdu:** Kampüs sınırındadır; 23:00 turnike kontrolü sıkı şekilde takip edilir.
+* **Öğrenci Mahalleleri & Sokak İsimleri:**  
+  * **Bahçelievler (1. Cadde - 7. Cadde Arası):** Ankara öğrenciliğinin başkentidir. Düz ayak, cıvıl cıvıl, gece 02:00'de bile güvenle yürünebilen sokaklar. 2+1 ve 3+1 daireler **19.000 - 26.000 TL** civarındadır.
+  * **Emek Mahallesi (Bişkek Cad. / 8. Cadde):** Beşevler kampüsüne yürüyerek 5 dakikadır. Bahçeli'ye göre biraz daha sakin aile-öğrenci karmasıdır (**18.000 - 24.000 TL**).
+  * **Gazi Mahallesi (Silahtar Cad.):** Tren hattının arkasında kalan, daha uygun kiralı (**14.000 - 18.000 TL**) eski Ankara mahallesidir.
+  * **Ev Sahibi & Kış Yakıt Tuzağı:** Bahçeli ve Emek'teki 40-50 yıllık eski kooperatif binalarında merkezi doğalgaz aidatı kışın yüksek gelebilir; evi tutarken kış aylarında ne kadar yakıt parası ödendiğini komşulardan teyit edin.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Beşevler, Emek ve Bahçelievler tamamen üniversite öğrencileri ve gençlerin semtidir; gece geç saatlere kadar sokaklar cıvıl cıvıl ve güvenlidir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Ders bitiminde **Beşevler metro çıkışında** buluşup **Bahçelievler 7. Cadde**'de yürümek, **Emek**'teki butik kahvecilerde ders çalışmak veya ANKARAY ile 5 dakikada Kızılay'a geçmek Gazi ve AHBVÜ öğrencilerinin günlük rutinidir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Şehrin tam ortasında olduğu için özel ders verme (özellikle Gazi Eğitim öğrencileri için çok kazançlıdır), Bahçelievler kafelerinde part-time çalışma ve OSTİM / İvedik / Savunma Sanayii firmalarında mühendislik stajı yapma imkanı çok yüksektir.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* **Ankara'nın En İyi Konumu:** Beşevler ANKARAY durağı, Bahçelievler, Emek ve Milli Kütüphane'nin tam kesişim noktasında yer alır; ulaşım ve sosyal çevre kusursuzdur.
-* **Güçlü Mezun Ağı:** Eğitim, Mühendislik, Tıp, Hukuk (AHBVÜ) ve İİBF (AHBVÜ) alanlarında kamu ve özel sektörde çok geniş bir "Gazili" mezun dayanışması vardır.
-* **Kütüphane Cenneti:** Kendi 7/24 kütüphanesinin yanı sıra Milli Kütüphane ve Millet Kütüphanesi'ne yürüme mesafesindedir.
-
-### ❌ Eksileri
-* **Yerleşke Ayrımı (Gölbaşı Hazırlık & Maltepe Mühendislik):** Yabancı Diller Hazırlık sınıfının Gölbaşı'nda, Mühendislik-Mimarlık Fakültesi'nin ise Maltepe'de ayrı bir yerleşkede olması.
+* **Yemekhane Düzeni:**  
+  Merkez Kütüphane altındaki yemekhane ve Teknoloji Fakültesi yemekhanesinde öğrenci kartıyla ~25-30 TL'ye 4 çeşit sıcak yemek çıkar. Yemekler doyurucudur; haftada en az iki gün etli yemek ve tatlı bulunur. Vejetaryen menü seçeneği mevcuttur.
+* **Beşevler ve Bahçeli Lezzet Durakları:**  
+  * **Meşhur Ankara Aspavaları:** Emek ve Bahçelievler'de yer alan efsanevi Aspavalar (Şimşek Aspava, Gülçimen vb.) sınırsız ikramları (cacık, salata, patates, soslu dondurmalı irmik helvası) ve dürüm döneriyle sınav kutlamalarının vazgeçilmezidir.
+  * **Beşevler Metro Çıkışı Büfeleri:** Sabah derse koşanların sıcacık kaşarlı simit ve karton bardak çay aldığı can simididir.
+  * **Gazi Çiftliği Dondurması:** Kampüse 15 dakika mesafedeki Atatürk Orman Çiftliği'nin hakiki keçi sütlü dondurması ve kokoreci bahar aylarında tüm öğrencilerin uğrak yeridir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 4. 📚 Akademik & Sınav Hayatta Kalma
 
-> 💬 **Öğrenci Notu:**  
-> "Gazi veya Hacı Bayram Veli'nin Beşevler/Emek yerleşkelerindeki bir bölümünü kazandıysan Ankara'nın en şanslı öğrencilerindensin; çünkü dağ başında ring beklemek yerine metrodan inip doğrudan amfiye girecek, ders çıkışı yürüyerek Bahçelievler 7. Cadde'de kahveni içeceksin!"
+* **Notlandırma & Çan Eğrisi:**  
+  Gazi Üniversitesi'nde Bağıl Değerlendirme Sistemi (çan eğrisi) uygulanır.
+  * Ham başarı alt barajı 35 puandır.
+  * Gazi Eğitim Fakültesi'nde pedagojik formasyon ve staj dersleri, Teknoloji Fakültesi'nde İşyeri Eğitimi (son sınıfta 1 tam dönem fabrikada/şantiyede tam zamanlı staj) mezuniyet için zorunludur.
+* **Üçlü Kütüphane Cenneti:**  
+  Gazi öğrencileri Türkiye'nin kütüphane açısından en şanslı öğrencileridir:
+  1. **Gazi Merkez Kütüphanesi:** Kampüsün ortasındadır, 4 katlıdır ve 7/24 açıktır. Gece 00:00'da rektörlük sıcak çorba dağıtır.
+  2. **Milli Kütüphane:** Kampüsten yürüyerek 10 dakikadır (Bahçelievler / Milli Kütüphane metro çıkışı).
+  3. **Cumhurbaşkanlığı Millet Kütüphanesi:** Beşevler'den metro veya dolmuşla 10 dakikada ulaşılan devasa araştırma merkezidir.
+
+---
+
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **2018 Üniversite Bölünmesi Kargaşası:**  
+  Gazi'den ayrılıp AHBVÜ kurulan İİBF, Hukuk ve İletişim fakülteleri ile Gazi binaları aynı avluda iç içe olduğundan idari işlemlerde, öğrenci işlerinde ve kütüphane geçişlerinde zaman zaman sistem karmaşaları yaşanabilir.
+* **Tarihi Amfilerde Priz Yetersizliği:**  
+  Gazi Eğitim'in tarihi Mimar Kemalettin binasındaki amfilerde priz sayısı sınırlıdır; ders dinlerken bilgisayar kullanacakların üçlü priz taşıması gerekir.
+* **Konya Yolu Üst Geçit Rüzgarı:**  
+  Beşevler ile Emek arasındaki Konya Yolu üst geçidinde kışın esen sert ayaz rüzgarı yürümeyi zorlaştırır.
+
+---
+
+## 6. 💡 Altın Tavsiyeler (İlk Hafta Hayatta Kalma Kiti)
+
+1. **Beşevler İstasyonunu Hayatının Merkezi Yap:** Kızılay'a 5 dakika, AŞTİ'ye 5 dakika mesafedesin; Ankara'da ulaşım konforunun zirvesini yaşa.
+2. **Milli Kütüphane ve Millet Kütüphanesi Kartlarını İlk Hafta Çıkart:** Gazi Kütüphanesi final haftasında dolduğunda yürüyerek Milli Kütüphane'ye geç; ders çalışacak yer arama derdin olmasın.
+3. **Teknoloji Fakültesi'ndeysen İşyeri Eğitimini Erken Planla:** Son dönem yapılacak 1 dönemlik tam zamanlı sanayi stajı için savunma sanayii ve otomotiv firmalarıyla erkenden iletişime geç.
+4. **Bahçeli 7. Cadde'nin Keyfini Çıkar:** Ders çıkışında 7. Cadde'deki kahvecilerde oturup arkadaşlarınla sohbet etmek Ankara'da öğrenciliğin en keyifli ritüelidir.

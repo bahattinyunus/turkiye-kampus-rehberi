@@ -1,10 +1,10 @@
-# 🏛️ Ardahan Üniversitesi - Yenisey Merkez Kampüsü
+# 🏛️ Ardahan Üniversitesi (ARÜ) - Yenisey Merkez Kampüsü
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Ardahan / Merkez  
 > **Üniversite Türü:** Devlet  
 > **Kampüs Konumu:** Şehir Dışı Ana Kampüs (Çamlıçatak Mevkii / Çıldır Yolu 5. km)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (3.6/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (3.8/5)
 
 ---
 
@@ -12,90 +12,99 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 5 km / ~10 dk | Kongre Caddesi'nden düzenli kampüs minibüsleri |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek (%95+ Yerleşme) | Kampüs içinde kız ve erkek KYK yurtları + Yenisey Konukevleri |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 7.500 - 12.000 TL | Kaptanpaşa, Karagöl ve Yeni Mahalle (Isınma giderine dikkat!) |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | Doyurucu ve sıcak yemekler, sıra bekleme derdi yok |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri (Sınavda Uzatmalı) | Modern merkezi kütüphane, sakin ve sıcak çalışma ortamı |
-| **🌐 İnternet (eduroam)** | Hızlı | Tüm fakülte binalarında ve sosyal yaşam merkezinde güçlü |
-| **🌆 Sosyal Yaşam & Çevre** | Kampüs İçi Odaklı | Dışarısı kışın çok soğuk olduğu için yaşam kampüs içinde döner |
+| **🚇 Şehir Merkezine Uzaklık** | 5 km / ~10 dk | Kongre Caddesi'nden 10 dakikada bir kalkan kampüs minibüsleri |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (%98+ Yerleşme) | Kampüs içinde Kaşgarlı Mahmut KYK Erkek, Ardahan KYK Kız ve Serhat KYK |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 7.500 - 12.000 TL | Kaptanpaşa, Karagöl ve Yeni Mahalle (Doğalgaz yalıtımına dikkat!) |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | Yüksek kalorili doyurucu menüler, sıra beklemeden hızlı servis |
+| **📚 Kütüphane Kapasitesi** | Mesai Saatleri (Sınavda Uzatmalı) | Karlı dağ manzaralı, sıcacık ve sessiz Merkez Kütüphane |
+| **🌐 İnternet (eduroam)** | Hızlı & Stabil | Binalarda ve yaşam merkezinde geniş bant genişliğiyle hızlı bağlantı |
+| **🌆 Sosyal Yaşam & Çevre** | Kampüs İçi & Kış Odaklı | Derya Samancı Yaşam Merkezi, Çıldır Gölü buz festivali ve Yalnızçam Kayak |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚇 Ulaşım Ağı ve Hayat Kurtaran Taktikler
 
-* **Şehir Merkezinden Ulaşım:**  
-  Yenisey Kampüsü, Ardahan-Çıldır yolu 5. kilometresinde (Çamlıçatak mevkii) çam ormanlarının ve geniş bir ovanın kenarında kurulmuştur. Şehir merkezindeki Kongre Caddesi ve Kura Nehri köprüsü durağından 10-15 dakikada bir kalkan kampüs minibüsleri doğrudan kampüs içerisindeki fakülteler ve KYK yurtlarının önüne kadar girer.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  İnsani Bilimler ve Edebiyat Fakültesi, İktisadi ve İdari Bilimler Fakültesi, İlahiyat Fakültesi, Güzel Sanatlar Fakültesi, Mühendislik Fakültesi, Sağlık Bilimleri Fakültesi, Spor Bilimleri Fakültesi ve Ardahan MYO binaları aynı yerleşke içinde yürüme mesafesinde (5-10 dk) sıralanmıştır.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Şehir içi minibüslerde öğrenci tarifesi (15-18 TL) uygulanır. Öğrencilerin büyük çoğunluğu kampüs içindeki KYK yurtlarında kaldığı için hafta içi şehir merkezine inmedikleri sürece ulaşım parası harcamazlar.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Ardahan, Türkiye'nin en soğuk iki ilinden biridir. Kasım ayında başlayan kar yağışı Nisan ayına kadar yerde kalabilir ve gece sıcaklıkları **-25°C ile -35°C**'yi görebilir. Ancak üniversite yönetimi ve belediye kar küreme konusunda çok tecrübelidir; kampüs içi yollar sürekli açık tutulur ve binaların ısıtma sistemi (kaloriferler) kış boyu en üst seviyede yanar.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  * **Kız ve Erkek Yurtları:** Yenisey Kampüsü sınırları içerisinde yer alan **Ardahan KYK Kız Öğrenci Yurdu** ve **Serhat KYK Erkek Öğrenci Yurdu**, yeni nesil otel konforunda (3-4 kişilik odalar, çalışma masaları, kesintisiz sıcak su ve çok güçlü merkezi ısıtma) hizmet verir. Ardahan'ı kazanan neredeyse her öğrenciye ilk başvuruda KYK yurdu çıkar.
-* **Özel Yurtlar ve Apartlar:**  
-  Kampüs içerisinde ayrıca üniversiteye/vakfa ait **Yenisey Konukevleri** ve şehir merkezinde memur/öğrencilere yönelik apart daireler bulunur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Şehir merkezinde ev tutmak isteyenler **Kaptanpaşa Mahallesi** ve **Karagöl Mahallesi**'ni (Kongre Caddesi çevresi) tercih eder. Kiralar 7.500 - 12.000 TL gibi uygun seviyelerdedir; **ancak** Ardahan'ın sert kışında bireysel kombili bir evde doğalgaz faturası kış aylarında oldukça yüksek gelebileceği için ara kat, ısı yalıtımlı veya merkezi sistemli daireler seçilmelidir.
+* **Kongre Caddesi - Yenisey Kampüsü Minibüsleri:**  
+  Yenisey Kampüsü, Ardahan şehir merkezinin 5 km dışında, Çıldır yolu üzerinde Çamlıçatak çam ormanlarının eteğinde kuruludur. Şehir merkezindeki **Kongre Caddesi** ve Kura Nehri köprüsünün başından kalkan belediye onaylı kampüs minibüsleri 10-12 dakikada bir hareket eder; yaklaşık 10 dakikada kampüs içindeki fakültelerin ve KYK yurtlarının kapısına kadar girer (öğrenci binişi ~15 - 18 TL).
+* **Kars Harakani Havalimanı ve Uçak Taktikleri:**  
+  Ardahan'da havalimanı bulunmadığı için şehre uçakla gelmenin tek yolu **Kars Harakani Havalimanı**'nı kullanmaktır. 
+  * Kars Havalimanı'ndan her uçak inişinde Ardahan şehir merkezine doğrudan yolcu taşıyan servis otobüsleri ve özel dolmuşlar kalkar (yaklaşık 1 saat 15 dakika sürer). 
+  * Cuma ve pazar günleri uçak biletinizi Kars kalkışlı alarak Ankara ve İstanbul'a rahatça seyahat edebilirsiniz.
+* **Kış Donu, Kar Fırtınası ve Buz Tutan Yollar:**  
+  Ardahan'da kış aylarında hava sıcaklığı **-25°C ile -35°C** arasına düşer. Sabahları yollar "siyah buz" adı verilen görünmez buz tabakasıyla kaplanabilir. 
+  * Kampüs minibüsleri kış boyu zincir ve kar lastikleriyle çalışır.
+  * Sabah 08:30 sınavına gidecekseniz minibüs duraklarında 10 dakikadan fazla beklememek için minibüs saatini önceden öğrenip durağa tam zamanında çıkmalısınız; açık ayazda hareketsiz beklemek dakikalar içinde uzuvlarınızı uyuşturur.
+* **İlçe Minibüsleri (Göle & Çıldır):**  
+  Ardahan Otogarı'ndan Çıldır'a yarım saatte, Göle'ye 40 dakikada bir kalkan minibüslerle ulaşılır.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma, Yurtlar ve Mahalle Hayatı
 
-* **Kütüphane İmkanları:**  
-  Kampüs merkezinde yer alan kütüphane, geniş cam cephesiyle kar manzarasına karşı sıcacık bir ortamda ders çalışma imkanı sunar. Priz sayısı ve masa kapasitesi öğrenci mevcuduna göre fazlasıyla yeterlidir.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Yenisey Kampüsü, özgün taş ve modern mimarisiyle ödül almış binalardan oluşur. Güzel Sanatlar Fakültesi'nin müzik/resim atölyeleri, Sağlık Bilimleri ve Teknik Bilimler laboratuvarları yeni cihazlarla donatılmıştır. Binaların ısı yalıtımı kış koşullarına göre özel tasarlanmıştır.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Kampüs genelinde **eduroam** internet hızı oldukça iyidir (kullanıcı yoğunluğu büyük üniversiteler kadar aşırı olmadığı için bant genişliği rahattır).
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Kafkasya Üniversiteler Birliği (KÜNİB) kurucu üyesi olan üniversitede; Dağcılık ve Kış Sporları, Tiyatro, Müzik, Âşıklık Geleneği ve Kültür kulüpleri aktiftir. Kışın **Yalnızçam Kayak Merkezi** gezileri ve donmuş **Çıldır Gölü** üzerinde düzenlenen festivaller öğrencilerin en unutulmaz etkinlikleridir.
+* **KYK Yurtları (İsimler, Isınma Performansı ve 23:00 Kuralı):**  
+  Ardahan'ı kazanan bir öğrencinin barınma sorunu yaşaması neredeyse imkansızdır; KYK yurdu çıkma oranı %98'in üzerindedir:
+  * **Kaşgarlı Mahmut KYK Erkek Öğrenci Yurdu & Serhat KYK:** Kampüsün hemen içindedir. Odalar 3-4 kişilik, bazalı ve çalışma masalıdır.
+  * **Ardahan KYK Kız Öğrenci Yurdu:** Kampüs sınırları içinde yer alır; kız öğrenciler hiçbir taşıta binmeden yürüyerek dersliklerine ulaşır.
+  * **Isınma Mucizesi:** -35 derecede dışarıda hayat donarken, kampüsteki KYK yurtlarının merkezi kazan sistemleri 24 saat aralıksız tam güç yanar. Odalarda kış ortasında tişörtle oturulabilir; sıcak su kesintisizdir.
+  * **23:00 Turnike ve Donma Tehlikesi Uyarısı:** KYK yurtlarında 23:00 giriş saati parmak izi ve turnike ile tavizsiz denetlenir. Kış aylarında -30 derecede dışarıda kapıda kalmak ciddi bir sağlık riski ve hipotermi tehlikesi yarattığı için öğrencilerin 22:30'da yurtta olması hayati bir kuraldır!
+* **Şehir Merkezindeki Evler ve "Doğalgaz Faturası Tuzağı":**  
+  Şehir merkezinde (**Kaptanpaşa Mahallesi**, **Karagöl Mahallesi**) ev kiraları 7.500 - 12.000 TL gibi çok uygun görünür. Ancak Ardahan'ın sert kışında yalıtımsız, giriş veya çatı katı bir ev tutarsanız aylık doğalgaz faturanız kiranızı ikiye katlayabilir! Mutlaka dış cephe mantolaması olan, ara kat ve merkezi sistemli binalar seçilmelidir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🎓 -35 Derecede Akademik Hayat ve Kütüphane Taktikleri
+
+* **-35 Derecede Sabah Sınavına Gitmek:**  
+  Ardahan Üniversitesi'nde vize ve finaller kışın en sert dönemine (Aralık-Ocak) denk gelir. 
+  * Sabah 08:30 sınavına gitmek tam anlamıyla bir hayatta kalma tecrübesidir. Termal içlik, rüzgar geçirmez kalın kaz tüyü kaban, içi yünlü kaymaz taban kar botu, polar bere, atkı ve kar eldiveni giymek mecburidir. Açıkta kalan kaş ve kirpiklerin nefesinizden çıkan buharla dakikalar içinde beyaz buz tutması Ardahan öğrencilerinin günlük gerçeğidir.
+  * Fakülte amfilerinin ısıtması güçlüdür ancak kapı girişine yakın sıralar soğuk olabileceği için sınav salonunda orta veya kalorifere yakın sıralar tercih edilmelidir.
+* **Merkez Kütüphane Konforu:**  
+  Geniş camlarından bembeyaz Kafkas dağlarını seyreden Merkez Kütüphane, kış boyunca sıcacıktır. Büyükşehirlerdeki yer kapma kavgaları burada yaşanmaz; herkes rahatça kendine prizli geniş bir masa bulabilir. Çay-kahve otomatları ve sınav dönemlerinde ikramlar mevcuttur.
+* **Akademik Programlar:**  
+  İnsani Bilimler ve Edebiyat, İİBF, İlahiyat, Sağlık Bilimleri, Mühendislik ve Beden Eğitimi fakülteleri mevcuttur. Sınıf mevcutları butik olduğu için hocalarla birebir iletişim kurmak çok kolaydır.
+
+---
+
+## 4. 🍽️ Beslenme, Sokak Lezzetleri ve Yöresel Tatlar
 
 * **Merkez Yemekhane:**  
-  Merkezi yemekhanede hafta içi öğle yemekleri 25 - 30 TL bandında çıkar. Soğuk iklime uygun olarak kalorisi yüksek, sıcak ve doyurucu menüler hazırlanır.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içindeki **Derya Samancı Öğrenci Yaşam Merkezi** içerisinde kafeteryalar, bowling salonu, bilardo/oyun alanları, market, kırtasiye, kuaför ve banka ATM'leri yer alır. Kışın soğukta merkeze inmek istemeyen öğrenciler tüm vaktini bu yaşam merkezinde geçirebilir.
-* **Spor Tesisleri:**  
-  Yenisey Kampüsü'nde devasa bir Kapalı Spor Kompleksi, kondisyon/fitness salonu, halı saha ve yürüyüş parkurları vardır. Ayrıca merkeze 15 km mesafedeki **Yalnızçam Kayak Merkezi**, kayak ve snowboard öğrenmek isteyen öğrenciler için harika bir fırsattır.
+  Hafta içi 25 - 30 TL'ye çıkan 4 çeşit yemek, soğuk iklimin kalori ihtiyacına uygun olarak etli, bakliyatlı ve besleyici hazırlanır. Yemekhanede sıra bekleme sorunu neredeyse hiç yaşanmaz.
+* **Ardahan Kaşarı ve Göbek Kaşar:**  
+  Türkiye'nin tescilli en kaliteli kaşar peyniridir. Çiçek florası zengin meralarda otlayan ineklerin sütünden yapılan taze ve eski kaşar peynirleri kahvaltıların baş tacıdır.
+* **Hangel (Kafkas Mantısı):**  
+  Kıymasız, kare açılmış hamurun haşlanıp üzerine bol sarımsaklı yoğurt ve kızgın tereyağında kavrulmuş karamelize soğan dökülerek yendiği efsanevi yerel yemektir. Sınav çıkışı arkadaş grubuyla hangel ziyafeti çekmek bir gelenektir.
+* **Feselli & Kaz Eti:**  
+  Kışın fırınlarda pişen geleneksel Ardahan fesellisi ve kurutulmuş kaz etiyle yapılan bulgur pilavı öğrencilerin kış aylarında içini ısıtır.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 5. ❄️ Kış Turizmi, Donmuş Çıldır Gölü ve Sosyal Yaşam
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Ardahan küçük ve herkesin birbirini tanıdığı çok güvenli bir şehirdir. Halk öğrencilere karşı saygılı ve korumacıdır.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Şehir merkezinde sosyal hayat **Kongre Caddesi** üzerindeki yeni nesil kafeler, pastaneler, türkü evleri ve Kura Nehri kenarındaki yürüyüş alanları ile Ardahan Kalesi çevresinde döner. Kışın buz tutan **Çıldır Gölü**'nde atlı kızaklara binmek, **Yalnızçam**'da kayak yapmak ve hafta sonu 1 saatlik yolculukla **Kars**'a veya **Şavşat Karagöl**'e gitmek en popüler öğrenci aktiviteleridir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Şehirde sanayi kısıtlı olduğundan iş olanakları daha çok üniversitenin sağladığı **Kısmi Zamanlı (Part-Time)** kampüs içi burslu çalışma kadroları ve Kongre Caddesi'ndeki kafelerle sınırlıdır.
+* **Donmuş Çıldır Gölü Üzerinde Atlı Kızaklar:**  
+  Ardahan öğrenciliğinin dünyada eşi benzeri olmayan aktivitesidir. Kışın 40-50 cm kalınlığında buz tutan Çıldır Gölü'nün üzerinde atlı kızaklara binmek, buzu kırarak Eskimo usulü sarıbalık avlamak ve göl üzerinde yürüyüş yapmak hayat boyu unutulmayacak bir hatıradır.
+* **Yalnızçam Kayak Merkezi:**  
+  Ardahan merkeze sadece 15 km mesafedeki kayak merkezinde Avrupa standartlarında telesiyej ve toz karlı pistler bulunur. Öğrenci biletleri ve kayak kiralama ücretleri Uludağ veya Palandöken'e göre kat kat daha ucuzdur; pek çok öğrenci burada kayak ve snowboard öğrenir.
+* **Derya Samancı Yaşam Merkezi:**  
+  Kampüs içindeki yaşam merkezinde bowling, bilardo salonu, kafeteryalar ve market bulunur; kış günlerinde dışarı çıkmadan kampüs içinde sosyalleşmeyi sağlar.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* **Ödüllü ve Kendi Kendine Yeten Kampüs:** Kampüs içinde KYK yurtları, yaşam merkezi, spor kompleksi ve fakültelerin bir arada olması.
-* **Garantili Barınma ve Ekonomik Yaşam:** KYK yurdu çıkmama ihtimalinin neredeyse olmaması ve harcamaların çok düşük kalması.
-* **Doğa ve Kış Turizmi:** Çıldır Gölü, Yalnızçam Kayak Merkezi ve Kafkas doğasıyla eşsiz bir kış deneyimi.
+* **Garantili Barınma ve Sıcak Yurtlar:** KYK yurdu çıkma garantisi, binaların 24 saat sıcacık olması ve barınma masrafının sıfıra yakın kalması.
+* **Eşsiz Kış Deneyimi:** Çıldır Gölü buzu, Yalnızçam kayağı ve Kafkas doğasıyla macera dolu bir üniversite hayatı.
+* **Ekonomik Yaşam:** Büyükşehirlere göre harcama yapılabilecek yerlerin sınırlı olması sebebiyle ay sonunu çok rahat getirebilme.
+* **Butik Üniversite İletişimi:** Hocaların öğrencileri ismiyle tanıması, akademik destek ve rehberliğin yüksek olması.
 
-### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
-* **Çok Sert ve Uzun Kış:** Kasım'dan Nisan'a kadar süren dondurucu soğuklar (-25°C ve altı).
-* **Küçük Şehir Merkezi:** Sinema, büyük AVM ve gece hayatı gibi metropol olanaklarının bulunmaması.
-* **Ulaşım Uzaklığı:** Batı ve güney illerine otobüsle mesafenin çok uzak olması (Kars Havalimanı ile uçak kullanımı şarttır).
+### ❌ Eksileri ve Kronik Sorunları
+* **Aşırı Soğuk ve Uzun Kış:** Yılın neredeyse 6 ayı süren kış şartları, -30 dereceleri bulan ayaz, araba motorlarının ve kapı kilitlerinin donması; sıcak memleketlerden gelenler için ilk aylarda psikolojik şok.
+* **Sosyal Mekan Kısıtlılığı:** Şehir merkezinde AVM, sinema veya büyük eğlence merkezlerinin olmaması; sosyal hayatın kampüse ve Kongre Caddesi'ndeki birkaç kafeye sıkışması.
+* **Ulaşım Kısıtları:** Havalimanı için Kars'a bağımlı olunması ve kış fırtınalarında zaman zaman yolların buzlanması.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Ardahan'a gelirken ilk kural: Kesinlikle kampüs içindeki KYK yurduna yerleşin ve paraya kıyıp sağlam bir termal içlik, su/rüzgar geçirmez kaz tüyü mont ve kaymaz tabanlı bot alın! Dışarısı -25 dereceyken yurdun ve fakültenin içi tişörtle gezilecek kadar sıcak olur; kışın donmuş Çıldır Gölü'nün üstünde yürümek ve Yalnızçam'da kayak yapmak hayatınız boyunca unutamayacağınız anılar bırakır."
+> "Ardahan'a gelirken yanına alacağın en önemli şey kalın termal içlikler, kar maskesi ve sağlam bir kar botudur; 'bana bir şey olmaz' dersen ilk hafta ayazda donarsın! Kesinlikle kampüs içindeki KYK yurtlarında kal; binalar fırın gibi sıcaktır, otobüs beklemeden derse girersin. Kış geldiğinde ise Çıldır Gölü'nün buzunda kayıp Yalnızçam'da kayak yapmanın tadını çıkar; bu deneyimi Türkiye'de çok az öğrenci yaşayabilir!"

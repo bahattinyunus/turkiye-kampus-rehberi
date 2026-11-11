@@ -4,7 +4,7 @@
 > **İl / İlçe:** Yozgat / Merkez  
 > **Üniversite Türü:** Devlet  
 > **Kampüs Konumu:** Şehir Dışı Ana Kampüs (Atatürk Yolu 7. km)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.5/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.6/5)
 
 ---
 
@@ -12,93 +12,98 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 7 km / ~15-20 dk | Saat Kulesi ve Lise Cd. üzerinden 1 No'lu Kampüs otobüs/dolmuşları |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Sürmeli, Bozok, Kınalı Hasan ve Ahmet Efendi KYK yurtları kampüse yakın |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 7.500 - 12.000 TL | Esentepe, Bahçeşehir ve Lise Caddesi çevresinde uygun apartlar |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Merkezi yemekhane ve fakülte yemekhaneleri; 4 çeşit doyurucu yemek |
-| **📚 Kütüphane Kapasitesi** | Geniş / Sınav Dönemi 7/24 | Bilal Şahin / Merkez Kütüphanesi; modern ve ferah çalışma alanları |
-| **🌐 İnternet (eduroam)** | Hızlı ve Stabil | Tüm fakültelerde, kütüphanede ve kongre merkezinde aktif |
-| **🌆 Sosyal Yaşam & Çevre** | Sakin / Gelişmekte | Kampüs içi yaşam düzenli; YHT ile 1 saatte Ankara'ya ulaşım imkanı |
+| **🚇 Şehir Merkezine Uzaklık** | 7 km / ~15-20 dk | Saat Kulesi ve Lise Caddesi'nden kalkan 1 No'lu otobüsler ve dolmuşlar |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (%95+ Yerleşim) | Kampüs bitişiğinde ve Esentepe'de Sürmeli, Bozok, Kınalı Hasan, Ahmet Efendi yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 7.500 - 12.000 TL | Esentepe ve Bahçeşehir (kampüs yolu) yeni binalar; Lise Cd. çarşı içi |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi & Doyurucu | Merkezi yemekhanede 4 çeşit doyurucu menü; hızlı turnike geçişi |
+| **📚 Kütüphane Kapasitesi** | Geniş & Ferah / Vizede 7/24 | Bilal Şahin / Merkez Kütüphanesi; bireysel localar ve sınavda çorba ikramı |
+| **🌐 İnternet (eduroam)** | Hızlı ve Kesintisiz | Fakülte binalarında ve kütüphanede stabil; açık otoparklarda çekim düşer |
+| **🌆 Sosyal Yaşam & Çevre** | Butik / YHT Kaçışlı | Lise Caddesi kafeleri, Çamlık Milli Parkı; YHT ile 1 saatte Ankara Kızılay! |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Ağı ve Erişilebilirlik
 
-* **Şehir Merkezinden Ulaşım:**  
-  Erdoğan Akdağ Kampüsü, Yozgat şehir merkezinin güneybatısında, Atatürk Yolu (Kırşehir/Boğazlıyan yolu) 7. kilometresinde yer alır. Şehir merkezindeki **Cumhuriyet Meydanı (Saat Kulesi)** ve **Lise Caddesi** duraklarından kalkan **Kampüs Halk Otobüsleri ve Dolmuşları** ile yaklaşık 15-20 dakikada kampüse ulaşılır. Tıp Fakültesi Araştırma ve Uygulama Hastanesi de kampüs içerisinde olduğu için gün boyu seferler oldukça sıktır. Ayrıca **Yozgat YHT (Yüksek Hızlı Tren) Garı**'na bağlantı otobüsleri sayesinde Ankara ve Sivas'a 1 saatte ulaşım sağlanır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Kampüs geniş ve hafif eğimli bir plato üzerine kuruludur. Şehir merkezinden gelen otobüsler kampüs içerisindeki ana arterlerden geçerek Tıp Fakültesi, Mühendislik-Mimarlık, Eğitim, Hukuk, İİBF ve KYK yurtları duraklarına kadar öğrencileri bırakır.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Toplu taşımada elektronik **Yozgat Kart / Kentkart** kullanılır. Öğrenci belgesi ile çıkartılan indirimli kartla ekonomik ulaşım sağlanır.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Yozgat, Türkiye'nin yüksek rakımlı (~1.300 m) illerinden biridir ve Erdoğan Akdağ Kampüsü açık bir tepe/plato üzerinde yer alır. Kış aylarında (Aralık-Mart) yoğun kar yağışı, tipi ve sert ayaz görülür. Kampüs yolları düzenli tuzlansa da rüzgar geçirmez kalın kışlık giysiler ve kar botu Yozgat öğrencisi için zorunluluktur.
+* **Merkezden Kampüse Ulaşım Hatları:**  
+  Erdoğan Akdağ Kampüsü, Atatürk Yolu üzerinde (Kırşehir-Boğazlıyan istikameti) şehir merkezine yaklaşık 7 kilometre mesafededir.
+  * **1 Numaralı Kampüs Otobüsleri & Dolmuşları:** Cumhuriyet Meydanı (Saat Kulesi), Lise Caddesi ve Çapanoğlu duraklarından kalkar. Sabah ders saatlerinde (08:15 - 09:15) her 4-5 dakikada bir sefer vardır. Kampüs içi ring görevi görerek Tıp Fakültesi, Mühendislik-Mimarlık, Fen-Edebiyat ve KYK yurtları duraklarına kadar yolcu taşır.
+  * **Yozgat Kart (Kentkart):** Şehir içi belediye otobüslerinde indirimli öğrenci kartı kullanılır; tek basım ücreti Türkiye'deki en ucuz tarifelerden biridir.
+* **Yüksek Hızlı Tren (YHT) Devrimi ve Ankara Kaçışı:**  
+  Yozgat'ta öğrenci olmanın kaderini değiştiren en büyük gelişme **Ankara-Sivas YHT hattı** ve Yozgat Garı'dır.
+  * Kampüse ve merkeze belediye servisleriyle bağlanan Yozgat YHT Garı'ndan kalkan hızlı trenle **Ankara Garı'na sadece 1 saatte**, **Kırıkkale'ye 35 dakikada**, **Sivas'a ise 1 saatte** varılır.
+  * Öğrenciler cuma öğleden sonra veya cumartesi sabahı YHT'ye atlayıp günübirlik Ankara'ya (Kızılay, Tunalı, konserler, AVM'ler) gidip aynı akşam Yozgat'a dönebilmektedir.
+* **Kış Şartlarında Kampüs Yolu:**  
+  Yozgat 1.300 metre rakıma sahiptir ve kampüs açık bozkır platosunda kuruludur. Kış aylarında kampüse çıkan Atatürk Yolu'nda gizli buzlanma ve şiddetli rüzgar görülür; belediye tuzlama araçları yolu açık tutsa da öğrencilerin kaymaz tabanlı sağlam kışlık botlar giymesi zorunludur.
 
 ---
 
 ## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
 
-* **KYK Yurtları:**  
-  Yozgat'ta KYK yurt kapasitesi öğrenci sayısına oranla oldukça fazladır; yedekte kalma ihtimali çok düşüktür.
-  * **Kız Yurtları:** Kampüs girişine ve Esentepe bölgesine yakın konumda bulunan **Sürmeli KYK Kız Öğrenci Yurdu**, **Kınalı Hasan KYK Kız Yurdu** ve **Çamlık KYK Kız Yurdu** modern, 3-4 kişilik odalara sahiptir.
-  * **Erkek Yurtları:** **Bozok KYK Erkek Öğrenci Yurdu** ve **Ahmet Efendi KYK Erkek Yurdu** kampüse çok yakın mesafede hizmet verir.
-* **Özel Yurtlar ve Apartlar:**  
-  Özellikle **Esentepe** ve **Lise Caddesi** çevresinde öğrencilere özel tasarlanmış 1+0 ve 1+1 eşyalı (faturalar dahil veya hariç) apartlar 6.500 - 10.000 TL bandında bulunabilir.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Esentepe ve Bahçeşehir Mahalleleri:** Kampüs güzergahı üzerinde yer alır. Yeni binalar ve doğalgazlı daireler yaygındır (Kiralar 7.500 - 11.000 TL).
-  * **Lise Caddesi ve Medrese Mahallesi:** Çarşı merkezinde, kafelere ve marketlere yürüme mesafesinde olmak isteyenlerin tercihidir (Kiralar 8.500 - 12.000 TL).
+* **Garantili KYK Yurtları:**  
+  Yozgat, Türkiye'de KYK yurdu bulmanın en kolay olduğu illerden biridir; yedek listesi hızla erir ve neredeyse başvuran her öğrenciye ilk haftalarda yurt çıkar.
+  * **Kız Yurtları:** **Sürmeli KYK Kız Öğrenci Yurdu**, **Kınalı Hasan KYK Kız Yurdu** ve **Çamlık KYK Kız Yurdu**. Yurtlar yeni tip olup 3-4 kişilik odalara, kesintisiz sıcak suya ve çalışma salonlarına sahiptir.
+  * **Erkek Yurtları:** **Bozok KYK Erkek Öğrenci Yurdu** ve **Ahmet Efendi KYK Erkek Yurdu** kampüs çevresinde yer alır.
+  * **Yurt Kuralları:** 23:00 giriş kuralı ve izin takibi dijital parmak izi/kart sistemiyle sıkı şekilde uygulanır.
+* **Öğrenci Mahalleleri ve Kiralık Daireler:**  
+  * **Esentepe ve Bahçeşehir Mahalleleri:** Kampüs yolu üzerindedir. Son yıllarda yapılan 1+1 ve 2+1 eşyalı öğrenci apartları burada toplanmıştır. Kiralar **7.500 - 11.500 TL** civarındadır. Kampüse tek vasıtayla 5-7 dakikada varılır.
+  * **Lise Caddesi ve Çapanoğlu Mahallesi:** Şehir merkezinin kalbidir. Akşam yürüyüşü yapmak, kafelere ve marketlere yürüme mesafesinde olmak isteyenlerin tercihidir. Eski tip 3+1 daireler 3-4 öğrenci bir araya gelerek **8.000 - 12.000 TL** gibi çok komik rakamlara kiralanabilir.
+  * **Isınma ve Doğalgaz Uyarısı:** Yozgat'ın kış soğuğu dondurucu olduğundan, ev tutarken mantolama/ısı yalıtımı ve kombinin verimliliği mutlaka sorulmalıdır; aksi takdirde kışın kabarık doğalgaz faturaları gelebilir.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 3. 🎓 Akademik Altyapı ve Sektörel İhtisaslaşma
 
-* **Kütüphane İmkanları:**  
-  Kampüsün kalbinde yer alan **Merkez Kütüphane**, geniş çalışma salonları, bireysel çalışma masaları ve bilgisayar laboratuvarlarıyla öğrencilerin ders çalışma merkezidir. Vize ve final haftalarında çalışma saatleri uzatılır ve sınav dönemlerinde ücretsiz çorba ikramı yapılır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Hayırsever iş insanları (özellikle Erdoğan Akdağ ve Bilal Şahin) tarafından desteklenen kampüste fakülte binaları oldukça bakımlı ve moderndir. **Tıp Fakültesi Araştırma ve Uygulama Hastanesi**, **Hukuk Fakültesi** kurgusal duruşma salonu, **Mühendislik-Mimarlık** laboratuvarları ve **Erdoğan Akdağ Kongre ve Kültür Merkezi** güçlü bir fiziki altyapı sunar. Ayrıca üniversitenin **Endüstriyel Kenevir Enstitüsü** alanında Türkiye'de ihtisaslaşmış tek merkezdir.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Kampüs genelinde `eduroam` kablosuz ağı sorunsuz ve hızlı çalışmaktadır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Bozok Teknofest Takımları, Hukuk ve Münazara Topluluğu, Tiyatro, Müzik ve Doğa Sporları kulüpleri kampüs içi sosyal hayatı canlı tutan başlıca organizasyonlardır.
+* **Türkiye'nin Tek "Endüstriyel Kenevir" İhtisas Üniversitesi:**  
+  YOBÜ, YÖK tarafından Bölgesel Kalkınma Odaklı Misyon Farklılaşması kapsamında **Endüstriyel Kenevir** alanında ihtisas üniversitesi seçilmiştir. Üniversite bünyesindeki Kenevir Araştırma Enstitüsü; tekstil, biyomedikal, otomotiv kompozitleri, inşaat yalıtımı ve ilaç sektörüne yönelik devrim niteliğinde AR-GE çalışmaları yürütmektedir. Kimya, Biyoloji, Ziraat ve Malzeme Mühendisliği öğrencileri için eşsiz bir proje ve yayın sahasıdır.
+* **Tıp Fakültesi ve Sağlık Kompleksi:**  
+  Kampüs içerisinde yer alan Tıp Fakültesi Araştırma ve Uygulama Hastanesi, modern cihaz parkuru ve genişleyen poliklinikleriyle bölge halkına hizmet verir; tıp ve hemşirelik öğrencileri erken dönemde hasta başı eğitimine dahil olur.
+* **Bilal Şahin Kütüphanesi ve Sınav Dönemi:**  
+  Kampüs merkezindeki kütüphane zengin kitap koleksiyonuna, dijital tarama olanaklarına ve grup çalışma odalarına sahiptir. Vize ve final dönemlerinde **7/24 açık** tutulur; gece saatlerinde üniversite yönetimi ve Kızılay işbirliğiyle sıcak çorba ve çay ikram edilir. Çan eğrisi sistemi uygulanır; tıp ve mühendislikte baraj notları öğrencileri finallerde terletir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 4. 🍽️ Beslenme, Sokak Lezzetleri ve Kampüs Yaşamı
 
-* **Merkez Yemekhane:**  
-  Merkezi yemekhanede hafta içi her gün öğle yemeği (4 çeşit) 25 - 35 TL gibi uygun bir bedelle sunulur. Yemekler doyurucu ve hijyeniktir.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içerisinde öğrenci çarşısı, kafeteryalar, kırtasiye, banka ATM'leri ve her fakültenin kendi kantini mevcuttur. Fiyatlar öğrenci bütçesini zorlamaz.
-* **Spor Tesisleri:**  
-  Kampüs bünyesinde kapalı spor salonu, fitness merkezi, halı saha, tenis kortu ve yürüyüş parkurları yer almaktadır.
-
----
-
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
-
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Yozgat muhafazakar, geleneksel ve sakin bir İç Anadolu şehridir. Halkı öğrencilere karşı saygılı ve yardımseverdir. Asayiş ve güvenlik açısından Türkiye'nin en sorunsuz şehirlerinden biridir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Şehir merkezinde **Lise Caddesi** üzerindeki kafeler, **Kentpark** gölet çevresi, **Novada AVM** ve temiz çam havası almak isteyenler için **Çamlık Milli Parkı** ana sosyal alanlardır. Büyük konser, tiyatro veya alışveriş için öğrenciler **YHT (Hızlı Tren)** ile 1 saatte Ankara'ya gidip akşam dönebilmektedir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Kampüs içerisindeki **Bozok Teknopark** mühendislik ve bilişim öğrencilerine staj imkanı sunar. Ayrıca üniversite bünyesinde her yıl yüzlerce öğrenciye Kısmi Zamanlı (Part-Time) çalışma imkanı verilir.
+* **Ekonomik Kampüs Yemekhanesi:**  
+  Erdoğan Akdağ Kampüsü yemekhanesinde günde 4 çeşit dengeli tabldot yemek **25 - 35 TL** bandında verilir. Menüler doyurucu olup öğrenci bütçesini sarsmaz.
+* **Meşhur Yozgat Yöresel Lezzetleri:**  
+  * **Yozgat Testi Kebabı:** Çömlek testinin içine kuzu eti, domates, sarımsak ve biber doldurularak ağır ateşte pişirilen, testisi gözünüzün önünde satırla kırılarak servis edilen efsanevi lezzettir. Şehre gelen ailelere ve misafirlere ısmarlanan ilk yemektir.
+  * **Arabaşı Çorbası ve Hamuru:** Tavuk/hindi suyu ve bol acılı özel çorbanın, çiğnenmeden yutulan soğuk hamurla içildiği tescilli Yozgat geleneğidir. Kış gecelerinde öğrenci evlerinde arabaşı partileri düzenlenir; gribe ve ayaza karşı birebirdir.
+  * **Parmak Çörek ve Çanak Peyniri:** Fırından yeni çıkmış sıcak çıtır parmak çörek ile Yozgat çanak peyniri, vize sabahlarında öğrencinin en lezzetli kahvaltısıdır.
+* **Lise Caddesi Öğrenci Mekanları:**  
+  Şehir merkezinde Lise Caddesi boyunca sıralanan tavuk dönerciler (Hatay usulü soslu dönerler), tostçular ve pideciler öğrencilerin ceplerini yakmadan karın doyurduğu noktalardır.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 5. 🌆 Şehir Dinamikleri ve Sosyal Yaşam
+
+* **Şehrin Tek Sosyal Damarı: Lise Caddesi:**  
+  Yozgat'ta sosyal hayat büyük oranda **Lise Caddesi** üzerindedir. Üçüncü nesil kahveciler, tatlıcılar, oyun salonları ve nargile kafeler bu caddede toplanmıştır. Arkadaşlarla buluşmak denildiğinde herkes bu caddeye çıkar.
+* **Doğa ve Kaçış Noktaları:**  
+  * **Çamlık Milli Parkı:** Türkiye'nin ilk milli parkıdır. Kampüse ve merkeze çok yakın olan Çamlık, çam kokusu eşliğinde doğa yürüyüşü, piknik ve temiz hava almak için harika bir sığınaktır.
+  * **Novada AVM & Kentpark:** Şehrin sinema salonuna ve zincir mağazalarına sahip tek modern alışveriş merkezidir.
+  * **YHT ile Hafta Sonu Ankara:** Sosyal etkinlik eksikliği hisseden öğrenciler hızlı trenle 1 saatte Ankara'ya geçip tiyatro, sinema, konser veya sergi ihtiyaçlarını giderip dönerler.
+* **Halkın Öğrenciye Yaklaşımı:**  
+  Yozgat halkı sakin, muhafazakar ve yardımseverdir. Şehirde suç oranı yok denecek kadar azdır; geceleri sokaklar son derece güvenlidir.
+
+---
+
+## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* **Yüksek Hızlı Tren (YHT) ile Ankara'ya 1 Saat:** Başkent Ankara'ya 1 saatlik hızlı tren mesafesinde olması Yozgat'ın sosyal kısıtlılığını büyük ölçüde telafi eder.
-* **Sıfır Barınma Sorunu:** KYK yurtlarının bolluğu ve uygun kira fiyatları sayesinde barınma stresi yaşanmaz.
-* **Ferah ve Bakımlı Kampüs:** Fakülte binaları, kongre merkezi ve hastanesiyle derli toplu, modern bir kampüs altyapısına sahiptir.
+* **YHT ile Başkente 1 Saatlik Komşuluk:** Ankara'ya sadece 60 dakikada ulaşabilmek, taşra üniversitesinde okurken metropolün tüm kültürel imkanlarına erişebilmeyi sağlar.
+* **Barınma Garantisi ve Ucuz Yaşam:** Türkiye'de ev kiralarının ve KYK yurt imkanlarının en rahat olduğu illerdendir; aile bütçesini asgari düzeyde yorar.
+* **Sakin ve Güvenli Şehir:** Trafik çilesi, asayiş problemi veya metropol kargaşası yoktur; ders çalışmak ve akademik sınavlarda derece yapmak isteyenler için kusursuz bir odaklanma ortamıdır.
 
-### ❌ Eksileri
-* **Sert ve Rüzgarlı Kış İklimi:** Erdoğan Akdağ Kampüsü'nün kış soğuğu ve rüzgarı oldukça çetindir; kış ayları uzun sürer.
-* **Kısıtlı Şehir İçi Sosyal Yaşam:** Akşam saat 21:00-22:00'den sonra şehir merkezi oldukça sakinleşir; eğlence ve gece hayatı beklentisi olanlar sıkılabilir.
-* **Engebeli Topoğrafya:** Yozgat şehir merkezi ve kampüs yolu yokuşlu bir arazi yapısına sahiptir.
+### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+* **Dondurucu İç Anadolu Ayazı:** Kış mevsimi çok sert ve dondurucudur; kampüsün yüksek rakımı ve açık tepesi sebebiyle rüzgar adeta kemiklere işler, kaldırımlar günlerce buz tutabilir.
+* **Tek Caddeye Sıkışan Sosyal Hayat:** Sosyal alanların neredeyse tamamı Lise Caddesi'nden ibarettir. Hareketli bir gece hayatı veya alternatif kültür-sanat mekanları bekleyenler ilk aylarda ciddi taşra bunalımı yaşayabilir.
+* **Hafta Sonu Boşalan Kampüs:** Cuma akşamları Ankara, Kırıkkale, Kayseri ve Sivaslı öğrenciler YHT ve otobüslerle memleketlerine döndüğü için hafta sonları kampüs ve şehir adeta sessizliğe bürünür.
+* **Erken Kapanan Şehir:** Akşam 21:00'den sonra cadde ve sokaklar hızla boşalır; açık nöbetçi lokanta veya mekan sayısı sınırlıdır.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Yozgat'a gelirken gardırobunuzdaki en kalın montları ve botları yanınıza alın çünkü kampüsün ayazı şaka yapmaz! Ama gözünüz korkmasın; KYK yurdunuz hemen çıkar, paranız cebinizde kalır, bunaldığınız hafta sonu da YHT'ye atlayıp 1 saat sonra Ankara Kızılay veya Tunalı'da kahvenizi içersiniz."
+> "Yozgat'a gelirken valizine kalın içliklerini, rüzgar geçirmez montunu ve sağlam tabanlı kar botunu mutlaka koy. Burayı bir mahrumiyet bölgesi olarak değil, harcama yapmadan para biriktirebileceğin, kütüphanede odaklanıp KPSS/TUS veya TEKNOFEST derecesi çıkarabileceğin bir 'kamp şehri' olarak düşün. En büyük kurtarıcın TCDD uygulaması olacak; cuma gününden YHT biletini alıp 1 saatte Ankara'ya kaçmayı ve kış akşamlarında bir esnaf lokantasında sıcak arabaşı çorbası içmeyi sakın unutma!"

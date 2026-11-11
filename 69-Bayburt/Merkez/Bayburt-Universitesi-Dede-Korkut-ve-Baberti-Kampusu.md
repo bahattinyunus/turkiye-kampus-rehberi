@@ -4,7 +4,7 @@
 > **İl / İlçe:** Bayburt / Merkez  
 > **Üniversite Türü:** Devlet  
 > **Kampüs Konumu:** Şehir Merkezi (Dede Korkut) & Erzurum Yolu 5. km (Baberti Külliyesi)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (3.6/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.5/5)
 
 ---
 
@@ -12,94 +12,99 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | Dede Korkut: Merkezde / Baberti: 5 km (~10 dk) | Dede Korkut yürüme mesafesi; Baberti'ye sürekli dolmuş ve otobüs var |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek (%99 Yurt Çıkma Oranı) | Ağlarbaba, Sultan Fahriye ve Dede Korkut KYK yurtları kampüslerin yanında |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 6.500 - 10.500 TL | Tuzcuzade, Genç Osman ve Şingah mahallelerinde uygun apartlar |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Her iki kampüste de merkezi yemekhane; sıcak ve doyurucu menüler |
-| **📚 Kütüphane Kapasitesi** | Geniş / Sınav Dönemi 7/24 | Baberti Külliyesi Merkez Kütüphanesi; Selçuklu mimarili dev bina |
-| **🌐 İnternet (eduroam)** | Hızlı ve Stabil | Külliye binalarında, kütüphanede ve dersliklerde güçlü çekim |
-| **🌆 Sosyal Yaşam & Çevre** | Sakin & Samimi | Küçük şehir; Çoruh Nehri kıyısı kafeleri ve güçlü arkadaşlık ortamı |
+| **🚇 Şehir Merkezine Uzaklık** | Dede Korkut: Merkezde (0 km) / Baberti: 5 km (~10 dk) | Dede Korkut yürüyerek 5 dk; Baberti'ye Saat Kulesi'nden 5 dk'da bir sarı minibüs |
+| **🏠 KYK Yurt İmkanı** | Türkiye Rekoru (%99+ Yurt Çıkma) | Sultan Fahriye, Ağlarbaba, Bayburt Kız ve Dede Korkut Erkek yurtları; açıkta kalan yok |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 6.500 - 10.500 TL | Tuzcuzade, Genç Osman (merkez) ve Şingah (Baberti yolu) mahalleleri son derece uygun |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / Doyurucu & Sıcak | Her iki yerleşkede de merkezi mutfak; porsiyonlar geniş ve fiyatlar çok ekonomik |
+| **📚 Kütüphane Kapasitesi** | Geniş & Selçuklu Taş Mimarisi | Baberti Külliyesi Kütüphanesi; modern çalışma locaları, vizede 7/24 çorba ikramı |
+| **🌐 İnternet (eduroam)** | Hızlı ve Kesintisiz | Binaların tamamında ve yurtlarda güçlü; kampüs bahçesinde stabil |
+| **🌆 Sosyal Yaşam & Çevre** | Butik / Odaklanma & İnziva Kenti | Çoruh Kordonu kafeleri, Saat Kulesi; 1.5 saatte Erzurum veya Trabzon kaçamağı |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Ağı ve Erişilebilirlik
 
-* **Şehir Merkezinden Ulaşım:**  
-  Bayburt Üniversitesi merkezde iki ana yerleşkede eğitim verir:
-  1. **Dede Korkut Kampüsü:** Rektörlük, Eğitim Fakültesi'nin bazı birimleri, Sağlık Hizmetleri MYO ve spor tesislerinin bulunduğu ilk kampüstür. Tamamen şehir merkezinin (Tuzcuzade Mah. / Saat Kulesi) içindedir; çarşıdan ve evlerden yürüyerek 5-10 dakikada gidilir.
-  2. **Baberti Külliyesi:** Mühendislik, İİBF, İlahiyat, İnsan ve Toplum Bilimleri, Sanat ve Tasarım ile Spor Bilimleri gibi fakültelerin toplandığı, Selçuklu taş mimarisiyle inşa edilmiş devasa yeni kampüstür. Şehir merkezine 5 km uzaklıktadır; Saat Kulesi ve Cumhuriyet Caddesi'nden her 5 dakikada bir kalkan **Baberti Dolmuşları** ve belediye otobüsleriyle 10 dakikada ulaşılır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Baberti Külliyesi düz ve çok geniş bir alan üzerine, binalar birbirine yürüme mesafesinde olacak şekilde planlanmıştır. Külliye içindeki KYK yurtlarından fakültelere yürüyerek 5 dakikada geçilir.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Belediye otobüslerinde indirimli öğrenci kartı ve dolmuşlarda öğrenci tarifesi geçerlidir.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Bayburt'un kışları Doğu Anadolu kadar serttir. Aralık-Mart döneminde yoğun kar yağışı ve **-20 dereceyi bulan gece ayazı** görülür. Ancak şehir ve kampüs yolları karla mücadele ekiplerince sürekli açık tutulur; binaların içi ise merkezi ısıtma ile fırın gibi sıcaktır.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  Bayburt'u tercih eden bir öğrencinin açıkta kalma ihtimali neredeyse sıfırdır:
-  * **Kız Yurtları:** Baberti Külliyesi'nin hemen yanında yer alan **Sultan Fahriye KYK Kız Öğrenci Yurdu** ile Dede Korkut Kampüsü'ne yakın **Ağlarbaba KYK Kız Öğrenci Yurdu** ve **Bayburt KYK Kız Yurdu** oldukça konforludur.
-  * **Erkek Yurtları:** **Dede Korkut KYK Erkek Öğrenci Yurdu** ve külliye çevresindeki erkek yurt blokları yüksek kapasiteyle hizmet verir.
-* **Özel Yurtlar ve Apartlar:**  
-  Şehir merkezinde öğrencilere yönelik özel apartlar (1+0 ve 1+1 eşyalı, doğalgaz/fatura dahil paketler) 6.000 - 9.500 TL bandında bolca bulunur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Tuzcuzade ve Genç Osman Mahalleleri:** Dede Korkut Kampüsü'nün hemen etrafı ve Çoruh Nehri kenarıdır. Kafeler, marketler ve çarşı elinizin altındadır (Kiralar 7.000 - 10.500 TL).
-  * **Şingah Mahallesi:** Baberti Külliyesi güzergahında yer alan, yeni yapılmış modern ve ısı yalıtımlı binaların bulunduğu bölgedir.
+* **İki Yerleşkeli Şehir Yapısı:**  
+  Bayburt Üniversitesi'nin merkez ilçede iki ana omurgası bulunur:
+  * **Dede Korkut Kampüsü (Şehir İçi):** Rektörlük, Eğitim Fakültesi'nin bazı birimleri, Sağlık Hizmetleri MYO ve spor sahalarının yer aldığı kök yerleşkedir. Çarşı merkezindedir; evlerden ve yurtlardan yürüyerek 5-10 dakikada varılır, dolmuş parası verilmez.
+  * **Baberti Külliyesi (Erzurum Yolu 5. km):** Selçuklu taş mimarisiyle inşa edilmiş ana mega külliyedir. Mühendislik, İİBF, İlahiyat, İnsan ve Toplum Bilimleri ile Spor Bilimleri buradadır. Saat Kulesi Meydanı ve Cumhuriyet Caddesi'nden her 5 dakikada bir kalkan **Sarı Kampüs Minibüsleri** ve belediye halk otobüsleriyle yolculuk yalnızca 10-12 dakika sürer.
+* **Kış Şartları ve Çoruh Kıyısında Buzlanma:**  
+  Bayburt, 1.550 metre rakımlı çanak bir vadide kuruludur. Aralık'tan Mart sonuna kadar dondurucu karasal soğuk etkilidir; sıcaklık gece **-20°C ile -25°C** seviyelerine iner. Çoruh Nehri'nin yüzeyi donar, kaldırımlar günlerce buz tutabilir. Bu nedenle kalın kauçuk tabanlı kar botu ve rüzgar geçirmez içliksiz sokağa çıkmak imkansızdır.
+* **Büyükşehirlere Kaçış Taktikleri (Trabzon & Erzurum):**  
+  * **Trabzon:** Kop ve Zigana tünelleri sayesinde otobüs ve minibüslerle sadece **1.5 - 2 saat** mesafededir. Hafta sonu deniz havası almak, Forum Trabzon AVM'de sinemaya gitmek ve Karadeniz havası solumak için Bayburt öğrencilerinin bir numaralı rotasıdır.
+  * **Erzurum:** Otobüsle **1 saat 15 dakika** sürer. Öğrenciler Palandöken'de kayak yapmak veya Erzurum MNG AVM'de vakit geçirmek için günübirlik Erzurum'a gider.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma, Yurtlar ve Mahalle Dinamikleri
 
-* **Kütüphane İmkanları:**  
-  Baberti Külliyesi'nde yer alan **Merkez Kütüphane**, dış mimarisiyle tarihi bir Selçuklu medresesini andırırken içi tamamen modern çalışma salonları, bilgisayar laboratuvarları ve grup çalışma odalarıyla donatılmıştır. Vize ve final dönemlerinde 7/24 açık olup sıcak çorba/çay ikramı yapılır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Genç bir üniversite olduğu için tüm fakülte binaları, amfiler ve laboratuvarlar son 10-15 yıl içinde sıfırdan inşa edilmiştir; eski veya bakımsız bina yoktur. Özellikle **Spor Bilimleri Fakültesi** (milli boksör ve sporcular yetiştiren tesisleriyle), **Mühendislik** laboratuvarları ve **Gastronomi** uygulama mutfakları çok iyi durumdadır.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Hem Dede Korkut hem de Baberti Külliyesi'nde `eduroam` kablosuz ağı hızlı ve kesintisizdir.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Şehir küçük olduğu için üniversite yönetimi öğrenci kulüplerine ve kampüs içi etkinliklere (tiyatro festivalleri, konserler, Dede Korkut Şenlikleri, TEKNOFEST takımları, kayak ve doğa gezileri) büyük destek verir.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane:**  
-  Hem Dede Korkut Kampüsü'nde hem de Baberti Külliyesi'ndeki merkezi öğrenci yemekhanesinde hafta içi öğle ve akşam yemekleri (25 - 35 TL) verilir.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Baberti Külliyesi içerisinde **Baberti Çarşısı / Öğrenci Yaşam Merkezi**, bowling salonu, kafeteryalar, kırtasiye ve market bulunur. Her fakültenin kendi geniş kantini kış aylarında öğrencilerin en büyük sosyalleşme alanıdır.
-* **Spor Tesisleri:**  
-  Üniversiteye ait kapalı yüzme havuzu, buz pisti/halı sahalar, devasa kapalı spor salonları ve fitness merkezleri Türkiye standartlarının oldukça üzerindedir.
+* **Türkiye'nin En Rahat KYK Yurt Şehri:**  
+  Bayburt, öğrenci sayısına oranla devlet yurdu kapasitesinde Türkiye birincisidir. Başvuran öğrencilerin neredeyse tamamına ilk yerleştirmede yurt çıkar.
+  * **Kız Yurtları:** Baberti Külliyesi'nin hemen bitişiğindeki **Sultan Fahriye KYK Kız Yurdu** ile şehir merkezindeki **Ağlarbaba KYK Kız Yurdu** ve **Bayburt KYK Kız Yurdu**. Odalar 3-4 kişiliktir; odalarda çalışma masası ve banyo mevcuttur.
+  * **Erkek Yurtları:** **Dede Korkut KYK Erkek Öğrenci Yurdu** ve Baberti yerleşkesi çevresindeki modern bloklar.
+  * **Yurt Kuralları:** 23:00 giriş kuralı ve parmak izi turnikeleri katı işletilir. Kış aylarında yurtların merkezi ısıtması kesintisiz ve sıcaktır.
+* **Öğrenci Mahalleleri ve Kiralık Evler:**  
+  * **Tuzcuzade ve Genç Osman Mahalleleri:** Dede Korkut Kampüsü'nün çevresi ve Çoruh Nehri kıyısıdır. Çarşıya sıfır mesafede 1+1 stüdyo apartlar ve 2+1 evler **6.500 - 10.500 TL** bandında kiralanabilir.
+  * **Şingah Mahallesi:** Baberti Külliyesi güzergahındadır; yeni yapılan doğalgazlı siteler bulunur.
+  * **Doğalgaz ve Isınma Uyarısı:** Ev tutacak öğrencilerin mutlaka dış cephe mantolaması iyi olan binaları seçmesi gerekir; Bayburt kışında yalıtımsız evlerde doğalgaz faturası kirayı geçebilir!
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🎓 Akademik Yapı, Spor Başarıları ve Kültürel İlham
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Bayburt'ta yaklaşık 14.000 öğrenci yaşadığı için şehrin ekonomisi ve günlük hareketliliği tamamen öğrenciye bağlıdır. Halk muhafazakar ve geleneksel yapıda olsa da öğrencilere karşı saygılıdır; şehir Türkiye'nin suç oranı en düşük, en güvenli illerinden biridir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Şehrin ortasından geçen **Çoruh Nehri** kıyısındaki yürüyüş yolu ve kafeler (Bentbaşı / Kordon), **Saat Kulesi**, **Bayburt Kalesi**, **Kop Dağı Kayak Merkezi**, **Çımağıl Mağarası** ve dünyaca ünlü çağdaş sanat ile geleneksel zanaatı buluşturan **Baksı Müzesi** gezilecek yerlerin başında gelir. Ayrıca öğrenciler hafta sonu 1,5 saatte **Trabzon**'a veya **Erzurum**'a giderek büyükşehir özlemini giderir. Yöresel **Bayburt Ketesi**, **Galacoş** ve **Lor Dolması** mutlaka tadılmalıdır.
-* **Part-Time İş ve Staj Olanakları:**  
-  Üniversite bünyesinde Kısmi Zamanlı (Part-Time) öğrenci çalıştırma kontenjanları oldukça yüksektir; ayrıca Çoruh kıyısındaki kafelerde part-time iş bulunabilir.
+* **Baberti Külliyesi Selçuklu Mimarisi ve Laboratuvarlar:**  
+  Külliye binaları son derece yeni, ferah ve Selçuklu taş mimarisiyle inşa edilmiştir. Mühendislik Fakültesi laboratuvarları, Gastronomi ve Mutfak Sanatları uygulama atölyeleri son teknolojiyle donatılmıştır.
+* **Türkiye Çapında Spor Bilimleri Fakültesi:**  
+  Bayburt Üniversitesi Spor Bilimleri Fakültesi; boks, güreş, halter ve bilek güreşinde Türkiye ve Avrupa şampiyonlukları kazanan milli sporculara ev sahipliği yapar. Üniversitenin kapalı spor salonları, yüzme havuzu, fitness merkezi ve açık sahaları olimpik düzeydedir.
+* **Baksı ve Kenan Yavuz Etnografya Müzeleri İlhamı:**  
+  Avrupa Konseyi Müze Ödüllü dünyaca ünlü **Baksı Müzesi** ve **Kenan Yavuz Etnografya Müzesi**, Sanat ve Tasarım Fakültesi öğrencileri için olağanüstü bir sanatsal ilham ve sergi platformudur.
+* **Merkez Kütüphane ve 7/24 Sınav Mesaisi:**  
+  Baberti Külliyesi'ndeki dev Merkez Kütüphane, sınav haftalarında **7/24** açıktır. Sessiz salonları, geniş masaları ve sınav gecelerinde dağıtılan sıcak çorba/çay ikramı öğrencilerin ders çalışma motivasyonunu yükseltir.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 4. 🍽️ Beslenme, Sokak Lezzetleri ve Kampüs Yaşamı
+
+* **Özgün Bayburt Lezzetleri:**  
+  * **Bayburt Tava:** Kuşbaşı dana eti, domates, biber ve sarımsağın güveçte veya fırın tepsisinde fırınlanmasıyla hazırlanan enfes bir ziyafet yemeğidir.
+  * **Galacoş:** Bayburt mutfağının başyapıtıdır. Bayat kuru lavaş ekmeklerinin üzerine sıcak süzme yoğurt dökülür; üstüne mercimek ve kıymalı tereyağlı harç gezdirilir. Doyurucu, ekonomik ve tam bir kış yemeğidir.
+  * **Lor Dolması:** Taze pazı yapraklarına lor peyniri ve bulgur sarılarak fırınlanan, üzerine tereyağı dökülen benzersiz bir yöresel tattır.
+  * **Bayburt Ketesi ve Süt Böreği:** Çarşı fırınlarından sıcacık alınıp çayla tüketilen geleneksel kahvaltı klasiğidir.
+* **Kampüs Yemekhanesi ve Çarşı:**  
+  Üniversite yemekhanesinde 4 çeşit öğle ve akşam yemeği **25 - 35 TL** gibi çok cüzi bir ücrete çıkar. Çoruh Nehri kenarındaki kafeler ve Saat Kulesi civarındaki öğrenci çorbacıları bütçeyi yormaz.
+
+---
+
+## 5. 🌆 Şehir Dinamikleri ve Sosyal Yaşam
+
+* **Çoruh Nehri Kordonu ve Saat Kulesi:**  
+  Bayburt'ta sosyal hayatın omurgası ortasından akan **Çoruh Nehri**'dir. Nehir kıyısındaki yürüyüş kordonu, kafeler ve çay bahçeleri öğrencilerin buluşma adresidir. Saat Kulesi Meydanı ve Cumhuriyet Caddesi boyunca uzanan küçük esnaf dükkanları kentin diğer hareketli noktalarıdır.
+* **Doğa ve Gezi Rotaları:**  
+  * **Bayburt Kalesi (Çini Mağara):** Şehri kuşbakışı seyretmek için tarihi bir terastır.
+  * **Baksı Müzesi (Bayraktar Köyü):** Çoruh Vadisi'ne bakan bir tepede yükselen çağdaş sanat müzesi, şehre gelen her öğrencinin mutlaka görmesi gereken bir dünya harikasıdır.
+  * **Kop Dağı Kış Sporları Merkezi:** Kışın kayak ve snowboard yapmak isteyen öğrencilerin kaçış rotasıdır.
+* **Halkın Yaklaşımı:**  
+  Bayburt halkı geleneksel, sakin ve misafirperverdir. Nüfusun üçte biri öğrenci olduğu için esnaf öğrencinin kıymetini bilir. Şehirde asayiş olayı neredeyse yaşanmaz; gece dahi sokaklar son derece huzurludur.
+
+---
+
+## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* **Yurt Garantisi ve Çok Ekonomik Yaşam:** KYK yurtlarının bolluğu ve ucuz ulaşım/barınma sayesinde maddi zorluk çekmeden okunur.
-* **Sıfır ve Modern Kampüs Binaları:** Baberti Külliyesi'nin mimarisi, kütüphanesi ve spor tesisleri çok yeni ve donanımlıdır.
-* **Sıcak Arkadaşlık Ortamı:** Şehir küçük olduğu için öğrenciler birbirleriyle çok hızlı kaynaşır; kampüs ve yurt arkadaşlıkları çok güçlüdür.
+* **Sıfır Barınma Stresi:** Türkiye'de açıkta kalma ihtimalinizin olmadığı, KYK yurtlarının temiz, sıcak ve bol olduğu bir ildir.
+* **Son Derece Ekonomik Yaşam:** Kira, yeme-içme ve ulaşım giderleri asgari düzeydedir; harcama yapacak yer olmadığı için cebinizdeki para bitmez.
+* **Mükemmel İnziva ve Odaklanma Ortamı:** KPSS, DGS, TUS, ALES veya akademik kariyer hedefi olanlar için dikkat dağıtıcı unsurların bulunmadığı kusursuz bir çalışma kampıdır.
+* **Trabzon ve Erzurum'a 1.5 Saat:** Büyükşehir eğlencesi istediğinizde 1.5 saatte deniz kenarına veya Palandöken'e kaçabilirsiniz.
 
-### ❌ Eksileri
-* **Dondurucu Kış Soğuğu:** Kış aylarında -20 dereceleri gören sert karasal iklim ve uzun süren kar yağışı hazırlıksız gelenleri zorlar.
-* **Kısıtlı Sosyal ve Gece Hayatı:** Büyük AVM, gece kulübü veya geniş eğlence alternatifleri yoktur; sosyal hayat kafeler ve ev/yurt buluşmalarıyla sınırlıdır.
+### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+* **Dondurucu Sibirya Ayazı:** Kış mevsimi çok uzun ve dondurucudur; sıcaklıkların -25°C'ye kadar düştüğü günlerde dışarıda 10 dakikadan fazla durmak zordur.
+* **Aşırı Küçük Şehir ve Taşra Monotonluğu:** Nüfusu yaklaşık 45 bin olan merkezde sinema, büyük AVM veya gece hayatı yoktur. Sosyal beklentisi yüksek metropol gençleri ilk aylarda ciddi bunalıma girebilir.
+* **Erken Kapanan Sokaklar:** Akşam saat 20:00'den sonra sokaklarda in cin top oynar; hayat birkaç kafe ve yurt binalarına çekilir.
+* **Ulaşımda Kar Kapanması:** Şiddetli kış aylarında Kop Geçidi'nde zaman zaman tipi nedeniyle ulaşım kısa süreli durabilir.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Bayburt hakkında sosyal medyada yapılan esprilere gülüp geçin; buraya geldiğinizde herkesin aynı gemide olduğunu görüp hayatınızın en samimi dostluklarını kuracaksınız! Kış için en kalın montunuzu alın, Baberti Külliyesi'nin sıcacık kütüphanesinde dersinizi çalışın ve bunaldığınız hafta sonu arkadaşlarınızla dolmuşa/otobüse atlayıp 1,5 saatte **Trabzon sahiline** ya da **Erzurum Palandöken'e** kaçın!"
+> "Bayburt'a gelirken kafandaki AVM, gece kulübü ve çılgın sosyal hayat beklentilerini unut; buraya kendini baştan yaratmaya, cebini korumaya ve geleceğini inşa etmeye geliyorsun! Valizine termal içliklerini, kalın kar botunu ve yün çoraplarını mutlaka koy. İlk yıldan itibaren kütüphaneye kapan, kulüplerde aktif ol, KPSS veya yabancı dil çalış; buradan yüksek bir ortalamayla ya da atanmış olarak çıkarsın. Canın çok sıkıldığında hafta sonu arkadaşlarınla toplanıp Trabzon'a Forum AVM'ye veya Erzurum'a kayağa gitmeyi ihmal etme; Çoruh kenarında sıcak bir çay ve fırından yeni çıkmış Bayburt ketesi ile burayı zamanla seveceksin!"

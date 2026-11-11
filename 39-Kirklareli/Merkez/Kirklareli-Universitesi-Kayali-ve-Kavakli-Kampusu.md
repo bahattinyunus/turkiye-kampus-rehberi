@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Kırklareli / Merkez  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Şehir Dışı Ana Kampüs (Kayalı - 12 km) & Kavaklı Yerleşkesi (8 km)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4/5)
+> **Kampüs Konumu:** Şehir Dışı Ana Dağ/Tepe Kampüsü (Kayalı - 12 km) & Ağaçlık Kavaklı Yerleşkesi (8 km)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
 
 ---
 
@@ -12,95 +12,86 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | Kayalı: 12 km (~25 dk)<br>Kavaklı: 8 km (~15 dk) | Şehir merkezinden (Dingiloğlu Parkı / İstasyon) düzenli halk otobüsleri |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kayalı Kampüsü içinde/bitişiğinde dev KYK kız ve erkek yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.500 - 14.000 TL | Merkezde Karakaş, Karacaibrahim ve İstasyon Caddesi çevresi |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | ~25 - 30 TL / Orta-İyi | Kültür Merkezi ve fakülte yemekhanelerinde 4 çeşit öğle yemeği |
-| **📚 Kütüphane Kapasitesi** | Mesai + Sınav Dönemi Uzatmalı | Kayalı Kampüsü Merkez Kütüphanesi modern ve geniş |
-| **🌐 İnternet (eduroam)** | Orta - İyi | Derslik binaları ve kütüphanede aktif; açık alanda rüzgarlı/geniş mesafe |
-| **🌆 Sosyal Yaşam & Çevre** | Kampüs İzole / Şehir Merkezi Çok Canlı | Kampüs çevresi bozkır, ancak Kırklareli Merkez Trakya'nın en neşeli çarşılarından |
+| **🚇 Şehir Merkezine Uzaklık** | Kayalı: 12 km (~25 dk)<br>Kavaklı: 8 km (~15 dk) | Dingiloğlu Parkı, İstasyon Caddesi ve Otogar'dan düzenli halk otobüsleri |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (Geniş Kapasite) | Kayalı Kampüsü içinde Evliya Çelebi Kız, Ahmet Cevdet Paşa Erkek, Şemseddin Sami KYK |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.500 - 14.000 TL | Merkezde Karakaş, Karacaibrahim, İstasyon Caddesi ve Bademlik |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | ~25 - 30 TL / Ekonomik | Rektörlük Kültür Merkezi ve fakülte yemekhanelerinde 4 çeşit dengeli menü |
+| **📚 Kütüphane Kapasitesi** | Çok Geniş (Sınavda Uzatmalı) | Kayalı Merkez Kütüphanesi modern, çok katlı ve ferah çalışma salonlarına sahip |
+| **🌐 İnternet (eduroam)** | Orta - İyi | Fakülte binalarında ve kütüphanede stabil; açık tepede sert rüzgarlı mesafeler |
+| **🌆 Sosyal Yaşam & Çevre** | Kampüs İzole / Şehir Merkezi Çok Neşeli | Kampüs bozkır tepede; Kırklareli Merkez ise Trakya'nın en özgür ve güvenli çarşısı |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri: Kayalı Otobüs Çilesi & Balkan Ayazı
 
-* **Şehir Merkezinden Ulaşım:**  
-  Kırklareli Üniversitesi'nin ana yerleşkesi olan **Kayalı Kampüsü**, şehir merkezinin kuzeybatısında, Edirne-Kofçaz yolu üzerinde merkeze yaklaşık **12 km** mesafededir. Şehir merkezindeki **Dingiloğlu Parkı**, **İstasyon Caddesi** ve **Otogar** güzergahından kalkan şehir içi halk otobüsleri (Kayalı hattı) ders saatlerine göre her 10-15 dakikada bir hareket eder ve doğrudan kampüsün içindeki fakülte ve KYK yurt duraklarına kadar girer. **Kavaklı Yerleşkesi** (Fen-Edebiyat ve bazı birimlerin bulunduğu ağaçlık yerleşke) ise merkeze 8 km uzaklıkta, Kavaklı beldesi girişindedir ve yine merkezden kalkan otobüslerle 15 dakikada ulaşılır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Kayalı Kampüsü oldukça geniş ve eğimli/tepeli bir araziye kurulmuştur. Merkezi Derslikler, Mühendislik, İİBF, Hukuk, İlahiyat, Tıp ve Turizm fakülteleri ile en üst kotta yer alan KYK yurtları arasında yürüme mesafesi 10-20 dakika sürebilir. Şehir içi otobüsler kampüs içindeki ana durakları dolaşarak ring işlevi de görür.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Şehir içi otobüslerde temassız öğrenci ulaşım kartı kullanılır. Şehir merkezinin kendi içinde (çarşı, market, kafe, otogar arası) ise her yer düz ayak yürüme mesafesinde olduğu için şehir içinde otobüse binmeye hiç gerek duyulmaz; otobüs sadece kampüse gidip gelirken kullanılır.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Kayalı Kampüsü'nün en meşhur özelliği **rüzgarıdır**. Ağaçlandırma çalışmaları devam etse de kampüs yüksek ve açık bir tepede kurulu olduğu için kışın Balkanlar'dan esen rüzgar ve sis hissedilen sıcaklığı çok düşürür. Şemsiye çoğu zaman ters döner; kapüşonlu ve rüzgar geçirmez mont şarttır!
+### 🚍 12 Kilometrelik Kayalı Hattı ve Sabah Seferleri
+Kırklareli Üniversitesi'nin ana yerleşkesi olan **Kayalı Kampüsü**, Edirne-Kofçaz yolu üzerinde, şehre 12 km mesafede yüksek ve rüzgarlı bir tepeye kuruludur.
 
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  * **Kız ve Erkek Yurtları (Kayalı Kampüsü):** Kampüs sınırları içerisinde **Evliya Çelebi KYK Kız Öğrenci Yurdu**, **Ahmet Cevdet Paşa KYK Erkek Öğrenci Yurdu** ve **Şemseddin Sami KYK Öğrenci Yurdu** yer alır. Ayrıca şehir merkezine daha yakın konumda bloklar da mevcuttur. Odalar yeni tip (3-4 kişilik, bazalı, banyo-tuvalet oda içinde) standartlardadır.
-  * **Yurt Konumu Avantaj/Dezavantajı:** Kayalı'daki yurtlarda kalan öğrenciler sabah derse yürüyerek gitme konforuna sahiptir; ancak kampüs şehir dışında olduğu için akşamları Kırklareli merkezdeki kafelere inmek otobüs saatlerine bağımlıdır.
-* **Özel Yurtlar ve Apartlar:**  
-  Kırklareli şehir merkezinde (özellikle Karakaş ve Karacaibrahim mahallelerinde) çok sayıda özel kız/erkek öğrenci yurdu ve 1+0 / 1+1 eşyalı apartlar bulunur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Kayalı köyünde öğrenci evi yoktur; eve çıkan öğrencilerin tamamı **Kırklareli Merkez**'de yaşar:
-  1. **Karakaş Mahallesi & İstasyon Caddesi Çevresi:** Şehrin kalbidir. Kafeler, barlar, marketler ve kampüs otobüs durağı elinizin altındadır. 1+1 kiraları **9.000 - 13.500 TL** bandındadır.
-  2. **Karacaibrahim & Cumhuriyet Mahallesi:** Yeni yapılmış 1+1 ve 2+1 doğalgazlı apartmanların yoğun olduğu, öğrencilerin en çok tercih ettiği ikinci bölgedir.
-  3. **Bademlik & Yayla Mahallesi:** Tarihi dokuya yakın, daha sakin sokaklardır.
+* **Dingiloğlu Parkı ve İstasyon Caddesi Durakları:**  
+  Şehir merkezinde ikamet eden öğrencilerin tamamı **Dingiloğlu Parkı**, **Eski Otogar** veya **İstasyon Caddesi** duraklarından kalkan Kayalı belediye halk otobüslerini kullanır. Sabah 08:00 - 09:15 saatleri arasında duraklarda uzun öğrenci kuyrukları oluşur; otobüsler kampüse doğru tırmanırken tıklım tıklım dolar.
+* **Kampüs İçi Tepe ve Ring İhtiyacı:**  
+  Kayalı Kampüsü dik ve geniş bir bayıra yayılmıştır. Merkezi Derslikler, Mühendislik, İİBF, Hukuk, Tıp ve en yukarıda yer alan KYK yurtları arasında yürümek özellikle kışın 15-20 dakika tempolu yokuş tırmanışı gerektirir. Şehir içi otobüsler kampüsün içine girerek üst yurtlar kapısına kadar ring atar.
+* **Balkanlar'dan Gelen Dondurucu Ayaz ve Tipi:**  
+  Kayalı Kampüsü tamamen açık bir tepede yer aldığı için kış aylarında Balkanlar üzerinden inen kuru ayaz ve dondurucu fırtına çok sert hissedilir. Şemsiye kullanmak imkansızdır; rüzgar anında ters çevirip kırar. Kapüşonlu, rüzgar geçirmez sağlam bir dağcı montu ve boyunluksuz kampüse çıkmak imkansızdır.
+* **Kavaklı Yerleşkesi:**  
+  Şehir merkezine 8 km mesafede, ormanlık ve düzlük bir alanda yer alır; ulaşımı minibüslerle 15 dakikadır.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma & Mahalle Dinamikleri: Kayalı Yurtları vs. Merkez Evleri
 
-* **Kütüphane İmkanları:**  
-  Kayalı Kampüsü'nün merkezinde yer alan **KLÜ Merkez Kütüphanesi**, çok katlı modern binası, geniş çalışma salonları, bilgisayar laboratuvarları ve ferah mimarisiyle öğrencilerin ders aralarında en çok vakit geçirdiği yerdir. Sınav haftalarında çalışma saatleri gece geç saatlere kadar uzatılır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Merkezi Derslikler Binası, Mühendislik Fakültesi (Yazılım, Bilgisayar, Elektrik-Elektronik, Gıda, İnşaat, Makine), Hukuk Fakültesi, İİBF ve yeni gelişen Tıp Fakültesi binaları 2010 sonrası inşa edildiği için sınıflar modern, projeksiyonlu ve merkezi ısıtmalıdır. Özellikle **Yazılım Mühendisliği** bölümü Türkiye'de devlet üniversiteleri arasında ilk açılan ve en çok tercih edilen bölümlerden biridir.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Fakülteler ve kütüphanede **eduroam** sorunsuz çalışır. Üniversitenin OBS ve uzaktan eğitim altyapısı stabildir.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Yazılım ve Bilişim Kulübü, Tiyatro Kulübü, Müzik Kulübü, Doğa Sporları ve Dağcılık (Istranca yürüyüşleri), Genç Tema ve Dans toplulukları Rektörlük Kültür Merkezi'nde düzenli etkinlikler yapar.
+### 🏢 Kayalı Kampüs İçi KYK Yurtları (Dersliğe 5 Dakika)
+* **Evliya Çelebi KYK Kız Yurdu & Ahmet Cevdet Paşa KYK Erkek Yurdu:** Kampüs arazisinin en üst kotunda yer alır. Odalar yeni, 3-4 kişilik bazalı ve çalışma masalıdır. Sabah derse uyanıp yürüyerek gitmek büyük lüks sağlar.
+* **Şemseddin Sami KYK Yurdu:** Kampüs bitişiğinde ek bloklarla genişletilmiş yüksek kapasiteli yurttur.
+* **23:00 Turnike ve Son Otobüs Koşturmacası:**  
+  KYK yurtlarında 23:00 kuralı harfiyen uygulanır. Kırklareli merkezde arkadaşlarıyla İstasyon Caddesi'nde oturan yurt öğrencilerinin **en geç 22:15 - 22:30 son kampüs otobüsüne** yetişmesi şarttır! Bu otobüsü kaçıran öğrenciler grupça toplanıp taksi tutmak zorunda kalır; saat 22:50'de yurt nizamiyesinde turnikeye koşan nefes nefese kalmış öğrenciler her gecenin klasiğidir.
+* **Çamaşırhane:** Pazar günleri makinelerde sıra yoğun olur; hafta içi gündüz saatlerinde çamaşır yıkamak en akıllıca taktiktir.
 
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane:**  
-  Kayalı Kampüsü ve Kavaklı Yerleşkesi yemekhanelerinde hafta içi öğle yemeği (ve yurt öğrencileri için sabah-akşam KYK yemekleri) çıkar. Üniversite yemekhanesi ücreti (~25-30 TL) oldukça ekonomiktir.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kayalı Kampüsü şehir dışında olduğu için kampüs içindeki kantinler ve yaşam merkezi/çarşı alanı gün boyu öğrencilerin temel buluşma noktasıdır. Ancak asıl yeme-içme kültürü Kırklareli Merkez'dedir; meşhur **Kırklareli köftesi**, Trakya tava ciğeri, Balkan börekçileri ve İstasyon Caddesi üzerindeki uygun fiyatlı öğrenci kafeleri çok popülerdir.
-* **Spor Tesisleri:**  
-  Kayalı Kampüsü'nde kapalı spor salonu, stadyum/futbol sahası, açık basketbol ve tenis kortları mevcuttur.
+### 🏡 Öğrenci Evleri: Karakaş ve Karacaibrahim Mahalleleri
+Tüm eve çıkan öğrenciler şehir merkezinde oturur:
+* **Karakaş Mahallesi & İstasyon Caddesi Çevresi:** Şehrin tam kalbidir; kafeler, publar, marketler ve otobüs durakları elinizin altındadır (**9.500 - 14.000 TL**).
+* **Karacaibrahim & Cumhuriyet:** Yeni doğalgazlı 1+1 apartların yoğun olduğu, sessiz ve güvenli öğrenci muhitidir (**9.000 - 13.000 TL**).
+* **Isınma & Kombi:** Trakya kışı sert geçer; doğalgaz kombili dairelerde petek bakımı ve yalıtım kontrol edilmelidir.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🍽️ Beslenme, Sokak Lezzetleri & Gurme Duraklar
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Trakya insanının sıcakkanlı, esprili ve hoşgörülü yapısı Kırklareli'nde hemen hissedilir. Esnaf ve yerel halk öğrencileri çok sever; kıyafet, yaşam tarzı veya eğlence kültürü konusunda hiçbir kısıtlama ya da yabancılık çekilmez. Gece saat 02.00'de bile merkezde güvenle yürüyebilirsiniz.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  * **İstasyon Caddesi ve Tren Garı Çevresi:** Akşamları öğrencilerin yürüyüş yaptığı, kafelerde ve publarda oturduğu en canlı caddedir.
-  * **39 Burda AVM:** Sinema, zincir mağazalar ve yemek katı için şehrin ana alışveriş merkezidir.
-  * **Yayla Meydanı ve Kültür Sanat:** Tarihi konakların restore edildiği Yayla Mahallesi'nde butik mekanlar ve kültür-sanat etkinlikleri düzenlenir. Hafta sonları ise 45 dakikada Edirne'ye (Karaağaç / Meriç Nehri kıyısına) veya İğneada Longoz Ormanları'na kaçmak çok popülerdir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Kırklareli Merkez'de öğrencilere yönelik part-time işler ağırlıklı olarak kafe, restoran, bar ve mağaza sektörü üzerinedir. Sanayi ve fabrika stajları için ise Kırklareli OSB ile Lüleburgaz/Çorlu/Çerkezköy sanayi havzası değerlendirilir.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* **Özgür, Huzurlu ve Güvenli Şehir:** Trakya kültürünün sağladığı yüksek yaşam kalitesi, hoşgörü ve güvenlik.
-* **İstanbul ve Edirne'ye Yakınlık:** Hafta sonu bile İstanbul'a veya Edirne'ye gidip dönebilecek konumda olması.
-* **Yüksek KYK Yurt Kapasitesi ve Uygun Kiralar:** Büyükşehirlerin astronomik kiralarına kıyasla Merkez'de 1+1 apartlarda veya kampüs içi KYK'da ekonomik barınma.
-
-### ❌ Eksileri
-* **Kayalı Kampüsü'nün Şehir Dışında Olması:** Merkezden 12 km uzaktaki kampüse her gün otobüsle gidip gelme zorunluluğu ve kampüs çevresinin bozkır/rüzgarlı yapısı.
-* **Kayalı'da Yurtta Kalanların Gece Ulaşımı:** Kampüsteki KYK yurdunda kalanlar için akşam saat 22.30-23.00'ten sonra şehir merkezinden yurda dönüşte toplu taşıma bulma zorluğu.
+* **Meşhur Kırklareli Köftesi:**  
+  Türkiye'nin en lezzetli köftelerindendir. Katkısız, saf Trakya dana ve kuzu etinden az baharatla yoğrulur; meşe kömürü ızgarasında sulu sulu pişirilir. Yanında acı biber sosu, taze piyaz ve çıtır ekmekle çarşıdaki tarihi köftecilerde öğrencilerin en büyük ziyafetidir.
+* **Hardaliye (Milli Lezzet):**  
+  Kırklareli'nin coğrafi işaretli geleneksel içeceğidir. Olgunlaşmış siyah üzümlerin hardal tohumu ve vişne yaprağıyla fermente edilmesiyle yapılan, alkolsüz, şifalı ve serinletici bir içecektir.
+* **Çıtır Balkan Böreği ve Peynir Helvası:**  
+  Sabahları çarşı börekçilerinde pırasalı, kıymalı ve peynirli el açması çıtır Boşnak börekleri ile fırınlanmış sıcak peynir helvası öğrencilerin vazgeçilmezidir.
+* **Sınav Haftası Gece Çorbası:**  
+  Kayalı Merkez Kütüphanesi önünde vize ve final haftalarında gece saat 22:30'da rektörlük tarafından sıcak çorba ve ekmek ikramı yapılır.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 4. 📚 Akademik Güç: Yazılım Mühendisliği & Kütüphane
+
+* **Türkiye'nin Öncü Yazılım Mühendisliği:**  
+  KLÜ Yazılım Mühendisliği, Türkiye'deki devlet üniversiteleri arasında ilk açılan ve en yetkin akademik kadroya sahip bölümlerden biridir. Geniş bilgisayar laboratuvarları, yazılım geliştirme kulüpleri ve hackathonlar ile mezunları savunma sanayii ve uluslararası teknoloji şirketlerinde hızla iş bulur.
+* **Kayalı Çok Katlı Merkez Kütüphanesi:**  
+  Kampüsün tam ortasında yer alan dev kütüphane binası, modern mimarisi ve sessiz salonlarıyla sınav dönemlerinde 7/24 dolup taşar. Prizli masalar erkenden rezerve edilir.
+
+---
+
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **Balkan Fırtınası ve Açık Tepe Soğuğu:**  
+  Kayalı Kampüsü yüksek ve ağaçsız bir tepeye kurulu olduğu için kış rüzgarı yürümeyi bile zorlaştırır.
+* **12 Kilometrelik Mesafe ve Gece Ulaşım Kısıtı:**  
+  Kampüs şehir merkezinden kopuktur; gece 23:00'ten sonra toplu taşıma tamamen biter, yurttan merkeze veya merkezden yurda geçiş taksiye bağımlı hale gelir.
+* **Hafta Sonu Kampüs Issızlığı:**  
+  Öğrencilerin bir kısmı İstanbul ve Edirne'ye gittiği, bir kısmı da merkeze indiği için hafta sonu Kayalı Kampüsü sessiz bir plato haline dönüşür.
+
+---
+
+## 💡 KLÜ'ye Yeni Geleceklere Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Kırklareli'nde ilk senende Kayalı KYK yurdunda kalıp arkadaş çevreni kur, ama 2. sınıfta mutlaka 1-2 arkadaşınla birleşip Kırklareli Merkez'de (Karakaş veya İstasyon civarında) eve çık! Merkezde yaşayıp kampüse otobüsle gitmek, kampüste yaşayıp merkeze inmeye çalışmaktan çok daha keyifli. Bir de Kayalı Kampüsü'nün rüzgarı şaka değildir, en kalın montunu yanına al!"
+> 1. **Trakya'nın Samimiyetine Güven:** Kırklareli Türkiye'nin en huzurlu, hoşgörülü ve güvenli kentlerinden biridir; sokakta gece geç saatte bile rahatça gezebilirsin.  
+> 2. **Kayalı Yurdunu İyi Değerlendir:** Sabah 12 km yol ve otobüs sırası çekmek istemiyorsan ilk yıl kampüs içi KYK yurtlarını tercih et.  
+> 3. **Edirne ve İstanbul Kaçışlarını Unutma:** Hafta sonu 40 dakikada Edirne Meriç kenarına veya 2 saatte İstanbul'a gidebilme şansını sınav stresini atmak için kullan.  
+> 4. **Sağlam Bir Dağcı Montu Edin:** Kayalı tepesinde sıradan kabanlar rüzgarı geçirir; içi polarlı ve kapüşonlu rüzgar geçirmez bir mont hayat kurtarır!

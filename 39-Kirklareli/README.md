@@ -1,56 +1,53 @@
-# 🌻 39 - Kırklareli İl Öğrenci ve Kampüs Rehberi
+# 🍇 39 - Kırklareli İl Öğrenci ve Kampüs Rehberi
 
 > **Son Güncelleme:** Kasım 2026  
 > **Bölge:** Marmara (Trakya)  
-> **Öğrenci Nüfusu:** ~28.000  
-> **Genel Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4/5)
+> **Öğrenci Nüfusu:** ~30.000+  
+> **Genel Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
 
-Kırklareli; Trakya'nın sıcakkanlı, hoşgörülü ve neşeli insan yapısı, İstanbul'a sadece 2 - 2.5 saatlik mesafesi, Istranca (Yıldız) Dağları'nın doğası ve güvenli sokaklarıyla özellikle Marmara Bölgesi'nde huzurlu bir öğrencilik geçirmek isteyenlerin favori şehirlerinden biridir. Şehirde üniversite hayatı **Kırklareli Üniversitesi (KLÜ)** etrafında şekillenir. Merkezdeki **Kayalı Kampüsü** ve **Kavaklı Yerleşkesi**'nin yanı sıra, Kırklareli Merkez'den bile daha büyük ve hareketli bir ilçe olan **Lüleburgaz**'daki yerleşkeler şehrin iki ana öğrenci kutbunu oluşturur.
+Kırklareli; Yıldız (Istranca) Dağları ile Ergene Ovası arasında uzanan, Trakya'nın sıcakkanlı insanı, huzurlu sokakları ve yüksek hoşgörüsüyle öğrencilere güvenli ve özgür bir üniversite deneyimi sunan sınır kentidir. Şehirde yükseköğretim hayatı **Kırklareli Üniversitesi (KLÜ)** etrafında şekillenir. Şehir dışındaki yüksek rüzgarlı tepede kurulan **Kayalı Merkez Kampüsü**, yeşillikler içindeki **Kavaklı Yerleşkesi** ve sanayi kenti **Lüleburgaz** ile **Babaeski** meslek yüksekokullarıyla KLÜ, özellikle Yazılım Mühendisliği, Sağlık ve İktisadi bilimlerde öne çıkar.
 
 ---
 
-## 🏛️ Kırklareli'ndeki Üniversiteler ve Yerleşkeler
+## 🏛️ Kırklareli'deki Üniversite ve Yerleşkeler
 
 | Üniversite | Yerleşke / Kampüs | İlçe | Tür | Öne Çıkan Özellik | Rehber Linki |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Kırklareli Üniversitesi (KLÜ)** | Kayalı Merkez Kampüsü & Kavaklı Yerleşkesi | Merkez | Devlet | Ana kampüs, devasa KYK yurtları, Tıp, Hukuk, Mühendislik ve İİBF | [Kayalı ve Kavaklı Kampüs Rehberi](./Merkez/Kirklareli-Universitesi-Kayali-ve-Kavakli-Kampusu.md) |
-| **Kırklareli Üniversitesi (KLÜ)** | Lüleburgaz Yerleşkesi (Kepirtepe) | Lüleburgaz | Devlet | Uygulamalı Bilimler, Havacılık ve Uzay Bilimleri, Lüleburgaz MYO | [Lüleburgaz Yerleşkesi Rehberi](./Luleburgaz/Kirklareli-Universitesi-Luleburgaz-Yerleskesi.md) |
-| **Kırklareli Üniversitesi (KLÜ)** | Babaeski / Pınarhisar / Vize MYO | Babaeski vd. | Devlet | Trakya ovasındaki ulaşımı kolay, ekonomik meslek yüksekokulları | [Babaeski ve İlçe MYO Rehberi](./Babaeski/Kirklareli-Universitesi-Babaeski-ve-Ilce-MYO.md) |
+| **KLÜ** | Kayalı Merkez Kampüsü | Merkez | Devlet | Yazılım Mühendisliği, Hukuk, İİBF, Tıp, kampüs içi dev KYK yurtları | [KLÜ Kayalı & Kavaklı Rehberi](./Merkez/Kirklareli-Universitesi-Kayali-ve-Kavakli-Kampusu.md) |
+| **KLÜ** | Kavaklı Yerleşkesi | Merkez | Devlet | Fen-Edebiyat, ağaçlık ve sakin doğa yerleşkesi | [KLÜ Kayalı & Kavaklı Rehberi](./Merkez/Kirklareli-Universitesi-Kayali-ve-Kavakli-Kampusu.md) |
+| **KLÜ** | Lüleburgaz Yerleşkesi | Lüleburgaz | Devlet | Havacılık, Uygulamalı Bilimler, Lüleburgaz MYO, sanayi stajları | [KLÜ Lüleburgaz Rehberi](./Luleburgaz/Kirklareli-Universitesi-Luleburgaz-Yerleskesi.md) |
+| **KLÜ** | Babaeski ve İlçe MYO'lar | Babaeski, Vize, Pınarhisar | Devlet | Bankacılık, Lojistik, Dış Ticaret ve Teknik programlar | [KLÜ İlçe MYO Rehberi](./Babaeski/Kirklareli-Universitesi-Babaeski-ve-Ilce-MYO.md) |
 
 ---
 
-## 🚌 Şehirde Ulaşım ve "Kayalı Kampüsü" Gerçeği
+## 🚇 Şehirde Ulaşım: Halk Otobüsleri ve Kayalı Hattı
 
-* **Şehir Merkezinden Kampüse Ulaşım:** Kırklareli şehir merkezi (İstasyon Caddesi, Cumhuriyet Meydanı, Karakaş Mahallesi) kendi içinde her yere yürüyerek 15 dakikada gidilebilecek kadar kompakt ve düzdür. Ancak ana kampüs olan **Kayalı Kampüsü**, şehir merkezinin yaklaşık **11-12 km dışında** (Edirne-Kofçaz yolu ayrımında, Kayalı Barajı yakınında) açık bir tepe üzerinde yer alır.
-* **Kırklareli Ulaşım Kartı (Belediye / Halk Otobüsleri):** Şehir merkezinden (Dingiloğlu Parkı / İstasyon Caddesi güzergahından) Kayalı ve Kavaklı yerleşkelerine yeşil-beyaz **SS 39 No'lu Kooperatif şehir içi halk otobüsleri** düzenli sefer yapar (~20-25 dk). Elektronik öğrenci kartı ile indirimli biniş yapılır.
-* **İstanbul ve Edirne'ye Yakınlık:** Kırklareli Otogarı şehir merkezine yürüme mesafesindedir. İstanbul Esenler/Harem otogarlarına her saat başı otobüs kalkar (~2.5 saat). Edirne ise sadece 45-50 dakika uzaklıktadır. Lüleburgaz'dan ise Halkalı-Kapıkule hızlı tren/bölgesel tren hattı ve otoyol bağlantısıyla İstanbul'a ulaşım çok daha hızlıdır.
-
----
-
-## 🏠 Barınma, KYK Yurtları ve Popüler Öğrenci Mahalleleri
-
-* **Karakaş Mahallesi ve İstasyon Caddesi (Merkez):** Kırklareli'nde ev tutan öğrencilerin kalbi burasıdır. Kafeler, publar, restoranlar, zincir marketler ve Kayalı Kampüsü otobüs durakları bu aks üzerindedir.
-* **Karacaibrahim ve Cumhuriyet Mahalleleri:** Çarşıya yürüme mesafesinde, 1+1 eşyalı apartların ve yeni yapılan doğalgazlı öğrenci binalarının yoğunlaştığı bölgelerdir.
-* **Lüleburgaz (8 Kasım, Yeni Mahalle, Yıldız Mah.):** Lüleburgaz'da okuyan öğrenciler için ilçe merkezi modern apartmanlarla doludur.
-* **KYK Yurt Durumu:** Kayalı Kampüsü'nün hemen içinde ve bitişiğinde yer alan **Evliya Çelebi KYK Kız Yurdu**, **Ahmet Cevdet Paşa KYK Erkek Yurdu** ve **Şemseddin Sami KYK Öğrenci Yurdu** sayesinde Kırklareli'nde KYK yurt kapasitesi çok yüksektir. Ancak Kayalı'daki yurtlarda kalan bir öğrenci, akşam çarşıya inmek istediğinde son otobüs saatlerine (genellikle 22.30 - 23.00) dikkat etmek zorundadır.
-* **Ortalama Kira ve Yaşam Maliyeti (2026):**
-  * **Kırklareli Merkez (1+1 Eşyalı Apart):** 8.500 - 13.000 TL
-  * **Kırklareli Merkez (2+1 Öğrenci Evi):** 10.000 - 14.500 TL
-  * **Lüleburgaz Merkez (1+1 / 2+1):** 9.500 - 15.000 TL (Sanayi ilçesi olduğu için Merkez'den bir tık daha pahalıdır)
+* **Kayalı Kampüsü Ulaşımı (12 km):** Dingiloğlu Parkı, Eski Otogar ve İstasyon Caddesi'nden kalkan belediye halk otobüsleriyle sağlanır (~25 dk). Sabah saatlerinde duraklarda yoğunluk oluşur.
+* **Şehir İçi Ulaşım Kolaylığı:** Kırklareli Merkez'in içinde (çarşı, yurtlar, kafeler) her yer düz ayak yürüme mesafesindedir; şehir içinde otobüs kullanmaya ihtiyaç duyulmaz.
+* **İstanbul ve Edirne Yakınlığı:** Edirne'ye 40 dakika, İstanbul'a otobüsle 2 saat mesafededir.
 
 ---
 
-## 🎉 Öğrenci Yaşamı, Trakya Kültürü ve Sosyal İpuçları
+## 🏠 Barınma, KYK Yurtları ve Popüler Mahalleler
 
-1. **Özgür ve Güvenli Sosyal Hayat:** Kırklareli, Türkiye'de kadın ve erkek öğrencilerin gece gündüz en rahat, en güvenli ve hiçbir mahalle baskısı hissetmeden yaşayabildiği şehirlerin başında gelir. **İstasyon Caddesi**, **Kasaplar Arası** ve **Karaumur Caddesi** akşamları öğrencilerle dolup taşar.
-2. **Kakava Şenlikleri ve Bağ Bozumu:** Mayıs ayında düzenlenen **Kırklareli Kakava ve Hıdrellez Şenlikleri** (ve hemen komşu Edirne Kakava'sı) ile sonbahardaki **Yayla Bolluk, Bereket, Hasat ve Bağ Bozumu Şenlikleri** şehirde festival havası estirir.
-3. **Balkan Rüzgarı (Kayalı Ayazı):** "Trakya'dır, ılımandır" yanılgısına düşmeyin! Balkanlar'dan gelen soğuk hava dalgası özellikle açık arazideki **Kayalı Kampüsü**'nde kışın sert bir rüzgar ve ayaza dönüşür.
-4. **Doğa ve Karadeniz Kıyısı (İğneada & Kıyıköy):** Hafta sonları Istranca ormanlarındaki **İğneada Longoz Ormanları**, **Dupnisa Mağarası** ve **Kıyıköy** sahiline yapılan öğrenci gezileri Kırklareli'nde okumanın en güzel yanlarındandır.
+* **Kayalı Kampüs İçi KYK Yurtları:**
+  * **Evliya Çelebi KYK Kız Yurdu**, **Ahmet Cevdet Paşa KYK Erkek Yurdu** ve **Şemseddin Sami KYK Yurdu**. Derse 5 dakikada yürüme konforu sağlar.
+  * 23:00 turnike ve parmak izi okuma sistemi tavizsizdir; merkezde sosyalleşen öğrencilerin son kampüs otobüsünü (22:15-22:30) kaçırmaması şarttır.
+* **Öğrenci Evleri:** **Karakaş**, **Karacaibrahim** ve **İstasyon Caddesi** çevresinde doğalgazlı 1+1 ve 2+1 apartlar (8.500 - 14.000 TL).
+
+---
+
+## 🍽️ Kırklareli Lezzetleri & Gurme Duraklar
+
+* **Meşhur Kırklareli Köftesi:** Saf Trakya etinden az baharatla yoğrulup meşe kömüründe sulu pişen meşhur köfte, acı sos ve taze piyazla sunulur.
+* **Hardaliye:** Olgunlaşmış siyah üzüm ve hardal tohumundan fermente edilen geleneksel alkolsüz şifalı içecek.
+* **Çıtır Balkan Böreği:** Pırasalı ve kıymalı el açması çıtır Boşnak börekleri.
+* **Sınav Haftası Gece Çorbası:** Kayalı Merkez Kütüphanesi önünde sınav gecelerinde dağıtılan sıcak çorba ve ekmek.
 
 ---
 
 ## 📂 İlçe ve Kampüs Rehberleri
 
-* 📍 **Merkez:** [Kırklareli Üniversitesi - Kayalı Merkez Kampüsü ve Kavaklı Yerleşkesi](./Merkez/Kirklareli-Universitesi-Kayali-ve-Kavakli-Kampusu.md)
-* 📍 **Lüleburgaz:** [Kırklareli Üniversitesi - Lüleburgaz Yerleşkesi (Uygulamalı Bilimler / Havacılık / MYO)](./Luleburgaz/Kirklareli-Universitesi-Luleburgaz-Yerleskesi.md)
-* 📍 **Babaeski & İlçeler:** [Kırklareli Üniversitesi - Babaeski, Pınarhisar ve Vize MYO](./Babaeski/Kirklareli-Universitesi-Babaeski-ve-Ilce-MYO.md)
+* 📍 **Merkez:** [KLÜ - Kayalı Merkez Kampüsü ve Kavaklı Yerleşkesi](./Merkez/Kirklareli-Universitesi-Kayali-ve-Kavakli-Kampusu.md)
+* 📍 **Lüleburgaz:** [KLÜ - Lüleburgaz Uygulamalı Bilimler ve MYO Yerleşkesi](./Luleburgaz/Kirklareli-Universitesi-Luleburgaz-Yerleskesi.md)
+* 📍 **Babaeski ve Diğer İlçeler:** [KLÜ - Babaeski, Vize ve Pınarhisar Meslek Yüksekokulları](./Babaeski/Kirklareli-Universitesi-Babaeski-ve-Ilce-MYO.md)

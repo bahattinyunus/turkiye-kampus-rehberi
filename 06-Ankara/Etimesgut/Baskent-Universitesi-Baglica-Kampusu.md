@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Ankara / Etimesgut  
 > **Üniversite Türü:** Vakıf  
-> **Kampüs Konumu:** Bağlıca Mahallesi (Eskişehir Yolu 20. km)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.3/5)
+> **Kampüs Konumu:** Bağlıca Mahallesi (Eskişehir Yolu 20. km, Çayyolu Komşusu)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.5/5)
 
 ---
 
@@ -12,87 +12,83 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 20 km / ~25-35 dk | Koru Metro İstasyonu'ndan Başkent servisleri ve EGO 597/587 ring hatları |
-| **🏠 KYK Yurt İmkanı** | Orta (Özel/Kampüs Yurtları Ağırlıklı) | Kampüs içi kız ve erkek öğrenci yurtları + Çayyolu/Etimesgut KYK yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 16.000 - 26.000 TL | Bağlıca Mahallesi, Ümitköy, Çayyolu, Eryaman ve Elvankent |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | Vakıf Standardı (60 - 90 TL) | Kampüs ana kafeteryası, Patalya tesisleri ve çok sayıda zincir restoran |
-| **📚 Kütüphane Kapasitesi** | 7/24 Açık / Çok Yüksek | Prof. Dr. Mehmet Haberal Kütüphanesi vize/final haftalarında 7/24 hizmet verir |
-| **🌐 İnternet (eduroam)** | Çok Hızlı | Kampüs genelinde fiber altyapı, eduroam ve BaskentNet kablosuz ağları |
-| **🌆 Sosyal Yaşam & Çevre** | Canlı Kampüs & Çayyolu Aksı | Amfi tiyatro, spor kompleksleri, Bağlıca Bulvarı kafeleri, Gordion/Arcadium AVM |
+| **🚇 Şehir Merkezine Uzaklık** | Kızılay'a 20 km / ~25-35 dk | M2 Koru Metrosu'ndan **Ücretsiz Başkent Servisleri** + EGO 587 ve 597 Hatları |
+| **🏠 Yurt İmkanları** | Kampüs İçi Çok Güçlü | 1, 2 ve 3 kişilik otel konforunda kız ve erkek kampüs yurtları + Çayyolu/Etimesgut KYK |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 16.000 - 26.000 TL | Bağlıca Mahallesi, Ümitköy, Çayyolu, Eryaman ve Elvankent siteleri |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | Vakıf Standardı (60 - 90 TL) | Merkez Kafeterya, Patalya restoranları, zincir kahveciler ve vegan seçenekler |
+| **📚 Kütüphane Kapasitesi** | 7/24 Açık / Çok Yüksek | Prof. Dr. Mehmet Haberal Kütüphanesi sınav döneminde 7/24, gece çorba ikramlı |
+| **🌐 İnternet (eduroam)** | Ultra Hızlı | Kampüs genelinde gigabit fiber altyapı, eduroam ve BaskentNet kesintisiz |
+| **🌆 Sosyal Yaşam & Çevre** | Modern Kampüs & Çayyolu | Amfi tiyatro, spor kompleksi, Kanal B stüdyoları, Bağlıca Bulvarı kafeleri |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **Şehir Merkezinden ve Metrodan Ulaşım:**  
-  Başkent Üniversitesi Bağlıca Kampüsü, Eskişehir Yolu'nun güney aksında, Çayyolu ile Etimesgut Bağlıca kesişiminde yer alır. Ulaşım üç temel kanaldan sağlanır:
-  * **Üniversite Ücretsiz Servis Ağı:** Başkent Üniversitesi, Ankara'nın en yaygın ücretsiz servis ağlarından birine sahiptir. **M2 Çayyolu Metrosu'nun son durağı olan Koru İstasyonu** ile Bağlıca Kampüsü arasında gün boyu her 10-15 dakikada bir ücretsiz ring servisleri çalışır (yolculuk 8-10 dakika sürer).
-  * **Semt Servisleri:** Sabah ve akşam saatlerinde Sıhhiye, Tunus Caddesi, Bahçelievler, Batıkent, Keçiören, Eryaman ve Sincan'dan kampüse doğrudan semt servisleri kalkar.
-  * **EGO Otobüsleri:** **597 (Koru Metro - Bağlıca)** ve **587 (Koru Metro - Başkent Üniversitesi)** numaralı EGO ring hatları kampüs girişine kadar yolcu taşır.
-* **Kampüs İçi Ulaşım:**  
-  Bağlıca Kampüsü derli toplu, düz ayak ve son derece planlı bir mimariye sahiptir. Fakülteler, amfiler, kütüphane, mediko ve spor tesisleri birbirine yürüme mesafesinde (3-7 dakika) olup kampüs içi araç ihtiyacı duyulmaz.
-* **Ulaşım Kartı:**  
-  Koru Metrosu ve EGO ringlerinde **AnkaraKart Öğrenci Abonmanı** geçerlidir; üniversite kendi ring servislerini öğrencilerine ücretsiz sunar.
+* **Koru Metrosu'ndan Ücretsiz Başkent Servisleri:**  
+  Başkent Üniversitesi'nin en büyük ulaşım konforu **M2 Çayyolu Metrosu'nun son durağı olan Koru İstasyonu** ile Bağlıca Kampüsü arasında çalışan ücretsiz ring servisleridir.
+  * Servisler sabah 07:45'ten akşam 22:30'a kadar her 10-15 dakikada bir Koru Metro köprü altından kalkar ve 8-10 dakikada doğrudan kampüs içi duraklara varır.
+  * **Sabah 08:30 Yoğunluğu:** 08:00 - 08:30 arasında metro çıkışında servis kuyruğu uzayabilir; ancak üniversite peş peşe büyük otobüsler yanaştırdığı için sıra hızla erir.
+  * **EGO Alternatifi:** Koru Metro çıkışından kalkan **587 (Koru Metro - Başkent Üniversitesi)** ve **597 (Koru Metro - Bağlıca)** EGO ring otobüsleri de öğrenci abonmanıyla kullanılabilir.
+* **Semt Servisleri Ağı:**  
+  Sabah ve akşam saatlerinde Sıhhiye, Tunus Caddesi, Bahçelievler, Batıkent, Keçiören, Sincan ve Eryaman'dan kampüse doğrudan semt servisleri kalkar; metro aktarması yapmadan tek vasıtayla kampüse gelinir.
+* **Otostop Noktası:**  
+  * **Koru Metro Çıkışı & Bağlıca Nizamiye Önü:** Metro çıkışında veya ders bitiminde kampüs kapısında bekleyen öğrenciler el kaldırır; arabası olan Başkentli öğrenciler ve hocalar hızla durup yolcuları alır.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma & Yurt Gerçekleri
 
 * **Kampüs İçi Öğrenci Yurtları:**  
-  Bağlıca Kampüsü arazisinde kız ve erkek öğrenciler için modern üniversite yurtları yer alır. Odalar tek, iki ve üç kişilik seçeneklere sahiptir; çalışma masası, banyo, sınırsız internet ve 24 saat güvenlik mevcuttur. Kampüste kalan öğrenciler sabah derse yürüyerek 3 dakikada geçer.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Bağlıca Mahallesi:** Kampüsün hemen bitişiğidir. Son 10 yılda gelişen modern lüks siteler, 1+1 ve 2+1 yeni daireler, marketler ve kafe caddeleriyle doludur. Yürüyerek veya tek minibüsle kampüse gidilebilir.
-  * **Ümitköy ve Çayyolu:** Metro duraklarına yakın, daha sosyal ve nezih yaşam arayan öğrencilerin ev kiraladığı elit semtlerdir.
-  * **Eryaman ve Etimesgut Merkez:** Bağlıca'ya kıyasla daha ekonomik kira arayan öğrencilerin Başkentray ve ring otobüsleriyle kampüse ulaştığı semtlerdir.
+  * Bağlıca Kampüsü içerisinde kız ve erkek öğrenciler için modern üniversite yurtları yer alır.
+  * Odalar 1, 2 ve 3 kişiliktir; her odada banyo-tuvalet, buzdolabı, ergonomik çalışma masası ve bazalı yataklar mevcuttur.
+  * Yurtlarda 24 saat sıcak su, fiber internet ve düzenli kat temizliği hizmeti verilir. Kampüste kalan öğrenciler sabah derse yürüyerek 3 dakikada geçer.
+* **Öğrenci Mahalleleri & Ev Tutma Tuzakları:**  
+  * **Bağlıca Mahallesi (Bağlıca Bulvarı):** Kampüsün hemen bitişiğindeki yeni nesil yerleşimdir. Geniş caddeleri, yeni güvenlikli siteleri, 1+1 ve 2+1 rezidanslarıyla öğrencilerin gözdesidir (**16.000 - 24.000 TL**). Yürüyerek veya tek dolmuşla kampüse varılır.
+  * **Ümitköy ve Çayyolu:** Metroya yakın, kafeleri ve sosyal hayatı zengin elit semtlerdir (**20.000 - 28.000 TL**).
+  * **Eryaman ve Elvankent:** Daha hesaplı kira arayan öğrencilerin Başkentray ve Koru servisleriyle bağlandığı ekonomik bölgelerdir (**13.000 - 18.000 TL**).
+  * **Ev Sahibi Algısı Tuzağı:** Bağlıca'daki bazı emlakçılar ve ev sahipleri "Başkent Üniversitesi öğrencisi zengindir" varsayımıyla fahiş depozito ve yüksek site aidatları talep edebilir; sözleşme yaparken aidat tutarını ve yakıt sistemini mutlaka yazılı olarak teyit edin.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
-* **Güçlü Sağlık ve Hukuk Geleneği:**  
-  Türkiye'nin organ nakli öncüsü Prof. Dr. Mehmet Haberal tarafından kurulan Başkent Üniversitesi; Tıp Fakültesi, Diş Hekimliği Fakültesi, Sağlık Bilimleri Fakültesi ve Ankara Hukuk ekolünden gelen öğretim üyeleriyle Hukuk Fakültesi'nde Türkiye'nin en iddialı vakıf üniversitelerindendir.
-* **Mühendislik ve İletişim Altyapısı:**  
-  Mühendislik Fakültesi laboratuvarları, İletişim Fakültesi radyo ve televizyon stüdyoları (Kanal B stüdyoları kampüs içerisindedir) öğrencilere doğrudan sektörel uygulama fırsatı sunar.
-* **Kütüphane Olanakları:**  
-  Merkez Kütüphane çok zengin bir tıp, hukuk ve mühendislik veri tabanına sahiptir. Sınav dönemlerinde çalışma salonları 7/24 hizmet verir; ücretsiz çay ve çorba ikramı yapılır.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Kafeteryalar ve Restoranlar:**  
-  Kampüste geniş bir ana yemekhane/kafeteryanın yanı sıra Patalya Kafe, zincir kahveciler (Starbucks vb.), fast food zincirleri ve butik restoranlar bulunur. Fiyatlar devlet üniversitesi yemekhanelerinden yüksek, ancak dış piyasa restoranlarına göre dengelidir.
-* **Spor ve Sosyal Tesisler:**  
-  Yarı olimpik kapalı yüzme havuzu, kapalı spor salonu, açık tenis kortları, halı sahalar ve modern fitness salonu kampüs içinde yer alır. Öğrenci kulüplerinin bahar şenlikleri ve konserleri amfi tiyatroda düzenlenir.
+* **Yemekhane ve Kafeteryalar:**  
+  * Kampüs içindeki Merkez Kafeterya'da zengin tabldot ve seçmeli alakart menüler sunulur (~60-90 TL). 
+  * Yemekler lezzetli, hijyenik ve yüksek kalitededir; vejetaryenler ve sporcu beslenmesi uygulayanlar için salata barları ve ızgara seçenekleri geniştir.
+* **Kampüsün İkonik Sosyal Durakları:**  
+  * **Patalya Tesisleri & Amfi Kafe:** Ders aralarında kahve içilen, çim manzaralı açık hava alanları.
+  * **Zincir Kahveciler:** Kampüs içerisinde Starbucks ve üçüncü nesil kahveciler gün boyu doludur.
+  * **Bağlıca Bulvarı Kafe Aksı:** Kampüs nizamiyesinden çıkınca Bağlıca ana caddesinde sıralanan yeni nesil kafeler, burgerciler ve publar akşam saatlerinde öğrencilerin ana toplanma yeridir.
 
 ---
 
-## 5. 🌆 Çevre Dinamikleri ve Sosyal Hayat
+## 4. 📚 Akademik & Sınav Hayatta Kalma
 
-* **Bağlıca ve Çayyolu Aksı:**  
-  Bağlıca Bulvarı boyunca yeni nesil kahveciler, pub'lar ve restoranlar açılmıştır. Ayrıca Koru Metrosu ile **Gordion AVM** ve **Arcadium AVM**'ye 10 dakikada ulaşılabilir.
-* **Şehir Merkezine Erişim:**  
-  M2 Metrosu sayesinde Kızılay'a, Milli Kütüphane'ye ve Bahçelievler 7. Cadde'ye trafik stresine girmeden metroyla 25-30 dakikada rahatça varılır.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* **Sağlık, Hukuk ve Tıpta Marka Değeri:** Başkent Üniversitesi Hastaneleri ağı ve mezunlarının TUS/KPSS/Adli Yargı başarıları yüksektir.
-* **Düzenli ve Güvenli Kampüs:** Şehir karmaşasından uzak, yeşillendirilmiş, spor tesisleri ve sosyal alanları derli toplu modern yerleşke.
-* **Koru Metro Ring Kolaylığı:** Koru metrosundan sürekli kalkan ücretsiz servisler sayesinde ulaşımın pratik çözülmesi.
-* **Kanal B ve Medya/Halkla İlişkiler Deneyimi:** İletişim öğrencileri için ulusal televizyon kanalında staj ve canlı yayın tecrübesi.
-
-### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
-* **Şehir Merkezine Mesafe:** Kızılay veya Tunalı'ya gitmek 25-35 dakika sürer; gece geç saatte dönüş servisleri kısıtlıdır.
-* **Eskişehir Yolu Trafiği:** Sabah 08:30 ve akşam 17:30 mesai saatlerinde Eskişehir Yolu ve Bağlıca köprülü kavşağı kilitlenebilir.
-* **Vakıf Maliyetleri:** Yemekhane, kafe ve yurt ücretleri devlet üniversitelerine kıyasla öğrenci bütçesini zorlayabilir.
-* **Kış Ayazı:** Bağlıca açık arazide ve yüksek rakımda olduğu için kış aylarında sert rüzgar ve ayaz etkilidir.
+* **Tıp ve Diş Hekimliği Ekolü (Önemli Lokasyon Detayı!):**  
+  Başkent Üniversitesi kurucusu Prof. Dr. Mehmet Haberal ekolüyle sağlık alanında Türkiye'nin zirvesindedir.
+  * **Önemli Not:** Tıp ve Diş Hekimliği'nin ilk 3 yılı Bağlıca Kampüsü'ndedir; 4., 5. ve 6. sınıftaki klinik stajlar ise **Bahçelievler'deki Başkent Üniversitesi Ankara Hastanesi** ve polikliniklerinde yapılır! Tıp öğrencileri son sınıflarda Bahçelievler veya Emek'e taşınır.
+* **Hukuk ve Mühendislik Disiplini:**  
+  * Hukuk Fakültesi'nde Ankara Hukuk ekolünden gelen duayen profesörler ders verir; sınavlar klasik yazılıdır ve yüksek disiplin gerektirir.
+  * Mühendislik Fakültesi laboratuvarları ve Kanal B televizyonu stüdyoları öğrencilere profesyonel uygulama imkanı sunar.
+* **Prof. Dr. Mehmet Haberal Kütüphanesi:**  
+  Geniş cam cepheleri, sessiz çalışma katları ve zengin tıp/hukuk koleksiyonuyla 7/24 açıktır. Sınav haftalarında gece saatlerinde üniversite yönetimi tarafından sıcak çorba, kek ve simit ikramı yapılır.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
 
-> 💬 **Öğrenci Notu:**  
-> "Başkent Üniversitesi'ni burslu veya ücretli tercih edecekseniz disiplinli ve yoğun bir akademik tempoya hazır olun; burada 'nasılsa özel okul' rahatlığı yoktur, sınavlar ve devam zorunluluğu çok ciddidir. Servis saatlerini ve Koru metro ringlerini telefonunuza mutlaka kaydedin. Ev tutacaksanız Koru Metro hattındaki veya Bağlıca içindeki sitelere bakın; kampüs yurtları da konfor açısından oldukça başarılıdır!"
+* **Şehir Merkezine Uzaklık:**  
+  Bağlıca Kampüsü Eskişehir Yolu'nun 20. kilometresindedir; Tunalı, Kızılay veya Bahçelievler'e gitmek metro aktarmasıyla 40-50 dakikayı bulabilir.
+* **Akşam Servisi Kaçırma Riski:**  
+  Koru Metrosu'na giden ücretsiz servisler gece 22:30'dan sonra seyrekleşir; servisi kaçıran öğrenciler için Koru'dan Bağlıca'ya taksi masrafı yüksek olabilir.
+* **Bağlıca Kış Rüzgarları:**  
+  Açık arazide kurulu olduğu için kış aylarında Bağlıca ayazı sert hissedilir.
+
+---
+
+## 6. 💡 Altın Tavsiyeler (İlk Hafta Hayatta Kalma Kiti)
+
+1. **Koru Metro Servis Saatlerini Ezberle:** Servis saatlerini aksatmazsan Ankara'da ulaşım masrafın sıfıra iner.
+2. **Tıp Öğrencisiysen Evini Erken Planla:** İlk 3 yıl Bağlıca'da kalıp 4. sınıfta Bahçelievler Hastanesi yakınına geçeceğini baştan bilerek uzun vadeli kontratlara dikkat et.
+3. **Kanal B ve Medya Olanaklarını Değerlendir:** İletişim veya Güzel Sanatlar öğrencisiysen kampüs içindeki Kanal B stüdyolarında ve radyo biriminde staj ve yarı zamanlı iş kovala.
+4. **Kütüphanenin Gece Çorbasını Kaçırma:** Vize ve final dönemlerinde Haberal Kütüphanesi'nin gece yarısı dağıttığı sıcak çorba ve taze simit sınav stresini silen bir kampüs klasiğidir.

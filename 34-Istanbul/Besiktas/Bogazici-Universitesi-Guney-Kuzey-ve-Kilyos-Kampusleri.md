@@ -1,10 +1,10 @@
-# 🏛️ Boğaziçi Üniversitesi (BOÜN) - Güney, Kuzey, Hisar ve Kilyos Kampüsleri
+# 🏛️ Boğaziçi Üniversitesi (BOÜN) - Güney, Kuzey, Hisar, Kandilli ve Kilyos Kampüsleri
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** İstanbul / Beşiktaş (Bebek - Rumelihisarı - Etiler) & Sarıyer (Kilyos / Sarıtepe)  
 > **Üniversite Türü:** Devlet (Araştırma Üniversitesi)  
-> **Kampüs Konumu:** Boğaz'a Nazır Tarihi Merkez Kampüs (Güney/Kuzey) & Karadeniz Sahil Kampüsü (Kilyos)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.7/5)
+> **Kampüs Konumu:** Boğaz'a Nazır Tarihi Merkez Kampüsler (Güney/Kuzey/Hisar) & Karadeniz Sahil Yerleşkesi (Kilyos)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.8/5)
 
 ---
 
@@ -12,94 +12,80 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 0 dk (M6 Metrosu Kapıda!) / Kilyos: ~50 dk | **M6 (Levent-Boğaziçi Üni./Hisarüstü) Metrosu** doğrudan kampüs girişindedir |
-| **🏠 KYK & BOÜN Yurt İmkanı** | Orta - Kısıtlı (Yenilenme Sürecinde) | Kuzey, Hisar, Superdorm, Kandilli ve Kilyos (Hazırlık) kampüs yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 24.000 - 38.000 TL | Hisarüstü (Rumelihisarı), Gültepe, Çeliktepe, Sanayi Mah. ve Beşiktaş |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 40 TL / İyi | Kuzey, Güney, Hisar ve Kilyos yemekhanelerinde öğle/akşam ve vegan menü |
-| **📚 Kütüphane Kapasitesi** | Geniş + 7/24 Okuma Salonu | Aptullah Kuran Kütüphanesi (Kuzey Kampüs) |
-| **🌐 İnternet (eduroam)** | Hızlı | Tüm yerleşkelerde ve Manzara alanında güçlü eduroam |
-| **🌆 Sosyal Yaşam & Çevre** | Efsanevi | Güney Kampüs "Manzara", Hisarüstü mahalle kültürü, Bebek sahili ve köklü kulüpler |
+| **🚇 Şehir Merkezine Uzaklık** | 0 dk (M6 Metrosu Kapıda!) / Kilyos: ~45-50 dk | **M6 (Levent - Boğaziçi Üni./Hisarüstü)** metrosu ve **F4 Aşiyan Füniküleri** doğrudan kampüs kapısına bağlanır |
+| **🏠 KYK & BOÜN Yurt İmkanı** | Orta - Yenilenme Aşamasında | Kuzey Yurtları, Superdorm (Uçaksavar), Hisar Yurtları, Kandilli Kız Yurdu ve Kilyos (Sarıtepe) Yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 24.000 - 38.000 TL | Hisarüstü (Rumelihisarı), Etiler, Nispetiye, Sanayi Mahallesi, Gültepe, Seyrantepe (Kişi başı 8.500-13.500 TL) |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 40 TL / Dengeli | Kuzey, Güney, Hisar ve Kilyos yemekhanelerinde öğle/akşam yemeği + her gün vejetaryen/vegan seçenek |
+| **📚 Kütüphane Kapasitesi** | Zengin + 7/24 Okuma Alanı | Aptullah Kuran Kütüphanesi (Kuzey Kampüs) + Nadir Eserler ve GETEM Merkezi |
+| **🌐 İnternet (eduroam)** | Çok Hızlı | BOUN-WLAN & eduroam çim alanlar ve tarihi derslik binalarında (Hall'larda) kesintisiz |
+| **🌆 Sosyal Yaşam & Çevre** | Efsanevi Boğaziçi Kültürü | Güney Meydan "Manzara", Taşoda konserleri, Hisarüstü kahveleri ve Bebek Sahili yürüyüşleri |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚇 Ulaşım Taktikleri: Ringler, Otobüs Hatları ve Füniküler
 
-* **Şehir Merkezinden Ulaşım:**  
-  Boğaziçi Üniversitesi, İstanbul'un en prestijli noktasında, Bebek ve Rumelihisarı sırtlarında birbirine yürüme mesafesindeki **Güney, Kuzey, Hisar ve Uçaksavar** kampüsleri ile Anadolu Yakası'ndaki **Kandilli** ve Karadeniz kıyısındaki **Sarıtepe (Kilyos)** kampüslerinden oluşur:
-  * **Güney, Kuzey, Hisar ve Uçaksavar Kampüsleri:** M2 Metrosu'nun **Levent** durağından aktarma yapılan **M6 (Levent - Boğaziçi Üniversitesi/Hisarüstü) Metrosu** doğrudan Kuzey ve Güney Kampüs kapılarının ortasına çıkar! Ayrıca **F4 (Boğaziçi Üni./Hisarüstü - Aşiyan) Füniküler Hattı** ile kampüs kapısından 3 dakikada doğrudan Boğaz kıyısına (Aşiyan / Bebek sahili) ve vapur iskelesine inilebilir. Beşiktaş, Taksim ve Kabataş'tan kalkan 59R, 59RS, 43R ve sahil otobüsleri (22, 25E, 40T) de alternatif ulaşım sağlar.
-  * **Sarıtepe (Kilyos) Kampüsü:** İngilizce Hazırlık (YADYOK) öğrencilerinin bir kısmının okuduğu ve kaldığı, Karadeniz kıyısında kendine ait kumsalı olan doğa kampüsüdür. Sarıyer Hacıosman Metro (M2) durağından **59RK (Rumelihisarı - Kilyos)** veya **151** numaralı İETT otobüsleriyle ve kampüs shuttle servisleriyle ~35-45 dakikada ulaşılır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Kuzey Kampüs ile Güney Kampüs arasında sadece bir cadde (Nispetiye/Hisarüstü) vardır; yürüyerek 5 dakikada geçilir. Güney Kampüs kendi içinde Boğaz'a doğru eğimli, sarmaşıklı tarihi taş binalardan (Hall'lardan) oluşur.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  M6 Metrosu, F4 Füniküleri ve İETT hatlarında **İstanbulkart Öğrenci Abonmanı** geçerlidir.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Güney Kampüs'ün taş merdivenleri ve Bebek'e inen yokuş yağmurlu havalarda kaygan olabilir. Kilyos Kampüsü ise Karadeniz rüzgarına tamamen açıktır; kışın sert rüzgar ve dalga sesi eşliğinde tam bir izole çalışma atmosferi sunar.
+Boğaziçi Üniversitesi'nde ulaşım, sadece iki metro durağı arasında değil, tarihi Boğaz sırtlarıyla Karadeniz sahili arasındaki çok özel hatlarda akar.
 
----
+### 🚌 Altın Otobüs Hatları ve Metro Taktikleri
+* **M6 Metrosu (Levent - Boğaziçi Üni. / Hisarüstü):** M2 Yenikapı-Hacıosman hattından Levent'te inip M6'ya aktarma yaptığınızda 4 durak sonra son durak doğrudan Kuzey ve Güney kampüs nizamiyelerinin ortasına çıkar.
+* **F4 Füniküleri (Hisarüstü - Aşiyan):** Kampüs kapısından binip 3 dakikada Boğaz kıyısındaki **Aşiyan Parkı ve Aşiyan Vapur İskelesi**'ne inebilirsiniz. Anadolu Yakası'ndan (Üsküdar / Kadıköy / Anadolu Hisarı) gelen öğrenciler için Aşiyan Vapuru + F4 Füniküleri İstanbul trafiğine girmeden kampüse ulaşmanın en büyüleyici yoludur.
+* **43R (Kabataş - Rumelihisarı) & 559C (Taksim - Rumelihisarı):** Beşiktaş Çarşı'dan, Dolmabahçe'den veya Taksim'den Hisarüstü'ne tek vesaitle çıkaran efsanevi öğrenci hatlarıdır. Akşam trafiğinde Nispetiye Caddesi tıkandığında M6 metrosu hayat kurtarır.
+* **59R (Şişli - Rumelihisarı):** Mecidiyeköy ve Cevahir AVM önünden kampüse doğrudan bağlantı sağlar.
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **Üniversite Yurtları ve KYK:**  
-  Boğaziçi Üniversitesi'nde deprem güvenliği kapsamında bazı eski yurt binalarının yenilenmesi/güçlendirilmesi süreci yürütülmüş olup; aktif olarak **Kuzey Yurtları**, **Superdorm (Uçaksavar)**, **Hisar Yurtları**, **Kandilli Yurdu** ve hazırlık öğrencileri için **Kilyos (Sarıtepe) Yurtları** hizmet vermektedir. Ayrıca öğrenciler Beşiktaş, Şişli, Kağıthane ve Cevizlibağ'daki KYK ve İBB yurtlarından da M2+M6 metrosuyla kolayca ulaşım sağlayabilmektedir.
-* **Özel Yurtlar ve Apartlar:**  
-  Hisarüstü mahallesi içinde ve Beşiktaş/Ortaköy/Şişli hattında özel öğrenci yurtları ve paylaşımlı apartlar mevcuttur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Hisarüstü (Rumelihisarı Mahallesi):** Kuzey ve Güney Kampüs'ün tam ortasında yer alan, esnafından kedisine kadar tamamen Boğaziçi öğrencileriyle bütünleşmiş efsanevi öğrenci mahallesidir. Kampüse yürüme mesafesi 1-5 dakikadır; ancak konut stoğu sınırlı ve binalar eski olduğu için kiralar yüksektir.
-  * **Sanayi Mahallesi, Çeliktepe, Gültepe ve Levent:** M6 ve M2 metrosuyla kampüse 10-15 dakika mesafede olduğu için Hisarüstü'nde ev bulamayan öğrencilerin en çok tercih ettiği ekonomik alternatiflerdir (Ev kiraları toplam 24.000 - 38.000 TL).
+### 🔄 Kampüsler Arası Ring Seferleri & Yürüyüş Taktikleri
+* **Güney - Kuzey - Uçaksavar - Hisar Ringleri:** Kampüs girişindeki duraktan kalkan beyaz BOÜN ringleri kampüsler arasında ücretsiz çalışır. Güney ve Kuzey arası yürüyerek 5 dakikadır ancak Uçaksavar ve Hisar kampüslerine yokuş çıkmamak için ring saatlerini takip etmek avantajlıdır.
+* **Kilyos (Sarıtepe) Shuttle & 59RK:** Hazırlık sınıfının bulunduğu Karadeniz sahilindeki Sarıtepe Kampüsü ile Hisarüstü arasında her gün düzenli **Öğrenci Ringleri** ve Sarıyer Hacıosman Metro çıkışından **59RK / 151** otobüsleri çalışır.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma, Yurtlar ve Mahalle Dinamikleri
 
-* **Kütüphane İmkanları:**  
-  Kuzey Kampüs'te yer alan **Aptullah Kuran Kütüphanesi**, zengin yabancı dil koleksiyonu, Yakın Doğu bölümü, Görme Engelliler Teknoloji ve Eğitim Laboratuvarı (GETEM) ve 7/24 açık okuma salonuyla akademik hayatın merkezidir.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  1863'te Robert Kolej olarak kurulan Güney Kampüs'te dersler tarihi **Albert Long Hall**, **Washburn Hall**, **Anderson Hall**, **Hamlin Hall** ve **Perkins Hall** binalarında işlenir. Kuzey Kampüs, Hisar Kampüs ve Kandilli Rasathanesi yerleşkesi ise modern mühendislik, fizik, kimya, moleküler biyoloji laboratuvarları ve araştırma merkezlerine ev sahipliği yapar. Eğitim dili **%100 İngilizce**'dir.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Tüm kampüslerde ve Güney Kampüs çimlerinde **eduroam** hızlı ve stabildir.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Boğaziçi kültürünün belkemiğini öğrenci kulüpleri oluşturur: **BÜMED**, **BÜİK (İşletme ve Ekonomi Kulübü)**, **COMPEC (Bilişim Kulübü)**, **BÜMK (Müzik Kulübü - Taşoda)**, **BÜO (Oyuncular)**, **BÜSK (Sinema)**, **BÜDAK (Dağcılık)** ve **BÜSAS (Su Altı)** Türkiye'nin en köklü öğrenci organizasyonlarını, kariyer zirvelerini ve açık hava etkinliklerini düzenler.
+Boğaziçi'nde barınma; Hisarüstü mahalle aidiyeti ve kampüs yurtları etrafında örülmüştür.
 
----
+### 🏢 Kampüs İçi Yurt Kültürü ve Kuralları
+* **Kuzey Kampüs Yurtları (1. ve 2. Kuzey):** Aptullah Kuran Kütüphanesi'ne ve Mühendislik binalarına 1 dakika mesafededir. Ders çalışma odaklı, kompakt odalardır.
+* **Superdorm (Uçaksavar Kampüsü):** Daire tipi (süit) yurt sistemidir; tek veya çift kişilik özel odalar, ortak salon ve mutfaktan oluşur. Üniversitenin en konforlu ancak ücreti daha yüksek yurt bloklarıdır.
+* **Kandilli Kız Yurdu:** Boğaz'ın Anadolu kıyısındaki tarihi rasathane kampüsünde yer alır; Aşiyan-Kandilli tekne seferi veya FSM Köprüsü servisleriyle Avrupa Yakası'na geçiş yapılır.
+* **Kilyos Sarıtepe Yurtları:** Hazırlık öğrencilerinin kaldığı modern bloklardır. Kış aylarında deniz fırtınasına karşı sağlam yalıtımlıdır; çamaşırhaneleri geniştir ve kampüs içi sosyal alanlar hazırdır.
+* **Yurt Kuralları:** Giriş saati esnektir; turnike geçişleri öğrenci kartıyla yapılır. Giriş katlarındaki ortak çalışma salonları vize haftalarında sabaha kadar dolup taşar.
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane:**  
-  Kuzey, Güney, Hisar, Kandilli ve Kilyos kampüslerinde öğrenci yemekhaneleri öğle ve akşam saatlerinde uygun fiyatlı (25-40 TL) 4 çeşit yemek ve vegan/vejetaryen alternatif sunar.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Güney Kampüs'te Boğaz manzaralı **Kennedy Lodge**, **Ortak Kantin (OK)**, Kuzey Kampüs kafeteryaları ve iki kampüsün ortasındaki **Hisarüstü Sokakları** (öğrenci dostu ev yemekçileri, dürümcüler, üçüncü nesil kahveciler, fotokopiciler, zincir marketler) gün boyu çok canlıdır.
-* **Spor Tesisleri:**  
-  **Uçaksavar Spor Tesisleri** (stadyum, atletizm pisti, kapalı spor salonu, fitness), **Hisar Kampüs Kapalı Yüzme Havuzu**, Güney Kampüs tenis kortları ve Türkiye'de üniversiteler arası spor festivali geleneğini başlatan **Sports Fest** Boğaziçi spor kültürünün simgesidir.
+### 🏘️ Popüler Öğrenci Mahalleleri & Ev Kiraları
+* **Hisarüstü (Rumelihisarı Mahallesi):** Öğrencilerin "Hisarüstü Cumhuriyeti" dediği mahalle. Esnafı (fotokopiciler, dürümler, ikinci el kitapçılar) tamamen öğrencilerle yaşar. Evler 40-50 yıllık olmasına rağmen kampüse 3 dakika mesafede olmanın rahatlığı sebebiyle 25.000 - 36.000 TL aralığındadır. Genellikle 3 öğrenci ortak tutar.
+* **Gültepe, Çeliktepe ve Sanayi Mahallesi:** M6 ve M2 metrosuyla 10-15 dakikada kampüse ulaşılan, Beşiktaş/Etiler kiralarına gücü yetmeyen öğrencilerin sığındığı bütçe dostu semtlerdir (Kişi başı 7.500 - 10.000 TL).
+* **Bebek & Nispetiye:** Yüksek bütçeli öğrencilerin ve mezunların tercih ettiği, lüks kafelere komşu semtlerdir.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🍽️ Beslenme, Kampüs İçi Yaşam ve Sokak Lezzetleri
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Hisarüstü esnafı nesillerdir Boğaziçi öğrencileriyle iç içedir. Kampüs ve çevresi özgürlükçü, çok sesli, entelektüel ve kedi-köpek dostu atmosferiyle bilinir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Dünyada çok az üniversitede bulunan **Güney Kampüs "Manzara"** (Fatih Sultan Mehmet Köprüsü ve İstanbul Boğazı'na yukarıdan bakan çim teras), öğrencilerin ders aralarında ve gün batımında kahvesini alıp sohbet ettiği eşsiz bir mekandır. Kampüsten fünikülerle 3 dakikada inilen **Aşiyan ve Bebek Sahili**, yürüyüş ve koşu için harikadır.
-* **Part-Time İş ve Staj Olanakları:**  
-  Kampüs Levent-Etiler-Maslak iş dünyası aksının tam ortasında olduğu için Boğaziçi öğrencileri Türkiye'nin ve dünyanın en büyük çok uluslu şirketlerinde, bankalarında, danışmanlık firmalarında ve start-up'larında 2. ve 3. sınıftan itibaren part-time çalışma fırsatı bulur.
+* **Merkez Yemekhaneler:** Güney, Kuzey ve Kilyos yemekhaneleri öğle ve akşam saatlerinde çok makul fiyata dengeli beslenme sunar. Kuzey Yemekhane terasında çay içmek ve çim manzarasına bakmak ritüeldir.
+* **Güney Kampüs Çimlerinde Manzara Çayı:** Fatih Sultan Mehmet Köprüsü ve Boğaz'a tepeden bakan meşhur **"Manzara"** çimlerinde karton bardakta çay yudumlamak Boğaziçi'nin simgesidir.
+* **Hisarüstü Sokak Lezzetleri:** Kampüs kapısından çıktığınızda Hisarüstü ana caddesindeki öğrenci dostu mantıcılar, tavuk pilavcılar, ev yemeği lokantaları ve meşhur börekçiler sabahın erken saatlerinden gece yarılarına kadar açıktır.
+* **Aşiyan & Bebek Kaçamakları:** F4 Füniküleri ile sahile inip Bebek Parkı'nda dondurma yemek veya Aşiyan sahilinde balıkçılarla yan yana yürümek final stresini dağıtmanın en hızlı yoludur.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 4. 📚 Akademik ve Hayatta Kalma Rehberi
 
-### ✅ Artıları
-* Dünyanın en güzel kampüs manzaralarından birine (Güney Kampüs Boğaz Manzarası) ve M6 Metrosu + F4 Füniküler erişimine sahip olması.
-* Uluslararası düzeyde %100 İngilizce akademik eğitim, güçlü mezun ağı (networking) ve eşsiz kulüp kültürü.
-* Levent-Maslak iş merkezlerine 5-10 dakika uzaklıkta olması sayesinde sınırsız staj ve kariyer imkanı.
-
-### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
-* **Kilyos (Sarıtepe) Sürgünü ve Ulaşım İzolasyonu:** Hazırlık sınıfının İstanbul merkezinden 35 km uzaktaki Kilyos'ta olması; kışın dondurucu Karadeniz fırtınaları, haftasonu Beşiktaş'a inmek için çekilen 1.5 saatlik otobüs yolu ve sosyal izolasyon hissi.
-* **Yurt Kapasitesi Krizi ve Hisarüstü Rantı:** Son yıllarda yurt kapasitelerinin daralması yüzünden açıkta kalan öğrencilerin Hisarüstü'ndeki eski, depreme dayanıksız 1+1 dairelere fahiş kiralar ödemek zorunda kalması.
-* **Güney-Kuzey Ring Çilesi:** Güney Kampüs ile Kuzey Kampüs arasındaki dar sokaklarda ders değişim saatlerinde ringlerin yetersiz kalması ve dik Hisarüstü yokuşunu yürümek zorunda kalmak.
-* **Yoğun Akademik Rekabet ve Çan Baskısı:** Türkiye derecesiyle gelen binlerce öğrenci arasında çan eğrisi yüzünden yaşanan akademik tükenmişlik ve ders notu stresleri.
+* **BUIS Krizleri ve Registration Savaşları:**  
+  Ders seçim sistemi **BUIS (Bogazici University Information System)** açıldığı an sunucu yükü tavan yapar. İstenilen seçmeli dersi alabilmek için "Consent" (öğretim üyesi onay talebi) göndermek, hocalara gerekçeli mailler yazmak ve "Add-Drop" haftasında saat başı boşalan kontenjanları avlamak Boğaziçi klasiğidir.
+* **YADYOK Proficiency (BUEPT) Sınavı:**  
+  Boğaziçi'nin İngilizce Yeterlik Sınavı (Proficiency) Türkiye'nin en zorlu akademik İngilizce barajlarındandır. Reading, Listening ve özellikle TWE (Test of Written English - Essay) kısımları ciddi akademik disiplin gerektirir. Sınavı geçemeyenler Kilyos'ta 1 yıl hazırlık okur.
+* **Aptullah Kuran Kütüphanesi Sabahlama Maratonu:**  
+  Final haftalarında kütüphanede yer bulabilmek için sabahın erken saatlerinde masa kapmak gerekir. Gece 03:00'te Kuzey Kampüs kantininde içilen çaylar ve sabaha karşı dağıtılan sıcak simit-çorba ikramı öğrencilerin motivasyon kaynağıdır.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
 
-> 💬 **Öğrenci Notu:**  
-> "Boğaziçi'ni kazandığında sadece derslere girip çıkan bir öğrenci olma; ilk haftadan Oryantasyon Günleri'nde en az iki kulübe (Taşoda, BÜDAK, COMPEC veya BÜİK gibi) aktif üye ol çünkü Boğaziçi'nin asıl okulu kulüp odaları ve Güney çimleridir. Hazırlıkta Kilyos çıkarsa da hiç üzülme; hayatının en sıkı dostluklarını o rüzgarlı sahil kampüsünde kuracaksın!"
+* **Kilyos (Sarıtepe) Rüzgarı ve İzolasyonu:** Sarıtepe Kampüsü Karadeniz kıyısında olduğu için kış aylarında şiddetli rüzgar ve fırtına eksik olmaz. Şehir merkezine (Beşiktaş/Kadıköy) inmek en az 1-1.5 saat sürdüğünden hafta içi şehirden tamamen izole yaşanır.
+* **Yurt Kapasitesi Darboğazı:** Deprem güçlendirme süreçleri sebebiyle yurt kontenjanlarının sınırlı olması, şehir dışından gelen öğrencilerin fahiş Hisarüstü kiralarına mecbur kalmasına yol açabilir.
+* **Hisarüstü Yokuşları:** M6 metrosundan sonra Uçaksavar veya Hisar kampüslerine yürürken sürekli dik yokuş inip çıkmak kondisyonsuz öğrenciler için yorucudur.
+
+---
+
+## 6. 💡 Altın Tavsiyeler
+
+> 💡 **Altın Kural 1:** Boğaziçi'ne adım attığın ilk gün kulüp tanıtımlarına (ÖTK, COMPEC, BÜİK, Taşoda, BÜDAK vb.) katıl. Kampüste akademik bilginin en az iki katını kulüp projelerinde, sahne arkasında ve organizasyon komitelerinde öğrenirsin.  
+> 💡 **Altın Kural 2:** Ulaşımda Aşiyan Vapuru + F4 Füniküleri kombinasyonunu mutlaka keşfet; Anadolu Yakası'ndan geliyorsan köprü trafiğine girmeden deniz yoluyla okula varmak paha biçilmez bir konfordur.  
+> 💡 **Altın Kural 3:** Registration döneminde panik yapma; BUIS'te ders dolmuş görünse bile ilk iki hafta derslere girip hocayla yüz yüze konuşarak "Consent" talep etmek genellikle kapıları açar.

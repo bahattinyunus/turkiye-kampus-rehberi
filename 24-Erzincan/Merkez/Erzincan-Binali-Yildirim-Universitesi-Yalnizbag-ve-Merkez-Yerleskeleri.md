@@ -2,9 +2,9 @@
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Erzincan / Merkez  
-> **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Ana Kampüs (Yalnızbağ) & Şehir İçi Yerleşkeler (Hukuk / Tıp)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
+> **Üniversite Türü:** Devlet (Köklü Hukuk Ekolü & Modern Yalnızbağ Kampüsü)  
+> **Kampüs Konumu:** Ana Kampüs (Yalnızbağ - 9. Km) & Şehir İçi Yerleşkeler (Hukuk & Tıp)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.3/5)
 
 ---
 
@@ -12,98 +12,84 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | Yalnızbağ: 9 km (~15-20 dk) / Hukuk & Tıp: Şehir İçinde | Can Kart geçen 1 numaralı Yalnızbağ otobüsleri çok sık çalışır |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek (%95+ Yurt Çıkma Oranı) | Yalnızbağ Kampüsü içinde dev Piri Sami KYK Yurdu ve merkez yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.500 - 13.500 TL | Ordu Caddesi, Cumhuriyet Mah. (Hukuk çevresi), Fatih ve İnönü Mah. |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | Kampüs içi modern yemekhane ve Sosyal Tesisler |
+| **🚇 Şehir Merkezine Uzaklık** | Yalnızbağ: 9 km (~15-20 dk) / Hukuk & Tıp: Şehir İçinde (Yürüme) | Can Kart geçen 1 numaralı Yalnızbağ otobüsleri her 5-10 dakikada bir çalışır |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (%95+ Yurt Çıkma Oranı) | Yalnızbağ içinde dev Piri Sami KYK; merkezde Mengücek Gazi Kız, Salih Baba Erkek KYK |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.500 - 14.000 TL | Ordu Caddesi, Cumhuriyet Mah. (Hukuk çevresi), Halitpaşa, İnönü Mah. |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | Kampüs içi modern yemekhane ve Sosyal Tesisler; 4 çeşit sıcak menü |
 | **📚 Kütüphane Kapasitesi** | Sınav Dönemleri 7/24 Açık | Prof. Dr. Erdoğan Büyükkasap Kütüphanesi ve Hukuk İhtisas Kütüphanesi |
-| **🌐 İnternet (eduroam)** | Hızlı | Yeni kampüs altyapısı sayesinde tüm binalarda fiber eduroam |
-| **🌆 Sosyal Yaşam & Çevre** | Dengeli / Doğa ve Kafe Odaklı | Ordu Caddesi kafeleri, Ergan Dağı Kayak Merkezi, Ekşisu, Girlevik Şelalesi |
+| **🌐 İnternet (eduroam)** | Çok Hızlı (Fiber) | Sıfırdan inşa edilen kampüs altyapısı sayesinde tüm binalarda kesintisiz eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | Sakin & Doğa Sporları Cenneti | Ordu Caddesi kafeleri, Ergan Dağı Kayak Merkezi, Ekşisu Göleti, Girlevik Şelalesi |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Ağı, Yalnızbağ 9 Km Gerçeği ve Otobüs Taktikleri
 
-* **Şehir Merkezinden Ulaşım:**  
-  EBYÜ'nün ana yerleşkesi olan **Yalnızbağ Yerleşkesi** (Mühendislik-Mimarlık, Eğitim, Fen-Edebiyat, İİBF, İlahiyat, Spor Bilimleri, Güzel Sanatlar ve Rektörlük), Erzincan-Sivas karayolu üzerinde şehir merkezine 9 km mesafededir. Şehir merkezinden (Dörtyol / Ordu Caddesi) **1 numaralı halk otobüsleri** her 5-10 dakikada bir kalkar ve Yalnızbağ Kampüsü'nün içindeki tüm fakülteleri dolaşır.  
-  Üniversitenin marka fakültesi olan **Hukuk Fakültesi** (ve Adalet MYO) şehrin batı girişindeki Saat Kulesi / Cumhuriyet Mahallesi yerleşkesinde; **Tıp, Diş Hekimliği ve Eczacılık** birimleri ise şehir merkezindeki Mengücek Gazi Eğitim ve Araştırma Hastanesi aksında yer alır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Yalnızbağ Yerleşkesi oldukça geniş, ferah ve peyzajı özenle yapılmış modern bir kampüstür. Belediye otobüsleri kampüs içindeki KYK yurtlarından başlayarak tüm fakültelerin önünden geçtiği için aynı zamanda kampüs içi ring görevi görür.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Halk otobüslerinde **Can Kart** öğrenci tarifesi kullanılır ve oldukça ekonomiktir.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Erzincan, etrafı 3000 metrelik Munzur ve Keşiş dağlarıyla çevrili alçak bir ova (1185 m rakım) olduğu için **Erzurum veya Kars'a göre çok daha ılıman** bir kış geçirir. Kışın kar yağdığında bile Yalnızbağ duble yolu düz olduğu için ulaşımda aksama yaşanmaz.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  Erzincan'da KYK yurtlarında açıkta kalma ihtimali neredeyse yoktur:
-  * **Piri Sami KYK Kız ve Erkek Öğrenci Yurdu:** Yalnızbağ Yerleşkesi'nin tam içinde yer alan, otel konforunda yeni tip bloklardan oluşan dev yurt kompleksidir. Yalnızbağ'da okuyan öğrenciler yürüyerek 5 dakikada fakültelerine giderler.
-  * **Mengücek Gazi KYK Kız Öğrenci Yurdu, Erzincan KYK Kız Yurdu & Salih Baba KYK Erkek Yurdu:** Şehir merkezinde (Hukuk, Tıp ve Ordu Caddesi aksına yakın) yer alan modern yurtlardır.
-* **Özel Yurtlar ve Apartlar:**  
-  Hukuk Fakültesi çevresinde (Cumhuriyet Mahallesi) ve Ordu Caddesi arka sokaklarında öğrencilere özel 1+0 ve 1+1 eşyalı apart binalar çok yaygındır.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Erzincan'daki tüm binalar deprem yönetmeliğine uygun olarak **en fazla 3 veya 4 katlı** inşa edilmiştir; bu durum öğrencilere büyük bir güven verir:
-  * **Ordu Caddesi (İnönü ve Halitpaşa Mah.):** Şehrin kalbi, tüm kafelerin ve mağazaların olduğu caddedir.
-  * **Cumhuriyet ve Mimar Sinan Mahalleleri:** Hukuk Fakültesi öğrencilerinin okula yürüyerek gidip geldiği öğrenci mahallesidir.
+* **Yalnızbağ Yerleşkesi Ulaşımı (1 Nolu Otobüsler):**  
+  EBYÜ ana yerleşkesi olan **Yalnızbağ Kampüsü** (Mühendislik-Mimarlık, Eğitim, Fen-Edebiyat, İİBF, İlahiyat, Spor Bilimleri, Güzel Sanatlar ve Rektörlük), Sivas-Erzincan karayolu üzerinde, şehir merkezine 9 km mesafededir.  
+  * Şehir merkezindeki **Dörtyol (Saat Kulesi)** ve **Eski Terminal** duraklarından kalkan **1 numaralı Yalnızbağ halk otobüsleri** gün boyu 5-10 dakikada bir sefer yapar. Yolculuk 15-20 dakika sürer.
+  * **Sınav Sabahı Yoğunluğu ve Taksi Taktikleri:** Vize/final sınavlarının sabah 09.00 saatlerinde 1 nolu otobüslerde büyük yığılma olur. Otobüsü kaçıran veya kalabalığa kalmak istemeyen 4 öğrenci Dörtyol meydanından ortak taksi tutarak kişi başı minibüs fiyatına hızlıca amfilere yetişir.
+* **Şehir İçi Yerleşkeler (Hukuk & Tıp):**  
+  * **Erzincan Hukuk Fakültesi:** Şehrin batı girişinde (Cumhuriyet Mahallesi / Saat Kulesi yakını) yer alır; şehir merkezinden yürüyerek 10-12 dakikadır.
+  * **Tıp, Diş Hekimliği ve Sağlık Bilimleri:** Mengücek Gazi Eğitim ve Araştırma Hastanesi aksında, şehir içinde yer alır; ulaşımı çok kolaydır.
+* **Ulaşım Kartı (Can Kart):**  
+  Halk otobüslerinde **Can Kart** kullanılır; öğrenci tarifesi çok uygundur.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma Dinamikleri, Yatay Mimari ve Yurt Düzeni
 
-* **Kütüphane İmkanları:**  
-  Yalnızbağ Yerleşkesi'ndeki **Merkez Kütüphane** ve Hukuk Fakültesi'nin kendi zengin **Hukuk İhtisas Kütüphanesi**, geniş çalışma salonları ve bireysel kabinleriyle öğrencilere çok konforlu bir ders çalışma ortamı sunar. Vize ve final haftalarında 7/24 açıktır ve sıcak çorba/çay ikramı yapılır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  * **Erzincan Hukuk Fakültesi:** 1987 yılında Atatürk Üniversitesi'ne bağlı olarak kurulan, Türkiye'nin en köklü ve hakimlik/savcılık sınavlarında başarı oranı en yüksek hukuk fakültelerinden biridir; kendine ait amfileri ve kurgusal duruşma salonu vardır.
-  * **Yalnızbağ Kampüsü:** Türk devlet ve vakıf yatırımlarının yoğun desteğiyle son 15 yılda sıfırdan inşa edildiği için Kongre Merkezi, Mühendislik laboratuvarları, Tıp/Diş/Eczacılık altyapısı ve amfileri son derece yeni ve bakımlıdır.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Kampüs genelinde `eduroam` internet altyapısı yüksek hızda hizmet vermektedir.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Hukuk Kulüpleri, Havacılık ve Yamaç Paraşütü, Dağcılık ve Kış Sporları, TEKNOFEST takımları, Tiyatro ve Müzik kulüpleri oldukça aktiftir.
+* **KYK Yurtları (Açıkta Kalma İhtimali Neredeyse Sıfır):**  
+  * **Piri Sami KYK Kız ve Erkek Yurdu (Yalnızbağ Kampüsü İçi):** Doğrudan Yalnızbağ Yerleşkesi'nin içindedir. Mühendislik, Eğitim, İİBF ve Fen öğrencileri için büyük konfordur; dersliklere yürümek 3-5 dakikadır, şehir içi otobüs parası ve yol derdi yoktur. Odalar 3-4 kişiliktir, bazalıdır ve banyolar oda içindedir.
+  * **Mengücek Gazi KYK Kız Yurdu & Salih Baba KYK Erkek Yurdu:** Şehir merkezinde (Hukuk, Tıp ve Ordu Caddesi aksına yakın) yer alan otel konforunda modern yurtlardır.
+* **Öğrenci Evleri ve Depreme Karşı Güvenli Yatay Mimari:**  
+  Erzincan, 1939 ve 1992 depremlerinden sonra Türkiye'nin en bilinçli kentsel dönüşümünü gerçekleştirmiştir. Şehirdeki tüm binalar **en fazla 3 veya 4 katlı** olarak inşa edilmiştir; geniş caddeler, bol yeşil alanlar ve bahçeli nizam öğrencilere büyük bir güven ve ferahlık verir:
+  * **Ordu Caddesi (İnönü & Halitpaşa Mah.):** Şehrin ana sosyal caddesidir. Kafeler, restoranlar ve kitapçılar bu aks üzerindedir.
+  * **Cumhuriyet Mahallesi:** Hukuk Fakültesi öğrencilerinin yoğun yaşadığı, okula yürüyerek gidilen öğrenci semtidir.
+  * **Isınma & Doğalgaz Durumu:** Erzincan çukur bir ovada (1185 m) yer aldığı için Erzurum kadar aşırı soğuk yaşamaz; binaların çoğu mantolamalı ve bireysel kombilidir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🍽️ Beslenme, Yaprak Döner ve Erzincan Lezzetleri
 
 * **Merkez Yemekhane:**  
-  Yalnızbağ Yerleşkesi ve Hukuk Yerleşkesi yemekhanelerinde 25-30 TL bandında 4 çeşit sıcak yemek çıkar. Yemekhane binaları yeni ve hijyeniktir.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Yalnızbağ Yerleşkesi içinde cami, alışveriş çarşısı, kafeteryalar, kırtasiye, PTT ve banka ATM'leri yer alır.
-* **Spor Tesisleri:**  
-  Yalnızbağ Kampüsü spor altyapısı açısından çok zengindir: Olimpik kapalı yüzme havuzu, büyük kapalı spor salonu, stadyum, tenis kortları, halı sahalar ve kampüs içi bisiklet yolları mevcuttur.
+  Yalnızbağ Kampüsü ve Hukuk Fakültesi yerleşkelerindeki yemekhanelerde 25-30 TL bandında 4 çeşit doyurucu yemek çıkar. Sıra bekleme süresi kısadır.
+* **Efsanevi Erzincan Döneri (Yaprak Döner):**  
+  Erzincan denilince akla Türkiye'nin en lezzetli yaprak et döneri gelir. Yaylalarda kekikle beslenen dana ve kuzu etinin incecik kıyılıp meşe kömüründe pişirildiği döner; tırnak pide veya sıcak tırnak lavaş arasında sunulur.  
+  * **Evin Döner, Merkez Döner ve Kardeşler Döner:** Öğrencilerin vize sonrası vazgeçilmez ziyafet duraklarıdır.
+* **Erzincan Tulum Peyniri, Tandır Ketesi ve Ergan Sucuk Ekmek:**  
+  * Kemah tulum peyniri, sıcak fırın lavaşı ve tereyağı eşliğinde yapılan kahvaltılar bir ritüeldir.
+  * Kışın hafta sonu Ergan Dağı Kayak Merkezi'ne çıkan öğrencilerin telesiyej zirvesinde sucuk ekmek yemesi gelenekseldir.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 4. 📚 Akademik Miras: Erzincan Hukuk Ekolü ve Kütüphaneler
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Erzincan halkı ("Can Erzincan") nezaketi, sakinliği ve öğrenciye olan saygısıyla bilinir. Türkiye'nin suç oranı en düşük, sokakları en temiz ve en düzenli şehirlerinden biridir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  * **Ordu Caddesi ve Erzincan Park AVM:** Öğrencilerin akşamları buluştuğu üçüncü nesil kahveciler, tatlıcılar, dönerciler ve sinema buradadır.
-  * **Ergan Dağı Kayak Merkezi:** Şehir merkezine sadece **12 dakika** uzaklıkta bulunan, Türkiye'nin en uzun kayak pistlerinden birine ve göl manzarasına sahip kayak merkezidir! Öğrenciler kışın belediye servisleriyle çok ucuza kayak yapmaya veya teleferiğe binmeye giderler.
-  * **Ekşisu Mesire Alanı ve Girlevik Şelalesi:** Doğal maden suyu çeşmeleriyle ünlü Ekşisu ve üç katlı Girlevik Şelalesi (kışın buz tırmanışı, yazın piknik) hafta sonlarının vazgeçilmezidir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Ordu Caddesi ve AVM'deki kafelerde part-time iş olanakları, kampüs içinde ise Kısmi Zamanlı öğrenci çalışma kontenjanları mevcuttur.
+* **Efsanevi Erzincan Hukuk Fakültesi Geleneği:**  
+  1987 yılında kurulan Erzincan Hukuk Fakültesi, Türkiye'nin en saygın ve köklü hukuk okullarından biridir. Adalet Bakanlığı adli-idari yargı hakimlik ve savcılık sınavlarında Ankara ve İstanbul Hukuk ile birlikte her yıl Türkiye şampiyonları çıkarır. Amfilerdeki akademik disiplin çok ciddidir; kurgusal duruşma salonu ve zengin Hukuk İhtisas Kütüphanesi hukukçuların ikinci evidir.
+* **Prof. Dr. Erdoğan Büyükkasap Kütüphanesi (Yalnızbağ):**  
+  Yalnızbağ Kampüsü'nün kalbindeki modern kütüphane, ferah cam tavan mimarisi ve sessiz etüt salonlarıyla sınav dönemlerinde 7/24 hizmet verir. Ücretsiz sıcak çay ve çorba ikramı yapılır.
+* **Mengücek Gazi Tıp Fakültesi:**  
+  Bölge hastanesi statüsündeki araştırma hastanesi tıp öğrencilerine güçlü bir staj ve poliklinik pratiği sağlar.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
 
-### ✅ Artıları
-* **Tertemiz, Güvenli ve Planlı Şehir Yapısı:** Geniş bulvarları, 3-4 katlı yeni binaları ve düz yapısıyla büyükşehir kaosundan uzak, çok konforlu bir yaşam sunar.
-* **Otel Konforunda Kampüs ve KYK Yurtları:** Yalnızbağ Kampüsü ve Piri Sami KYK Yurdu fiziki donanım olarak Türkiye'nin en yeni ve bakımlı tesislerindendir.
-* **Köklü Hukuk Fakültesi ve Doğa Sporları Cenneti:** Hukuk eğitiminin kalitesi ve şehre 12 dakika mesafedeki Ergan Dağı Kayak Merkezi büyük bir ayrıcalıktır.
-
-### ❌ Eksileri
-* **Sakin Gece Hayatı:** Bar ve eğlence kulübü kültürü çok sınırlıdır; saat 23.00'ten sonra şehir oldukça sakinleşir.
-* **Hukuk ve Tıp'ın Yalnızbağ Ana Kampüsü'nden Ayrı Olması:** Hukuk ve Tıp öğrencileri şehir içindeki kendi yerleşkelerinde okudukları için Yalnızbağ ana kampüs atmosferine uzaktırlar.
-* **Büyükşehirlere Mesafe:** Ankara ve İstanbul'a karayoluyla uzak olduğu için ulaşımda uçak kullanımı (Erzincan Havalimanı merkeze 10 dk'dır) önem kazanır.
+* **Yalnızbağ Kampüsü'nün Merkeze Uzaklığı ve Akşam Issızlığı:**  
+  Yalnızbağ Kampüsü 9 km dışarıda olduğu için akşam 18.00'den sonra dersler bitince kampüs hızla sessizleşir. Kampüs içindeki KYK yurdunda kalan öğrenciler akşam şehre inmek veya dönmek için otobüs saatlerini dikkatle takip etmek zorundadır.
+* **Otobüs Kuyrukları:**  
+  Sabah 08.15 - 08.45 arasında Dörtyol'daki Yalnızbağ duraklarında uzun öğrenci kuyrukları oluşabilir.
+* **Kışın Açık Ova Ayazı:**  
+  Yalnızbağ Kampüsü etrafı açık bir ovada kurulu olduğundan kış aylarında rüzgarı merkezden daha sert hissedilir.
+* **Cuma Akşamı Memlekete Kaçış:**  
+  Erzurum, Sivas, Trabzon, Malatya ve Elazığ'a giden otobüs ve tren hatları çok yakın olduğu için hafta sonları öğrenciler şehirden ayrılır; şehir hafta sonu aşırı sakinleşir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 6. 💡 İlk Günden Mezuniyete Altın Tavsiyeler
 
-> 💬 **Öğrenci Notu:**  
-> "Erzincan'a ilk indiğinizde şehrin ne kadar düzenli, yeşil ve modern olduğuna şaşıracaksınız. Yalnızbağ'daki bir bölümü kazandıysanız Piri Sami KYK yurdu çok rahattır; Hukuk kazandıysanız Cumhuriyet Mahallesi veya Ordu Caddesi'nde 1+1 apart tutun. Kışın Ergan Dağı'nda kayak yapmayı ve Doğu Ekspresi ile Kars'a hafta sonu gezisine gitmeyi mutlaka yapılacaklar listenize ekleyin!"
+1. **Yalnızbağ'da Okuyorsan Kampüs KYK'da Kal:** Yalnızbağ'daki Piri Sami Yurdu'nda kalırsan her gün 18 km yol yapmaktan ve otobüs kuyruğundan kurtulursun.
+2. **Hukuk Okuyorsan Cumhuriyet Mahallesi'nde Ev Tut:** Fakülteye yürüyerek 5 dakikada gitmek sınav haftalarında hayat kurtarır.
+3. **Ergan Dağı Kayak Tesislerini Değerlendir:** Şehre sadece 15 dakika mesafede olan Ergan Dağı'nda Türkiye'nin en uzun ışıklandırılmış pistlerinde çok uygun fiyata kayak yap.
+4. **Doğa Sporlarına Katıl:** Erzincan; Fırat Nehri'nde rafting, Çakırman'da yamaç paraşütü ve Munzur Dağları'nda trekking için Türkiye'nin ekstrem spor başkentidir; üniversite kulüplerine mutlaka katıl.
+5. **Erzincan Döneri ve Tulum Peynirini Keşfet:** Merkezdeki tarihi lokantalarda yerel lezzetleri tatmadan mezun olma.

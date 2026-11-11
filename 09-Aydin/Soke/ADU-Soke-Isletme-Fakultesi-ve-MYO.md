@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Aydın / Söke  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Yenikent Mahallesi (Kuşadası - Didim Kavşağı)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.5/5)
+> **Kampüs Konumu:** Yenikent Mahallesi (Kuşadası - Didim - Bodrum Kavşağı)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.6/5)
 
 ---
 
@@ -13,85 +13,71 @@
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
 | **🚇 İl Merkezine Uzaklık** | 50 km / ~40-45 dk | Aydın Otogarı'ndan her 15 dk'da bir kalkan Söke Birlik minibüsleri; Kuşadası'na 20 dk |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Söke Meryem Yazıcıoğlu KYK Kız ve Erkek Öğrenci Yurdu kampüse çok yakın |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.500 - 13.000 TL | Yenikent Mahallesi, Söke Çarşı ve Konak Mahallesi apartları |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | ADÜ SKS bünyesinde 4 çeşit sıcak tabldot öğle yemeği |
-| **📚 Kütüphane Kapasitesi** | Yeterli / Mesai Saatleri | Söke Yerleşkesi Kütüphanesi, okuma salonu ve bilgisayar laboratuvarı |
-| **🌐 İnternet (eduroam)** | Standart - Hızlı | Fakülte ve MYO dersliklerinde eduroam ve ADU-Net aktif |
-| **🌆 Sosyal Yaşam & Çevre** | Tarım, Sanayi & Sahil Kavşağı | Kuşadası plajlarına 20 dk, Priene ve Milet Antik Kentleri, Novada Outlet Söke |
+| **🏠 KYK Yurt İmkanı** | Çok Rahat & Kampüs Yanı | Söke Meryem Yazıcıoğlu KYK Kız ve Erkek Öğrenci Yurdu yerleşkeye yürüme mesafesinde |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.500 - 13.000 TL | Yenikent Mahallesi (kampüs bitişiği), Söke Çarşı ve Konak Mahallesi apartları |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | ADÜ SKS bünyesinde 4 çeşit sıcak tabldot öğle yemeği servisi |
+| **📚 Kütüphane Kapasitesi** | Yeterli / Mesai Saatleri | Söke Yerleşkesi Kütüphanesi, etüt salonu ve bilgisayar çalışma odası |
+| **🌐 İnternet (eduroam)** | Standart - Hızlı | Fakülte ve MYO dersliklerinde eduroam ve ADÜ-Net kablosuz ağı aktif |
+| **🌆 Sosyal Yaşam & Çevre** | Sahil Kavşağı & Sanayi | Kuşadası plajlarına 20 dk, Priene ve Milet Antik Kentleri, Novada Outlet Söke |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
 * **Bölgesel Ulaşım ve Stratejik Kavşak Konumu:**  
-  Söke, Aydın ile Ege kıyıları (Kuşadası, Didim ve Bodrum) arasında kilit bir transit kavşaktadır:
-  * **Aydın Merkezden:** Aydın Şehirlerarası Otobüs Terminali'nden kalkan **Söke Seyahat / Söke Birlik** otobüsleri her 15 dakikada bir hareket eder (yolculuk 40-45 dakika).
-  * **Sahil İlçelerine Yakınlık:** Kuşadası'na sadece 20-25 km (dolmuşla 20 dk), Didim Altınkum'a ise 45 km mesafededir.
-  * **İzmir Bağlantısı:** İzmir Otogarı'ndan Söke'ye düzenli direkt otobüsler çalışır (yaklaşık 1 saat 15 dk). Ayrıca TCDD Söke tren istasyonu bulunur.
+  Söke, Ege kıyılarına (Kuşadası, Didim ve Bodrum) giden tüm yolların kesiştiği dev bir transit merkezdir:
+  * **Aydın Merkezden:** Aydın Otogarı'ndan kalkan **Söke Seyahat / Söke Birlik** otobüsleri her 15 dakikada bir hareket eder (yolculuk 40-45 dakika).
+  * **Kuşadası'na 20 Dakika Lüksü:** Kuşadası ilçe merkezine ve plajlarına sadece 20 km mesafededir; dolmuşla 20 dakikada deniz kenarına inilir.
+  * **TCDD Treni ve İzmir Otobüsleri:** İzmir Otogarı'ndan Söke'ye direkt otobüslerle 1 saat 15 dakikada; TCDD bölgesel treniyle de İzmir ve Aydın'a ekonomik ulaşım sağlanır.
 * **İlçe İçi Ulaşım:**  
-  ADÜ Söke Yenikent Yerleşkesi, Söke ilçe merkezine yaklaşık 3 km mesafede, Yenikent Mahallesi'nde yer alır. İlçe merkezinden ve otogardan kalkan **Yenikent şehir içi dolmuşları** 5 dakikada bir kampüs kapısına yolcu taşır. Yolculuk 7-8 dakika sürer; bisikletle ve yürüyerek de kolayca ulaşılabilir.
+  ADÜ Söke Yenikent Yerleşkesi, Söke ilçe merkezine 3 km mesafede Yenikent Mahallesi'ndedir. Otogardan ve Çarşıdan kalkan **Yenikent dolmuşları** 5 dakikada bir kampüs kapısına kadar yolcu taşır (yolculuk 7-8 dakika).
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma & KYK Gerçekleri (Yenikent Kampüs Konforu)
 
-* **KYK Yurtları:**  
-  Yenikent bölgesinde yer alan **Söke Meryem Yazıcıoğlu KYK Öğrenci Yurdu**, hem kız hem erkek bloklarıyla yerleşkeye yürüme mesafesinde son derece modern bir konaklama sunar. Yurt kapasitesi öğrencilere yettiği için barınma sorunu yaşanmaz.
-* **Kiralık Apartlar ve Öğrenci Evleri:**  
-  * **Yenikent Mahallesi:** Kampüsün hemen bitişiğidir. Son yıllarda yapılan site içi 1+1 ve 2+1 yeni daireler, marketler ve kafelerle doludur; öğrenciler okula yürüyerek 3-5 dakikada geçer.
-  * **Söke Merkez (Konak & Çeltikçi Mah.):** Çarşı içinde, bankalara ve pazara yakın yaşamak isteyen öğrencilerin tercih ettiği bütçe dostu semtlerdir.
-
----
-
-## 3. 🎓 Akademik ve Fiziki Altyapı
-
-* **Bünyesindeki Akademik Birimler:**  
-  * **Söke İşletme Fakültesi:** İşletme, Kamu Yönetimi, Uluslararası Ticaret ve Finansman ile Yönetim Bilişim Sistemleri (YBS) gibi lisans programlarını barındırır.
-  * **Söke Mimarlık ve Tasarım Fakültesi:** Mimarlık ve Şehir Bölge Planlama programları yer alır.
-  * **Söke Meslek Yüksekokulu:** Mekatronik, Alternatif Enerji Kaynakları Teknolojisi, Bilgisayar Programcılığı, Elektrik, Tekstil gibi sanayiyle entegre güçlü teknik bölümler sunar.
-  * **Söke Sağlık Hizmetleri MYO:** İlk ve Acil Yardım (Paramedik) gibi KPSS puanı yüksek sağlık programlarına ev sahipliği yapar.
-* **Fiziki Tesisler ve Donanım:**  
-  Yenikent Yerleşkesi modern derslikleri, çizim stüdyoları, teknik laboratuvarları ve konferans salonlarıyla donatılmıştır. Söke Organize Sanayi Bölgesi (OSB) ve dev tekstil-kağıt fabrikaları teknik öğrencilere staj kapıları açar.
-* **Kütüphane:**  
-  Yerleşke kütüphanesinde sessiz çalışma ortamı, referans kitaplar ve eduroam kablosuz ağı mevcuttur.
+* **Söke Meryem Yazıcıoğlu KYK Yurdu:**  
+  * Yenikent'te kampüsün hemen bitişiğindedir; kız ve erkek blokları bulunur.
+  * Odalar 3-4 kişilik, bazalı ve çalışma masalıdır. Banyo ve tuvalet oda içerisindedir.
+  * Kampüse yürüyerek 3 dakikada geçildiği için ulaşım masrafı sıfırdır. Kontenjan yeterli olduğu için barınma sorunu yaşanmaz.
+  * 23:00 turnike kontrolü standarttır.
+* **Kiralık Daireler:**  
+  * **Yenikent Mahallesi:** Kampüsün etrafında son 5 yılda inşa edilen site içi 1+1 ve 2+1 yeni daireler mevcuttur (**8.500 - 13.000 TL**).
+  * **Konak ve Çeltikçi Mahalleleri:** Çarşı içinde, pazara ve kafelere yakın bütçe dostu semtlerdir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
 * **Yemekhane:**  
-  ADÜ Sağlık Kültür ve Spor Daire Başkanlığı denetiminde hafta içi her gün 4 çeşit sıcak tabldot öğle yemeği çıkar (~25-30 TL).
-* **Kantin ve Kafeler:**  
-  Fakülte bahçesinde açık oturma alanları ve kantin yer alır. Ayrıca Yenikent Mahallesi ana caddesi boyunca sıralanmış yeni nesil kafeler ders çıkışlarında öğrencilerin buluşma noktasıdır.
+  ADÜ SKS güvencesiyle hafta içi 4 çeşit sıcak tabldot öğle yemeği sunulur (~25-30 TL).
+* **Meşhur Söke Lezzetleri:**  
+  * **Söke Körüklü Pidesi:** İncecik açılan çıtır hamuru, bol kıyması ve otlu peynirli çeşitleriyle Söke pidesi çarşıdaki tarihi pidecilerde çok hesaplıdır.
+  * **Novada Outlet Söke:** Kampüse yakın dev açık hava alışveriş merkezinde ulusal zincir restoranlar, kafeler ve sinema salonları öğrencilerin ana toplanma yeridir.
 
 ---
 
-## 5. 🌆 İlçe Dinamikleri ve Sosyal Hayat
+## 4. 📚 Akademik & Sanayi/Lojistik Stajları
 
-* **Tarım, Sanayi ve Tarih Kenti:**  
-  Söke, dev pamuk ovaları, un ve kağıt fabrikaları ile Ege'nin en üretken ilçelerindendir. İlçe girişinde yer alan devasa **Novada Outlet Söke**, yüzlerce mağaza, sinema ve restoranıyla öğrencilerin haftalık alışveriş ve eğlence merkezidir.
-* **Sahil Kaçışları:**  
-  Söke'deki öğrenciliğin en büyük artısı Kuşadası'na 20 dakikalık dolmuş mesafesinde olmasıdır. Öğrenciler bahar aylarında ders bitiminde soluğu Kuşadası sahillerinde veya Dilek Yarımadası Milli Parkı'nda alır. Çevrede **Priene Antik Kenti** ve Doğanbey Tarihi Köyü gibi kültürel rotalar bulunur.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* **Sahil İlçelerine 20 Dakika Yakınlık:** Kuşadası ve Didim gibi Türkiye'nin en ünlü tatil merkezlerinin yanı başında yaşama imkanı.
-* **Düşük Yaşam Maliyeti:** Kuşadası ve Bodrum'daki fahiş turistik kiraların aksine Söke'de kiraların ve pazar alışverişinin çok uygun olması.
-* **Sıfır Ulaşım Derdi:** Yenikent'teki KYK yurdundan veya apartlardan kampüse yürüyerek 3 dakikada gidebilme konforu.
-* **Sanayi ve OSB Entegrasyonu:** Teknik programlar için Söke sanayisinde geniş staj fırsatları.
-
-### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
-* **Meşhur "Söke Rüzgarı":** Söke boğazından esen sert rüzgar yıl boyu etkilidir; kış aylarında rüzgar ayazı çarpar, saç baş dağıtır.
-* **Sanayi ve Tarım Kasabası Havası:** Kuşadası gibi turistik ve şık bir sahil şehri bekleyenler için Söke'nin sanayi ve traktör kokan taşra ortamı ilk etapta sönük gelebilir.
-* **Kısıtlı Gece Hayatı:** İlçe merkezinde gece hayatı yoktur; sosyalleşmek için Novada AVM'ye ya da Kuşadası'na gitmek gerekir.
+* **Söke İşletme Fakültesi & YBS:**  
+  İşletme, Kamu Yönetimi, Uluslararası Ticaret ve Yönetim Bilişim Sistemleri (YBS) bölümleri yer alır.
+  * YBS öğrencileri için bilgisayar laboratuvarları aktiftir.
+  * **Söke OSB Avantajı:** Söke Organize Sanayi Bölgesi'nde yer alan dev kağıt fabrikaları (Kipaş Kağıt), çimento, tekstil ve tarım makineleri tesisleri işletme ve teknik öğrencilere staj kapısı açar.
+* Bağıl Değerlendirme Sistemi (35 barajı) geçerlidir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 5. ❌ Eksileri ve Kronik Sorunları
 
-> 💬 **Öğrenci Notu:**  
-> "Söke Yerleşkesi'ni tercih edeceksen barınma için mutlaka Yenikent Mahallesi'ni seç; KYK yurdu da apartlar da kampüsün dibindedir, sabah dersine uykunu alıp yürüyerek gidersin. Hafta sonları dolmuşa atlayıp 20 dakikada Kuşadası'na gitmek en büyük eğlencendir. Yanına rüzgara dayanıklı bir mont almayı da sakın unutma, Söke'nin rüzgarı şakaya gelmez!"
+* **Söke Ovası Pamuk Hasadı ve Tozu:**  
+  Eylül ve Ekim aylarında pamuk hasat dönemiyle birlikte havada pamuk lifleri ve tarımsal toz yoğunlaşır; alerjisi olanlar dikkat etmelidir.
+* **Sosyal Hayat Kısıtı:**  
+  İlçe akşamları çabuk sakinleşir; sinema ve eğlence için Kuşadası'na veya Novada AVM'ye gidilir.
+
+---
+
+## 6. 💡 Altın Tavsiyeler
+
+1. **Yenikent'te Kal, Ulaşım Çilesi Çekme:** Kampüs ve KYK yurdu Yenikent'te yan yanadır; burada barınarak derslerine yürüyerek git.
+2. **Kuşadası Sahil Dolmuşlarını Kullan:** Dersinin olmadığı günlerde 20 dakikada Kuşadası sahiline kaçıp Ege Denizi'nin keyfini çıkar.
+3. **Novada Outlet'i Sosyal Üs Yap:** Hafta sonu sinema ve giyim alışverişi için Novada AVM'nin öğrenci indirimlerini takip et.

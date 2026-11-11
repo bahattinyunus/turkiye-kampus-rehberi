@@ -3,7 +3,7 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Adana / Sarıçam  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Merkez Kampüs (Seyhan Baraj Gölü Kıyısı)  
+> **Kampüs Konumu:** Merkez Kampüs (Seyhan Baraj Gölü Kıyısı, Çatalan Yolu)  
 > **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.5/5)
 
 ---
@@ -12,93 +12,98 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 8 - 10 km / ~20-25 dk | Barajyolu'ndan 10 dk, Çarşı/İstasyon'dan 25 dk (Otobüs ve Dolmuş) |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Kampüs içi ve Sarıçam sınırında devasa kız/erkek KYK yurtları mevcut |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 13.000 - 20.000 TL | Barajyolu (Yenibaraj), Gençlik Mah., Sarıçam Gültepe, Huzurevleri |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 30 TL / İyi | Türkiye'nin en büyük öğrenci yemekhanelerinden biri, 4 çeşit doyurucu menü |
-| **📚 Kütüphane Kapasitesi** | Mesai + Sınav Dönemi 7/24 | Merkezi Kütüphane 3 katlı ve geniş; vize/finalde çalışma salonları 7/24 açık |
-| **🌐 İnternet (eduroam)** | Orta - İyi | Dersliklerde ve kütüphanede hızlı; çim alanlarda ve göl kenarında kopmalar olabiliyor |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı | Kayıkhane, Kongre Merkezi, Barajyolu kafeleri, aktif öğrenci kulüpleri |
+| **🚇 Şehir Merkezine Uzaklık** | 8 - 10 km / ~20-30 dk | Barajyolu'ndan 10-15 dk, Çarşı/İstasyon'dan 30 dk (Otobüs ve Balcalı Dolmuşları) |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs içi ve Sarıçam sırtlarında Fevzi Çakmak, Kut'ül Amare, Mahmut Sami vb. |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 13.000 - 20.000 TL | Barajyolu (1-6. Duraklar), Gençlik Mah., Sarıçam Gültepe 1+1 siteleri |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 30 TL / Çok Başarılı | 4 çeşit menü, ÇÜBİS üzerinden randevulu, Ziraat menşeili ürünler, vejetaryen opsiyonlu |
+| **📚 Kütüphane Kapasitesi** | 7/24 Sınav Dönemi | 3 katlı Merkez Kütüphane, sınav haftalarında gece 00:00 çorba ikramı, priz kapma yarışı |
+| **🌐 İnternet (eduroam)** | İyi | Fakülte ve kütüphanede stabil fiber; Kayıkhane ve göl çimlerinde hücresel veri şart |
+| **🌆 Sosyal Yaşam & Çevre** | Efsanevi Doğa & Barajyolu | Kayıkhane gün batımı, Dev Çarşı, amfi tiyatro, Duygu Kafe aksı, Portakal Çiçeği Karnavalı |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **Şehir Merkezinden Ulaşım:**  
-  Balcalı Kampüsü, Seyhan Baraj Gölü'nün doğu yakasında, Çatalan Köprüsü ve DSİ/Gençlik Köprüsü geçiş noktalarında yer alır. Şehir merkezinden (Atatürk Caddesi, İstasyon, Barajyolu, Turgut Özal Bulvarı) kampüse ulaşım **Adana Büyükşehir Belediyesi otobüsleri (159, 142, 124, 162, 164 vb.)**, özel halk otobüsleri ve mavi-beyaz **Balcalı dolmuşları** ile sağlanır. Kampüse giren neredeyse tüm araçlar önce Balcalı Hastanesi'nden geçer, ardından fakülteler ring hattını dolaşarak R1/R2 derslikleri ve KYK yurtlarına kadar çıkar. **Önemli Not:** Adana Metrosu kampüse gelmez; metrodan Hastaneler durağında inip Balcalı dolmuşlarına veya otobüslere aktarma yapmanız gerekir.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  20.000 dekara yayılan devasa bir kampüs olduğu için giriş kapısından Ziraat veya Mühendislik fakültelerine yürümek imkansıza yakındır. Şehir içi otobüsler ve dolmuşlar doğrudan kampüsün içine girerek fakültelerin önündeki duraklarda yolcu indirir. Ayrıca kampüs içinde **ücretsiz/sembolik ücretli kampüs içi ring araçları** yurtlar bölgesi, merkezi yemekhane, kütüphane ve R derslikleri arasında mekik dokur.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  **Adana Kentkart** kullanılır. Öğrenci belgesi ile kişiselleştirilmiş Kentkart'ta 2026 yılı itibarıyla öğrenci biniş ücreti belediye otobüslerinde oldukça ekonomiktir (~12-15 TL bandı), dolmuşlarda ise birkaç lira daha yüksektir. Belediye otobüsleri arasında 60 dakika içinde indirimli aktarma imkanı bulunur.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Adana'da kar yağışı görülmez ancak Kasım-Mart arası sağanak Akdeniz yağmurları meşhurdur. Yağmurlu günlerde Balcalı Hastanesi kavşağı ve Mithat Özsan Bulvarı kilitlenir; sabah 08:30 dersine yetişmek için Barajyolu'ndan en az 40 dakika önce çıkmak gerekir. Ancak kampüsteki asıl zorluk kış değil, **Mayıs-Haziran ve Eylül-Ekim sıcağıdır**; klimalı otobüs beklemek hayati önem taşır.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** Kampüs sınırları içerisinde yer alan **Fevzi Çakmak KYK Kız Yurdu** (devasa kapasiteli, odalar 3-4 kişilik, kampüs içi dersliklere yürüme veya tek durak otobüs mesafesinde), **Çukurova KYK Kız Yurdu** ve **Sarıçam KYK Kız Yurdu** en çok tercih edilenlerdir.
-  * **Erkek Yurtları:** **Kut'ül Amare KYK Erkek Yurdu** ve **Mahmut Sami Ramazanoğlu KYK Erkek Yurdu** kampüsün hemen üst kısmında/Sarıçam aksında yer alır. Odalar 4 kişilik baza veya çalışma masalı tiptedir; kampüse otobüsle 5-10 dakikada inilir.
-* **Özel Yurtlar ve Apartlar:**  
-  Köprünün hemen karşısındaki **Barajyolu (Yenibaraj Mahallesi)** ve Hastane kavşağı çevresinde çok sayıda özel kız/erkek öğrenci yurdu ve 1+0 / 1+1 eşyalı apartlar mevcuttur. Özel yurt fiyatları yemek dahil 10.000 - 16.000 TL aralığında değişmektedir.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Barajyolu (Yenibaraj & Gençlik Mah.):** Kampüse en yakın bölgedir. Gençlik Köprüsü'nden yürüyerek bile kampüs sınırına geçilebilir. Binalar genellikle 20-30 yıllıktır, doğalgaz veya klima ile ısınır. Kiralar 12.000 - 16.000 TL civarındadır.
-  * **Sarıçam (Gültepe & Elif Su Uludağ Mah.):** Kampüsün arka kapısına yakın, yeni yapılmış güvenlikli 1+1 ve 2+1 sitelerin olduğu bölgedir. Bütçe dostudur (11.000 - 15.000 TL).
-  * **Huzurevleri ve Türkmenbaşı:** Daha geniş, ferah daire isteyen öğrencilerin tercih ettiği, dolmuşla kampüse 20-25 dakika süren nezih mahallelerdir (17.000 - 24.000 TL).
+* **Şehir Merkezinden Geliş & Ringe Oturarak Binme Hilesi:**  
+  Balcalı Kampüsü'ne giden belediye otobüsleri (**159, 142, 124, 131, 162**) ve meşhur **mavi-beyaz Balcalı dolmuşları**, sabah 08:00 - 09:00 arasında Barajyolu 3. Durak ve 4. Durak civarında tıka basa dolmuş olur. Kapıda asılı kalmamak için en büyük taktik:
+  * Eğer Tren İstasyonu veya Vilayet yakınlarındaysanız otobüse **ilk kalkış durağından** binin.
+  * Barajyolu'nda oturuyorsanız sabah derslerine giderken yürüyerek 1 durak geriye (1. Durak / Hastaneler kavşağı yönüne) yürüyüp binmek oturarak gitmenizi garantiler.
+  * **Metro Yanılgısı:** Adana Metrosu (M1) kampüse **kesinlikle girmez**. Metrodan "Hastaneler" veya "Fatih" durağında inip Balcalı dolmuşlarına aktarma yapmanız gerekir; bu da sabah trafiğinde fazladan 15 dakika kaybettirir.
+* **Otostop Noktaları & Kültürü:**  
+  Kampüs 20.000 dekar olduğu için fakülteler arası yürüme mesafesi 25-30 dakikayı bulur. Kampüste köklü bir otostop dayanışması vardır:
+  * **Baraj Çamlığı / DSİ Kapakları Cebi:** Barajyolu'ndan kampüse giren arabaların yavaşladığı ana noktadır; el kaldırdığınızda ÇÜ personeli ve öğrencileri arabaya alır.
+  * **Kayıkhane Sapağı ve R1-R2 Göbeği:** Ders bitiminde yurtlara veya hastane kapısına dönmek için öğrencilerin beklediği resmi olmayan otostop cebidir.
+  * **Fevzi Çakmak Yurt Çıkışı:** Sabah 08:30 dersine yetişmek için kız yurdunun nizamiye çıkışındaki cepten bölümlere kalkan arabalara binilir.
+* **Belediye Abonman & Kart Taktikleri:**  
+  Toplu taşımada **Adana Kentkart** geçerlidir. Öğrenci abonman yüklemesi belediye turuncu otobüslerinde devasa tasarruf sağlar; ancak özel halk otobüsleri ve Balcalı dolmuşlarında abonman biniş hakkı yerine indirimli öğrenci bakiyesi düşer. Dolmuşlarda nakit para yerine mutlaka Kentkart veya temassız kart okutulmalıdır (nakit biniş daha pahalıdır).
+* **Sabah Hastane Trafiği Tuzağı:**  
+  Balcalı Hastanesi tüm Çukurova bölgesinin tıp merkezi olduğu için kampüs ana nizamiye yolu sabah 08:15 - 08:45 arasında poliklinik hastaları yüzünden kilitlenir. R ve T dersliklerinde sınavınız varsa Barajyolu'ndan en geç 07:50'de yola çıkmalısınız.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma & KYK Gerçekleri
 
-* **Kütüphane İmkanları:**  
-  Kampüsün tam merkezinde yer alan **Çukurova Üniversitesi Merkez Kütüphanesi**, geniş koleksiyonu, bireysel çalışma masaları ve bilgisayar laboratuvarlarıyla öğrencilerin uğrak noktasıdır. Vize ve final haftalarında giriş katı ve çalışma salonları 7/24 açık tutulur; belediye ve rektörlük tarafından sınav haftalarında sıcak çorba/çay ikramı yapılır. Priz sayısı orta katta zaman zaman yetersiz kalabildiği için yanınızda üçlü priz bulundurmak hayat kurtarır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  ÇÜ'nün en karakteristik yapısı **R1, R2 ve T derslik bloklarıdır**. Birçok fakülte ortak havuz derslerini bu merkezi dersliklerde işler. Mühendislik, Ziraat, Su Ürünleri ve Tıp Fakültesi laboratuvarları bölgenin en donanımlı altyapısına sahiptir. 2023 depremleri sonrasında hasarlı binalar hızla yenilenmiş veya güçlendirilmiş olup aktif kullanılan amfilerde merkezi iklimlendirme (klima) mevcuttur.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Kampüs genelinde **eduroam** ve **CU-Net** ağı aktiftir. Kütüphane ve fakülte binalarında bağlantı hızı tatminkardır. Öğrenci Bilgi Sistemi (**ÇÜBİS**) ders kayıt haftalarındaki ilk 1 saatlik yoğunluk dışında stabil çalışır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  **1.5 Adana TEKNOFEST Takımı** (Elektromobil, İHA, Roket takımları), IEEE Çukurova, Dağcılık ve Doğa Sporları (ÇÜDDOSK), Yelken ve Kano Kulübü (Seyhan Gölü üzerindeki Kayıkhane tesislerini kullanırlar) ve Tiyatro Kulübü oldukça aktiftir. Bahar aylarında göl manzaralı amfi tiyatroda konserler ve şenlikler düzenlenir.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane:**  
-  Merkez Kütüphane'nin hemen yanında yer alan dev yemekhane binasında öğle (11:30 - 13:30) ve akşam yemeği servisi verilir. ÇÜ Akıllı Kart / ÇÜBİS üzerinden bakiye yüklenerek turnikelerden geçilir. Güncel yemek ücreti (~30 TL) karşılığında 4 çeşit doyurucu yemek ve zaman zaman Adana mutfağına özgü lezzetler (analı kızlı, yüksük çorbası, kebap türevleri) çıkar. Saat 12:15'te çok uzun kuyruklar oluşsa da turnikeler hızlı ilerler.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içinde **Çarşı** bölgesi, **Özdemir Sabancı Kapalı Yüzme Havuzu** yanı kafeleri, fakülte kantinleri ve özellikle göl manzaralı **Kayıkhane Kafe** öğrencilerin ders aralarında en sevdiği mekanlardır. Kayıkhane'de gün batımında uygun fiyata çay-tost yapmak bir Balcalı klasiğidir. Kampüs içinde banka ATM'leri, PTT, kırtasiye ve market mevcuttur.
-* **Spor Tesisleri:**  
-  Olimpik kapalı yüzme havuzu, Lütfullah Aksungur Spor Salonu, tenis kortları, çim futbol sahası, fitness merkezi ve **Seyhan Baraj Gölü kıyısındaki Kayıkhane (kürek ve kano tesisleri)** ile Türkiye'nin spor altyapısı en zengin kampüslerinden biridir.
+* **KYK Yurtlarının Detaylı Röntgeni:**  
+  * **Fevzi Çakmak KYK Kız Yurdu:** Kampüs sınırları içinde doğrudan merkezi dersliklere yürüme mesafesindedir (10-12 dk). Odalar 3 ve 4 kişiliktir, banyo-tuvalet oda içerisindedir. En büyük çilesi 8 katlı bloklarda asansör beklemek ve hafta sonu çamaşırhane sırasıdır (sabah 07:30'da çamaşır sepetiyle sıra kapılır). Girişlerde 23:00 parmak izi kuralı çok katıdır, 3 kez geç kalmada uyarı tutanağı tutulur.
+  * **Mahmut Sami Ramazanoğlu KYK Erkek Yurdu:** Sarıçam sırtlarında kampüsün hemen arkasındadır. Odalar 4 kişilik, çalışma masalı ranzalı/bazalı karma tiptir. Banyo-tuvalet oda içindedir. Kampüse yürümek yokuş yukarı zor olduğu için belediye ringine veya 118/142 otobüslerine binilir.
+  * **Kut'ül Amare KYK Erkek Yurdu:** Yeni nesil yurt konseptindedir; odalar geniş, baza sistemli ve etüt salonları ferahtır.
+  * **Sarıçam ve Adana KYK Yurtları:** Yeni Adana Stadyumu çevresindeki yurtlardır; kampüse tek vasıtayla 7-10 dakikada ulaşılır.
+* **Öğrenci Mahalleleri & Sokak Detayları:**  
+  * **Barajyolu (Bülent Angın Bulvarı & Gençlik Mah.):** 1. Durak'tan 6. Durak'a (Duygu Kafe) kadar uzanan cadde Adana öğrenciliğinin omurgasıdır. 2. ve 3. Durak ara sokakları fotokopiciler, barlar, kafeler ve eski tip 3+1 evlerle doludur. Gençlik Köprüsü'nden yürüyerek göl kenarına inilir.
+  * **Sarıçam Gültepe & Elif Su Uludağ Mahalleleri:** Kampüsün doğu kapısına yakın yeni 1+1 rezidans bölgesi. Kiralar Barajyolu'na göre uygundur (11.000 - 15.000 TL).
+* **Ev Sahiplerinin Alt-Sayaç & Depozito Tuzakları:**  
+  * Sarıçam Gültepe'deki yeni 1+1 stüdyo dairelerde "ortak elektrik/su alt sayacı" tuzağına dikkat edin. Tek faturanın ev sahibi tarafından dairelere keyfi bölünmesi nedeniyle kışın klima faturası beklenmedik yükseklikte gelebilir. Bağımsız abonelik isteyin.
+  * Barajyolu'ndaki eski binalarda merkezi sistem ısınma aidatları kışın kira kadar tutabilir. Ayrıca nem ve sıcak yüzünden evde çalışan bir klima bulunması hayati zorunluluktur; klimasız ev tutmak intihardır.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Adana halkı sıcakkanlı, esnafı ise özellikle Barajyolu bölgesinde tamamen öğrenciye alışkındır. İkram kültürü çok gelişmiştir; herhangi bir kebapçıda veya dönercide masaya gelen bol salata ve mezeler ücretsizdir. Gece geç saatlerde Barajyolu, Turgut Özal ve Gazipaşa bulvarları oldukça hareketli ve güvenlidir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Kampüsten çıkıp Gençlik Köprüsü'nü yürüyerek geçtiğinizde **Sevgi Adası**, **Adana Merkez Park** (Türkiye'nin en büyük nehir kıyı parklarından biri), **Barajyolu** kafeleri ve **Ziyapaşa / Şinasi Efendi** barlar-kafeler sokağına kolayca ulaşırsınız. Bahar aylarında Uluslararası Portakal Çiçeği Karnavalı döneminde tüm şehir dev bir festival alanına dönüşür.
-* **Part-Time İş ve Staj Olanakları:**  
-  Kampüs içerisindeki **Çukurova Teknokent**, mühendislik ve yazılım öğrencileri için harika bir staj ve yarı zamanlı iş kapısıdır. Ayrıca üniversitenin Sağlık Kültür ve Spor Daire Başkanlığı (SKS) her yıl yüzlerce kısmi zamanlı öğrenci istihdam eder. Barajyolu ve Turgut Özal Bulvarı'ndaki yeni nesil kahvecilerde baristalık/garsonluk imkanları çok yaygındır.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* **Eşsiz Doğa ve Kampüs Atmosferi:** Seyhan Baraj Gölü manzarası, çam ormanları ve botanik bahçesi tadındaki devasa yeşil kampüsüyle "gerçek üniversite kampüsü" hissini sonuna kadar yaşatır.
-* **Ekonomik ve Lezzetli Yaşam:** Büyükşehirlere kıyasla hem kira hem de dışarıda yeme-içme maliyetleri öğrenci bütçesini çok daha az yorar.
-* **Barınma Kolaylığı:** Kampüs içi/yakını dev KYK yurtları ve hemen karşı kıyıdaki Barajyolu öğrenci mahallesi sayesinde barınma krizi yaşanmaz.
-
-### ❌ Eksileri
-* **Bunaltıcı Sıcaklar:** Eylül, Ekim ve Mayıs-Haziran aylarında yüksek nem ve sıcak altında kampüs içinde fakülteden fakülteye yürümek ciddi anlamda yorucudur.
-* **Sabah Trafiği ve Otobüs Yoğunluğu:** Balcalı Hastanesi tüm bölgenin sağlık merkezi olduğu için sabah saatlerinde öğrenci otobüsleri ve dolmuşlar hasta/hasta yakınlarıyla dolup taşar.
-* **Raylı Sistem Eksikliği:** Adana Metrosu'nun kampüse bağlanmamış olması büyük bir ulaşım dezavantajıdır.
+* **Merkez Yemekhane Sistemi & Vejetaryen Gerçeği:**  
+  * Yemekler ÇÜBİS üzerinden haftalık veya günlük bakiye yüklenerek rezerve edilir. Fiyat 2026 itibarıyla ~30 TL'dir. 
+  * Rezervasyon gününde yemek yenmezse bakiye yanar; rezervasyonsuz turnike geçişinde ise iki katı ücret tahsil edilir.
+  * Ziraat Fakültesi'nin kendi çiftliğinden gelen yoğurt, süt ve mevsim meyveleri menüye girdiğinde yemekhane kalitesi tavan yapar.
+  * **Vejetaryen Menü:** Her gün alternatif olarak çıkar ancak günlük kontenjanı 250-300 porsiyonla sınırlı olduğundan saat 12:15'e kadar tükenir. Vejetaryenseniz ilk 15 dakikada turnikeden geçmelisiniz.
+* **Kampüs İçi & Kapı Önü Lezzet Efsaneleri:**  
+  * **Ziraat Satış Noktası (ÇÜ Süt & Narenciye):** Kampüsün en büyük nimeti. Fakülte önündeki büfeden günlük pastörize süt, efsanevi Çukurova dondurması ve taze sıkılmış narenciye suları piyasa fiyatının üçte birine alınır.
+  * **Kayıkhane Tost & Çay:** Seyhan Baraj Gölü'nün sıfır noktasında, gün batımında salçalı kaşarlı tost yiyip gölü izlemek tüm vizelerin stresini siler.
+  * **Barajyolu 3. Durak Dönercileri:** 100-150 metre içinde sıralanan öğrenci işi soslu tavuk dönerciler ve gece 02:00'ye kadar açık ütü tostçular ucuz beslenmenin can damarıdır.
+  * **Şırdan & Çorba Kültürü:** Gece sınav çalışmasından çıkanların Barajyolu ve Baraj Çamlığı girişindeki tablacı şırdancıları ve Karataş Çorbacısı bir kampüs klasiğidir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 4. 📚 Akademik & Sınav Hayatta Kalma Rehberi
 
-> 💬 **Öğrenci Notu:**  
-> "Balcalı'yı kazandıysan ilk işin güneş gözlüğü, termos ve şemsiye almak olsun; çünkü bu şehirde Ekim'de güneş çarpar, Kasım'da bardaktan boşanırcasına yağmur yağar. Sabah 08:30 dersin varsa hastane trafiğine yakalanmamak için otobüse son duraktan veya Barajyolu başından bin, ders aralarında ise mutlaka Kayıkhane'ye inip göl kenarında gün batımını izle!"
+* **Çan Eğrisi (Bağıl Değerlendirme) & Harf Notları:**  
+  * Çukurova Üniversitesi'nde Bağıl Değerlendirme Sistemi (BDS) uygulanır. Sınıf mevcudu 30'un üzerindeyse notlar çana girer.
+  * **Hayati Kural:** Ham başarı notunuz 35 veya 40'ın (fakülteye göre değişir) altındaysa doğrudan **FF** alırsınız, çan eğrisine dahil edilmezsiniz. Bu yüzden "sınıf ortalaması 20 nasılsa geçerim" yanılgısına düşmeyin; barajı mutlaka aşmalısınız.
+  * Mühendislikte Calculus (Matematik 1-2) ve Fizik havuz derslerinde sınıf ortalamaları 30-35 bandında seyreder; 55 alan öğrenci rahatlıkla **BA/AA** alabilir.
+* **Merkezi Derslikler (R1, R2, T Blokları) Kaosu:**  
+  * Birinci sınıf ortak derslerinin (İnkılap, Türk Dili, Temel Bilgisayar, Havuz Matematik) sınavları devasa R1 ve R2 amfilerinde yapılır. Derslik kodlarını önceden öğrenin; R blokları labirent gibidir, yanlış kata çıkıp sınavı kaçıran onlarca öğrenci olur.
+* **Kütüphanede Sabah 06:30 Sırası & Montla Yer Tutma:**  
+  * Final haftasında 3 katlı Merkez Kütüphane'de yer bulmak için sabah 07:00'de turnike önünde sıra beklenir. Boş masaya mont veya defter bırakıp 1 saatten fazla dönmeyenlerin eşyaları güvenlik tarafından toplanır.
+  * Kütüphanenin zemin katı grup çalışmasına açıktır ve seslidir; derin odaklanma isteyenler doğrudan 2. kat sessiz salona çıkmalı ve mutlaka çoklu priz uzatması taşımalıdır (prizler sadece kolon kenarlarındadır).
+  * Gece saat 00:00'da rektörlüğün dağıttığı sıcak mercimek çorbası ve taze ekmek için kütüphane önünde 150 metrelik neşeli bir sıra oluşur.
+
+---
+
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **Bunaltıcı Sıcak ve Amfi Klimaları:**  
+  Eylül, Ekim, Mayıs ve Haziran aylarında kampüste sıcaklık gölgede 38-42 dereceye, bağıl nem %75'e çıkar. Fakülte amfilerindeki merkezi klimalar bozulduğunda ders dinlemek imkansız hale gelir; sırt çantalarında yedek tişört taşımak zorunludur.
+* **Balcalı Hastanesi Trafik Felci:**  
+  Kampüse tek ana arterden girildiği için sabahları ambulanslar, hasta yakınları ve öğrenci otobüsleri tek kavşakta düğümlenir. Sınav günleri bu tıkanıklık yüzünden onlarca kişi sınav kapısında kalır.
+* **Sivrisinek ve Gece Köpek Popülasyonu:**  
+  Seyhan Baraj Gölü ve orman arazisi nedeniyle ilkbahar ve sonbaharda ciddi bir sivrisinek problemi vardır; yurt odalarında sineklik yoksa uyumak zordur. Ayrıca gece 23:00'ten sonra Kayıkhane ve orman yollarında başıboş köpek sürüleri olabildiğinden tek başına yürümek yerine grupla veya ringle hareket edilmelidir.
+* **Eduroam Kopmaları:**  
+  Kütüphanede sınav haftası herkes yüklendiğinde eduroam ip dağıtamaz hale gelir; mobil internet kotanızı sınav haftasına saklayın.
+
+---
+
+## 6. 💡 Altın Tavsiyeler (İlk Hafta Hayatta Kalma Kiti)
+
+1. **Güneş Gözlüğü ve Termos Standart Donanımındır:** Adana'da kasım ortasına kadar yaz devam eder. Yanınızda soğuk su tutan bir termos ve UV filtreli güneş gözlüğü olmadan kampüste yürümeyin.
+2. **Kayıkhane'de "Kano/Kürek" Seçmeli Dersi Al:** Spor Bilimleri veya genel seçmeli ders listesinde Seyhan Baraj Gölü'nde kürek çekme dersini seçerseniz hayatınızın en keyifli üniversite dönemini yaşarsınız.
+3. **Barajyolu Durak Numaralarını Ezberle:** Adana'da adres verilmez; "Duygu Kafe önü", "3. Durak Ziraat Bankası arkası" veya "1. Durak Hastaneler kavşağı" denir. Dolmuşa bindiğinizde ineceğiniz durağın numarasını söylemeniz gerekir.
+4. **Ziraat Fakültesi Satış Standını Takip Et:** Haftalık taze yoğurt, yumurta ve mevsim meyvesi satış günlerini öğrenip sabah erkenden sıraya girin; market fiyatının yarısına organik beslenin.
+5. **Klimasız Eve Asla İmza Atma:** Ev tutarken kombiden önce salondaki ve yatak odasındaki klimanın çalışıp çalışmadığını kontrol edin; temmuz ve eylül sıcağında klimasız bir evde kalmak fiziksel olarak imkansızdır.

@@ -1,10 +1,10 @@
-# 🏛️ Yalova Üniversitesi - Termal Sağlık Hizmetleri Meslek Yüksekokulu
+# 🏛️ Yalova Üniversitesi - Termal Meslek Yüksekokulu
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Yalova / Termal  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** İlçe Yerleşkesi (Gökçedere Mahallesi, Sağlık Sokak - Kaplıcalar Bölgesi)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.0/5)
+> **Kampüs Konumu:** Kaplıcalar Bölgesi Yerleşkesi (Yenimahalle / Termal Yolu - Merkeze ~11 km)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.1/5)
 
 ---
 
@@ -12,87 +12,80 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Yalova Merkez'e Uzaklık** | 12 km / ~15-20 dk | Yalova Merkez ve Termal arası düzenli kalkan minibüsler |
-| **🏠 Barınma ve Konaklama** | Yüksek | Termal yolu üzerindeki KYK yurtları, kaplıca pansiyonları ve apartlar |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 10.000 - 15.000 TL | Gökçedere Mahallesi, Üvezpınar ve Termal Merkez |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 30 - 40 TL / İyi | Yüksekokul yemekhanesinde sıcak öğle yemeği ve kafeterya |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri | Sağlık yayınları odaklı çalışma salonu |
-| **🌐 İnternet (eduroam)** | Orta - İyi | Yerleşke binasında ve sağlık laboratuvarlarında eduroam |
-| **🌆 Sosyal Yaşam & Çevre** | Şifalı Kaplıcalar & Orman | Termal su kaynakları, botanik parklar, huzurlu doğa |
+| **🚇 Yalova Merkez'e Uzaklık** | 11 km / ~15 dk | Yalova Merkez (Heykel/İskele) - Termal minibüsleri her 10 dk'da bir |
+| **🏠 Barınma ve Konaklama** | Yüksek | Termal yolu üzerindeki Dilşad Hatun KYK Kız Yurdu ve yerel apartlar |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 10.000 - 15.000 TL | Yenimahalle, Üvezpınar ve Termal Merkez |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 30 - 40 TL / İyi | Yüksekokul yemekhanesi + kaplıca tesisleri ve yerel köfteciler |
+| **📚 Kütüphane Kapasitesi** | Mesai Saatleri | Sağlık ve termal turizm yayınları odaklı çalışma salonu |
+| **🌐 İnternet (eduroam)** | Hızlı | Dersliklerde ve fizyoterapi uygulama laboratuvarlarında eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | Şifalı Kaplıcalar & Yeşil Doğa | Tarihi Roma/Osmanlı hamamları, Atatürk Köşkü, Sudüşen Şelalesi |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚇 Ulaşım Ağı ve Öğrenci Taktikleri
 
-* **Yalova Merkez ve Çevre İlçelerden Ulaşım:**  
-  **Termal Sağlık Hizmetleri Meslek Yüksekokulu**, Türkiye'nin en köklü ve şifalı kaplıca merkezi olan Termal ilçesinde, Gökçedere Mahallesi Sağlık Sokak'ta yer alır. Yalova şehir merkezinden (Heykel / İDO İskelesi yanı) kalkan **Termal minibüsleriyle yaklaşık 15-20 dakikada** yerleşke kapısına ulaşılır. Minibüsler gün boyu 10-15 dakika aralıklarla sefer yapar.
-* **İlçe İçi Ulaşım:**  
-  Termal ve Gökçedere yemyeşil ormanlarla kaplı, yürüyüş yollarıyla bezeli butik bir yerleşimdir. Yüksekokul binası, pansiyonlar, termal kaplıca tesisleri ve ilçe merkezi yürüyerek 5-10 dakika mesafededir.
-* **Hava Koşulları ve Doğa:**  
-  Samanlı Dağları'nın vadisinde kurulu olan Termal, bol oksijenli, orman havasına sahip ve yaz aylarında serin bir sığınaktır. Kış aylarında kar yağışı güzel manzaralar oluştursa da ana yollar sürekli açıktır.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  Termal yolu üzerinde yer alan devasa kapasiteli **Dilşad Hatun KYK Kız Öğrenci Yurdu** ve Merkez erkek yurtları Termal MYO öğrencilerine servis ve minibüsle çok rahat bir barınma alternatifi sunar.
-* **Kaplıca Pansiyonları ve Termal Apartlar:**  
-  Gökçedere ve Üvezpınar mahallelerinde yer alan pek çok termal pansiyon ve apart, kış aylarında öğrencilere uygun fiyatlı, kaloriferli ve **24 saat termal/sıcak sulu** konaklama paketleri sunar. Odasında termal küvet bulunan apartlarda kalan öğrenciler için bu durum eşsiz bir lüks haline gelir.
-* **Kiralık Daireler:**  
-  Gökçedere Mahallesi'nde 1+1 ve 2+1 kaloriferli/doğalgazlı ev kiraları 10.000 - 15.000 TL aralığında seyreder.
+* **Yalova Merkezden Ulaşım:**  
+  **Termal Meslek Yüksekokulu**, Türkiye'nin en köklü şifa merkezi olan Termal ilçesinde, çam ormanlarıyla kaplı bir vadide yer alır. Yalova Merkez (Heykel Meydanı ve İDO İskelesi civarından) kalkan **Termal minibüsleri** gün boyu her 10 dakikada bir hareket eder ve yaklaşık **15 dakikada** yerleşke kapısına ulaşır.
+* **Merkez Kampüse Geçiş:**  
+  Öğrenciler Termal minibüsüyle Yalova Merkez'e veya Çınarcık yol ayrımına inerek 15-20 dakikada denize sıfır Merkez Kampüs'e geçebilirler.
+* **Yol ve Hava Koşulları:**  
+  Yalova-Termal yolu geniş, asfalt ve yemyeşil ağaç tünelleriyle kaplı son derece konforlu bir yoldur. Kış aylarında kar yağsa bile termal bölgeye giden yollar anında temizlenir.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma, Yurtlar ve Termal Köy Evleri
 
-* **Bölümler ve Sağlık Turizmi Odağı:**  
-  Termal Sağlık Hizmetleri MYO, doğrudan Termal ilçesinin hidroterapi, kaplıca ve fizik tedavi altyapısıyla entegre bir akademik misyona sahiptir:
-  * **Fizyoterapi (Terapi ve Rehabilitasyon Bölümü):** Fizik tedavi üniteleri, elektroterapi ve hidroterapi uygulama salonları.
-  * **İlk ve Acil Yardım (Paramedik):** Travma simülasyonu, ambulans ekipmanları ve acil müdahale eğitimleri.
-  * **Yaşlı Bakımı:** Geriatri ve evde bakım uygulamaları.
-  * **Sağlık Kurumları İşletmeciliği:** Hastane ve kaplıca tesisleri yönetimi.
-* **Laboratuvarlar:**  
-  Fizyoterapi uygulama laboratuvarı, anatomi modelleri, elektroterapi cihazları ve acil müdahale simülatörleri ile donatılmıştır.
-* **İnternet:**  
-  Bina içerisinde **eduroam** kablosuz internet altyapısı aktiftir.
+* **Dilşad Hatun KYK Kız Öğrenci Yurdu:**  
+  Yalova'nın en modern ve yüksek kapasiteli yurtlarından olan **Dilşad Hatun KYK**, Termal yolu üzerinde konumlanmıştır. Termal MYO öğrencileri yurttan çıkıp minibüsle 5-7 dakikada okullarına ulaşabilirler.
+* **Termal ve Üvezpınar Apartları:**  
+  Kaplıca turizmi dolayısıyla ilçede çok sayıda mobilyalı, kaloriferli ve hatta sıcak termal suyu olan pansiyon ve apart daire bulunur. Öğrenciler **Yenimahalle** ve **Üvezpınar** köylerinde 10.000 - 15.000 TL aralığında eşyalı ev kiralayabilmektedir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🎓 Sağlık, Fizyoterapi ve Kaplıca Stajları
 
-* **Yemekhane:**  
-  Hafta içi her gün öğle saatlerinde üniversite tabldot yemekhanesinde 4 çeşit sıcak yemek (30 - 40 TL) çıkar.
-* **Kantin ve Kafeler:**  
-  Okul kantininde tost, sandviç ve sıcak meşrubatlar bulunur. Gökçedere meydanında ise yerel kafeler, fırınlar ve yöresel gözleme/börek salonları öğrencilerin ders aralarında uğrak noktasıdır.
+* **Fizyoterapi ve Yaşlı Bakımı:**  
+  Termal MYO, doğrudan sağlık turizmi ve hidroterapi alanında uzmanlaşmıştır:
+  * **Fizyoterapi:** Elektroterapi, egzersiz salonları ve hidroterapi uygulamaları.
+  * **İlk ve Acil Yardım (Paramedik):** Ambulans simülasyonları ve travma müdahale eğitimleri.
+  * **Tıbbi Dokümantasyon ve Sekreterlik:** Hastane otomasyon sistemleri.
+* **Kaplıca ve Hastane Entegrasyonu:**  
+  Öğrenciler Termal'deki Sağlık Bakanlığı Kaplıca Tesisleri'nde, fizik tedavi ve rehabilitasyon merkezlerinde zorunlu pratik stajlarını yaparlar.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 4. 🍽️ Beslenme ve Yöresel Tatlar
 
-* **Termal Su Ayrıcalığı:**  
-  Burada okuyan öğrencilerin en büyük sosyal ayrıcalığı, ders bitiminde veya sınav haftalarında tarihi Roma/Osmanlı kaplıca havuzlarına, açık termal havuzlara ve Türk hamamlarına sembolik öğrenci ücretleriyle girebilmeleridir.
-* **Tarih ve Doğa Parkurları:**  
-  Atatürk'ün "Yalova benim kentimdir" dediği ve sıklıkla kaldığı **Termal Atatürk Köşkü**, tescilli tarihi çınar ağaçları, botanik arboretum yolları ve **Sudüşen Şelalesi** yürüyüş rotaları yerleşkenin hemen çevresindedir.
-* **Part-Time İş ve Staj:**  
-  Fizyoterapi ve Yaşlı Bakımı öğrencileri için Sağlık Bakanlığı Yalova Termal Kaplıca Tesisleri, fizik tedavi hastaneleri, Yalova Devlet Hastanesi ve özel termal otellerde çok zengin staj ve istihdam imkanları bulunmaktadır.
+* **Yemekhane:** Hafta içi 30 - 40 TL'ye 4 çeşit tabldot yemek çıkar.
+* **Tarihi Termal Köftesi:** Termal meydanındaki tarihi köftecilerde sunulan mantarlı kaşarlı özel fırın köfte öğrencilerin en büyük ziyafetidir. Ayrıca fırınlardan taze çıkan cevizli Termal çöreği kahvaltılarda çok sevilir.
+
+---
+
+## 5. 🌲 Şifalı Doğa, Kaplıcalar ve Dinlenme
+
+* **Sıcak Termal Havuzlar:**  
+  Termal MYO öğrencisi olmanın en eşsiz yönü, kışın kar yağarken açık hava sıcak termal havuzlarına ve tarihi hamamlara indirimli öğrenci tarifesiyle girebilmektir.
+* **Sudüşen Şelalesi ve Doğa Yürüyüşleri:**  
+  Üvezpınar üzerinden ulaşılan **Sudüşen Şelalesi**, doğa yürüyüşü ve fotoğrafçılık kulüplerinin en popüler rotasıdır.
+* **Atatürk Termal Köşkü:**  
+  Cumhuriyet döneminin simge yapılarından olan Atatürk Köşkü'nün tarihi arboretumu ve parkı ders aralarında kitap okumak için huzurlu bir mekandır.
 
 ---
 
 ## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* **Sağlık ve Fizyoterapide Doğal Uygulama Alanı:** Türkiye'nin en ünlü termal tesislerinin içinde uygulamalı sağlık eğitimi alabilme.
-* **Orman Havası ve Huzur:** Oksijeni bol, gürültüden ve trafik karmaşasından uzak muazzam bir doğa.
-* **Merkeze 15 Dakika:** Şehir hayatı istediğinizde 15 dakikalık minibüsle Yalova Merkez sahiline varabilme konforu.
+* **Sağlık ve Fizyoterapide Zengin Pratik:** Kaplıca ve fizik tedavi tesislerinin içinde eğitim alma avantajı.
+* **Tertemiz Orman Havası:** Gürültüden, egzoz dumanından uzak, çam ormanları içinde şifa dolu bir yerleşke.
+* **Yalova Merkeze 15 Dakika:** Şehir merkezine ve feribot iskelesine çok yakın olması.
 
 ### ❌ Eksileri ve Kronik Sorunları
-* **Kış Akşamlarının Sakinliği:** Turist sezonu dışındaki kış aylarında ilçede akşamları dükkanların erken kapanması ve eğlence mekanlarının azlığı.
-* **Küçük Kampüs Binası:** Bağımsız büyük bir yerleşke yerine butik bir yüksekokul binasına sahip olması.
+* **Hareketsiz Gece Hayatı:** İlçe akşamları tamamen dinlenme ve sağlık turizmi havasına bürünür; kafe ve eğlence için Yalova merkeze inmek gerekir.
+* **Kış Yağışları:** Dağ yamacında olduğu için kışın sis ve yağmur ovaya göre daha fazladır.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 💡 Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Fizyoterapi veya İlk ve Acil Yardım kazandıysanız Termal MYO harika bir tercihtir. Kaplıca suları, çam ormanları arasında ders çalışmak tam bir terapi gibidir. Kışın sınav yorgunluğunu açık sıcak termal havuza girerek atmak gibi bir lüks başka hiçbir üniversitede yoktur. Sosyalleşmek istediğinizde de minibüsle 15 dakikada Yalova Merkez sahildesiniz!"
+> "Termal MYO'da özellikle Fizyoterapi veya Paramedik okuyorsan uygulama fırsatlarını sonuna kadar kullan. Kışın vize stresini atmak için arkadaşlarınla sıcak termal havuzlara girmek hiçbir üniversitede bulamayacağın bir ayrıcalıktır. Akşamları canlılık istiyorsan Dilşad Hatun KYK'da veya Yalova Merkez'de kalıp okula minibüsle gelmeyi düşünebilirsin."

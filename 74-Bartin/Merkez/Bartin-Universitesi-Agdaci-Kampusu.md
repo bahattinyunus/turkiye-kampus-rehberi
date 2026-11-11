@@ -4,7 +4,7 @@
 > **İl / İlçe:** Bartın / Merkez  
 > **Üniversite Türü:** Devlet  
 > **Kampüs Konumu:** Merkez Kampüs (Ağdacı Mahallesi - Şehir Merkezine ~3 km)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.3/5)
 
 ---
 
@@ -12,90 +12,75 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 3 km / ~8-10 dk | Şehir merkezinden sık aralıklarla kalkan Ağdacı halk otobüsleri |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Kampüs çevresinde ve yakınında KYK yurtları ve çok sayıda apart |
+| **🚇 Şehir Merkezine Uzaklık** | 3 km / ~8-10 dk | Kemer Meydanı'ndan sık aralıklarla Ağdacı Özel Halk Otobüsleri; yürümek de mümkün |
+| **🏠 KYK Yurt İmkanı** | Yüksek | Kampüs çevresinde Hasan Sabri Çavuşoğlu KYK Erkek Yurdu ve çok sayıda apart |
 | **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 11.500 - 16.000 TL | Ağdacı Mahallesi, Çatmaca, Kemerköprü |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Öğrenci yemekhanesi ve çevrede çok sayıda öğrenci lokantası/kafe |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri | Köklü kampüs kütüphanesi ve okuma salonu |
-| **🌐 İnternet (eduroam)** | Hızlı | Yeşil kampüs alanında ve binalarda stabil eduroam |
-| **🌆 Sosyal Yaşam & Çevre** | Canlı (Öğrenci Mahallesi) | Kampüs kapısından çıkınca apartlar, kafeler ve marketler başlar |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Öğrenci yemekhanesi (4 çeşit tabldot) + kapı çıkışında öğrenci kafeleri |
+| **📚 Kütüphane Kapasitesi** | Mesai Saatleri | Sakin ve huzurlu kampüs kütüphanesi, okuma salonu |
+| **🌐 İnternet (eduroam)** | Hızlı | Asırlık çınar ve meşelerin altında, açık alanlarda stabil eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | Canlı (Öğrenci Mahallesi) | Kapıdan çıkar çıkmaz kafeler, fırınlar, dönerciler ve marketler başlar |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚇 Ulaşım Ağı ve Öğrenci Taktikleri
 
-* **Şehir Merkezinden Ulaşım:**  
-  Ağdacı Kampüsü, Bartın Üniversitesi'nin kurucu yerleşkesidir ve şehir merkezine sadece **3 km** uzaklıktaki Ağdacı Mahallesi'nde yer alır. Kemer Meydanı ve Hükümet Caddesi'nden kalkan Ağdacı Özel Halk Otobüsleri ile 8-10 dakikada kampüs kapısına ulaşılır. Hava güzel olduğunda merkeze yürümek veya bisikletle gitmek bile mümkündür.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Kampüs, adını verdiği **Orman Fakültesi**, **İslami İlimler Fakültesi**, **Bartın Sağlık Hizmetleri MYO**, Sürekli Eğitim Merkezi ve çeşitli araştırma merkezlerine ev sahipliği yapar. Asırlık ağaçların altında, botanik bahçesini andıran kompakt bir yerleşke olduğu için tüm binalar birbirine 2-3 dakikalık yürüme mesafesindedir.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Bartın Kart (öğrenci indirimli biniş 16-20 TL) geçerlidir. Ancak Ağdacı Mahallesi'nde kalan öğrenciler kampüse yürüyerek 5 dakikada ulaştığı için ulaşım ücreti ödemezler.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Şehir içinde ve düz/hafif eğimli bir mahalle dokusunda yer aldığı için kış aylarında Kutlubey Kampüsü'ne kıyasla ulaşımı çok daha kolay ve korunaklıdır.
+* **Şehir Merkezinden Kolay Ulaşım:**  
+  Ağdacı Kampüsü, Bartın şehir merkezine sadece **3 km** uzaklıkta, Ağdacı Mahallesi'nde yer alır. Kemer Meydanı ve Hükümet Caddesi'nden kalkan Ağdacı halk otobüsleri her 10 dakikada bir sefer yapar; yolculuk 8-10 dakika sürer. Bahar aylarında merkeze yürümek (yaklaşık 25-30 dakika) veya bisikletle gitmek çok yaygındır.
+* **Kutlubey Kampüsü ile Bağlantı:**  
+  Kutlubey Kampüsü'ne gitmek isteyen öğrenciler merkezden aktarma yapabilir veya belirli saatlerde kalkan üniversite ring servislerini kullanabilir (yaklaşık 20 dk).
+* **Ulaşım Masrafsızlığı:**  
+  Ağdacı Mahallesi'nde kalan öğrenciler için kampüs yürüme mesafesinde olduğundan günlük ulaşım maliyeti **0 TL**'dir.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma, Yurtlar ve Mahalle Hayatı
 
 * **KYK Yurtları:**  
-  * **Erkek ve Kız Yurtları:** Ağdacı Kampüsü'ne oldukça yakın konumda yer alan **Hasan Sabri Çavuşoğlu KYK Erkek Öğrenci Yurdu** ve merkezdeki KYK kız yurtları öğrencilere yürüme veya tek vasıta mesafesinde barınma sağlar.
-* **Özel Yurtlar ve Apartlar:**  
-  Ağdacı Mahallesi, Bartın'da öğrenci apartı kültürünün doğduğu yerdir. Kampüs giriş kapısının tam karşısından itibaren 1+0, 1+1 ve 2+1 eşyalı öğrenci apartları ve özel yurtlar sıralanır.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  **Ağdacı Mahallesi** ve hemen devamındaki **Kemerköprü / Çatmaca** bölgesi öğrencilerin en yoğun yaşadığı mahallelerdir. Kutlubey Kampüsü'nde okuyan pek çok öğrenci bile sosyal ortamı ve merkeze yakınlığı nedeniyle Ağdacı'da ev tutmaktadır. Kiralar 11.500 - 16.000 TL aralığındadır.
+  Ağdacı Kampüsü'ne çok yakın mesafede yer alan **Hasan Sabri Çavuşoğlu KYK Erkek Öğrenci Yurdu** erkek öğrencilerin barınma merkezidir. Kız öğrenciler ise merkezdeki KYK yurtlarından veya Ağdacı apartlarından yararlanır. 23:00 turnike giriş kuralı burada da titizlikle uygulanır.
+* **Ağdacı Apart Vadisi:**  
+  Kampüs nizamiye kapısının hemen karşısından itibaren 1+0, 1+1 ve 2+1 eşyalı öğrenci apartları sıralanır. Ağdacı'da ev kiraları 11.500 - 16.000 TL aralığında olup fırın, market ve kafelere 2 dakika mesafededir. Sessizlik arayanlar Kemerköprü tarafını seçer.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 3. 🎓 Orman Fakültesi Geleneği ve Akademik Miras
 
-* **Kütüphane İmkanları:**  
-  Ağdacı Kampüsü Kütüphanesi, sessiz ve huzurlu atmosferiyle bilinir. Kutlubey'deki dev kütüphane kadar kalabalık olmadığı için özellikle vize ve final dönemlerinde sakin bir çalışma ortamı arayan öğrencilerin favorisidir.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Türkiye'nin en köklü orman fakültelerinden biri olan **Bartın Orman Fakültesi** (eski ZKÜ mirası) bu yerleşkededir; herbaryum, ahşap/mobilya atölyeleri, peyzaj tasarım stüdyoları ve sağlık hizmetleri uygulama laboratuvarları oldukça donanımlıdır.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Kampüs içi dersliklerde, kütüphanede ve çardak alanlarında **eduroam** bağlantısı sorunsuzdur.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Doğa ve Çevre, Peyzaj, Ormancılık, İslami İlimler ve İlk Yardım/Sağlık toplulukları Ağdacı yerleşkesinde aktif etkinlikler, fidan dikim şenlikleri ve söyleşiler düzenler.
+* **Türkiye'nin Öncü Orman Fakültesi:**  
+  Bartın Orman Fakültesi, Türkiye'nin en köklü ve saygın ormancılık okullarından biridir. Fakültenin zengin herbaryum koleksiyonu, ahşap mekaniği laboratuvarları, peyzaj mimarlığı çizim stüdyoları ve fidanlık uygulama alanları öğrencilere üst düzey pratik tecrübe kazandırır.
+* **Sağlık Hizmetleri MYO:**  
+  İlk ve Acil Yardım (Paramedik), Yaşlı Bakımı ve Tıbbi Hizmetler programları tam donanımlı simülasyon sınıflarında işlenir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 4. 🍽️ Beslenme, Sokak Lezzetleri ve Esnaf
 
-* **Merkez Yemekhane:**  
-  Kampüs içerisindeki öğrenci yemekhanesinde hafta içi öğle yemekleri üniversitenin standart uygun tarifesiyle (25 - 35 TL) verilir.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Ağdacı Kampüsü'nün en büyük artısı, kampüs kapısından dışarı adım atar atmaz öğrenci kafeleri, dönerciler, ev yemekleri yapan lokantalar, zincir marketler (BİM, A101, ŞOK) ve kırtasiyelerle karşılaşmanızdır. Kampüs içi kantinler de ağaçlık bahçe alanlarıyla çok keyiflidir.
-* **Spor Tesisleri:**  
-  Yerleşke içinde açık spor sahaları, yürüyüş parkurları ve masa tenisi/kondisyon alanları bulunur.
+* **Yemekhane:** Hafta içi 25 - 35 TL'ye 4 çeşit sıcak ve besleyici yemek verilir.
+* **Ağdacı Fırınları ve Çarşısı:** Kampüs çıkışında sabahları sıcak Bartın su böreği, gevrek simit ve poğaça çıkaran fırınlar, uygun fiyatlı tavuk dönerciler ve öğrenci kahveleri yer alır.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 5. 🌲 Botanik Kampüs ve Sosyal Yaşam
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Ağdacı Mahallesi yıllardır öğrencilerle iç içe yaşadığı için mahalle esnafı tamamen öğrenci odaklıdır. Gece geç saatlere kadar açık market ve büfeler bulunur.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Kampüsün doğal arboretum (ağaç parkı) yapısı başlı başına bir dinlenme alanıdır. Akşamları öğrenciler yürüme/kısa otobüs mesafesindeki **Bartın Çayı (Yalı)** kenarındaki kafelere veya Kemer Meydanı'na iner.
-* **Part-Time İş ve Staj Olanakları:**  
-  Şehir merkezine çok yakın olduğu için Ağdacı'da okuyan öğrenciler ders aralarında bile merkezdeki kafe ve mağazalarda part-time çalışabilirler. Ayrıca Orman Bölge Müdürlüğü ve şehir hastanesi/sağlık kuruluşları staj için hemen yanı başındadır.
+* **Açık Hava Arboretumu:**  
+  Ağdacı Kampüsü asırlık ağaçlar, nadir bitki türleri ve botanik yürüyüş parkurlarıyla adeta bir şehir parkı gibidir. Bahar aylarında banklarda veya çimlerde oturup ders çalışmak çok keyiflidir.
+* **Bartın Çayı (Yalı) Kordonu:**  
+  Öğrenciler ders çıkışında yürüyerek Bartın Çayı kıyısındaki Gazhane Parkı ve Yalı kafelerine inerek çay-kahve içer veya nehir kenarında yürür.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* **Yemyeşil Doğal Kampüs:** Botanik bahçesini andıran, asırlık ağaçlarla kaplı huzurlu bir kampüs atmosferi.
-* **Şehir Merkezine ve Apartlara Yakınlık:** Kampüsten çıkar çıkmaz öğrenci mahallesinin içinde olmak ve merkeze 8 dakikada ulaşmak.
-* **Ulaşım Zahmetinin Olmaması:** Ağdacı'da yaşayan bir öğrencinin otobüs kalabalığı çekmeden yürüyerek derse gidebilmesi.
+* **Şehir İçi Konum:** Kutlubey'in 11 km'lik otobüs çilesinden tamamen uzak, merkeze komşu kampüs hayatı.
+* **Yemyeşil Botanik Doku:** Ağaçlar ve kuş sesleri içinde stresiz bir eğitim alanı.
+* **Apart ve Yurt Yakınlığı:** Yataktan kalkıp 5 dakikada amfiye varabilme lüksü.
 
-### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
-* **Bölümlerin Sınırlı Olması:** Üniversitenin çoğu fakültesi Kutlubey'e taşındığı için Ağdacı'da öğrenci çeşitliliğinin daha az olması.
-* **Bina Yaşları:** Bazı binaların Kutlubey'deki sıfır binalara kıyasla daha eski (ancak bakımlı) olması.
-* **Büyük Etkinliklerin Kutlubey'de Yapılması:** Büyük konser ve şenlikler için Kutlubey Kampüsü'ne gitmek gerekmesi.
+### ❌ Eksileri ve Kronik Sorunları
+* **Binaların Yaşı:** Kampüs köklü olduğu için bazı idari binalar Kutlubey'in ultra modern binalarına göre daha eskidir.
+* **Merkez Kütüphane İmkanları:** Gece 7/24 çalışma ve devasa kütüphane için Kutlubey Kampüsü'ne gitmek gerekebilir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 💡 Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Bölümünüz Ağdacı Kampüsü'ndeyse Bartın'ın en şanslı öğrencilerindensiniz demektir. Ağdacı Mahallesi'nden bir apart veya ev tutun, sabah kuş sesleri ve çam kokuları arasında yürüyerek 5 dakikada dersinize gidin; ulaşım stresiniz hiç olmasın."
+> "Ağdacı'da Orman veya Sağlık MYO kazandıysan çok şanslısın; Kutlubey'deki arkadaşlar her gün otobüste sıkışırken sen yürüyerek derse gireceksin. Ağdacı Mahallesi'nde bir apart tut, sabah sıcacık bir dilim Bartın su böreği kapıp botanik kampüsün tadını çıkar!"

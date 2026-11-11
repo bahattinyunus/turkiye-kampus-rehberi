@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Çanakkale / Merkez  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Boğaz Manzaralı Şehir İçi/Çeperi Ana Kampüs (Barbaros - Kepez Sınırı)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.6/5)
+> **Kampüs Konumu:** Boğaz Manzaralı Şehir Çeperi Tepe Kampüsü (Barbaros - Kepez Sınırı)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.8/5)
 
 ---
 
@@ -12,91 +12,83 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 4 km / ~10 - 15 dk | Barbaros, İskele ve Kepez'den Ç1, Ç3, Ç8, Ç11G otobüsleriyle |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Kampüs içi ve etrafında çok sayıda Kız ve Erkek KYK Yurdu |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 15.000 - 22.000 TL | Barbaros Mahallesi (Troya/Atatürk Cad.) ve Kepez |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | ÖSEM (Öğrenci Sosyal Etkinlik Merkezi) yemekhanesi |
-| **📚 Kütüphane Kapasitesi** | 7/24 Açık | Türkiye'nin en zengin taşra kütüphanelerinden biri (ÇOMÜ 7/24 Kütüphane) |
-| **🌐 İnternet (eduroam)** | İyi | Fakülteler, ÖSEM ve kütüphanede kesintisiz bağlantı |
-| **🌆 Sosyal Yaşam & Çevre** | Efsanevi / Çok Canlı | Çanakkale Kordon, Barbaros kafeleri, Kepez sahili ve 17 Burda AVM |
+| **🚇 Şehir Merkezine Uzaklık** | 4 km / ~10 - 15 dk | İskele, Barbaros ve Kepez'den Ç1, Ç3, Ç8, Ç9 ve Ç11G belediye otobüsleriyle tek vasıta |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs içinde Safiye Hüseyin Elbi, Terzioğlu Kız KYK, Kerime Sultan; alt tarafta Nusrat Erkek |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 15.000 - 22.500 TL | Barbaros Mahallesi (Troya/Atatürk Cad.), Kepez Sahil ve 17 Burda AVM çevresi |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | ÖSEM (Öğrenci Sosyal Etkinlik Merkezi) ana yemekhanesi, Boğaz manzaralı balkonlar |
+| **📚 Kütüphane Kapasitesi** | 7/24 Kesintisiz Açık | ÇOMÜ Merkez Kütüphanesi; sınav döneminde 23:30 gece çorbası ve Boğaz manzaralı masalar |
+| **🌐 İnternet (eduroam)** | Çok Hızlı | Fakültelerde, kütüphanede ve ÖSEM'de kesintisiz gigabit eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | Türkiye'nin Zirvesi | Kordon boyu, Barbaros kafeleri, Özgürlük Parkı, Bozcaada/Gökçeada feribotları |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım, Terzioğlu Rüzgarlı Tepe Otobüsleri ve Merdiven Taktikleri
 
-* **Şehir Merkezinden Ulaşım:**  
-  Terzioğlu Kampüsü, Barbaros Mahallesi ile Kepez beldesinin birleştiği noktada, Çanakkale Boğazı'na yukarıdan bakan yüksek bir tepe üzerine kurulmuştur. İskele Meydanı, Barbaros ve Kepez'den kalkan **Ç1, Ç3, Ç8, Ç9 ve Ç11G** numaralı belediye otobüsleri doğrudan kampüsün içine girer. Barbaros'ta (Troya Caddesi çevresinde) oturan bir öğrenci için kampüs 10 dakikalık otobüs mesafesindedir.
-* **Kampüs İçi Ulaşım ve "Terzioğlu Yokuşu":**  
-  Terzioğlu Kampüsü'nün en belirgin fiziksel özelliği **dik yokuşları ve merdivenleridir!** Kampüs alt kapısından (İzmir yolu) en üstteki Fen-Edebiyat, Mühendislik, Tıp Fakültesi ve KYK yurtlarına yürüyerek çıkmak kondisyon ister; bu yüzden kampüs içine giren belediye otobüsleri (özellikle Ç11G ve Ç3/Ç8) kampüs içinde de duraklar arası yoğun olarak kullanılır.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  **Kentkart** öğrenci kartı ile indirimli biniş ve aktarma yapılır.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  **Çanakkale'nin rüzgarı (Poyraz ve Lodos) efsanedir!** Terzioğlu tepesinde rüzgarlı ve yağmurlu günlerde şemsiyeler ters döner; sabah 08:30-09:30 ders saatlerinde ise Barbaros duraklarındaki otobüsler tıklım tıklım dolu geçebilir.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** Terzioğlu Kampüsü içinde ve hemen çevresinde yer alan **Safiye Hüseyin Elbi Kız KYK Yurdu** (Boğaz manzaralı odalarıyla ünlüdür), **Terzioğlu Kız KYK Yurdu**, **Kerime Sultan Kız KYK Yurdu** ve **Çanakkale Kız KYK Yurdu** yüksek kapasite sunar.
-  * **Erkek Yurtları:** **Nusrat Erkek KYK Yurdu** ve **Çanakkale Erkek KYK Yurdu** kampüse ve Barbaros Mahallesi'ne çok yakın konumdadır.
-* **Özel Yurtlar ve Apartlar:**  
-  Barbaros Mahallesi ve Kepez'de yüzlerce özel kız/erkek öğrenci yurdu ve 1+0 / 1+1 stüdyo apart bulunur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Terzioğlu öğrencilerinin tartışmasız merkezi **Barbaros Mahallesi** (özellikle Troya Caddesi, Aziziye Caddesi, Plaj Sokak ve 100. Yıl Caddesi) ile kampüsün hemen altındaki **Kepez (17 Burda AVM ve Sahil çevresi)** bölgesidir. Ancak yüksek talep nedeniyle Çanakkale'de kiralar büyükşehirlerle yarışır (15.000 - 22.000 TL).
+* **Rüzgarlı Tepeye Tırmanan Otobüsler (Ç1, Ç3, Ç8, Ç11G):**  
+  Terzioğlu Kampüsü, Çanakkale Boğazı'na tepeden bakan dik bir sırt üzerine kurulmuştur. 
+  * Şehir içi ulaşımın omurgasını **Ç1, Ç3, Ç8, Ç9 ve Ç11G** hatları oluşturur.
+  * *Oturma ve Biniş Taktikleri:* Barbaros Mahallesi'nde (Troya Caddesi ve Aziziye Caddesi duraklarında) sabah 08:15-09:15 saatleri arasında otobüsler balık istifi geçer. Ara durakta beklerseniz otobüs durmadan transit geçebilir. Yürüyerek Troya Caddesi'nin kalkış noktasına yakın duraklarına gitmek veya Ç11G'nin geçtiği ana arterlerde erken sıraya girmek derse geç kalmayı önler.
+* **Terzioğlu Dik Yokuşları ve Merdiven Çilesi:**  
+  Otobüsler kampüsün en üst noktasındaki Tıp Fakültesi, Mühendislik ve Fen-Edebiyat binalarına kadar çıkar. Ancak ders aralarında veya otobüs kaçtığında kampüs alt kapısından (İzmir Yolu / 17 Burda hizasından) yukarıya yürümek **yüzlerce dik basamak ve rüzgara karşı tırmanış** gerektirir. ÇOMÜ öğrencileri arasında bu yokuş "bacak kası geliştirme parkuru" olarak anılır.
+* **Otostop Noktaları:**  
+  * Kampüse çıkarken: **İzmir Yolu Kampüs Alt Girişi (Işıklar)** ve **17 Burda AVM Önü**.
+  * Şehre inerken: **ÖSEM Önü Meydanı** ve **Tıp Fakültesi Hastanesi Ana Çıkışı**. 
+  Özel araçlı akademisyenler ve yerel halk el kaldıran öğrencileri arabalarına almaktan mutluluk duyar; öğrenci kartınızı göstermeniz yeterlidir.
+* **Ulaşım Kartı (Kentkart):**  
+  Çanakkale Kentkart öğrenci vizesiyle indirimli biniş ve hatlar arası ücretsiz/indirimli aktarma sağlanır.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma, Yurtlar ve Barbaros Mahallesi Dinamikleri
 
-* **Kütüphane İmkanları:**  
-  **ÇOMÜ Merkez Kütüphanesi**, yaklaşık 1 milyon basılı/elektronik kaynağı, 7/24 açık dev çalışma salonları ve Boğaz manzaralı okuma alanlarıyla Türkiye'nin en iyi üniversite kütüphanelerinden biridir.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Kampüste **Tıp Fakültesi (ve devasa ÇOMÜ Araştırma Hastanesi)**, **Mühendislik Fakültesi** (Bilgisayar, Elektrik-Elektronik, Gıda, İnşaat, Çevre, Jeoloji, Maden), **Fen-Edebiyat**, **Ziraat**, **Deniz Bilimleri ve Teknolojisi** (Piri Reis araştırma gemisi ve deniz müzesiyle), **İletişim** ve **Güzel Sanatlar** fakülteleri yer alır. Ayrıca kampüsteki **Çanakkale Teknopark** teknoloji firmalarına ev sahipliği yapar.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  eduroam ve ÇOMÜ ÜBYS (Üniversite Bilgi Yönetim Sistemi) Türkiye'nin en gelişmiş entegre dijital kampüs sistemlerinden biridir.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  130'dan fazla aktif öğrenci kulübü vardır. Yelken, Sualtı (Dalış), Rüzgar Sörfü, Dağcılık, Tiyatro, Sinema ve TEKNOFEST toplulukları çok aktiftir.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane (ÖSEM):**  
-  Kampüsün sosyal merkezi olan **ÖSEM (Öğrenci Sosyal Etkinlik Merkezi)** binasında devasa öğrenci yemekhanesi yer alır. Kampüs kart / ÜBYS üzerinden rezervasyonla 25-35 TL bandında kaliteli öğle ve akşam yemeği yenir.
-* **Kantinler, Kafeler ve Çarşı:**  
-  ÖSEM içerisinde ve etrafında Boğaz manzaralı teras kafeler, zincir kahveciler, kırtasiye, market, kuaför ve ATM'ler bulunur. Ayrıca kampüsün hemen alt kapısından yürüyerek 10 dakikada **17 Burda AVM**'ye inilebilir!
-* **Spor Tesisleri:**  
-  Hasan Mevsuf Spor Salonu, tenis kortları, halı sahalar, fitness salonu ve Dardanos sahil tesisleri öğrencilerin hizmetindedir.
+* **KYK Yurtları ve Oda Yaşamı:**  
+  * **Safiye Hüseyin Elbi Kız KYK Yurdu:** Kampüsün zirvesinde Boğaz manzaralı odalara sahiptir. 3-4 kişilik bazalı odalar, oda içi banyo ve 24 saat sıcak su vardır. Odaların penceresinden Boğaz'dan geçen dev kargo gemilerini izlemek eşsiz bir histir.
+  * **Terzioğlu Kız KYK & Kerime Sultan Kız KYK:** Kampüs içinde fakültelere 5-10 dakika yürüme mesafesinde olan yüksek kapasiteli bloklardır. Çamaşırhaneler randevulu sistemle çalışır.
+  * **Nusrat Erkek KYK Yurdu:** Kampüsün hemen alt eteğinde, Barbaros-Kepez sınırındadır; kampüse çıkan otobüslere veya yürüyüş merdivenlerine çok yakındır.
+* **Barbaros Mahallesi Emlak Dinamikleri & Kiralar:**  
+  ÇOMÜ öğrencilerinin %70'i **Barbaros Mahallesi**'nde (Troya Caddesi, Aziziye Caddesi, Plaj Sokak, Atatürk Caddesi) ve **Kepez Sahili** çevresinde yaşar.
+  * *Emlakçı ve Fiyat Gerçeği:* Çanakkale Türkiye'nin en popüler öğrenci ve emekli kenti olduğu için kiralar büyükşehirleri aratmaz (15.000 - 22.500 TL). Emlakçıların peşinat ve komisyon talepleri serttir. Ev tutarken kombi bakımının yapılmış olmasına ve binanın poyraz cephesinde iyi yalıtımlı olmasına dikkat edilmelidir.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🍽️ Beslenme, ÖSEM Manzarası ve Çanakkale Lezzetleri
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Çanakkale halkı Türkiye'nin en çağdaş, hoşgörülü, hayvansever ve öğrenci dostu insanlarından oluşur. Kadın ve erkek öğrenciler gece 02:00-03:00'te bile Kordon'da veya Barbaros'ta güvenle yürüyebilir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  **Çanakkale Kordon Boyu**, **Barlar Sokağı (Fetvane Sokak)**, **Yeni Kordon (Barbaros Sahili)**, **Kepez Sahili** ve **Özgürlük Parkı** (Boğaz'a karşı çimlerde oturup gün batımı izleme ritüeli) öğrencilerin vazgeçilmezidir. Hafta sonu feribotla **Bozcaada**, **Gökçeada** veya **Gelibolu Yarımadası**'na gitmek, **Assos ve Kazdağları**'nda kamp yapmak Çanakkale'de sıradan bir hafta sonu aktivitesidir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Turizm ve kafe/restoran sektörü çok canlı olduğu için Kordon, Barbaros ve 17 Burda AVM'de part-time iş bulmak oldukça kolaydır.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* Türkiye'nin en özgür, en güvenli ve sosyal hayatı en canlı öğrenci şehirlerinden birinde okuma ayrıcalığı.
-* Çanakkale Boğazı manzaralı kampüs, 7/24 açık dev kütüphane ve güçlü akademik/hastane altyapısı.
-* Kampüse çok yakın mesafede KYK yurtları, öğrenci mahalleleri (Barbaros/Kepez) ve AVM bulunması.
-
-### ❌ Eksileri
-* Kira fiyatlarının yoğun talep nedeniyle büyükşehir (İstanbul/İzmir) seviyesine yaklaşmış olması.
-* Terzioğlu Kampüsü'nün çok dik yokuşlu olması ve kışın sert Çanakkale Boğazı rüzgarı.
-* Sabah ders saatlerinde Ç11G ve Ç8 otobüslerinde yaşanan yoğunluk.
+* **ÖSEM (Öğrenci Sosyal Etkinlik Merkezi) Yemekhanesi:**  
+  Kampüsün kalbi ÖSEM'dir. Zemin ve üst katında yer alan dev yemekhanede 25-35 TL bandında kaliteli 4 çeşit menü çıkar. Boğaz manzaralı terasında ders aralarında semaver/çay keyfi yapmak bir ÇOMÜ geleneğidir.
+* **Meşhur Peynir Helvası Ritüeli:**  
+  Çanakkale merkezde Saat Kulesi arkasındaki tarihi tatlıcılarda sıcak fırınlanmış peynir helvası yemek, finallerde kan şekeri düşen öğrencilerin milli ilacıdır.
+* **Kordon Simitçileri ve Balık-Ekmek:**  
+  Sabah dersine giderken İskele'den taze çıtır simit almak, akşam ise Kordon'daki balıkçılarda sardalya ekmek yemek bütçe dostu lezzetlerdir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 4. 📚 Akademik Yaşam, Baraj Dersleri ve Final Taktikleri
 
-> 💬 **Öğrenci Notu:**  
-> "Çanakkale'yi kazandıysan hayatının en güzel 4 yılını yaşamaya hazır ol; mezun olduktan sonra bile bu şehirden ayrılmak istemeyeceksin! Tek tavsiyem: Ev aramayı sakın Eylül ayına bırakma, Ağustos'ta gelip Barbaros veya Kepez'de evini tut. Bir de Çanakkale'de şemsiye kullanılmaz (rüzgardan kırılır), sağlam bir kapüşonlu yağmurluk al!"
+* **Fakültelerin Karakteristiği ve Barajlar:**  
+  * **Deniz Bilimleri ve Teknolojisi Fakültesi:** Piri Reis araştırma gemisiyle deniz seferleri, dalış eğitimleri ve laboratuvar pratikleri oldukça katıdır.
+  * **Ziraat Fakültesi:** Tarla bitkileri, bahçe ve zootekni uygulama derslerinde Dardanos yerleşkesi arazilerinde saha barajları vardır.
+  * **Tıp Fakültesi:** Komite barajları zordur; araştırma hastanesi bölgenin en büyük sağlık kompleksidir.
+* **Kütüphanede Boğaz Manzaralı Masa Kapma Savaşı:**  
+  * ÇOMÜ Merkez Kütüphanesi 7/24 kesintisiz açıktır ve 1 milyona yakın kaynağıyla devasa bir araştırma merkezidir.
+  * Vize ve final haftalarında kütüphanenin üst katındaki **Boğaz manzaralı cam kenarı masaları kapmak** için sabah 07:45'te kapıda olmak gerekir. Saat 09:00'dan sonra prizli masa bulmak imkansızdır.
+  * Sınav döneminde her gece **23:30**'da kütüphane önünde sıcak çorba ve ekmek dağıtımı yapılır.
+
+---
+
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **Şemsiye Düşmanı "Çanakkale Poyrazı":**  
+  Çanakkale'nin poyraz ve lodos fırtınası efsanedir. Terzioğlu tepesinde yürürken şemsiye açmaya çalışmak şemsiyenin 30 saniye içinde ters dönüp telleriyle parçalanmasıyla sonuçlanır. Kapüşonlu, su ve rüzgar geçirmez outdoor montlar mecburidir.
+* **Terzioğlu Dik Yokuşları:**  
+  Otobüs kaçırdığınızda veya ring beklemek istemediğinizde kampüs basamaklarını tırmanmak nefes nefese bırakır; ilk aylarda ciddi kas ağrısı yapar.
+* **Yüksek Kira ve Yaşam Maliyeti:**  
+  Barbaros Mahallesi'ndeki kiralar öğrenci bütçesini zorlar; 2-3 kişi birleşmeden kaliteli bir eve çıkmak oldukça güçtür.
+
+---
+
+## 6. 💡 ÇOMÜ Öğrencisine Altın Tavsiyeler
+
+1. **Şemsiyeyi Unut, Rüzgarlık Al:** Çanakkale'de şemsiyeye para vermeyin; kaliteli bir rüzgar kesici mont hayat kurtarır.
+2. **Ev Aramayı Ağustos'ta Bitir:** Eylül'e kalırsanız Barbaros'ta ev bulamazsınız; evinizi erken tutup sözleşmeyi garantiye alın.
+3. **Bozcaada & Assos Kaçamakları:** Bahar aylarında feribota atlayıp Bozcaada'ya gitmek, Gestaş öğrenci kartıyla adaları gezmek öğrenciliğin en büyük bonusudur.
+4. **Özgürlük Parkı'nda Gün Batımı:** Vize stresinden bunaldığınızda akşamüstü Özgürlük Parkı çimlerine oturup Boğaz'dan batan güneşi izleyin; tüm yorgunluğunuzu siler.

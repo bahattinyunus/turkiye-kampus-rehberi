@@ -2,9 +2,9 @@
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Eskişehir / Tepebaşı  
-> **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Şehir Merkezinin Kalbinde Ana Kampüs  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.9/5)
+> **Üniversite Türü:** Devlet (Özerk Kültür & Araştırma Geleneği)  
+> **Kampüs Konumu:** Şehir Merkezinin Kalbinde Ana Kampüs (Üniversite Caddesi / Bağlar)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.9/5 - Türkiye'nin En İyi Öğrenci Kampüsü)
 
 ---
 
@@ -12,92 +12,93 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 0 km (Şehrin Tam Kalbi - Bağlar) | Kampüs kapısı doğrudan Üniversite Caddesi'ne ve Estram durağına açılır |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Kampüs bitişiğinde Gündüzalp Erkek KYK, Yunus Emre ve Cumhuriyet Kız KYK |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 12.000 - 18.000 TL | Yenibağlar, Bahçelievler, Eskibağlar, Şirintepe |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 20 - 30 TL / Çok İyi | Öğrenci Merkezi Yemekhanesi + Ücretsiz/İndirimli Kahvaltı ve Vegan Menü |
-| **📚 Kütüphane Kapasitesi** | 7/24 Açık | Anadolu Üniversitesi Merkez Kütüphanesi (Türkiye'nin en iyilerinden, gece ikramlı) |
-| **🌐 İnternet (eduroam)** | Çok Hızlı | Tüm amfilerde, çim alanlarda ve kütüphanede kesintisiz fiber eduroam |
-| **🌆 Sosyal Yaşam & Çevre** | Efsanevi / Çok Canlı | Kampüs içi Sinema Anadolu, Tiyatro, Müzeler + Bağlar, Adalar ve Barlar Sokağı |
+| **🚇 Şehir Merkezine Uzaklık** | 0 km (Şehrin Tam Kalbi - Bağlar) | Eczacılık ve Yunus Emre kapıları doğrudan Estram duraklarına açılır |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (Bitişik Konum) | Gündüzalp Erkek KYK (kampüse 1 dk), Yunus Emre & Cumhuriyet Kız KYK |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 12.000 - 18.500 TL | Yenibağlar, Eskibağlar, Bahçelievler, Güllük, Şirintepe |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 20 - 30 TL / Efsanevi (3 Öğün) | Sabah kahvaltısı + Öğle + Akşam yemeği; Vegan ve Glütensiz menü seçeneği |
+| **📚 Kütüphane Kapasitesi** | 7/24 Kesintisiz Açık | Anadolu Üniversitesi Merkez Kütüphanesi (Gece ücretsiz çorba/çay/kek ikramlı) |
+| **🌐 İnternet (eduroam)** | Çok Güçlü Fiber | Amfilerde, çim alanlarda, yemekhanede ve kütüphanede gigabit hız |
+| **🌆 Sosyal Yaşam & Çevre** | Türkiye'nin Zirvesi | Sinema Anadolu, Haller Gençlik Merkezi, Adalar/Porsuk, Espark, Barlar Sokağı |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Ağı ve Tramvay Taktikleri (Kapı Sırları)
 
-* **Şehir Merkezinden Ulaşım:**  
-  Anadolu Üniversitesi **Yunus Emre Kampüsü**, şehir ile kampüs sınırının en güzel şekilde eridiği yerleşkelerden biridir. Güney kapıları (**Eczacılık Kapısı ve İİBF/Çarşı Kapısı**) doğrudan Eskişehir'in en hareketli caddesi olan **Üniversite Caddesi (Bağlar)**'ne ve **Estram (Anadolu Üniversitesi / Eczacılık)** tramvay duraklarına açılır. Yüksek Hızlı Tren (YHT) Garı'ndan ve Espark AVM'den yürüyerek 10-12 dakikada, Eskişehir Otogarı'ndan ise tek tramvayla 20 dakikada kampüse ulaşılır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Yunus Emre Kampüsü, asırlık ağaçları, Japon Bahçesi ve yürüyüş yollarıyla adeta bir botanik park gibidir. Kampüs içi yaya ve bisiklet önceliklidir; bir uçtan diğer uca (Eczacılık kapısından Eğitim/Hukuk fakültelerine) yürümek 10-15 dakika sürer.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Şehir içi ulaşımda **Eskart** geçerlidir; ancak Yenibağlar, Eskibağlar, Bahçelievler veya Şirintepe'de yaşayan bir Anadolu Üniversitesi öğrencisi 4 yıl boyunca neredeyse hiç toplu taşıma kullanmadan her yere yürüyebilir.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Eskişehir'in meşhur **kuru ayazı** kış aylarında özellikle sabah derslerine giderken yüzünüzü kesebilir (-10°C ve altı görülebilir). Ancak kampüs içi ağaçlık ve düz ayak olduğu için yürümek kolaydır ve tüm binalar merkezi sistemle çok iyi ısıtılır.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  * **Erkek Yurtları:** **Gündüzalp KYK Erkek Öğrenci Yurdu**, Yunus Emre Kampüsü'nün hemen yanında (Cuma kapısı / İlahiyat-Eğitim tarafı) yer alır; kampüse adım atmak 1 dakikadır.
-  * **Kız Yurtları:** **Yunus Emre KYK Kız Öğrenci Yurdu** ve **Cumhuriyet KYK Kız Öğrenci Yurdu** kampüse yürüme ve kısa tramvay mesafesinde hizmet verir.
-* **Özel Yurtlar ve Apartlar:**  
-  Kampüsün etrafını saran **Yenibağlar, Eskibağlar, Bahçelievler ve Şirintepe** mahallelerinde yüzlerce özel öğrenci yurdu ve 1+0 / 1+1 eşyalı apart bulunur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Yenibağlar & Eskibağlar (Bağlar):** Kampüsten çıktığınız anda başlayan, gece 03.00'te bile sokaklarında öğrencilerin yürüdüğü, çorbacıların, kahvecilerin ve marketlerin açık olduğu Eskişehir'in kalbidir.
-  * **Şirintepe (Yeşiltepe sınırı):** Kampüsün batı kapısına (Kapalı Yüzme Havuzu / Eczacılık arkası) açılan, Bağlar'a göre kiraların 2.000-3.000 TL daha uygun olduğu tam bir öğrenci mahallesidir.
+* **Tramvay Hatları ve Kapı Seçimi Rehberi (Hangi Kapıdan Girilmeli?):**  
+  Yunus Emre Kampüsü'nün önünden geçen **Estram (Otogar - SSK / Osmangazi - SSK / Kumlubel)** hattında iki kritik durak vardır:
+  * **Eczacılık Kapısı (Eczacılık Durağı):** Kampüsün en batı girişidir. Eczacılık, Hukuk Fakültesi, İletişim Bilimleri Fakültesi (ve TVA stüdyoları), İİBF amfileri ve Kapalı Yüzme Havuzu'na gidecekseniz **kesinlikle bu durakta inmelisiniz**. Buradan indiğinizde dersliğe ulaşmak sadece 2-3 dakikadır.
+  * **Yunus Emre Kapısı (Anadolu Üniversitesi Durağı):** Kampüsün ana protokol kapısıdır. Eğitim Fakültesi, Edebiyat Fakültesi, Devlet Konservatuvarı, Açıköğretim Fakültesi (AÖF) Merkez Binası ve Rektörlük birimlerine gidecekseniz bu kapıyı kullanmalısınız. Eczacılık kapısından inip Eğitim Fakültesi'ne yürümek kampüs içinde 15 dakikalık gereksiz bir yürüyüş demektir.
+  * **Çarşı / Bağlar Kapısı (Öğrenci Kestirmesi):** Üniversite Caddesi üzerinden doğrudan Öğrenci Merkezi, Merkez Kütüphane ve yemekhaneye kestirmeden bağlanan yaya kapısıdır; öğle yemeğine ve kütüphaneye giden öğrencilerin en çok kullandığı geçittir.
+* **YHT Tren Garı ve Espark Bağlantısı:**  
+  Eskişehir Hızlı Tren Garı'ndan çıkan bir öğrencinin tramvaya binmesine bile gerek yoktur; Gar alt geçidini geçip Fabrikalar Caddesi ve Espark AVM yönünde yürüyerek **10-12 dakikada** Eczacılık kapısına varabilirsiniz. Espark AVM ise kampüsün ana kapısına sadece 350 metre mesafededir.
+* **Kampüs İçi Bisiklet ve Yaya Yaşamı:**  
+  Kampüs taşıt trafiğine neredeyse tamamen kapalıdır. Asırlık çınarlar, Japon Bahçesi ve botanik bitki örtüsüyle adeta bir milli park gibidir. Kampüs içi bisiklet ve scooter kullanımı için son derece elverişlidir; düz ayaktır, hiçbir rampa bulunmaz.
+* **Kış Ayazında Ulaşım Sırrı:**  
+  Eskişehir'in ünlü kuru ayazı (-12°C'lere indiğinde) Üniversite Caddesi rüzgar koridorunda yüzünüzü dondurabilir. Soğuk kış sabahlarında Espark ile kampüs arasındaki rüzgarlı açık cadde yerine, Yenibağlar iç sokaklarındaki binaların rüzgar kesen koridorlarından yürümek kıdemli öğrencilerin en büyük taktiğidir.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma, Mahalle Dinamikleri ve Apart Tuzakları
 
-* **Kütüphane İmkanları:**  
-  Kampüsün tam merkezindeki **Anadolu Üniversitesi Kütüphane ve Dokümantasyon Merkezi**, yüz binlerce basılı kitabı, 7/24 açık çalışma salonları, sesli/sessiz katları, sanat kitaplığı ve sınav dönemlerinde gece yarısı verilen ücretsiz sıcak çorba/çay/kahve ikramlarıyla öğrencilerin ikinci evidir.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Anadolu Üniversitesi özellikle **Hukuk, İletişim Bilimleri (Sinema ve Televizyon, Yeni Medya, Basın-Yayın), İİBF, Eczacılık, Eğitim, Güzel Sanatlar (Çizgi Film ve Animasyon, Grafik) ve Devlet Konservatuvarı** alanlarında Türkiye'nin zirvesindeki okullardan biridir. İletişim Bilimleri'nin televizyon stüdyoları (TVA), Eczacılık Fakültesi'nin **BİBAM** araştırma laboratuvarları ve Çizgi Film/Animasyon stüdyoları uluslararası standartlardadır.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Anadolu Üniversitesi'nin devasa dijital yayıncılık ve bilişim gücü sayesinde `eduroam` internet hızı, **Anadolu Mobil** uygulaması ve **Mergen (Canvas)** öğrenme yönetim sistemi kusursuz çalışır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  60'tan fazla çok aktif öğrenci kulübü vardır. Kampüs içinde profesyonel **Sinema Anadolu**, **Atatürk Kültür ve Sanat Merkezi (AKSM - Opera, Bale, Senfoni ve Tiyatro salonları)** ve **Çağdaş Sanatlar Müzesi** yer alır. Her yıl düzenlenen **Uluslararası Eskişehir Film Festivali** ve Tiyatro Festivali doğrudan kampüs içinde gerçekleşir.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane:**  
-  Öğrenci Merkezi içindeki devasa yemekhanede **günde 3 öğün** (sabah kahvaltısı, öğle ve akşam yemeği) servis edilir! Ayrıca glütensiz (çölyak) ve **vegan/vejetaryen** menü çıkaran Türkiye'deki ilk ve en düzenli yemekhanelerden biridir. Fiyatları son derece ekonomiktir (20-30 TL bandı).
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içinde çarşı, kuaför, terzi, süpermarket, kitap satış merkezi, banka şubeleri ve ağaçların altında harika kampüs kafeleri bulunur.
-* **Spor Tesisleri:**  
-  **Yarı olimpik kapalı yüzme havuzu**, büyük kapalı spor salonu, fitness merkezi, tenis kortları, futbol sahası ve atletizm pisti tüm öğrencilerin kullanımına açıktır.
+* **KYK Yurtları (Konum, Oda Tipi ve İpuçları):**  
+  * **Gündüzalp KYK Erkek Öğrenci Yurdu:** Yunus Emre Kampüsü'nün hemen kuzeydoğu köşesinde (Cuma kapısı / İlahiyat arkası) yer alır. Kampüs bahçesine adım atmak tam 60 saniyedir! Odalar 3-4 kişiliktir; bazalı yataklar, her odada çalışma masası ve banyo mevcuttur. Çamaşırhanesinde sıra yoğunluğu olmaması için sabah 07.30 - 09.00 saatleri arasında randevu alınması önerilir.
+  * **Yunus Emre KYK Kız Öğrenci Yurdu & Cumhuriyet KYK Kız Yurdu:** Kampüs sınırına ve tramvaya çok yakın konumdadır. Yüksek güvenlikli, geniş etüt salonları ve ferah bahçeleri bulunur. Odalar çoğunlukla 3-4 kişiliktir.
+* **Apart ve Kiralık Ev Gerçeği (Yenibağlar, Eskibağlar, Güllük ve Şirintepe):**  
+  * **Yenibağlar & Eskibağlar (Bağlar):** Öğrencilik hayatının merkez üssüdür. Gece 03.00'te bile sokakta arkadaşlarınızla yürüyebileceğiniz, açık kahveci ve tostçu bulabileceğiniz bölgedir. Ancak buradaki 1+1 ve 1+0 apartların çoğu 20-30 yıllıktır.
+  * **Kombi / Soba ve Isınma Tuzakları (Çok Önemli Dikkat!):**  
+    * Eskişehir'de ev tutarken binanın **ısı yalıtımına (mantolama)** ve hangi cepheye baktığına mutlaka bakın. Kuzey cepheli veya zemin/bodrum kat apartlarda kışın kombiyi en yüksek derecede yaksanız bile oda 18 dereceyi geçmez ve aylık doğalgaz faturası 3.500 - 5.000 TL'yi bulabilir!
+    * **"Fatura Dahil / Elektrikli Isıtıcı (UFO)" Tuzakları:** Bazı apart sahipleri merkezi kombi yerine elektrikli ısıtıcı koyup "ısınma dahil" der veya elektrik süzme saat üzerinden astronomik faturaya bağlanır. Eskişehir ayazında elektrikli ısıtıcı havayı kurutur ve hasta eder; mutlaka bireysel kombili veya merkezi pay ölçerli ara kat daireleri tercih edin.
+    * **Depozito ve Aidat Oyunları:** Apart çıkışlarında badana-boya bahanesiyle depozitoyu yakmaya çalışan emlakçılara karşı sözleşmeyi imzalamadan önce evi detaylı fotoğraflayın ve demirbaş listesini tek tek yazdırın.
+  * **Şirintepe Alternatifi:** Eczacılık Kapısı'nın arkasından Yeşiltepe/Şirintepe sınırına geçtiğinizde kiralar Bağlar'a kıyasla **%25-30 daha uygundur**. Tramvaya binmeden yürüyerek kampüse 7-8 dakikada girersiniz.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🍽️ Beslenme, Sokak Lezzetleri ve Kampüs Yaşamı
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Eskişehir'de kentin sahibi öğrencilerdir. Halk ve esnaf son derece modern, hoşgörülü ve çağdaştır; günün 24 saati kadın ve erkek öğrenciler için Türkiye'nin en güvenli ve özgür sosyal ortamı mevcuttur.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Kampüs kapısından çıktığınız anda **Üniversite Caddesi (Bağlar)**, 5 dakika yürüdüğünüzde **Haller Gençlik Merkezi**, **Espark AVM**, **Barlar Sokağı (Vural Sokak)**, **Doktorlar Caddesi** ve **Porsuk Çayı (Adalar)** karşınızdadır. Hafta sonları **Tarihi Odunpazarı Evleri & OMM (Odunpazarı Modern Müze)**, **Sazova Bilim Kültür ve Sanat Parkı** ve **Kentpark** en popüler gezi noktalarıdır.
-* **Part-Time İş ve Staj Olanakları:**  
-  Anadolu Üniversitesi Türkiye'de kampüs içi **Kısmi Zamanlı Öğrenci (Part-Time)** istihdamını en yoğun uygulayan üniversitedir; yüzlerce öğrenci kütüphanede, yemekhanede, televizyon stüdyolarında ve birimlerde saatlik ücretle çalışır. Ayrıca Bağlar ve Espark çevresindeki yüzlerce kafe ve mağazada part-time iş bulmak çok kolaydır.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* **Türkiye'nin En İyi Kampüs ve Şehir Yaşamı Kombinasyonu:** Botanik park güzelliğindeki bir kampüsten çıkıp doğrudan Bağlar ve Porsuk Çayı'nın sosyal hayatına adım atarsınız.
-* **3 Öğün Yemekhane, 7/24 Kütüphane ve Sanat Atmosferi:** Kampüs içindeki sinema, tiyatro, müze, havuz ve yemekhane olanakları vakıf üniversitelerinin bile ilerisindedir.
-* **Sıfır Ulaşım Gideri:** Bağlar veya Şirintepe'de yaşadığınızda okula, gara ve eğlence mekanlarına yürüyerek ulaşırsınız.
-
-### ❌ Eksileri
-* **Bağlar Bölgesinde Yüksek Kira ve Eski Bina Stoku:** Kampüse sıfır olan Bağlar/Yenibağlar'daki binaların bir kısmı 25-35 yaşındadır ve yoğun talep nedeniyle 1+1 kiraları hızla yükselmektedir.
-* **Eskişehir'in Kuru Kış Ayazı:** Kış aylarında rüzgarla birleşen kuru soğuk oldukça serttir.
-* **Yemekhane ve Kütüphane Sıraları:** Kampüs olanakları çok iyi olduğu için vize/final haftalarında 7/24 kütüphanede masa bulmak ve öğle saatlerinde yemekhane sırası beklemek sabır gerektirebilir.
+* **Merkez Yemekhane (Türkiye'nin En İyilerinden Biri):**  
+  Öğrenci Merkezi bünyesindeki devasa yemekhanede **günde 3 öğün** (Kahvaltı, Öğle, Akşam) servis edilir. 2026 yılı fiyatı 20-30 TL bandındadır.  
+  * **Vegan ve Çölyak (Glütensiz) Menü:** Her gün düzenli olarak vegan öğrencilere özel protein dengeli sıcak menü çıkar.
+  * **Sınav Dönemi Gece İkramları:** Vize ve finallerde saat 23.30'da kütüphane önünde sıcak mercimek çorbası, taze ekmek ve çay dağıtımı bir üniversite geleneğidir.
+* **Eskişehir Sokak Lezzetleri ve Öğrenci Durakları:**  
+  * **Haller Gençlik Merkezi:** Tarihi yaş sebze-meyve halinin restore edilmesiyle oluşan tuğla mimarili bu merkezde Mazlumlar Muhallebicisi'nin meşhur **Su Muhallebisi** ve kesme dondurması yenir. Akşamları çay içip ders çalışmak için büyüleyici bir ambiyansı vardır.
+  * **Çibörek Kültürü (Papağan & Kırım Çibörekçisi):** Köprübaşı ve Odunpazarı'ndaki tarihi dükkanlarda sıcacık, puf puf kabarmış kıymalı çibörek yanında buz gibi açık ayranla tüketilir. Çiböreği çatalla değil, ucundan küçük delik açıp içindeki sıcak et suyunu hüpürdeterek yemek adettendir.
+  * **Balaban Köfte (Fahrettin Usta & Abdüsselam):** Izgara köftelerin tırnak pide, kemik suyu, yoğurt, kızgın tereyağı ve özel domates sosuyla buluştuğu ziyafettir. Öğrenci bütçesini biraz zorlasa da sınav sonrası kutlamalarının baş tacıdır.
+  * **Bağlar Usulü Soslu Tavuk Döner (Donas & Öncü):** Gece ders çalışırken ya da kulüp toplantısı çıkışında çift lavaşlı bol soslu tavuk döner Bağlar öğrenci ritüelinin vazgeçilmezidir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 4. 📚 Akademik Sistem, Çan Eğrisi ve Hayatta Kalma
 
-> 💬 **Öğrenci Notu:**  
-> "Anadolu Üniversitesi Yunus Emre Kampüsü'nü kazandıysanız Türkiye'deki en şanslı öğrencilerden birisiniz demektir. İlk yılınızda kampüs içi Kısmi Zamanlı (part-time) öğrenci başvurularını sakın kaçırmayın, Sinema Anadolu'daki film festivali gösterimlerine katılın ve ev tutarken Bağlar pahalı gelirse kampüsün arka kapısına açılan Şirintepe'ye mutlaka bakın!"
+* **Çan Eğrisi (Bağıl Değerlendirme Sistemi) Taktikleri:**  
+  Anadolu Üniversitesi'nde çoğu fakültede bağıl değerlendirme sistemi (çan eğrisi) uygulanır.  
+  * Sınıf ortalamasının 35-40 olduğu ağır Hukuk, İİBF İktisat ve İletişim derslerinde 50-55 almak sizi doğrudan 'BA' veya 'AA' notuna taşır.
+  * Ancak **ham başarı alt sınırı (baraj)** kuralına dikkat edin; vize ve final ağırlıklı ortalamanız 35'in (bazı bölümlerde 40) altında kalırsa çan eğrisine dahil edilmeden doğrudan **FF** ile kalırsınız.
+* **Açıköğretim (AÖF) Bürokrasisi ve İkinci Üniversite Avantajı:**  
+  Anadolu Üniversitesi öğrencileri, sınavsız ikinci üniversite hakkıyla aynı anda Açıköğretim Fakültesi'nden Görsel İletişim, Yönetim Bilişim Sistemleri, Web Tasarımı veya Sosyoloji gibi ikinci bir diploma alabilir. Ancak kampüs içindeki Açıköğretim Merkez bürolarındaki kayıt harç ve muafiyet tarihlerini titizlikle takip etmelisiniz; örgün eğitim öğrenci işleri ile AÖF büroları ayrı işler.
+* **Mergen (Canvas) ve Dijital Altyapı:**  
+  Ders materyalleri, ödev teslimleri ve online kısa sınavlar Mergen sistemi üzerinden yürütülür. Mobil bildirimleri açık tutmak ödev teslim saatlerini kaçırmamak adına hayatidir.
+* **7/24 Kütüphanede Yer Tutma Stratejisi:**  
+  Merkez Kütüphane vize/final haftalarında 3.000 kişilik kapasitesine rağmen saat 11.00 civarında tamamen dolar. Kıdemli öğrenciler sabah 08.30'da gelerek alt kat sessiz salonlarda veya 3. kat bireysel çalışma masalarında yer kapar. Masaya tek bir defter bırakıp 2 saat kaybolursanız kütüphane görevlileri eşyalarınızı toplar ("Masa Boşaltma Kuralı").
+
+---
+
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **Eskişehir Kuru Ayazı ve Şemsiye Parçalayan Rüzgar:**  
+  Aralık-Şubat arasında termometreler -10°C'yi gösterse de Porsuk Çayı'ndan gelen nemle birleşen kuru ayaz -20°C gibi hissettirir. Düzgün bir termal içlik, rüzgar geçirmez şişme mont ve boyunluk olmadan kampüs içinde yürümek işkenceye dönüşebilir.
+* **Eski Bağlar Binalarında Ses Yalıtımı Sıfır:**  
+  Yenibağlar ve Eskibağlar'daki 20+ yıllık apartlarda yan komşunun telefon titremesini veya üst katın konuşmalarını duyabilirsiniz. Parti yapan ya da müzik açan komşular nedeniyle vize haftalarında uyumakta zorlanan yüzlerce öğrenci vardır.
+* **Hafta Sonu Adalar ve Espark Turist İstilası:**  
+  Cuma akşamından Pazar gecesine kadar İstanbul, Ankara ve Bursa'dan gelen binlerce yerli turist kentin kafelerini, Haller'i ve Adalar kıyısını doldurur; öğrenciler kendi mahallelerinde kafe sırası beklemek zorunda kalır.
+* **Sınav Haftası Yemekhane ve Turnike Kuyrukları:**  
+  Öğlen 12.00 - 12.45 arasında Öğrenci Merkezi önünde 100 metreyi bulan yemekhane kuyrukları oluşabilir. Yemeğe 11.45'te veya 13.00'ten sonra gitmek zaman kazandırır.
+
+---
+
+## 6. 💡 İlk Günden Mezuniyete Altın Tavsiyeler
+
+1. **Eczacılık ile Yunus Emre Kapılarını Karıştırma:** Fakültenizin hangi kapıya yakın olduğunu ilk günden ezberleyin; yanlış durakta inerseniz sabahın ayazında kampüs boyu yürümek zorunda kalırsınız.
+2. **Kısmi Zamanlı (Part-Time) Başvurularını Kaçırma:** Her dönemin başında rektörlüğün açtığı kampüs içi kütüphane, bilişim ve yemekhane çalışma kontenjanlarına ilk gün başvurun; hem harçlığınızı çıkarır hem de sigortalı olursunuz.
+3. **Sinema Anadolu ve Festival Gösterimlerini Takip Et:** Kampüs içindeki Sinema Anadolu'da vizyondaki ödüllü filmler ve tiyatro oyunları sembolik fiyatlarla oynar; bu imkanı mutlaka kullanın.
+4. **Ev Tutarken Isınmayı Test Et:** Bağlar'da apart tutacaksanız kış ayında kombinin çalışıp çalışmadığını, peteklerin büyüklüğünü ve binanın mantolamasını görmeden asla sözleşme imzalamayın. Bağlar pahalı gelirse hemen arka mahalle olan Şirintepe'ye bakın.
+5. **Bisiklet Edin:** Eskişehir Türkiye'nin en bisiklet dostu şehridir; ikinci el bir bisiklet edinerek hem kampüs içinde hem de Adalar-Sazova hattında özgürlüğün tadını çıkarın.

@@ -1,10 +1,10 @@
-# 🏛️ Akdeniz Üniversitesi - Manavgat Yerleşkesi
+# 🏛️ Akdeniz Üniversitesi - Manavgat Yerleşkesi (MATSO Turizm ve MYO)
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Antalya / Manavgat  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Manavgat - Oymapınar Yolu (Ilıca / Sarılar Mevkii)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.1/5)
+> **Kampüs Konumu:** Sarılar / Oymapınar Aksı (Side ve Şelale Komşusu)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
 
 ---
 
@@ -12,89 +12,70 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 İl Merkezine Uzaklık** | 75 km / ~1 saat 10 dk | Antalya Şehirlerarası Otogarı'ndan her 20 dk'da bir kalkan Manavgat Seyahat otobüsleri |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Manavgat KYK Kız ve Erkek Öğrenci Yurdu yerleşkeye ve ilçe merkezine yakın |
+| **🚇 İl Merkezine Uzaklık** | 75 km / ~1 saat 10 dk | Antalya Otogarı'ndan her 15-20 dk'da bir kalkan Manavgat Seyahat otobüsleri |
+| **🏠 KYK Yurt İmkanı** | Çok Rahat | Manavgat KYK Kız ve Erkek Öğrenci Yurdu ilçe merkezinde; yerleşme oranı yüksek |
 | **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 13.000 - 20.000 TL | Manavgat Merkez (Aşağı/Yukarı Pazarcı), Sarılar ve Side yolu apartları |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / Çok İyi | Akdeniz Üniversitesi SKS bünyesinde 4 çeşit sıcak menü ve gastronomi mutfakları |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / Çok Başarılı | Akdeniz Üniversitesi SKS güvencesiyle 4 çeşit sıcak menü ve gastronomi atölyeleri |
 | **📚 Kütüphane Kapasitesi** | Modern & Yeterli | MATSO Turizm Fakültesi Kütüphanesi ve bilgisayar çalışma salonları |
 | **🌐 İnternet (eduroam)** | Standart - İyi | Fakülte ve MYO dersliklerinde eduroam ve Akdeniz kablosuz ağı aktif |
-| **🌆 Sosyal Yaşam & Çevre** | Dünya Turizm Merkezi | Side Antik Kenti ve Plajları, Manavgat Şelalesi, Manavgat Irmağı Kordonu |
+| **🌆 Sosyal Yaşam & Çevre** | Dünya Turizm Başkenti | Side Antik Kenti ve Plajları, Manavgat Şelalesi, Manavgat Irmağı Kordonu |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **İl Merkezinden (Antalya'dan) Ulaşım:**  
-  Manavgat, Antalya'nın en büyük ikinci ilçesidir ve il merkezine 75 km mesafededir. Antalya Şehirlerarası Otobüs Terminali'nden (Otogar) her 15-20 dakikada bir kalkan modern **Manavgat Seyahat** otobüsleri çalışır. D-400 karayolu üzerinden yolculuk yaklaşık 1 saat 10 dakika sürer. Ayrıca Alanya'dan Manavgat'a her 20 dakikada bir minibüsler sefer yapar (Alanya'ya ~60 km).
-* **İlçe İçi Ulaşım:**  
-  Akdeniz Üniversitesi Manavgat MATSO Turizm Fakültesi ve Manavgat Meslek Yüksekokulu, ilçe merkezine yaklaşık 4-5 km mesafede yer alır. Manavgat Otogarı ve Çarşı merkezinden kalkan **Sarılar / Üniversite dolmuşları** ile 10-12 dakikada doğrudan kampüs kapısına ulaşılır.
-* **Side ve Sahile Ulaşım:**  
-  Kampüsten kalkan dolmuşlarla dünyanın en ünlü açık hava müzelerinden biri olan **Side Antik Kenti**'ne ve sahile ulaşmak sadece 15 dakikadır. Bisiklet ve scooter ile de ırmak boyu yollardan sahile rahatlıkla inilebilir.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Evleri
-
-* **KYK Yurtları:**  
-  İlçede Kredi ve Yurtlar Kurumu'na bağlı **Manavgat KYK Öğrenci Yurdu** yer alır. Yurt binası temiz ve modern standartlardadır; kontenjan ilçe öğrenci mevcuduna rahatlıkla yettiği için açıkta kalma stresi yaşanmaz. Yurtlarda yemekhane, çalışma salonları ve etüt alanları bulunur.
-* **Kiralık Apartlar ve Daireler:**  
-  * **Manavgat Merkez (Yukarı ve Aşağı Pazarcı Mah.):** Manavgat Irmağı'nın iki yakasında yer alan, restoranlara, cafelere ve dolmuş duraklarına yürüme mesafesindeki ana yerleşimdir.
-  * **Sarılar ve Ilıca:** Kampüse en yakın yerleşim yerleridir; son yıllarda öğrenciler için inşa edilen çok sayıda 1+1 apart daire bulunur. Kış aylarında turistik tesislerin apartları da öğrencilere uygun fiyata kiralanmaktadır.
+* **Antalya ve Alanya'dan Ulaşım:**  
+  Manavgat, Antalya ile Alanya'nın tam ortasındadır:
+  * Antalya Şehirlerarası Otobüs Terminali'nden (Otogar) her 15 dakikada bir kalkan **Manavgat Seyahat** otobüsleri 1 saat 10 dakikada ilçeye varır.
+  * Alanya Otogarı'ndan Manavgat arabalarıyla 45 dakikada gelinebilir.
+* **İlçe İçi Ulaşım & Side Kestirmesi:**  
+  Akdeniz Üniversitesi Manavgat MATSO Turizm Fakültesi ve Manavgat MYO, ilçe merkezine 4-5 km mesafede Sarılar mevkiindedir.
+  * Manavgat Çarşı ve Otogar'dan kalkan **Sarılar / Üniversite dolmuşları** 10-12 dakikada doğrudan kapıya bırakır.
+  * Kampüsten dolmuşa bindiğinizde sadece 15 dakikada dünyanın en ünlü tarihi yarımadalarından biri olan **Side Antik Kenti**'ne ve mavi bayraklı kumsalına ulaşırsınız.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma & KYK Gerçekleri
 
-* **Bünyesindeki Akademik Birimler:**  
-  * **Manavgat MATSO Turizm Fakültesi:** Manavgat Ticaret ve Sanayi Odası (MATSO) desteğiyle inşa edilen Türkiye'nin en modern turizm fakültelerindendir. Gastronomi ve Mutfak Sanatları, Turizm İşletmeciliği, Turizm Rehberliği ve Rekreasyon Yönetimi bölümlerini barındırır.
-  * **Manavgat Meslek Yüksekokulu:** Aşçılık, Bilgisayar Programcılığı, Turizm ve Otel İşletmeciliği, Muhasebe ve Vergi Uygulamaları gibi köklü ön lisans programlarına sahiptir.
-* **Profesyonel Gastronomi ve Uygulama Mutfakları:**  
-  Turizm Fakültesi ve MYO bünyesinde endüstriyel gastronomi mutfakları, servis uygulama salonları ve duyusal analiz laboratuvarları yer alır. Sektörün ünlü şefleri ve genel müdürleri düzenli olarak derslere ve workshoplara katılır.
-* **Kütüphane ve Etüt Alanları:**  
-  Turizm ve genel sosyal bilimler alanında basılı kaynaklar, dijital veritabanı erişimi ve vize/final dönemlerinde kullanılan etüt salonları mevcuttur.
-
-* **Öğrenci Kulüpleri ve Sosyal Projeler:**  
-  Gastronomi Kulübü (uluslararası yemek yarışmalarına katılır), Turizm ve Seyahat Topluluğu ile Tiyatro Kulübü oldukça faaldir. Yıl boyunca ünlü otel genel müdürleri ve executive chef'ler ile masterclass eğitimleri verilir.
+* **Manavgat KYK Öğrenci Yurdu:**  
+  * Kız ve erkek blokları ilçe merkezine yakın konumdadır; okula dolmuşla 10 dakikada varılır.
+  * Odalar 3-4 kişilik, bazalı ve çalışma masalıdır. Kontenjan ilçe bazındaki öğrenci sayısına rahatlıkla yettiği için açıkta kalma stresi yaşanmaz.
+  * 23:00 turnike kontrolü standarttır.
+* **Kiralık Apartlar & Kışın Boş Kalan Otel Daireleri Hilesi:**  
+  * Aşağı Pazarcı ve Sarılar'da 1+1 ve 2+1 apartlar **13.000 - 20.000 TL** seviyesindedir.
+  * **Hayati Gizli Taktik:** Side ve Ilıca bölgesindeki çok sayıda turistik apart otel, kasım ayında turizm sezonu kapanınca boş kalır. Bu işletmeler öğrencilere kış sezonu boyunca (Kasım - Mayıs arası) çok cüzi fiyatlara, elektrik-su-ısıtma dahil eşyalı daire kiralar. Ev tutmadan önce turizm tesisleriyle görüşmek devasa tasarruf sağlar.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
 * **Yemekhane:**  
-  Akdeniz Üniversitesi Sağlık Kültür ve Spor Daire Başkanlığı denetiminde öğle saatlerinde 4 çeşit sıcak tabldot yemek sunulur. Fiyat merkez kampüs ile aynıdır (~25-30 TL).
-* **Kantin ve Kafeteryalar:**  
-  Fakülte bahçesinde ve bina zemininde geniş oturma alanlarına sahip kantin yer alır. Ders aralarında çay, kahve ve atıştırmalıklar temin edilir. Kampüs bahçesinde çardaklar mevcuttur.
-* **Gastronomi Tadımları ve Kafeler:**  
-  Uygulama mutfağında hazırlanan tatlılar ve dünya mutfağı örnekleri kampüste zaman zaman düzenlenen kermes ve tadım günlerinde sergilenir.
+  Akdeniz Üniversitesi SKS bünyesinde hafta içi her gün 4 çeşit sıcak öğle yemeği çıkar (~25-30 TL).
+* **Meşhur Manavgat Lezzetleri:**  
+  * **Tescilli Manavgat Altın Susamı ve Helvası:** Dünyanın en kaliteli susamı kabul edilen Manavgat susamından yapılan taze tahin ve tahin helvası kahvaltıların vazgeçilmezidir.
+  * **Manavgat Irmağı Kordonu Balık-Ekmek:** Nehir kenarındaki yürüyüş parkurunda taze ızgara alabalık ve tavuk şiş dürümler öğrenciye çok uygun fiyatlıdır.
 
 ---
 
-## 5. 🌆 İlçe Dinamikleri ve Sosyal Hayat
+## 4. 📚 Akademik & Turizm Sektörü Entegrasyonu
 
-* **Irmak ve Sahil Kültürü:**  
-  Manavgat Irmağı kordonu boyunca kilometrelerce uzanan bisiklet ve yürüyüş yolları, kafeler ve amfi tiyatro ilçenin sosyal merkezidir. Yaz-kış ırmak kenarında çay kahve içmek ve Side Antik Tiyatrosu çevresinde gün batımı izlemek öğrencilerin vazgeçilmezidir.
-* **Devasa İstihdam ve Staj Kapısı:**  
-  Manavgat-Side bölgesi, 300'ü aşkın 5 yıldızlı otel ve tatil köyüyle Türkiye'nin en büyük yatak kapasitesine sahip turizm bölgesidir. Fakültede okuyan bir öğrencinin staj bulamama ihtimali sıfırdır; pek çok öğrenci henüz okurken lüks otellerde departman şefi veya yönetici adayı olarak çalışmaya başlar.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* **Turizm ve Gastronomide Sektörün Zirvesi:** Yüzlerce 5 yıldızlı otelle çevrili bir lokasyonda teorik ve pratik turizm eğitimi almak.
-* **Akdeniz Üniversitesi Diploması:** Taşrada sakin bir öğrencilik yaşarken Akdeniz Üniversitesi'nin prestijli diplomasına sahip olmak.
-* **Side ve Doğa Güzellikleri:** Side plajlarına, Manavgat Şelalesi'ne ve Köprülü Kanyon'a çok yakın konum.
-* **Sıfır İşsizlik Riski:** Yabancı dilini geliştiren turizm/aşçılık öğrencilerinin anında yüksek gelirli iş bulabilmesi.
-
-### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
-* **Antalya Merkeze Uzaklık (75 km):** Merkezdeki büyük AVM'lere veya kültür-sanat etkinliklerine gitmek git-gel 2.5 saati bulur.
-* **Yaz Nemi ve Sıcağı:** Temmuz ve Ağustos aylarında boğucu nem ve aşırı sıcaklar ilçede günlük yaşamı zorlaştırabilir.
-* **Turistik Fiyat Politikası:** Side ve sahil hattındaki kafe ve restoranlarda fiyatlar Avro bazlı turist tarifesine göre belirlenebilir; yerel öğrenci esnafını keşfetmek şarttır.
-* **Kış Sakinliği:** Kasım ve Mart arasında turizm dönemi kapandığında sahil hattı sessizleşir.
+* **MATSO Turizm Fakültesi & Gastronomi:**  
+  Bölgenin yüzlerce 5 yıldızlı resort oteliyle doğrudan ortaklıkları vardır; Gastronomi, Turizm İşletmeciliği ve Turizm Rehberliği öğrencileri henüz 2. sınıftayken otellerde döviz bazlı staj ve iş imkanı bulur.
+* Akdeniz Üniversitesi Bağıl Değerlendirme Sistemi (35 barajı) geçerlidir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 5. ❌ Eksileri ve Kronik Sorunları
 
-> 💬 **Öğrenci Notu:**  
-> "Manavgat MATSO Turizm Fakültesi veya Aşçılık kazandıysan kesinlikle doğru yerdesin; Türkiye'de turizm ve mutfak sanatları okuyabileceğin en avantajlı ilçe burasıdır. İlk sınıftan itibaren İngilizce ve Almanca/Rusça pratik yapmaya başla, yaz aylarında Side otellerinde stajını yap; mezun olduğunda CV'in dopdolu olur. Barınma için de KYK yurdunu tercih edersen bütçeni hiç yormadan çok keyifli bir öğrencilik geçirirsin!"
+* **Bunaltıcı Yaz Sıcağı:**  
+  Haziran ve Eylül aylarında Manavgat'ta sıcaklık 40 dereceyi aşar; evde çalışan klima olması zorunludur.
+* **Kış Durgunluğu:**  
+  Turizm sezonunun kapandığı kış aylarında Side ve sahil şeridi oldukça sessizleşir; tüm sosyal hayat Manavgat merkez kordonuna çekilir.
+
+---
+
+## 6. 💡 Altın Tavsiyeler
+
+1. **Kış Dönemi Turistik Apartları Araştır:** Normal ev tutmak yerine Side/Ilıca civarındaki sezonluk apart otellerle görüşüp çok ucuza havuzlu tesiste kal.
+2. **Side Apollon Tapınağı'nda Gün Batımını İzle:** Dünyanın dört bir yanından turistlerin akın ettiği Side Antik Tiyatrosu ve Apollon Tapınağı kapının önündedir; burayı sık sık ziyaret et.
+3. **Turizm Sektörüyle Erken Tanış:** MATSO ve otel birliklerinin kariyer günlerini kaçırma; mezun olmadan 5 yıldızlı otellerde işini garantiye al.

@@ -4,7 +4,7 @@
 > **İl / İlçe:** İzmir / Buca  
 > **Üniversite Türü:** Devlet (Köklü Araştırma Üniversitesi)  
 > **Kampüs Konumları:** Buca Tınaztepe (Ana Yerleşke / Tepe Kampüs) & Dokuzçeşmeler (İİBF / Şehir İçi)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.3/5)
 
 ---
 
@@ -12,101 +12,78 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Ulaşım Erişilebilirliği** | Otobüs Odaklı / Trafiğe Duyarlı | Otoyoldan ekspres ESHOT otobüsleri (390, 415, 690, 515) ve İZBAN Şirinyer aktarması |
-| **🏠 KYK & Yurt İmkanı** | Çok Yüksek | Kampüs kapısında ve Gölet yolunda devasa **Buca KYK Kız ve Erkek Yurtları** |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 13.000 - 22.000 TL | Buca Koop, Kuruçeşme, Hasanağa Bahçesi çevresi, Adatepe ve Şirinyer |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / Doyurucu | Tınaztepe ve Dokuzçeşmeler yemekhanelerinde 4 çeşit sıcak menü |
-| **📚 Kütüphane Kapasitesi** | Çok Geniş | Tınaztepe Merkez Kütüphanesi ferah okuma katları ve zengin basılı koleksiyon |
-| **🌐 İnternet (eduroam)** | Hızlı / Stabil | Her iki yerleşkede de eduroam kablosuz ağı aktiftir |
-| **🌆 Sosyal Yaşam & Çevre** | Öğrenci Yoğun / Canlı | Hasanağa Bahçesi, Şirinyer, Forbes Caddesi, Buca Gölet ve Bornova/Konak bağlantıları |
+| **🚇 Ulaşım Erişilebilirliği** | Otobüs / Otoyol Odaklı | **390, 690, 290 otoyol ekspres ESHOT hatları**; İZBAN Şirinyer aktarması ve yapımı süren Buca Metrosu |
+| **🏠 KYK & Yurt İmkanı** | Çok Yüksek | Kampüs kapısında **Gazi Umurbey KYK Erkek Yurdu** ve Gölet/Buca Kız KYK Yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 14.000 - 23.000 TL | Buca Koop, Kuruçeşme, Hasanağa Bahçesi çevresi, Adatepe ve Şirinyer (Kişi başı 5.000-8.500 TL) |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / Doyurucu | Tınaztepe Merkez Yemekhanesi ve Dokuzçeşmeler'de 4 çeşit sıcak tabldot menü |
+| **📚 Kütüphane Kapasitesi** | Çok Geniş & 7/24 | Tınaztepe Merkez Kütüphanesi (Modern ferah etüt katları ve final gecelerinde sıcak çorba) |
+| **🌐 İnternet (eduroam)** | Hızlı / Stabil | Her iki yerleşkede de DEU-NET & eduroam açık amfiler ve meydanlarda aktif |
+| **🌆 Sosyal Yaşam & Çevre** | Yoğun Öğrenci Popülasyonu | Hasanağa Bahçesi, Buca Forbes Sevgi Yolu, Şirinyer Parkı ve Buca Gölet rekreasyon alanı |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve "Buca Trafiği" Gerçeği
+## 1. 🚇 Ulaşım Taktikleri: Buca Trafiği ve Otoyol Ekspres Hatları
 
-1982 yılında kurulan ve Türkiye'nin en büyük üniversitelerinden biri olan **Dokuz Eylül Üniversitesi (DEÜ)**, Buca ilçesinde iki ana yerleşkeye ve İnciraltı'nda tıp yerleşkesine sahiptir:
+Dokuz Eylül Üniversitesi'nde ulaşımın şifresi, Buca'nın dar ve kilit sokak trafiğine hiç girmeden otoyolu kullanan ekspres ESHOT otobüslerini bilmektir.
 
-* **Tınaztepe Yerleşkesi (Ana Kampüs):**  
-  Buca'nın yüksek sırtlarında, otoyol kenarında devasa bir tepe kampüsüdür. Mühendislik, Fen, Mimarlık, İşletme, Hukuk, Denizcilik ve Güzel Sanatlar fakülteleri burada yer alır.
-  * **Otoyol Ekspres ESHOT Hatları (Kurtarıcı Hatlar):** Şehir merkezinden Buca'nın dar sokak trafiğine girmeden doğrudan otoyoldan Tınaztepe'ye giren ekspres hatlar öğrencilerin can damarıdır:
-    * **390 ESHOT:** Bornova Metro - Tınaztepe (Otoyoldan 20-25 dk).
-    * **690 ESHOT:** Fahrettin Altay (Üçkuyular) - Tınaztepe Ekspres.
-    * **290 ESHOT:** Karşıyaka / Bostanlı İskele - Tınaztepe Ekspres.
-    * **415 ESHOT:** Bornova Metro - Dokuzçeşmeler - Tınaztepe.
-  * **İZBAN Şirinyer İstasyonu Bağlantısı:** İZBAN ile Şirinyer'de inen öğrenciler, aktarma merkezinden kalkan otobüslerle veya minibüslerle kampüse tırmanır.
-  * **İnşaatı Süren Buca Metrosu:** Tamamlandığında Üçyol - Şirinyer - Dokuzçeşmeler - Tınaztepe hattında kesintisiz metro ulaşımı sağlayacak ve Buca trafiğini tarihe gömecektir.
-* **Dokuzçeşmeler Yerleşkesi:**  
-  Buca merkezde (Heykel yakınında) tarihi dokusu ve çınar ağaçlarıyla ünlü butik yerleşkedir. Köklü **İktisadi ve İdari Bilimler Fakültesi (İİBF)** ve Yabancı Diller Yüksekokulu buradadır.
-* **Kampüs İçi Ring Seferleri:**  
-  Tınaztepe Kampüsü dik ve geniş bir tepeye kurulu olduğu için kampüs içi ücretsiz ring otobüsleri kapı ile en üstteki fakülteler arasında sürekli sefer yapar.
+### 🚌 Otoyol Ekspres Hatları (Öğrencinin Can Simitleri)
+* **390 ESHOT (Bornova Metro - Tınaztepe Ekspres):** İzmir Şehirlerarası Çevreyolu üzerinden transit gider. Buca içine girmeden Bornova Metro'dan Tınaztepe Kampüsü'ne 20 dakikada varır. Ege Üniversitesi ile DEÜ arasında mekik dokuyanların favorisidir.
+* **690 ESHOT (Fahrettin Altay / Üçkuyular - Tınaztepe Ekspres):** Balçova, Narlıdere ve Konak tarafından gelen öğrenciler için otoyoldan tek vesaitle kampüse 25 dakikada ulaşım sağlar.
+* **290 ESHOT (Bostanlı İskele - Tınaztepe Ekspres):** Karşıyaka ve Bostanlı'da yaşayan DEÜ öğrencilerinin sabah köprü/vapur derdi olmadan otoyoldan kampüse girmesini sağlayan altın hattır.
+* **415 / 515 Hatları:** Dokuzçeşmeler Kampüsü'ne ve Buca iç sokaklarına uğradığı için sabah pik saatlerde yoğun trafiğe yakalanabilir; zamanınız kısıtlıysa 390 veya 690'ı tercih edin.
+* **İZBAN Şirinyer İstasyonu Bağlantısı:** Menemen, Aliağa, Çiğli, Gaziemir veya Torbalı yönünden gelenler İZBAN ile Şirinyer'de inip aktarma merkezinden kalkan otobüslerle 10-15 dakikada kampüslere ulaşır.
+
+### 🔄 Kampüs İçi Ring Seferleri
+* **Tınaztepe Yokuşu ve Ringler:** Kampüs dik bir tepeye kuruludur. Giriş nizamiye kapısından Mühendislik, Fen, Mimarlık ve İşletme binalarına yürümek yaz sıcağında oldukça yorucudur. Kampüs içi ücretsiz ring otobüsleri kapıdan sürekli yolcu taşır.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma, Yurtlar ve Mahalle Dinamikleri
 
-* **KYK Yurtları (Geniş Kapasite):**  
-  * **Gazi Umurbey & Buca KYK Kız ve Erkek Yurtları:** Tınaztepe Kampüsü'nün hemen yanında ve Buca Koop / Gölet aksında yer alır. Binlerce öğrenciyi barındırır ve kampüse yürüme mesafesindedir.
-* **Öğrenci Mahalleleri ve Kiralık Evler:**  
-  Buca, İzmir genelinde Bornova ve Karşıyaka'ya kıyasla ev kiralarının en makul olduğu ilçelerden biridir:
-  * **Buca Koop & Kuruçeşme Mahallesi:** Tınaztepe Kampüsü'nün tam karşısındaki siteler bölgesidir. Kampüse yürüyerek gitmek isteyen öğrencilerin 1 numaralı tercihidir (14.000 - 20.000 TL).
-  * **Adatepe ve Hasanağa Bahçesi Çevresi:** Dokuzçeşmeler Kampüsü'ne çok yakındır; kafeler, fırınlar ve gençlik atmosferi çok canlıdır.
-  * **Şirinyer (İzban Aksı):** Ulaşım kolaylığı arayan öğrencilerin ev tuttuğu merkezi semttir.
+Buca, İzmir'in en büyük öğrenci nüfusunu barındırdığı için barınma imkanları geniştir.
 
----
+### 🏢 KYK Yurtları
+* **Gazi Umurbey KYK Erkek Yurdu:** Doğrudan Tınaztepe Kampüsü'nün otoyol çıkış kapısının hemen karşısındadır. Sabah yataktan kalkıp 5 dakikada yürüyerek kampüse girilir.
+* **Buca Kız KYK Yurdu & Gölet Yurtları:** Tınaztepe çevresinde ve Gölet yolu üzerinde yer alan yüksek kapasiteli yurt binalarıdır.
+* **Yurt Kuralları:** 23:00 / 00:00 turnike yoklamaları titizlikle yapılır; final haftalarında kütüphane çalışma fişiyle geç giriş kolaylığı sağlanır.
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
-
-* **Fakülteler ve Akademik Birikim:**  
-  * **Hukuk Fakültesi:** Türkiye'nin en yüksek puanlı ve en saygın devlet hukuk fakültelerinden biridir; yargı ve akademide binlerce mezunu bulunur.
-  * **Mühendislik Fakültesi:** Bilgisayar, Makine, Endüstri, Elektrik-Elektronik, Maden, Jeoloji ve İnşaat bölümleriyle devasa laboratuvar binalarına ve atölyelere sahiptir.
-  * **İşletme ve İİBF:** İngilizce İşletme, İktisat ve Kamu Yönetimi programları çok köklüdür.
-  * **Denizcilik Fakültesi:** Simülatörleri ve üniformalı denizcilik eğitimiyle Türkiye'nin en seçkin denizcilik okullarındandır.
-* **Merkez Kütüphane:**  
-  Tınaztepe Kütüphanesi ferah ve modern salonlara sahiptir; sınav dönemlerinde çalışma alanları yoğun ilgi görür.
-* **Spor Tesisleri:**  
-  Tınaztepe'de kapalı spor salonu, açık futbol sahası, tenis kortları ve amfi tiyatro bulunmaktadır.
+### 🏘️ Öğrenci Mahalleleri & Ev Kiraları
+* **Buca Koop & Kuruçeşme:** Tınaztepe Kampüsü'ne yürüme mesafesinde olan siteler bölgesidir. Düz ayak marketleri, öğrenci kafeleri ve dolmuş hatlarıyla ev kiralamak için en pratik mahalledir (2+1 veya 3+1 daireler 15.000 - 22.000 TL; 3 öğrenci kişi başı 5.000 - 7.500 TL).
+* **Adatepe ve Hasanağa Bahçesi Çevresi:** Dokuzçeşmeler (İİBF) öğrencileri için idealdir; yeşil park alanı, kafeleri ve fırınlarıyla canlı bir muhittir.
+* **Şirinyer (Forbes & Park Çevresi):** Şehre ve İZBAN'a yakın olmak isteyenlerin tercih ettiği merkezi bölgedir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🍽️ Beslenme, Kampüs İçi Yaşam ve Sokak Lezzetleri
 
-* **Merkezi Yemekhaneler:**  
-  Tınaztepe ve Dokuzçeşmeler yerleşkelerinde sıcak tabldot yemek 25 TL bandındadır. Yemek porsiyonları doyurucu olup öğrenci bütçesini ciddi anlamda korur.
-* **Tınaztepe Çarşı:**  
-  Kampüs meydanında öğrencilerin kahve içebileceği, tost ve sandviç alabileceği kafeler, banka ATM'leri ve kırtasiyeler sıralanır.
-* **Dokuzçeşmeler Çevresi:**  
-  Buca çarşısının merkezinde yer aldığı için yerleşkenin hemen karşısındaki börekçiler, dönerciler ve çay ocakları nostaljik bir üniversite havası yaşatır.
+* **Merkezi Yemekhaneler:** Tınaztepe ve Dokuzçeşmeler yemekhanelerinde 25-30 TL bandında 4 çeşit doyurucu tabldot menü verilir.
+* **Dokuzçeşmeler Tavuk Pilavcıları:** Dokuzçeşmeler Kampüsü karşısındaki köklü tavuk pilavcılar, bol karabiberli nohutlu pilav ve ayranıyla öğrencilerin ekonomik öğle klasiğidir.
+* **Hasanağa Bahçesi Çimlerinde Boyoz:** Sabah fırından alınan çıtır boyoz ve fırın yumurta ile Hasanağa Bahçesi'nde çimlerde oturarak kahvaltı yapmak Buca klasiğidir.
+* **Buca Gölet Rekreasyon Alanı:** Hafta sonları mangal, doğa yürüyüşü ve açık hava konserleri için öğrencilerin kaçış rotasıdır.
 
 ---
 
-## 5. 🌆 Sosyal Yaşam ve Buca Kültürü
+## 4. 📚 Akademik ve Hayatta Kalma: DEBSİS ve Çan Eğrisi
 
-* **Hasanağa Bahçesi:**  
-  Buca'nın en büyük kent parkıdır; ders çıkışlarında çimlerde uzanan, gitar çalan veya koşu yapan Dokuz Eylül öğrencileriyle dolup taşar.
-* **Buca Gölet ve Kaynaklar:**  
-  Hafta sonları mangal, doğa yürüyüşü ve açık hava konserleri için öğrencilerin kaçış rotasıdır.
-* **Forbes Sevgi Yolu & Şirinyer:**  
-  Alışveriş mağazaları, kitapçılar ve esnaf lokantalarıyla dolu hareketli yaya caddeleridir.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
-
-### ✅ Artıları
-* Hukuk, Mühendislik, İİBF ve Mimarlık gibi alanlarda Türkiye çapında kabul gören köklü diploma değeri.
-* Kampüse çok yakın devasa KYK yurtları ve İzmir geneline göre daha uygun ev kiraları.
-* Bornova Metro ve Fahrettin Altay'dan otoyol üzerinden doğrudan kampüse giren ekspres ESHOT hatları.
-* Hasanağa Bahçesi ve Buca gençlik mekanlarıyla dolu öğrenci ağırlıklı sosyal yapı.
-
-### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
-* **Efsanevi "Buca Trafik Çilesi":** Sabah 08:00 - 09:30 saatleri arasında Şirinyer - Heykel - Buca Koop hattındaki dar sokaklarda trafik felç olur; normalde 15 dakikalık yol 50-60 dakikaya çıkabilir. Ekspres otoyol hatlarını kullanmayan öğrenciler her sabah sinir harbi yaşar.
-* **Tınaztepe Tepesi ve Yokuşlar:** Kampüs rampa bir araziye kuruludur; yaz aylarında amfilere veya üst fakültelere yürürken İzmir sıcağında kan ter içinde kalınır. Ring araçlarında sabahları yoğun kuyruklar oluşur.
-* **Hukuk Fakültesi'nin Taşınma Tartışması:** Dokuzçeşmeler'in tarihi ve canlı atmosferinden Tınaztepe'nin beton sırtlarına taşınan Hukuk Fakültesi öğrencileri kampüsün izole havasından sıkça şikayet eder.
-* **Buca'nın Çarpık Şehirleşmesi:** Buca'nın arka sokakları labirent gibidir, yollar dar ve kaldırımlar araç işgali altındadır; gece saatlerinde bazı sokaklarda aydınlatma yetersizliği hissedilir.
+* **DEBSİS Öğrenci Bilgi Sistemi:**  
+  Ders kayıtları ve harf notları DEBSİS üzerinden ilan edilir. Ders seçim günü sabah erken saatlerde sistem başında olmak gerekir.
+* **Mühendislik ve Hukuk'ta Çan Eğrisi:**  
+  DEÜ Hukuk ve Mühendislik fakültelerinde bağıl değerlendirme sistemi oldukça serttir. Sınavlarda geçme notları sınıf ortalamasına göre belirlendiği için çıkmış sınav sorularını (fotokopicilerdeki soru bankalarını) çözmek hayati önem taşır.
+* **Tınaztepe Merkez Kütüphanesi 7/24 Sabahlama:**  
+  Vize ve final haftalarında kütüphane sabaha kadar doludur. Gece yarısı dağıtılan sıcak mercimek çorbası ve çay ikramı öğrencilerin kurtarıcısıdır.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
 
-> 💬 **Öğrenci Notu:**  
-> "Dokuz Eylül'de okuyacaksan en önemli tavsiye: Evini ya da yurdunu mutlaka Tınaztepe'ye yürüme mesafesinde olan Buca Koop veya Kuruçeşme tarafından tut! Asla 'Şirinyer'den minibüse biner giderim' deme; sabah o Buca Heykel trafiğinde tek bir ışıkta 20 dakika bekleyince pişman olursun. Şehir merkezinden geleceksen mutlaka 390 veya 690 numaralı ekspres otoyol otobüslerini kullan, Buca'nın içine giren normal hatlardan uzak dur. Yazın sıcağına karşı sırt çantanda suyunu ve şapkanı eksik etme!"
+* **Efsanevi "Buca Trafik Çilesi":** Sabah 08:00 - 09:15 saatlerinde Şirinyer - Menderes Caddesi - Heykel hattı kilitlenir; 15 dakikalık yol 50 dakikaya çıkabilir. Çözüm: Kesinlikle otoyol ekspres hatlarını (390, 690, 290) kullanmaktır.
+* **Tınaztepe Rampa Yokuşları:** Kampüs dik bir tepeye kuruludur; yaz aylarında amfilere yürürken sıcak hava yıpratıcı olabilir.
+* **Buca'nın Dar ve Labirent Sokakları:** Buca iç sokakları oldukça karmaşıktır, kaldırımlar dar ve araç parkı yoğundur.
+
+---
+
+## 6. 💡 Altın Tavsiyeler
+
+> 💡 **Altın Kural 1:** Ulaşımda asla normal şehir içi otobüsleriyle Buca merkez trafiğine girme; otoyoldan çalışan **390 (Bornova Metro)** veya **690 (Fahrettin Altay)** ekspres hatlarını kullan.  
+> 💡 **Altın Kural 2:** Barınma için Tınaztepe'de okuyorsan Buca Koop veya Kuruçeşme'yi; Dokuzçeşmeler'deysen Hasanağa Bahçesi çevresini seçerek yolda vakit kaybetmekten kurtul.  
+> 💡 **Altın Kural 3:** Ders aralarında Hasanağa Bahçesi'nde çimlerde dinlen; hafta sonları ise İZBAN ile Alsancak veya Selçuk/Efes rotalarına kolayca kaç.

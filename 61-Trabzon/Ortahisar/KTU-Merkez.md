@@ -3,7 +3,7 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Trabzon / Ortahisar (Üniversite - Kalkınma Mah.)  
 > **Üniversite Türü:** Devlet (Araştırma Üniversitesi)  
-> **Kampüs Konumu:** Merkez Kampüs (Karadeniz'e bakan 1.400 dönümlük botanik bahçesi niteliğinde yerleşke)  
+> **Kampüs Konumu:** Merkez Kampüs (Karadeniz'e bakan 1.400 dönümlük botanik bahçesi niteliğinde yeşil ve köklü yerleşke)  
 > **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.6/5)
 
 ---
@@ -12,95 +12,101 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | Trabzon Meydan: 5 km (~10-15 dk) | A, B ve C kapılarına sürekli dolmuş ve belediye otobüsü; Havalimanı bitişikte |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Kampüs içinde Doğu Karadeniz Kız KYK; Yomra ve Ortahisar'da büyük erkek/kız yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 14.000 - 21.000 TL | Kalkınma, Konaklar, Üniversite, Pelitli ve Değirmendere Mah. |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | Merkez Öğrenci Yemekhanesi + İktisat/Tıp yemekhaneleri |
-| **📚 Kütüphane Kapasitesi** | 7/24 Açık | Faik Ahmet Barutçu Merkez Kütüphanesi (4 katlı, yıl boyu 7/24 açık) |
-| **🌐 İnternet (eduroam)** | Çok İyi | Araştırma üniversitesi altyapısı; tüm amfi, kütüphane ve bahçelerde güçlü |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı | C Kapısı ve B Kapısı dışında Kalkınma Mahallesi kafe/öğrenci sokakları + Forum AVM |
+| **🚇 Şehir Merkezine Uzaklık** | Trabzon Meydan: 5 km (~10-15 dk) | A, B ve C kapılarına sürekli Meydan-Kalkınma ve Bostancı dolmuşları; Havalimanı bitişikte |
+| **🏠 KYK Yurt İmkanı** | Yüksek | Kampüs içinde Doğu Karadeniz KYK Kız Yurdu; Yomra ve Ortahisar'da büyük erkek/kız yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 14.000 - 21.000 TL | Kalkınma (öğrenci cumhuriyeti), Konaklar, Üniversite, Pelitli, Bostancı |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | Merkez Öğrenci Yemekhanesi + İktisat ve Farabi Tıp yemekhaneleri |
+| **📚 Kütüphane Kapasitesi** | 7/24 Açık (4 Katlı) | Faik Ahmet Barutçu Kütüphanesi; vize/final haftasında sabah 07:30'da yer kalmaz |
+| **🌐 İnternet (eduroam)** | Çok İyi | Araştırma üniversitesi altyapısı; amfiler, kütüphane ve koruluklarda hızlı |
+| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı | C ve B kapısı dışında Kalkınma kafe sokakları, Forum Trabzon AVM, Ganita sahili |
 
 ---
 
 ## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
 
-* **Şehir Merkezinden Ulaşım:**  
-  1955 yılında kurulan ve Türkiye'nin İstanbul ile Ankara dışındaki **ilk üniversitesi** olan KTÜ'nün ana yerleşkesi **Kanuni Kampüsü**, Trabzon şehir merkezinin (Meydan) hemen 5 km doğusunda, havalimanı ve Forum AVM'nin üst yamacında yer alır. Kampüsün üç ana giriş kapısı vardır:
-  * **A Kapısı (Değirmendere / Sahil Yolu Girişi):** Rektörlük, Orman, Mimarlık, İİBF ve Merkez Kütüphane'ye yakındır. Meydan'dan kalkan tüm doğu yönü otobüsleri ve KTÜ dolmuşları buradan geçer.
-  * **B Kapısı (Orta Kapı / Kalkınma):** Fen, Edebiyat ve temel mühendislik bölümleri ile Kalkınma Mahallesi arasındaki ana yaya ve dolmuş kapısıdır.
-  * **C Kapısı (Üst Kapı / Kalkınma - Konaklar):** Elektrik-Elektronik, Bilgisayar, Makine Mühendisliği, KYK Kız Yurdu ve Tıp Fakültesi (Farabi Hastanesi) aksına açılan, öğrenci sirkülasyonunun en yoğun olduğu kapıdır. Meydan – Kalkınma dolmuşları doğrudan B ve C kapılarının önünden geçer.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Kanuni Kampüsü, A Kapısı'ndan başlayıp C Kapısı ve en üstteki Tıp Fakültesi / Farabi Hastanesi'ne doğru yükselen, içinde yüzlerce çeşit ağacın bulunduğu yemyeşil ama **yokuşlu** bir topoğrafyaya sahiptir. Kampüs içerisinde belediye otobüsleri ve kampüs içi ring/dolmuş araçları A Kapısı'ndan Tıp Fakültesi'ne kadar tırmanır. Fakülteler arasındaki taş merdivenli kestirme orman patikaları ise KTÜ öğrencilerinin günlük kondisyon sırrıdır!
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  TULAŞ belediye otobüslerinde indirimli öğrenci **Trabzonkart** kullanılır. Dolmuşlarda ise öğrenci tarifesi geçerlidir.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Trabzon'da sonbahar ve kış aylarında yağmur neredeyse her gün yağar. Kampüs içindeki merdivenler ve taş yollar ıslakken kayganlaşabilir; bu nedenle **su geçirmez (Gore-Tex vb.) kaymaz tabanlı ayakkabı** ve sağlam bir yağmurluk KTÜ'de hayatta kalma ekipmanıdır.
+* **Şehir Merkezinden ve Giriş Kapılarından Ulaşım:**  
+  1955 yılında kurulan ve Türkiye'nin İstanbul ile Ankara dışındaki ilk üniversitesi olan KTÜ'nün ana yerleşkesi **Kanuni Kampüsü**, Trabzon şehir merkezinin (Meydan Parkı) hemen 5 km doğusunda, deniz yamacında yer alır. Kampüsün üç ana kapısı vardır:
+  * **A Kapısı (Sahil Yolu / Değirmendere):** Rektörlük, Orman, Mimarlık, İİBF ve Faik Ahmet Barutçu Merkez Kütüphanesi'ne açılır. Karadeniz Sahil Yolu üzerinden geçen tüm ilçe ve sahil otobüsleri buradan yolcu alır.
+  * **B Kapısı (Kalkınma Orta Kapı):** Fen, Edebiyat ve temel mühendislik binalarına en kestirme yaya kapısıdır; Kalkınma Mahallesi'nin kalbine açılır.
+  * **C Kapısı (Kalkınma - Konaklar Üst Kapı):** Elektrik-Elektronik, Bilgisayar, Makine, İnşaat Mühendislikleri, Doğu Karadeniz KYK Kız Yurdu ve Farabi Tıp Fakültesi Hastanesi aksına açılan ana öğrenci kapısıdır.
+* **Dolmuş ve Minibüs Hatları:**  
+  * **Meydan – Kalkınma / Bostancı Dolmuşları:** Meydan Parkı'ndan kalkar, B ve C kapılarının tam önünden geçer.
+  * **Meydan – KTÜ Tıp / Konaklar Dolmuşları:** Doğrudan kampüs içine girip A Kapısı'ndan zirvedeki Farabi Hastanesi'ne kadar tırmanır.
+* **Kampüs İçi Ring Seferleri & Merdivenler:**  
+  Kanuni Kampüsü, sahil kotundaki A Kapısı'ndan başlayıp C Kapısı ve en üstteki Tıp Fakültesi'ne doğru yaklaşık 150 metre rakım tırmanan dik bir topoğrafyaya sahiptir. Kampüs içinde belediye otobüsleri ve ring dolmuşları A Kapısı ile Tıp arasında sürekli çalışır. Fakülteler arasındaki yüzlerce basamaklı taş merdivenler ve orman patikaları ise KTÜ öğrencilerinin günlük kondisyon sırrıdır!
+* **Trabzon Havalimanı Komşuluğu:**  
+  Trabzon Havalimanı pisti ve terminali, kampüsün C Kapısı'na ve Konaklar/Pelitli mahallelerine sadece 1 km uzaklıktadır. Uçaktan inip yürüyerek 10-15 dakikada yurt odanıza veya fakültenize varabilmek Türkiye'de benzersizdir.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma, Yurtlar ve Kalkınma Mahalle Dinamikleri
 
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** Doğrudan Kanuni Kampüsü'nün içinde (C Kapısı ile Tıp Fakültesi arasında) devasa kapasiteli **Doğu Karadeniz KYK Kız Öğrenci Yurdu** ve hemen yakınında **Trabzon KYK Kız Öğrenci Yurdu** bulunur. Kız öğrenciler kampüs dışına bile çıkmadan 5-10 dakikada tüm fakültelere yürüyerek ulaşır.
-  * **Erkek Yurtları:** Kampüse otobüs/dolmuşla 10-15 dakika mesafedeki Yomra/Kaşüstü girişinde yüksek kapasiteli **Yomra Kanuni KYK Erkek Öğrenci Yurdu** hizmet verir; sabah-akşam yurt önünden doğrudan KTÜ içine belediye otobüsleri kalkar.
-* **Özel Yurtlar ve Apartlar:**  
-  B ve C kapılarının hemen karşısındaki **Kalkınma Mahallesi** ve **Konaklar Mahallesi**'nde onlarca özel kız/erkek yurdu, 1+0 ve 1+1 öğrenci apartı yer alır.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Kalkınma Mahallesi:** KTÜ'nün kalbidir. C Kapısı'ndan çıktığınız anda marketler, kafeler ve öğrenci apartmanları başlar. Kiralar (14.000 - 22.000 TL) yüksek olsa da ulaşım masrafı sıfırdır.
-  * **Konaklar ve Üniversite Mahallesi:** Farabi Hastanesi ve C Kapısı'nın üst-doğu tarafındadır; yeni yapılmış doğalgazlı siteler çoktur.
-  * **Pelitli ve Bostancı Mahallesi:** Kira bütçesini (11.000 - 15.000 TL) biraz daha düşürmek isteyen öğrencilerin 10 dakikalık dolmuş/yürüme mesafesinde tercih ettiği mahallelerdir.
-
----
-
-## 3. 🎓 Akademik ve Fiziki Altyapı
-
-* **Kütüphane İmkanları:**  
-  Kampüsün tam merkezinde yer alan 4 katlı **Faik Ahmet Barutçu Merkez Kütüphanesi**, Türkiye'nin en iyi üniversite kütüphanelerinden biridir. Binlerce kişilik oturma kapasitesi, sesli/sessiz çalışma salonları, grup çalışma odaları ve bilgisayar salonlarıyla **yıl boyunca 7/24 açıktır**. Vize ve final haftalarında yer bulmak için sabah erken saatlerde gitmek gerekir; sınav dönemlerinde gece ücretsiz çorba dağıtılır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  YÖK tarafından **Araştırma Üniversitesi** seçilen KTÜ; **İnşaat, Makine, Elektrik-Elektronik, Bilgisayar, Yazılım, Metalurji, Harita, Jeoloji, Maden Mühendislikleri**, Türkiye'nin en köklü **Mimarlık** ve **Orman** fakülteleri ile **Farabi Tıp Fakültesi Hastanesi**, **Diş Hekimliği** ve **Eczacılık** laboratuvarlarında çok güçlü bir teknik donanıma ve akademik kadroya sahiptir.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Kampüs genelinde **eduroam** çok hızlıdır. KTÜ'nün kendi yazılım ekibi tarafından geliştirilen **BYBS (Bilgi Yönetim Sistemi)** Türkiye'deki en stabil ve kapsamlı öğrenci otomasyon sistemlerinden biridir.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  KTÜ'de 100'e yakın öğrenci kulübü vardır. **KTÜ Dağcılık ve Kış Sporları Kulübü (KTÜDAK)** Türkiye'nin en köklü dağcılık kulüplerindendir. Ayrıca **Creighton / Enerji Teknolojileri (Elektrikli Araç)**, **Uzay Kulübü (Roket/Uydu)**, **IEEE KTÜ**, **AKM Tiyatro ve Müzik** kulüpleri ulusal ve uluslararası yarışmalarda her yıl ödüller kazanır.
+* **KYK Yurtları ve Standartlar:**  
+  * **Doğu Karadeniz KYK Kız Öğrenci Yurdu:** Doğrudan Kanuni Kampüsü içinde, C Kapısı ile Tıp Fakültesi arasında yer alan efsanevi devasa bir yurttur. Odalar çoğunlukla 3-4 kişiliktir (bazı eski bloklarda 6 kişilik odalar bulunur). Fakültelere yürüyerek 3-5 dakikada inilir; kız öğrenciler için güvenlik ve zaman tasarrufu açısından paha biçilmezdir. Çamaşırhanelerde jeton/sıra usulü geçerlidir.
+  * **Trabzon KYK Kız Yurdu & Yomra Kanuni KYK Erkek Yurdu:** Yomra'daki yüksek kapasiteli erkek yurdundan Kanuni Kampüsü'ne sahil dolmuşları ve TULAŞ otobüsleriyle 15-20 dakikada kesintisiz ulaşım sağlanır.
+* **Kalkınma Mahallesi (Öğrenci Cumhuriyeti):**  
+  KTÜ C ve B kapılarının hemen karşısında yer alan **Kalkınma Mahallesi**, Trabzon'da öğrenciliğin simgesidir. Sokakları 24 saat cıvıl cıvıldır; her köşe başında bir dönerci, kafe, fotokopici, bilardo salonu ve zincir market yer alır.
+* ⚠️ **Hayati Nem, Küf ve Rutubet Uyarısı:**  
+  Doğu Karadeniz'in yoğun nemi ve bitmeyen yağmurları nedeniyle Kalkınma ve Konaklar'da ev kiralarken **kesinlikle bodrum kat, ters dubleks veya kuzey cepheli zemin katlardan uzak durun!** Bu evlerde kıyafetler dolapta küflenir, duvarlarda mantar oluşur ve romatizmal ağrılara davetiye çıkar. Ev tutarken güney/doğu cephe, ara kat, güneş alan ve dış cephe mantolaması tam daireler tercih edilmelidir.
+* **Alternatif Mahalleler:**  
+  * **Konaklar Mahallesi:** Havalimanı üst yamacında yeni 1+1 apartların yoğun olduğu bölgedir (14.000 - 20.000 TL).
+  * **Bostancı ve Pelitli:** KTÜ'ye minibüsle 5-10 dakika mesafede daha bütçe dostu kiralık daireler sunar.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🎓 4. Teknik Üniversite Ekolü, Baraj Dersler ve Kütüphane
 
-* **Merkez Yemekhane:**  
-  Kütüphanenin hemen yanındaki büyük **Merkez Öğrenci Yemekhanesi** ve Tıp Fakültesi yemekhanesinde öğle ve akşam yemeği hizmeti verilir. Ücret **25 - 30 TL** bandındadır; BYBS üzerinden veya kartla bakiye yüklenerek turnikeden geçilir.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içindeki **Şenlik Alanı / Koru Otel / Sahil Tesisleri**, **Ağaçlı Yol (Aslanlı Yol)** üzerindeki kafeler, kırtasiyeler, PTT ve banka şubeleri çok canlıdır. Ayrıca C ve B kapılarından dışarı adım attığınızda **Kalkınma Mahallesi**'ndeki yüzlerce dönerci, ev yemekleri lokantası, pideci, üçüncü nesil kahveci ve zincir market öğrencilerin hizmetindedir. Kampüsün A Kapısı'ndan 10 dakika aşağı yürüdüğünüzde ise Karadeniz'in en büyük AVM'lerinden **Forum Trabzon**'a ulaşırsınız.
-* **Spor Tesisleri:**  
-  Kampüs içerisinde **Olimpik Yüzme Havuzu**, Hasan Polat Spor Salonu, çim stadyum, halı sahalar, tenis kortları ve fitness salonu bulunur.
-
----
-
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
-
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Kalkınma Mahallesi ve kampüs çevresi tamamen öğrenci odaklıdır. Şehir genelinde ise Trabzon'un kendine has hızlı, tutkulu (özellikle Trabzonspor maç günlerinde tüm şehrin bordo-maviye büründüğü) bir enerjisi vardır.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Yenilenen **Ganita – Faroz Sahil Yürüyüş Yolu** (deniz kenarında gün batımı, çay bahçeleri ve kütüphane), **Boztepe** (şehir ve deniz manzaralı seyir terası), **Trabzon Meydanı (Uzun Sokak & Maraş Caddesi)**, **Forum Trabzon AVM**, **Sümela Manastırı**, **Uzungöl** ve **Hıdırnebi / Sultan Murat Yaylaları** öğrencilerin en popüler gezi ve sosyalleşme noktalarıdır.
-* **Part-Time İş ve Staj Olanakları:**  
-  Kampüs sınırları içerisindeki **Trabzon Teknokent**, yazılım ve mühendislik öğrencileri için çok güçlü bir Ar-Ge ve yarı zamanlı çalışma merkezidir. Ayrıca Forum AVM ve Kalkınma kafelerinde part-time iş olanakları geniştir.
+* **Türkiye'nin 4. Teknik Üniversitesi ve Mühendislik Barajları:**  
+  İTÜ, ODTÜ ve Yıldız Teknik ile birlikte Türkiye'nin en köklü 4 teknik üniversitesinden biri olan KTÜ; İnşaat, Makine, Elektrik-Elektronik, Bilgisayar, Harita ve Jeoloji mühendisliklerinde tavizsiz bir akademik disipline sahiptir.
+  * **Efsanevi Baraj Dersleri:** Diferansiyel Denklemler, Statik, Mukavemet, Akışkanlar Mekaniği ve Termodinamik derslerinde hocaların çan eğrisi uygulamadığı, geçme notunun net 50-60 olduğu katı bir sistem vardır.
+  * **Büte Kalma Kültürü:** KTÜ'de büte kalmak ayıp değil, bir gelenektir! Tek bir baraj dersi yüzünden okulun 1-2 dönem uzaması mühendislik öğrencileri arasında çok yaygındır.
+* **Farabi Tıp Fakültesi ve Mimarlık/Orman:**  
+  KTÜ Farabi Hastanesi tüm Karadeniz ve Kafkaslar'ın sağlık üssüdür; klinik stajlar yoğundur. Mimarlık ve Orman fakülteleri ise Türkiye'nin en eski ve saygın akademik kadrolarına sahiptir.
+* **Faik Ahmet Barutçu Kütüphanesi ve Masa Kapma Savaşları:**  
+  Kampüsün göbeğindeki 4 katlı Merkez Kütüphane, sınav haftalarında **7/24 açık** tutulur. Gece 00:00'da sıcak çorba servisi yapılır. Ancak vize ve final haftalarında sabah 07:30'a kadar masalara mont, defter ve termos bırakılmazsa gün boyu prizli çalışma masası bulmak imkansızlaşır; öğrenciler arasında yer kapma tartışmaları kütüphanenin sınav klasiğidir.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 4. 🍽️ Beslenme, Sokak Lezzetleri ve Kampüs İçi Yaşam
+
+* **Öğrenci Yemekhaneleri:**  
+  Merkez Kütüphane yanındaki Öğrenci Yemekhanesi ile Farabi Tıp yemekhanesinde öğle ve akşam yemeği **25 - 30 TL** aralığındadır. BYBS sistemi veya kartla geçiş yapılır; menüler doyurucudur.
+* **Trabzon Gastronomi ve Sokak Lezzetleri Rehberi:**  
+  * **Akçaabat Köftesi:** Sarımsaklı dana kıyması ve bayat ekmek içiyle yoğrulup meşe kömüründe pişirilen sulu köfte. Akçaabat sahilindeki Cemilusta, Nihat Usta veya Söğütlü'deki salaş köftecilerde piyaz ve köpüklü yayık ayranı ile yenir.
+  * **Kuymak / Muhlama:** Bol taze köy tereyağı, mısır unu ve telli kolot peyniriyle tavada uzadıkça uzayan Karadeniz klasiği; Boztepe seyir terasında veya Kalkınma kahvaltı salonlarında sıcacık ekmekle süpürülür.
+  * **Sürmene Pidesi:** Ortasında çiğ yumurta sarısı ve erimiş tereyağı bulunan yuvarlak açık pide; kenar çıtırı koparılıp ortadaki göle batırılır.
+  * **Hamsiköy Fırın Sütlacı:** Taş fırında üzeri nar gibi yakılmış, bol fındıklı gerçek köy sütlacı.
+  * **Faroz Hamsi Izgara:** Kış aylarında Faroz balıkçı barınaklarında taze çıtır hamsi tava ve mısır ekmeği.
+
+---
+
+## 5. 🌆 Şehir Dinamikleri, Trabzonspor Tutkusu ve Sosyal Hayat
+
+* **Bordo-Mavi Şehir Atmosferi:**  
+  Trabzonspor maç günlerinde şehirde hayat durur; Meydan, Kalkınma ve sahil tamamen bordo-mavi formalı taraftarlarla dolar. Öğrenciler Akyazı Şenol Güneş Stadyumu'nda maç izlemeyi hayatlarının en unutulmaz ritüellerinden biri sayar.
+* **Ganita – Faroz Sahil Aksı & Boztepe:**  
+  Deniz kıyısında yenilenen Ganita sahil parkı, yürüyüş yolları, gün batımı çay bahçeleri ve deniz kütüphanesi öğrencilerin favori sosyalleşme alanıdır. Boztepe Seyir Terası ve cam teras ise tüm şehri ve Karadeniz'i kuşbakışı izletir.
+* **Forum Trabzon AVM:**  
+  Kampüsün A Kapısı'ndan 10 dakikalık yürüme mesafesinde yer alan Forum AVM; sinema, kurumsal mağazalar ve yemek alanlarıyla öğrencilerin alışveriş üssüdür.
+
+---
+
+## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* **Türkiye'nin En Güzel Kampüslerinden Biri:** Deniz manzaralı, botanik bahçesi gibi yemyeşil, kütüphanesi 7/24 açık, gerçek bir Araştırma Üniversitesi kampüsü.
-* **Eşsiz Konum (Havalimanı + AVM + Kalkınma):** Havalimanına, Forum AVM'ye ve Kalkınma öğrenci mahallesine yürüyerek ulaşabilme lüksü.
-* **Çok Güçlü Mezun Ağı ve Akademik İtibar:** Özellikle Mühendislik, Mimarlık ve Tıp alanlarında Türkiye çapında aranan diploma gücü.
+* **Gerçek Bir Teknik Araştırma Üniversitesi:** Türkiye çapında yüksek diploma itibarı, güçlü mezun dayanışması ve Teknokent imkanları.
+* **Doğal Botanik Bahçesi Kampüs:** Deniz manzaralı, asırlık çam ağaçları ve koruluklarla dolu yeşil yerleşke.
+* **Havalimanı ve AVM'ye Yürüme Mesafesi:** Havalimanı terminaline, Forum AVM'ye ve Kalkınma kafe mahallesine birkaç dakikada yürüyebilme lüksü.
 
-### ❌ Eksileri
-* **Yüksek Ev Kiraları:** Körfez turizmi ve arsa darlığı nedeniyle Kalkınma ve Konaklar'da kira fiyatlarının büyükşehir seviyesine çıkması.
-* **Kampüs Yokuşları ve Yağmur:** A Kapısı'ndan C Kapısı ve Tıp Fakültesi'ne çıkan dik yokuşlar ve bitmeyen sonbahar/kış yağmurları.
+### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+* **Bitmeyen Yağmur ve Kırılan Şemsiyeler:** Sonbahar ve kışın günlerce aralıksız yağan sağanak yağmur ve sert rüzgar; sıradan şemsiyelerin ilk rüzgarda ters dönüp kırılması.
+* **Kampüs Yokuşları ve Merdiven Çilesi:** A Kapısı ile Tıp ve üst yurtlar arasındaki dik yokuşlar ve yüzlerce basamaklı merdivenlerin kışın kayganlaşması ve bacakları yorması.
+* **Fahiş Kira Artışları:** Turizm ve emlak baskısı nedeniyle Kalkınma ve Konaklar'da ev kiralarının ve depozitoların çok yüksek olması.
+* **Of Teknoloji Fakültesi Sürgünü:** Yazılım ve Teknoloji mühendisliklerinin merkezde değil, 55 km uzaktaki Of ilçesinde yer alması.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "KTÜ Kanuni Kampüsü'nde okumak ayrıcalıktır; bahar aylarında Şenlik Alanı'ndaki çimlerde ve Aslanlı Yol'da geçirilen vakitler unutulmaz. İlk senenizde kampüse alışırken yurtları tercih edin, eve çıkacaksanız da derslerinizin ağırlıklı olduğu kapıya (A Kapısı mı, C Kapısı mı) göre mahalle seçin. Bir de Trabzonspor'un iç saha maç saatlerinde dolmuşların çok kalabalık olacağını unutmayın!"
+> "KTÜ Mühendisliğe geliyorsan ilk sınıftan itibaren 'çıkmış sınav soruları arşivini' Kalkınma fotokopicilerinden topla, dersi derste dinle; Diferansiyel ve Mukavemet'i hafife alırsan okulun rahat 6 yıla uzar! Trabzon'a gelirken şemsiyeye güvenme; kaliteli Gore-Tex su geçirmez bir bot ve kapüşonlu sağlam bir yağmurluk edin. Kalkınma'da ev tutacaksan kesinlikle bodrum veya kuzey zemin kattan uzak dur, küf canavarıyla uğraşma. Pazar sabahları da Boztepe'ye çıkıp deniz manzarasına karşı kuymak yemeyi sakın unutma!"

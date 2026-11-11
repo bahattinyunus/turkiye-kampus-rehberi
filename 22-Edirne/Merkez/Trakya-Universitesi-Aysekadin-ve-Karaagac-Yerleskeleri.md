@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Edirne / Merkez  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Şehir İçi ve Tarihi Merkez Yerleşkeleri  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.5/5)
+> **Kampüs Konumu:** Şehir İçi ve Tarihi Merkez Yerleşkeleri (Ayşekadın, Güllapoğlu, Karaağaç)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.6/5)
 
 ---
 
@@ -12,90 +12,81 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | Şehir Merkezinin Tam İçinde (0 - 4 km) | Ayşekadın yürüyüş mesafesi; Karaağaç'a 5B ETUS veya bisiklet yolu |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Güllapoğlu'nda Meriç Erkek KYK, Ayşekadın'da Şehit Gökhan Çakır Kız KYK |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 11.000 - 17.000 TL | Ayşekadın, Fatih, Şükrüpaşa, Kaleiçi ve Karaağaç |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Her yerleşkenin kendi yemekhanesi mevcut |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri + Fakülte Okuma Salonları | Ayşekadın, Mühendislik ve Karaağaç birim kütüphaneleri |
-| **🌐 İnternet (eduroam)** | İyi | Tüm yerleşke binalarında ve bahçelerinde eduroam aktif |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı | Ayşekadın kafeleri, Erasta AVM, Tarihi Meriç Köprüsü, Lozan Anıtı |
+| **🚇 Şehir Merkezine Uzaklık** | Şehir Merkezinin Tam Kalbinde (0 - 4 km) | Ayşekadın yürüme mesafesi; Karaağaç'a 5B ETUS veya nehir boyu bisiklet yolu |
+| **🏠 KYK Yurt İmkanı** | Yüksek | Güllapoğlu'nda kampüs içi Meriç Erkek KYK; Ayşekadın'da Şehit Gökhan Çakır Kız KYK |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 11.000 - 17.500 TL | Ayşekadın, 1. Murat Mah., Fatih, Kaleiçi ve Karaağaç konakları |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Her yerleşkenin kendi yemekhanesi mevcuttur; sıcak ve ekonomik tabldot |
+| **📚 Kütüphane Kapasitesi** | Mesai Saatleri + Sınav Salonları | Ayşekadın, Mühendislik ve Karaağaç birim kütüphaneleri |
+| **🌐 İnternet (eduroam)** | Hızlı | Tüm fakültelerde, tarihi gar bahçesinde ve atölyelerde eduroam aktif |
+| **🌆 Sosyal Yaşam & Çevre** | Efsanevi Dinamik & Tarihi Doku | Erasta AVM karşısı kafeler sokağı, Meriç Köprüsü, Karaağaç kahvaltı mekanları |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Ağı ve Yerleşkeler Arası Taktikler
 
-Trakya Üniversitesi'nin Balkan Yerleşkesi dışındaki en önemli fakülteleri şehrin en güzel ve merkezi noktalarına yayılmıştır:
-* **Ayşekadın Yerleşkesi (Edebiyat Fakültesi, Uygulamalı Bilimler, Yabancı Diller, Sosyal Bilimler MYO):** Edirne'nin en canlı semti olan Ayşekadın'da, Talatpaşa Bulvarı (E-5) üzerinde ve **Erasta AVM**'nin hemen karşısında yer alır. Şehrin her yerinden geçen neredeyse tüm ETUS hatları (1A, 2A, 3A, 5A, 6, 7 vb.) yerleşke kapısının önünden geçer.
-* **Ahmet Karadeniz (Güllapoğlu) Yerleşkesi (Mühendislik Fakültesi, Teknik Bilimler MYO):** Ayşekadın ile Balkan Yerleşkesi arasında yer alır; her iki noktaya da yürüyerek 15 dakikada veya ETUS ile 3-5 dakikada ulaşılır.
-* **İsmail Hakkı Tonguç (Eğitim Fakültesi) & Makedonya Yerleşkesi (Mimarlık Fakültesi):** Tarihi şehir merkezine (Saraçlar Caddesi ve Selimiye Camii aksı) yürüme mesafesindedir.
-* **Karaağaç Yerleşkesi (Güzel Sanatlar Fakültesi):** Tarihi **Tunca ve Meriç taş köprülerini** geçtikten sonra, Yunanistan sınırına 2 km mesafedeki yemyeşil Karaağaç mahallesinde, tarihi **Eski Gar Binası** ve **Lozan Anıtı**'nın bulunduğu büyüleyici bir yerleşkedir. Merkeze **ETUS 5B** hattıyla veya bisiklet yoluyla ulaşılır.
+* **Ayşekadın Yerleşkesi (Edebiyat, Uygulamalı Bilimler, Yabancı Diller, Sosyal Bilimler MYO):**  
+  Edirne'nin en canlı arteri olan Talatpaşa Bulvarı (E-5) üzerinde, **Erasta AVM**'nin tam karşısındadır. Şehrin her yerinden geçen neredeyse tüm ETUS hatları (1A, 2A, 3A, 5A, 6, 7 vb.) yerleşkenin kapısından geçer. Ayşekadın'da oturan bir öğrenci 4 yıl boyunca toplu taşımaya neredeyse hiç para ödemez.
+* **Ahmet Karadeniz (Güllapoğlu) Yerleşkesi (Mühendislik Fakültesi, Teknik Bilimler MYO, Teknopark):**  
+  Ayşekadın ile Balkan Yerleşkesi'nin tam ortasında yer alır. Her iki noktaya da yürüyerek 12-15 dakikada veya ETUS araçlarıyla 3-4 dakikada ulaşılır. Kampüs içinde **Meriç KYK Erkek Yurdu** bulunduğu için mühendislik öğrencileri odalarından çıkıp 2 dakikada dersliklere geçer.
+* **Karaağaç Yerleşkesi (Güzel Sanatlar Fakültesi) & Meriç Köprüsü Geçiş Sırrı:**  
+  Tarihi **Tunca ve Meriç taş köprülerini** geçtikten sonra, Yunanistan sınırına 2 km mesafede, asırlık çınarların altında kurulu olan bu yerleşke, tarihi **Eski Edirne Tren Garı** ve **Lozan Anıtı** alanındadır:
+  * **ETUS 5B Midibüsü:** Şehir merkezinden ve Ayşekadın'dan Karaağaç'a doğrudan gider; ancak sefer aralıkları ana hatlara göre biraz daha uzundur (15-20 dk).
+  * **Bisikletle Okula Gitme Ritüeli (Öğrenci Sırrı):** Güzel Sanatlar öğrencileri için en güzel ulaşım aracı bisiklettir. Meriç Köprüsü üzerinden gün doğumunda ve gün batımında nehir manzarasını seyrederek bisiklet sürmek Türkiye'deki en büyüleyici kampüs yolculuğudur.
+* **Makedonya Yerleşkesi (Mimarlık Fakültesi):**  
+  Saraçlar Caddesi ve tarihi Selimiye Camii'nin hemen yakınında, şehrin göbeğindedir; yürüyerek çok kolay ulaşılır.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma, Mahalle Seçimi ve Yurt Dinamikleri
 
 * **KYK Yurtları:**  
-  * **Meriç KYK Erkek Öğrenci Yurdu:** Doğrudan **Güllapoğlu (Mühendislik) Yerleşkesi**'nin içinde yer alır. Mühendislik öğrencileri yurt odalarından çıkıp 2 dakikada amfiye girerler; Ayşekadın'a ise yürüyerek 12 dakikadır.
-  * **Şehit Gökhan Çakır KYK Kız Öğrenci Yurdu:** Merkez ve Ayşekadın aksındaki kız öğrenciler için ulaşımı çok kolay bir konumdadır.
-* **Özel Yurtlar ve Apartlar:**  
-  Ayşekadın yerleşkesinin arka sokakları (1. Murat ve Kocasinan mahalleleri) ile Kaleiçi'nde çok sayıda özel kız/erkek yurdu ve 1+1 eşyalı apart mevcuttur.
+  * **Meriç KYK Erkek Öğrenci Yurdu:** Ahmet Karadeniz (Güllapoğlu) Mühendislik Yerleşkesi'nin içindedir. Mühendislik ve teknoloji öğrencileri için Edirne'nin en avantajlı yurdudur. Odalar 3-4 kişiliktir, banyolar düzenlidir, bahçesinde spor alanları bulunur.
+  * **Şehit Gökhan Çakır KYK Kız Yurdu:** Ayşekadın ve şehir merkezine yakın konumuyla kız öğrenciler için güvenli ve konforlu bir barınma sunar.
 * **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Ayşekadın & Fatih Mahallesi:** Edebiyat, Mühendislik ve MYO öğrencilerinin %80'inin yaşadığı, okula yürüyerek gidip gelinen en popüler bölgedir.
-  * **Karaağaç Mahallesi:** Güzel Sanatlar ve Mimarlık öğrencilerinin müstakil bahçeli veya az katlı evlerde sanatsal ve sakin bir yaşam için tercih ettiği bohem mahalledir.
+  * **Ayşekadın (1. Murat & Kocasinan Mah.):** Edirne'de öğrencilik hayatının gayriresmi kalbidir. Sokaklarında yüzlerce kafe, etüt salonu, fotokopici ve 1+1 apart bulunur. Gece 02.00'de bile sokakları cıvıl cıvıldır. Ancak yoğun talep sebebiyle kiralar Edirne genelinin üstündedir.
+  * **Karaağaç Mahallesi (Bohem Yaşam):** Güzel Sanatlar ve Mimarlık öğrencilerinin ahşap panjurlu müstakil taş evlerde veya bahçeli kiralık dairelerde yaşadığı bohem semttir. Sessiz, doğayla iç içe ve sanatçılarla dolu bir atmosfer sunar.
+  * **Kaleiçi (Tarihi Ahşap Konaklar):** Merkeze yakın, tarihi Edirne ahşap evlerinin restore edildiği sokaklardır; sanatsal atmosferi seven öğrenciler tarafından tercih edilir.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 3. 🎓 Sanat, Mühendislik ve Tarih İçinde Eğitim
 
-* **Kütüphane İmkanları:**  
-  Ayşekadın, Mühendislik, Eğitim, Mimarlık ve Karaağaç yerleşkelerinin her birinde fakülte kütüphaneleri ve sessiz çalışma salonları mevcuttur. Ayrıca 10 dakika mesafedeki Balkan Yerleşkesi Merkez Kütüphanesi tüm öğrencilere açıktır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  * **Mühendislik Fakültesi (Güllapoğlu):** Bilgisayar, Elektrik-Elektronik, Makine, Gıda ve Genetik/Biyomühendislik laboratuvarları ile **Trakya Teknopark** aynı yerleşke/bölge içindedir.
-  * **Mimarlık ve Güzel Sanatlar (Makedonya & Karaağaç):** Tarihi taş binalarda kurulu çizim stüdyoları, heykel ve resim atölyeleri Türkiye'nin en estetik eğitim ortamlarından birini sunar.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Tüm yerleşkelerde `eduroam` kablosuz internet altyapısı sorunsuz çalışmaktadır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Ayşekadın Yerleşkesi yemekhane ve bahçe alanı, öğrenci topluluklarının stant açtığı en hareketli merkezlerden biridir. Yazılım, IEEE, Edebiyat, Tiyatro, Sinema ve Bisiklet kulüpleri çok aktiftir.
+* **Tarihi Tren Garında Sanat Eğitimi (Karaağaç):**  
+  1914 yılında Mimar Kemalettin tarafından tasarlanan tarihi Edirne Gar Binası, bugün Trakya Üniversitesi Güzel Sanatlar Fakültesi olarak hizmet verir. Öğrenciler asırlık çınarların altında, tarihi tren vagonları, heykeller ve taş kemerler arasında resim, heykel ve grafik çalışmaları yaparlar. Türkiye'de bundan daha ilham verici bir sanat kampüsü bulmak zordur.
+* **Güllapoğlu Mühendislik ve Teknopark Gücü:**  
+  Mühendislik Fakültesi bünyesindeki Bilgisayar, Elektrik-Elektronik, Makine ve Genetik laboratuvarları oldukça gelişmiştir. Yerleşke içindeki **Trakya Teknopark**, yazılım ve mühendislik öğrencilerine mezun olmadan önce teknoloji şirketlerinde part-time çalışma ve TÜBİTAK projeleri geliştirme fırsatı sağlar.
+* **Mimarlık Fakültesi ve Şehir Dokusu:**  
+  Mimar Sinan'ın başyapıtı Selimiye Camii'nin gölgesinde mimarlık eğitimi almak öğrencilere eşsiz bir tarihi vizyon kazandırır.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 4. 🍽️ Beslenme, Sokak Lezzetleri ve Karaağaç Kafeleri
 
-* **Merkez Yemekhane:**  
-  Ayşekadın, Güllapoğlu (Mühendislik), Eğitim ve Karaağaç yerleşkelerinin tamamında öğrenci yemekhanesi bulunur ve 25-35 TL bandında 4 çeşit sıcak yemek verilir.
-* **Kantinler, Kafeler ve Çarşı:**  
-  **Ayşekadın Yerleşkesi**'nden kapıdan çıktığınız anda karşınızda **Erasta AVM**, sağınızda ve solunuzda ise onlarca kahveci, pub, dönerci, ev yemekleri lokantası ve kırtasiye yer alır. Karaağaç Yerleşkesi'nde ise asırlık ağaçların altındaki bahçe kafeleri ve Karaağaç kahvaltıcıları/kafeleri öğrencilerin gözdesidir.
-* **Spor Tesisleri:**  
-  Güllapoğlu ve Ayşekadın yerleşkelerinde açık/kapalı spor sahaları mevcuttur; ayrıca Karaağaç yolu ve Meriç Nehri kıyısı mükemmel bir koşu ve bisiklet rotasıdır.
-
----
-
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
-
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Şehir içi yerleşkeler Edirne halkıyla tamamen iç içedir. Esnaf öğrenciyi çok sever, sokaklar günün her saati canlı ve güvenlidir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Ayşekadın'daki **Zübeyde Hanım Caddesi** ve **Ekrem Demiray** çevresi akşamları öğrencilerin dolup taştığı kafe ve pub sokağıdır. **Karaağaç Yerleşkesi** ise başlı başına bir turizm ve kültür merkezidir; **Lozan Anıtı ve Müzesi**, **İlhan Koman Heykel ve Resim Müzesi** ve Meriç Nehri kenarındaki tesisler ders aralarında bile tatil beldesi hissi verir. Her yıl Mayıs ayında Tunca Nehri kıyısında kutlanan **Kakava ve Hıdrellez Şenlikleri** şehirdeki öğrencilik hayatının zirvesidir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Ayşekadın Yerleşkesi'nin tam karşısındaki Erasta AVM ve çevredeki kafeler sayesinde öğrenciler ders aralarında bile part-time çalışabilirler. Mühendislik öğrencileri ise yerleşke içindeki Trakya Teknopark'ta staj ve proje imkanı bulur.
+* **Yerleşke Yemekhaneleri:**  
+  Ayşekadın, Güllapoğlu, Mimarlık ve Karaağaç yerleşkelerinin hepsinde bağımsız öğrenci yemekhaneleri bulunur. Sıra beklemeden 25-35 TL'ye sıcak 4 çeşit menü tüketilebilir.
+* **Ayşekadın Sokak Lezzetleri:**  
+  Yerleşkeden çıktığınız anda karşınızdaki Erasta AVM ve yan sokaklardaki dönerciler, tavuk pilavcılar, çiğ köfteciler ve kafeler öğrencilere her bütçeye uygun zengin alternatifler sunar.
+* **Karaağaç Kahvaltı ve Çay Bahçeleri:**  
+  Karaağaç Yerleşkesi'nin çevresinde meşhur tarihi çınar altı kahvaltı mekanları ve butik kafeler yer alır. Ders aralarında nehir kıyısında demlik çay eşliğinde simit yemek öğrencilerin en büyük keyfidir.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
 
-### ✅ Artıları
-* **Sosyal Hayatın Tam Kalbinde Okumak:** Özellikle Ayşekadın Yerleşkesi, öğrenci evleri, AVM ve kafelerle tamamen bütünleşmiş durumdadır; ulaşım derdi yoktur.
-* **Karaağaç ve Makedonya Yerleşkelerinin Büyüleyici Atmosferi:** Tarihi tren garı ve taş binalarda, asırlık çınarların altında eğitim görmek Türkiye'de çok az üniversitede bulunan bir ayrıcalıktır.
-* **Güllapoğlu'nda Kampüs İçi Erkek KYK ve Teknopark:** Mühendislik öğrencileri için yurt, fakülte ve teknoparkın aynı bahçede olması büyük konfordur.
-
-### ❌ Eksileri
-* **Bölünmüş Yerleşke Yapısı:** Fakülteler farklı semtlere dağıldığı için farklı fakültelerdeki arkadaşlarınızla kampüs içinde ortak vakit geçirmek yerine şehirde buluşmanız gerekir.
-* **Ayşekadın'da Yüksek Kira Talebi:** Herkes Ayşekadın'da yürüyüş mesafesinde oturmak istediği için bu mahalledeki 1+1 kiraları Edirne ortalamasının üzerindedir.
-* **Karaağaç'a Kışın Ulaşım:** Karaağaç Yerleşkesi nehirlerin karşı yakasında kaldığı için kışın çok soğuk ve yağışlı günlerde 5B ETUS hattını beklemek biraz zahmetli olabilir.
+* **Parçalı Yerleşke Yapısı:**  
+  Fakültelerin Ayşekadın, Güllapoğlu, Karaağaç ve Balkan olarak şehre dağılmış olması, farklı fakültelerdeki arkadaşlarınızla ders aralarında kampüs içinde buluşmanızı zorlaştırır; buluşmalar mecburen şehirdeki kafelere kayar.
+* **Bahar Aylarında Nehir Taşkınları ve Köprü Kapanmaları:**  
+  Aşırı yağışlı kış ve bahar dönemlerinde Meriç ve Tunca nehirleri taştığında Karaağaç ile Edirne merkezi bağlayan tarihi taş köprüler araç trafiğine kapatılabilir. Askeri personel ve botlarla veya servislerle geçiş sağlanması öğrencilere maceralı ama zorlu anlar yaşatabilir.
+* **Ayşekadın'da Yüksek Kira Talebi ve Eski Binalar:**  
+  Her öğrenci Ayşekadın'da oturmak istediği için ev sahipleri 1+1 apartlara yüksek kiralar istemektedir ve binaların bir kısmı yalıtımsızdır.
+* **Yaz Sıcağında Sivrisinekler:**  
+  Nehir kenarları ve Karaağaç bölgesinde yaz aylarında sivrisinek yoğunluğu fazladır.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 6. 💡 İlk Günden Mezuniyete Altın Tavsiyeler
 
-> 💬 **Öğrenci Notu:**  
-> "Edebiyat, Uygulamalı Bilimler veya Mühendislik kazandıysanız Ayşekadın veya Fatih Mahallesi'nde ev/apart tutun; 4 yıl boyunca tek kuruş dolmuş parası vermeden her yere yürürsünüz. Güzel Sanatlar (Karaağaç) kazandıysanız da kendinize hemen bir bisiklet alın; Meriç Köprüsü'nden gün batımında bisikletle okula gidip gelmek hayatınızın en unutulmaz anısı olacak."
+1. **Kendine Kesinlikle Bir Bisiklet Al:** Özellikle Güzel Sanatlar veya Mimarlık okuyorsan, tarihi taş köprülerden bisikletle geçerek okula gitmek hayatının en güzel ritüeli olacak.
+2. **Mühendislik Okuyorsan Teknopark'a Erken Gir:** Güllapoğlu Yerleşkesi'ndeki Trakya Teknopark şirketlerinin kapısını çal, staj ve proje kovala.
+3. **Ev Tutarken Fatih ve Şükrüpaşa'yı da Değerlendir:** Sadece Ayşekadın'a kilitlenip yüksek kira ödeme; 10 dakika yürüme mesafesindeki Fatih Mahallesi'nde daha yeni ve mantolamalı evler bulabilirsin.
+4. **Kakava Ateşinde Dileğini Tut:** Mayıs başında Sarayiçi'ndeki Kakava şenliklerinde nehre dilek bırakıp sabaha kadar dans etmeyi ihmal etme!

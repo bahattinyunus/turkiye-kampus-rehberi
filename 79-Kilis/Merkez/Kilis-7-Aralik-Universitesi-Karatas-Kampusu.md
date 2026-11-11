@@ -4,7 +4,7 @@
 > **İl / İlçe:** Kilis / Merkez (Karataş Bölgesi)  
 > **Üniversite Türü:** Devlet  
 > **Kampüs Konumu:** Şehir İçi Yeni Gelişim Aksı (Kilis Devlet Hastanesi Yanı - Merkeze ~4 km)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.0/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.1/5)
 
 ---
 
@@ -12,7 +12,7 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 4 km / ~10 dk | Merkez Kampüs ve çarşıdan düzenli belediye otobüsleri ve dolmuşlar |
+| **🚇 Şehir Merkezine Uzaklık** | 4 km / ~10 dk | Merkez Kampüs ve çarşıdan düzenli sarı belediye dolmuşları |
 | **🏠 KYK Yurt İmkanı** | Çok Yüksek | Yerleşke çevresinde yeni nesil yüksek kapasiteli Karataş KYK yurtları |
 | **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.000 - 13.000 TL | Karataş, Beşevler ve Mehmet Sanlı TOKİ konutları |
 | **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | Yerleşke yemekhanesinde sıcak tabldot öğle yemeği ve kafeterya |
@@ -22,74 +22,63 @@
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚇 Ulaşım Ağı ve Öğrenci Taktikleri
 
-* **Şehir Merkezinden ve Merkez Kampüsten Ulaşım:**  
-  **Karataş Kampüsü**, Kilis'in modern kentleşme aksı olan Karataş bölgesinde, yeni Kilis Devlet Hastanesi ve çevre yolu bağlantı noktasında kurulmuştur. Şehir merkezine ve Merkez Kampüs'e yaklaşık **4 km** mesafededir. Şehir içi belediye otobüsleri ve Karataş minibüsleri (**Kart79** geçerli) her 10-15 dakikada bir çalışır ve yolculuk yaklaşık 10 dakika sürer.
-* **Kampüs İçi Ulaşım:**  
-  Yerleşke planlı ve ferah bir alana kurulmuştur. Fakülte binaları, derslik blokları ve spor tesisleri birbirine 2-5 dakikalık yürüme mesafesindedir. Kampüs içi ring ihtiyacı bulunmamaktadır.
-* **Hava Koşulları ve Kış Şartları:**  
-  Güneydoğu Anadolu ile Akdeniz geçiş iklimine sahip Kilis'te kışlar ılıman ve yağmurlu geçer; kar yağışı seyrek görülür. Karataş geniş caddeleri ve altyapısıyla her mevsim ulaşımı son derece konforludur.
+* **Merkez Kampüs ve Çarşıdan Ulaşım:**  
+  **Karataş Kampüsü**, Kilis'in modern kentleşme aksı olan Karataş bölgesinde, yeni **Prof. Dr. Alaeddin Yavaşca Devlet Hastanesi**'nin hemen bitişiğinde yer alır. Şehir merkezine ve Merkez Kampüs'e yaklaşık **4 km** mesafededir. Şehir içi sarı Karataş dolmuşları ve belediye otobüsleri (**Kart79** geçerli) her 10 dakikada bir çalışır; yolculuk 8-10 dakika sürer (öğrenci binişi ~14 - 18 TL).
+* **Gaziantep Bağlantısı:**  
+  Karataş çevre yolu bağlantısından Gaziantep dolmuşlarına kolayca binilerek 40 dakikada Gaziantep Sanko Park veya Üniversite Bulvarı'na ulaşılabilir.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma, Yurtlar ve Mahalle Hayatı
 
-* **KYK Yurtları (Kilis'in En Modern Yurtları):**  
-  Karataş bölgesi, Gençlik ve Spor Bakanlığı'nın Kilis'e kazandırdığı en yeni ve en modern KYK yurtlarına ev sahipliği yapar. **Karataş KYK Kız ve Erkek Öğrenci Yurtları**, kampüse yürüme mesafesinde olup otel konforunda 3-4 kişilik odaları, banyo/tuvalet donanımı, geniş etüt salonları ve spor alanlarıyla öğrencilerin barınma ihtiyacını eksiksiz karşılar.
-* **Özel Apartlar ve Kiralık Evler:**  
-  Bölgedeki yeni konutlaşma sayesinde **Karataş Mahallesi** ve **Beşevler** mevkii 1+1 ve 2+1 kaloriferli/doğalgazlı apart dairelerle doludur. Ev kiraları 8.000 TL ile 13.000 TL arasında değişir ve ev arkadaşıyla paylaşıldığında oldukça ekonomiktir.
-
----
-
-## 3. 🎓 Akademik ve Fiziki Altyapı
-
-* **Sağlık ve Spor Odaklı Akademik Birimler:**  
-  Karataş Kampüsü, KİYÜ'nün sağlık ve spor eğitim üssüdür:
-  * **Yusuf Şerefoğlu Sağlık Bilimleri Fakültesi:** Hemşirelik, Ebelik, Fizyoterapi ve Beslenme ve Diyetetik programları.
-  * **Kilis Sağlık Hizmetleri Meslek Yüksekokulu:** İlk ve Acil Yardım (Paramedik), Tıbbi Dokümantasyon, Anestezi ve Diyaliz laboratuvarları.
-  * **Spor Bilimleri Fakültesi (BESYO):** Antrenörlük, Beden Eğitimi Öğretmenliği ve Spor Yöneticiliği.
-* **Uygulama İmkânları ve Devlet Hastanesi Entegrasyonu:**  
-  Kampüsün yeni **Kilis Prof. Dr. Alaeddin Yavaşca Devlet Hastanesi**'ne komşu olması, sağlık öğrencilerinin klinik stajları ve hasta başı eğitimleri için eşsiz bir pratik avantaj sağlar. Kampüste ayrıca anatomi laboratuvarı, acil müdahale simülasyon odaları ve kapalı spor kompleksleri yer alır.
-* **İnternet:**  
-  Tüm dersliklerde ve binalarda **eduroam** hızlı ve kesintisizdir.
+* **Karataş KYK Yurtları (Otel Konforu):**  
+  Karataş yerleşkesinin en büyük avantajı, kampüsün hemen yanı başında yer alan yeni nesil **Karataş KYK Kız ve Erkek Öğrenci Yurtları**'dır. Odalar 3-4 kişilik, bazalı, klimalı ve çalışma masalıdır; banyo ve lavabo oda içindedir. Sağlık ve BESYO öğrencileri sabah yurttan çıkıp yürüyerek 3 dakikada fakültelerine ve hastaneye girer. Turnike girişi 23:00'te kapanır.
+* **Kiralık Evler ve Apartlar:**  
+  Karataş mevkisindeki yeni binalarda 1+1 ve 2+1 kaloriferli/doğalgazlı apart daireler 8.000 TL ile 13.000 TL arasında kiralanabilir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🎓 Sağlık, Spor ve Hastane Entegrasyonu
 
-* **Yemekhane:**  
-  Hafta içi her gün öğle saatlerinde üniversite tabldot yemekhanesinde 4 çeşit sıcak ve besleyici yemek (25 - 30 TL) servisi verilir.
-* **Kantin ve Kafeler:**  
-  Fakülte kantinlerinde sıcak içecekler, sandviç ve tost çeşitleri öğrenci dostu fiyatlarla sunulur. Yerleşke çevresinde ve hastane caddesinde ise yeni nesil kafeler ve restoranlar bulunmaktadır.
+* **Yusuf Şerefoğlu Sağlık Bilimleri Fakültesi ve Sağlık MYO:**  
+  Hemşirelik, Ebelik, Fizyoterapi, İlk ve Acil Yardım (Paramedik) ve Anestezi programlarında tam donanımlı simülasyon sınıfları bulunur.
+* **Devlet Hastanesi ile İç İçe Staj:**  
+  Kampüsün hemen bitişiğindeki 500 yataklı yeni bölge devlet hastanesi, sağlık öğrencilerinin klinik stajları ve hasta başı uygulamaları için muazzam bir pratik sahasıdır; öğrenciler hastaneye yürüyerek geçer.
+* **Spor Bilimleri Fakültesi (BESYO):**  
+  Antrenörlük ve Beden Eğitimi Öğretmenliği öğrencileri için kapalı spor salonları, atletizm sahası ve kondisyon merkezleri yerleşkede mevcuttur.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 4. 🍽️ Beslenme ve Yöresel Lezzetler
 
-* **Sosyal Yaşam ve Karataş Parkı:**  
-  Karataş Kampüsü'nün hemen yanında yer alan **Karataş Parkı (Mesire Alanı)**, çam ağaçları altındaki yürüyüş parkurları ve dinlenme alanlarıyla öğrencilerin açık havada ders çalışıp sosyalleştiği popüler bir noktadır.
-* **Merkez Kampüs ve Doğan Güreş Paşa Caddesi:**  
-  Daha hareketli kafe ortamı, kitap kafeler ve çarşı için öğrenciler 10 dakikada Merkez Kampüs bulvarına iner. Gaziantep'e 40 dakika mesafede olması sayesinde hafta sonları Gaziantep AVM'lerine ve sinemalara kolayca gidilir.
-* **Part-Time İş ve Staj:**  
-  Sağlık öğrencileri için bölge hastanelerinde, tıp merkezlerinde ve eczanelerde; BESYO öğrencileri için spor salonları ve kulüplerde zengin staj ve yarı zamanlı çalışma imkanı mevcuttur.
+* **Yemekhane:** Hafta içi 25 - 30 TL'ye 4 çeşit sıcak ve besleyici yemek verilir.
+* **Hastane Caddesi Lokantaları:** Kampüs çevresinde taze Kilis tavası, lahmacun, kebap ve fırın lezzetleri sunan esnaf lokantaları mevcuttur.
+
+---
+
+## 5. 🌆 Sosyal Yaşam ve Dinlenme
+
+* **Karataş Parkı:** Kampüsün hemen bitişiğindeki çamlık mesire alanı ders aralarında dinlenmek ve piknik yapmak için harika bir açık hava alanıdır.
+* **Merkez Kampüs ve Antep Kaçamakları:** Öğrenciler akşamları 10 dakikada Merkez Kampüs'ün kafe bulvarına iner veya hafta sonu Gaziantep AVM'lerine ve sinemalarına gider.
 
 ---
 
 ## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* **Hastanenin Hemen Yanında Olmak:** Sağlık ve Paramedik öğrencilerinin staj için şehir içi yol çekmeden hemen hastanede uygulamaya girebilmesi.
-* **Otel Konforunda Yeni KYK Yurtları:** Kilis'in en yeni, ferah ve modern KYK yurtlarının bu kampüs çevresinde bulunması.
-* **Sakin, Havadar ve Düzenli Çevre:** Trafik gürültüsünden uzak, geniş caddelere ve parklara sahip modern bir yerleşim.
+* **Hastanenin Dibinde Olmak:** Sağlık öğrencilerinin staj için minibüse binmeden yürüyerek hastaneye geçebilmesi.
+* **Yeni ve Klimalı KYK Yurtları:** Modern binalarda konforlu ve ucuz barınma.
+* **Gaziantep'e Hızlı Erişim:** 40 dakikada büyükşehir imkanlarına ulaşabilme.
 
 ### ❌ Eksileri ve Kronik Sorunları
-* **Sosyal Mekanların Merkez Kampüse Göre Azlığı:** Çarşı ve kafe yoğunluğunun Merkez Kampüs civarında olması sebebiyle akşamları merkeze gitme ihtiyacı.
-* **Yaz Sıcakları:** Mayıs ve Haziran aylarında Güneydoğu güneşinin etkisini artırması.
+* **Çarşıya 4 km Mesafe:** Gece geç saatlerde Merkez Kampüs'teki kafelerden dönerken dolmuş seferlerinin seyrekleşmesi.
+* **Yaz Sıcağı:** Güneydoğu yaz aylarında sıcaklığın 40 dereceyi aşması.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 💡 Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Sağlık Bilimleri, Hemşirelik veya Paramedik okuyacaksanız Karataş Kampüsü Kilis'in en iyi yeridir; hemen yanı başınızdaki devlet hastanesinde bizzat sahada yetişirsiniz. Karataş KYK yurtları da tertemiz ve otel gibidir. Sıkıldığınız an 10 dakikada Merkez Kampüs'teki kafelere inebilir, hafta sonu da Antep'e kaçıp gezebilirsiniz!"
+> "Karataş Kampüsü'nde Sağlık veya BESYO kazandıysan mutlaka kampüsün dibindeki Karataş KYK yurdunu tercih et; sabah hastaneye ve dersliklere yürüyerek gitmenin rahatlığı paha biçilemez. Canın sıkıldığında 10 dakikada Merkez Kampüs kafelerine veya 40 dakikada Antep'e geçebilirsin!"

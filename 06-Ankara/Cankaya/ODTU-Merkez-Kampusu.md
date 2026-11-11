@@ -4,7 +4,7 @@
 > **İl / İlçe:** Ankara / Çankaya (Üniversiteler Mah. - Eskişehir Yolu)  
 > **Üniversite Türü:** Devlet  
 > **Kampüs Konumu:** Merkez Kampüs (45.000 Dönüm Orman ve Eymir Gölü Arazisi)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.9/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (5.0/5)
 
 ---
 
@@ -13,93 +13,94 @@
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
 | **🚇 Şehir Merkezine Uzaklık** | Kızılay'a 7 km / ~15 dk (Metro) | M2 Çayyolu Metrosu ODTÜ Durağı (A1 Kapısı) + 100. Yıl (A4 Kapısı) |
-| **🏠 KYK Yurt İmkanı** | Kampüs İçi ODTÜ Yurtları Yüksek | 19 adet ODTÜ Yurdu + Konukevleri doğrudan kampüsün kalbinde |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 18.000 - 27.000 TL (Oda başı 7.000-10.000 TL) | 100. Yıl (İşçi Blokları), Çiğdem Mah., Bahçelievler, Emek |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 30 - 35 TL / İyi | Merkez Kafeterya'da öğle ve akşam yemeği, vegan/vejetaryen menü opsiyonlu |
-| **📚 Kütüphane Kapasitesi** | Geniş (3 Katlı) + BÖTE/Bölüm Çalışma Salonları | Türkiye'nin en zengin İngilizce akademik kütüphanelerinden biri |
-| **🌐 İnternet (eduroam)** | Çok Hızlı | METU-Net ve eduroam tüm bölümlerde, yurtlarda ve Çarşı'da güçlü |
-| **🌆 Sosyal Yaşam & Çevre** | Efsanevi | Devrim Stadyumu, Çarşı, 100'den fazla topluluk, Bahar Şenliği, Eymir Gölü |
+| **🏠 KYK & ODTÜ Yurt İmkanı** | ODTÜ Yurtları Çok Geniş | 19 adet ODTÜ Yurdu + Konukevleri kampüs içi; Eskişehir yolunda ODTÜ KYK |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 18.000 - 27.000 TL (Oda başı 7.000-9.500 TL) | 100. Yıl (İşçi Blokları), Çiğdem Mah., Bahçelievler, Emek |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 35 TL / İyi & Vegan Opsiyonlu | Merkez Kafeterya'da öğle ve akşam servisi; Vegan/Vejetaryen özel reyonu |
+| **📚 Kütüphane Kapasitesi** | 7/24 Sınav Dönemi + Bölüm Salonları | Merkez Kütüphane 3 katlı; ayrıca Math, CENG, EE 7/24 çalışma salonları |
+| **🌐 İnternet (eduroam)** | Çok Hızlı (Fiber) | Türkiye'nin internet beşiği; METU-Net ve eduroam ormanlık açık alanlar hariç mükemmel |
+| **🌆 Sosyal Yaşam & Çevre** | Efsanevi Kampüs Kültürü | Devrim Stadyumu, Çarşı, Sunshine, Çatı Kafe, 100+ topluluk, Eymir Gölü |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **Şehir Merkezinden Ulaşım:**  
-  ODTÜ Kampüsü, Eskişehir Yolu (Dumlupınar Bulvarı) üzerinde çok merkezi bir konumdadır.
-  * **A1 Kapısı (Metro Kapısı):** Kızılay-Koru (M2) metrosunun **ODTÜ Durağı** tam A1 kapısının önündedir. Turnikeden çıkıp kampüs girişinden geçtiğinizde **EGO 411-7 / Kampüs İçi Ring** otobüsleri veya ODTÜ'nün kendi ücretsiz ringleriyle bölümlere çıkılır.
-  * **A4 Kapısı (100. Yıl Kapısı):** 100. Yıl ve Çiğdem Mahallesi'nde yaşayan öğrencilerin yürüyerek girdiği, Hazırlık (DBE) ve Mühendislik binalarına en yakın kapıdır. Kızılay Güvenpark'tan kalkan **100. Yıl / Çiğdem dolmuşları** ve **132, 133, 411** numaralı EGO otobüsleri A4 kapısı yakınına gelir.
-* **Kampüs İçi Ulaşım (Ring Seferleri ve Otostop Kültürü):**  
-  ODTÜ 45.000 dönümlük devasa bir orman kampüsüdür. Kampüs içinde **Kahverengi, Sarı, Kırmızı, Mor ve Gri Ring** hatları (ücretsiz ODTÜ ringleri) A1 kapısı, Yurtlar, Hazırlık, Bölümler (Alle) ve Batı Yurtları arasında sürekli çalışır. Ayrıca ODTÜ'nün yazılı olmayan en köklü geleneği **kampüs içi otostoptur**: A1 kapısından veya A4 yokuşundan el kaldırdığınızda hocalar, çalışanlar veya öğrenciler sizi mutlaka aracına alır.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  **Öğrenci AnkaraKart (EGO Abonman)** ile metro ve EGO ring otobüsleri çok ucuza kullanılır. Kampüsün kendi ringleri ise tamamen ücretsizdir.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  ODTÜ ormanlık ve rakımı şehir merkezinden biraz daha yüksek bir arazi olduğu için kışın Kızılay'da yağmur yağarken ODTÜ'de kar tutabilir. Özellikle **A4 (100. Yıl) yokuşu** buzlandığında yürümek zorlaşır; ancak taşlı **Alle** (bölümler arası yürüyüş yolu) karlar altında kartpostallık bir görüntüye bürünür.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **ODTÜ Kampüs İçi Yurtları (1. Yurt'tan 19. Yurt'a + Batı Yurtları):**  
-  ODTÜ'de yurtlar KYK'ya değil, doğrudan **ODTÜ Yurtlar Müdürlüğü'ne** bağlıdır (Sadece kampüs dışında Eskişehir yolu kenarında **ODTÜ KYK Yurdu** ayrıca bulunur). Kampüs içinde Doğu Yurtlar Bölgesi (1-9. Yurtlar, İsa Demiray, Faik Hızıroğlu, Refika Aksoy, Osman Yazıcı vb.) ve Batı Yurtlar Bölgesi (19. Yurt, Konukevleri) yer alır. Yurt puanı sıralamasına göre şehir dışından gelen öğrencilere yüksek oranda yurt çıkar. Kampüs içinde yurtta kalmak, gece 02:00'de Devrim'de oturup 5 dakikada odaya dönmek demektir.
-* **Özel Yurtlar ve Apartlar:**  
-  Kampüs içinde yarı-özel statüdeki ODTÜ Konukevleri (EBİ Yurtları) ve 100. Yıl'daki apartlar mevcuttur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **100. Yıl (İşçi Blokları Mah.) ve Çiğdem Mahallesi:** ODTÜ öğrencilerinin %70'inin ev tuttuğu mahalledir. A4 kapısına yürüme mesafesindedir. 5 katlı klasik İşçi Blokları daireleri merkezi sistemle çok iyi ısınır. 3+1 daire kiraları **18.000 - 25.000 TL** civarında olup genellikle 3 arkadaş oda paylaşımıyla kişi başı 7.000-8.500 TL'ye kalır.
-  * **Bahçelievler, Emek ve Ayrancı:** Metro ve dolmuşla 15-20 dakikada ulaşılan diğer popüler öğrenci semtleridir.
+* **A1 Kapısı (Metro) & Ringe Oturarak Binme Hilesi:**  
+  * M2 Çayyolu Metrosu ODTÜ Durağı tam A1 ana giriş kapısının altındadır. Turnikelerden çıkıp kampüs içi ring durağına geldiğinizde sabah 08:20 - 08:50 arasında 200 metrelik devasa bir ring kuyruğuyla karşılaşırsınız.
+  * **Hayati Ring Taktikleri:**  
+    * Kampüste çalışan renkli ringler (**Sarı Ring** bölümleri dolaşır, **Kahverengi Ring** yurtlar bölgesine gider, **Kırmızı/Mor Ring** hazırlık ve batı yurtlarına ayrılır).  
+    * Eğer dersiniz Mühendislik veya İİBF'deyse ve ring sırası çok uzunsa, EGO'nun **411-7 Kampüs İçi Ring** otobüsüne binin (Abonman geçerlidir); EGO otobüsleri Alle girişine daha hızlı varır.
+* **A4 Kapısı (100. Yıl) & Kestirme Patikalar:**  
+  100. Yıl Mahallesi'nde yaşayanların ana girişidir. Kızılay Güvenpark'tan kalkan **100. Yıl / Çiğdem dolmuşları** ve **132, 411** EGO hatları A4 kapısına kadar getirir. Buradan Hazırlık (DBE) binalarına yürümek sadece 5 dakikadır. Yokuş yukarı Alle'ye çıkmak istemeyenler A4 nizamiye önündeki otostop cebini kullanır.
+* **Efsanevi ODTÜ Otostop Kültürü ve Yazılı Olmayan Kuralları:**  
+  ODTÜ'de otostop bir zorunluluk değil, 50 yıllık köklü bir eşitlik geleneğidir. 
+  * **Resmi Olmayan Cepler:** A1 Giriş turnike çıkışı, A4 yokuş başı, Çarşı göbeği, Doğu Yurtlar kavşağı ve Hazırlık önü.
+  * **Nasıl Çekilir?:** Başparmak yukarı kaldırılmaz! Yol hizasında sağ el bel hizasında açık tutularak araca doğru hafifçe uzatılır. Durduğunda ön kapı açılır ve sadece gidilecek yön söylenir: *"Hocam, bölümler mi?", "Hocam, Doğu Yurtlar mı?"*.
+  * Direksiyondaki kişi ister rektör, ister profesör, ister 4. sınıf öğrencisi olsun hitap her zaman **"Hocam"**dır. Asla ücret teklif edilmez, teşekkür edilir ve inilir.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma & Yurt Gerçekleri (ODTÜ Yurtları vs 100. Yıl)
 
-* **Kütüphane İmkanları:**  
-  Alle'nin ortasında yer alan **ODTÜ Merkez Kütüphanesi**, sessiz ve sesli çalışma katları, binlerce basılı yabancı kaynak ve veri tabanıyla Türkiye'nin en iyi akademik kütüphanelerindendir. Kütüphane erken dolduğu için öğrenciler ayrıca bölümlerin kendi 7/24 açık çalışma salonlarını (Math, CENG, EE, MM çalışma salonları) ve Yurtlar çalışma odalarını yoğun olarak kullanır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Eğitim dili tüm bölümlerde **%100 İngilizcedir**. Mühendislik, Mimarlık (Türkiye'nin en ikonik brütalist mimari binasıdır), Fen-Edebiyat ve İİBF binaları kırmızı tuğlalı ve yeşillikler içinde kendine has bir mimariye sahiptir. **ODTÜ MEMS Merkezi**, **Güneşam**, **Rüzgem** ve **ODTÜ Teknokent** araştırma altyapısı dünya standartlarındadır.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Türkiye'ye internetin ilk geldiği yer (1993) olan ODTÜ'de **eduroam** ve **METUClass (ODTÜClass)** dijital altyapısı çok güçlüdür.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  ODTÜ'de sosyal ve teknik hayatın kalbi **100'den fazla öğrenci topluluğudur**: ODTÜ Dağcılık ve Kış Sporları (DKSK), ODTÜ Oyuncuları, Müzik Toplulukları (MT), Caz Topluluğu, Havacılık ve Yamaç Paraşütü, IEEE ODTÜ, Robot Topluluğu (ODTÜROK) ve Sualtı Topluluğu (SAT) birer okul gibidir. **Devrim Stadyumu**'nda mezuniyet töreni ve Bahar Şenliği tüm Türkiye'de efsanedir.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane (Kafeterya):**  
-  Kampüsün tam merkezindeki Yemekhane'de hafta içi öğle ve akşam saatlerinde öğrenci bütçesine uygun (~30-35 TL) 4 çeşit yemek ve her gün ayrı **Vegan/Vejetaryen menü** çıkar.
-* **Kantinler, Kafeler ve Çarşı:**  
-  ODTÜ kendi kendine yeten bir şehirdir: **Çarşı** (bankalar, Migros, PTT, kırtasiye, restoranlar, sinema), **Sunshine**, **Çatı Kafe**, **Merkezi Mühendislik (MM) Kantini**, **Mimarlık Kantini** ve Yurtlar bölgesindeki gece açık büfeler/dönerciler sayesinde kampüsten haftalarca çıkmadan yaşayabilirsiniz.
-* **Spor Tesisleri:**  
-  Olimpik Kapalı Yüzme Havuzu, Baraka Spor Salonu, Büyük Spor Salonu, Devrim Stadyumu, tenis kortları, ODTÜ Ormanı koşu parkurları ve **Eymir Gölü (Kürek ve Kano Tesisleri)** ile eşsiz bir spor altyapısı vardır.
+* **ODTÜ Kampüs İçi Yurtlarının Detaylı Röntgeni:**  
+  ODTÜ'de yurtlar KYK'ya değil, doğrudan **ODTÜ Yurtlar Müdürlüğü'ne** bağlıdır (Eskişehir Yolu kenarındaki KYK yurdu hariç). Kampüste 19 adet yurt ve özel konukevleri bulunur.
+  * **Doğu Yurtları (1. Yurt'tan 9. Yurt'a kadar):** Klasik ODTÜ mimarisidir; 2, 3 veya 4 kişilik odalardır. Banyo ve tuvaletler kat koridorlarındadır. Odalar ferahtır, merkezi ısıtması kışın çok iyidir.
+  * **Yeni Yurtlar (İsa Demiray, Faika Demiray, Refika Aksoy, Osman Yazıcı, 19. Yurt):** Banyo-tuvaleti oda içinde olan süit tiplerdir. 19. Yurt Batı bölgesindedir ve bölümlere ringle gidilir.
+  * **Çamaşırhane Çilesi:** Yurt çamaşırhanelerinde sabah 07:30'da sıra fişi kapılır; pazar günleri makineler kilitlenir. Çamaşır yıkamayı çarşamba veya perşembe gününe denk getirmek kurtarıcıdır.
+  * **Yurt Giriş Saati:** ODTÜ yurtlarında giriş-çıkış saatleri Türkiye'deki en özgürlükçü sistemdir; Devrim Stadyumu'ndan gece 02:30'da çıkıp yurda sorunsuzca girebilirsiniz.
+* **100. Yıl (İşçi Blokları) ve Çiğdem Mahallesi Gerçekleri:**  
+  * ODTÜ öğrencilerinin gayriresmi yerleşkesidir. 1516. Cadde, 1538. Sokak ve Migros arkası en yoğun öğrenci sokaklarıdır.
+  * Evler 1970-80 yapımı kooperatif bloklarıdır; 3+1 ev kiraları **18.000 - 26.000 TL** arasındadır ve 3 arkadaş kişi başı 6.000-8.500 TL'ye kalır.
+  * **Alt-Sayaç & Merkezi Isıtma Tuzağı:** Eski kooperatif binalarında pay ölçer veya merkezi kömür/doğalgaz gideri daire başı çok yüksek gelebilir. Evi tutarken geçmiş kışın yakıt aidat makbuzunu mutlaka isteyin.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Kampüsün komşusu olan **100. Yıl Mahallesi**, Türkiye'nin en özgürlükçü, entelektüel ve öğrenci dostu mahallelerinden biridir. Mahalle muhtarlığından esnafına kadar herkes ODTÜ'lülerle iç içedir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Ders bitiminde **Devrim Stadyumu merdivenlerinde** veya **Fizik Çimlerinde** oturmak, 100. Yıl'daki mahalle publarında ve kafelerinde (Viens, Muhit vb.) vakit geçirmek, hafta sonu **Eymir Gölü** etrafında bisiklet sürmek veya metroyla 10 dakikada Bahçelievler/Tunalı'ya geçmek ODTÜ'lülerin rutinidir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Kampüs sınırları içerisindeki **ODTÜ Teknokent** (ASELSAN, HAVELSAN, TUSAŞ, ROKETSAN Ar-Ge ofisleri ve yüzlerce yazılım/teknoloji girişimi), öğrencilere ders aralarında yürüyerek gidip **aday mühendis (part-time)** olarak çalışma ve mezun olmadan iş bulma imkanı sunar.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* **Eşsiz Kampüs Kültürü ve Dayanışma:** "Hocam" hitabıyla başlayan eşitlikçi kültür, Devrim Stadyumu, orman içi Alle yürüyüş yolu ve topluluklarıyla Türkiye'de eşi benzeri olmayan bir aidiyet yaratır.
-* **Akademik Prestij ve ODTÜ Teknokent:** Hem yurt dışı yüksek lisans/doktora kabulünde hem de savunma sanayii ve teknoloji şirketlerinde en güçlü referanstır.
-* **Şehir Merkezinde Orman Kampüs:** Hem 45 bin dönüm ormanın içinde olup hem de Kızılay'a metroyla 15 dakika mesafede olmak büyük bir lükstür.
-
-### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
-* **Devasa Arazide Kış Yürüyüşleri & Ring Yetersizliği:** 45 milyon metrekarelik arazide kışın -15 derece Ankara ayazında, özellikle 19. Yurt ve Faika Demiray bölgesinden Mühendislik binalarına rüzgara karşı yürümek zordur; sabah 08:40 dersi öncesinde A1 kapısı ve yurtlar ring kuyruklarında uzun beklemeler yaşanır.
-* **DBE (Hazırlık) Baskısı ve Ağır Çan Eğrisi:** İngilizce hazırlıkta (Temel Yabancı Diller Bölümü) her hafta yapılan habersiz pop-quizler, ağır geçme barajları ve bölümlerdeki acımasız bağıl değerlendirme (çan eğrisi) nedeniyle okulun 5-6 yılda bitmesi oldukça yaygındır.
-* **Sınav Döneminde Kütüphanede Yer Kapma Savaşı:** Kütüphane 7/24 açıktır ancak vize ve final haftalarında sabah 08:00'de masa tutulmazsa gün boyu oturacak yer bulunamaz; priz ve masa paylaşımı tartışmaları sıktır.
-* **100. Yıl Mahallesi Kira Artışları:** Eskiden öğrenci dostu olan 100. Yıl Mahallesi'nde kiraların hızla yükselmesi ve eski binaların kışın yüksek doğalgaz faturaları çıkarması.
+* **Kafeterya (Merkez Yemekhane):**  
+  * Hafta içi öğle (11:30 - 14:00) ve akşam (17:00 - 19:15) saatlerinde açıktır. ODTÜ Akıllı Kart ile ödeme yapılır (~35 TL).
+  * 4 çeşit tabldotun yanında her gün bağımsız bir **Vegan/Vejetaryen Menü** çıkar. Vejetaryen yemeklerin kalitesi (fırın mücver, mercimekli köfte, soya kıymalı güveç vb.) Türkiye standartlarının çok üzerindedir.
+  * En yoğun saat 12:15 - 12:45 arasıdır; sıranın Kafeterya dışına taştığı anlarda bile çift turnike sistemi sayesinde bekleme süresi 10 dakikayı geçmez.
+* **Kampüsün İkonik Lezzet Durakları:**  
+  * **Çatı Kafe:** İİBF binasının üst katında; salçalı kaşarlı efsane tostu, çayı ve orman manzaralı terasıyla ODTÜ sosyalleşmesinin kalbidir.
+  * **Sunshine:** Fizik çimleri kenarında; havuçlu tarçınlı keki ve filtre kahvesi ders aralarının vazgeçilmezidir.
+  * **MM Kantini (Merkezi Mühendislik):** Tavuklu-kaşarlı sandviçleri ve sınav öncesi hızlı atıştırmalıklarıyla mühendislerin sığınağıdır.
+  * **Çarşı Bölgesi:** Kampüsün minyatür şehir merkezidir. Migros, PTT, bankalar, kırtasiyeler, Öz ODTÜ Dönercisi ve Büfe İkram gece 23:00'e kadar hizmet verir.
+  * **100. Yıl Esnafı:** Kampüs A4 çıkışındaki Viens Kafe, Muhit, Teras Kafe ve gece sabaha kadar açık çorbacı/dürümcüler 100. Yıl gençliğinin ikinci evidir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 4. 📚 Akademik & Sınav Hayatta Kalma
 
-> 💬 **Öğrenci Notu:**  
-> "ODTÜ'ye adım attığın ilk gün kütüphaneciye de, otobüs şoförüne de, profesöre de 'Hocam' demeye alış! Hazırlık yılını (DBE) sadece İngilizce geçmek için değil, en az 2 öğrenci topluluğuna katılıp ömürlük dostluklar kurmak için değerlendir; sabah A1'de ring sırası çok uzunsa da otostop noktasında el kaldırmaktan çekinme!"
+* **Ağır Çan Eğrisi (Curve System) & Harf Notları:**  
+  * ODTÜ'de mutlak not yoktur; bağıl değerlendirme (curve) sistemi uygulanır.
+  * Harf skalası: **AA, BA, BB, CB, CC, DC, DD, FD, FF**.
+  * **DD ve DC Şartlı Geçerdir:** Genel kümülatif ortalamanız (CGPA) 2.00'ın üzerindeyse DD ve DC ile dersi vermiş sayılırsınız; ancak CGPA 2.00 altına düşerse probation (akademik yetersizlik) durumuna düşersiniz ve bu dersleri tekrar almanız gerekir.
+  * **Efsanevi Baraj Dersler:** Math 119 (Calculus I), Math 120 (Calculus II), Phys 105 ve Phys 106'da sınav ortalamaları 100 üzerinden 25-35 arasında seyreder. Sınıfın ortalamasını yakalayan öğrenci CC/CB ile rahatça geçer; bu yüzden "30 aldım battım" paniğine kapılmayın, eğriyi takip edin.
+* **DBE (İngilizce Hazırlık) & Proficiency Sınavı:**  
+  * Temel Yabancı Diller Bölümü (DBE) hazırlık eğitimi çok disiplinlidir. Sene başındaki **Proficiency (İYS)** sınavında Listening (Note-taking), Reading ve Essay aşamalarından 59.5 alan kalır, 60 alan bölüme başlar (virgüllü not toleransı yoktur).
+  * Hazırlıkta habersiz pop-quizler notun önemli bir kısmını oluşturur; derslere devam etmek zorunludur.
+* **Merkez Kütüphanede Sınav Savaşları & Bölüm Çalışma Salonları:**  
+  * Final haftasında 3 katlı Merkez Kütüphane'de sabah 07:45'ten sonra prizli masa bulmak imkansızdır.
+  * **45 Dakika Kuralı:** Masaya mont veya kitap bırakıp 45 dakikadan uzun süre dönmeyenlerin eşyaları güvenlik tarafından toplanır ve yer başkasına verilir.
+  * **Gizli Sığınaklar:** Kütüphane doluysa Bilgisayar Mühendisliği (CENG) amfileri, Elektrik-Elektronik (EE) çalışma salonu ve Matematik Bölümü (Math) salonu 7/24 açıktır ve çok daha ferahtır.
+
+---
+
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **-15 Derece Ankara Ayazında Ring Bekleme Çilesi:**  
+  Aralık ve Ocak aylarında ODTÜ ormanından esen kuru ayaz yüzü keser. Sabah A1 kapısında veya Batı yurtlarında 25 dakika ring kuyruğunda beklerken ayak parmaklarınız donabilir; rüzgar kesici mont ve termal çorap olmadan kış atlatılamaz.
+* **Yaban Domuzu ve Gece Köpek Popülasyonu:**  
+  Kampüs 45 bin dönümlük bakir bir orman olduğu için özellikle Doğu Yurtlar arkası, Teknokent yolu ve Devrim çevresinde gece saatlerinde yaban domuzu sürüleri ve köpek grupları dolaşabilir. Gece geç saatte tek başınıza orman içi kestirmelerden yürümeyin, aydınlatmalı ana yolları veya ringleri kullanın.
+* **DBE ve Bölüm Ağır Akademik Yıpranması:**  
+  "ODTÜ'ye girmek zor, mezun olmak çok daha zordur" sözü bir şehir efsanesi değil, acı bir gerçektir. 4 yıllık mühendisliklerin 5-6 yılda bitmesi normal karşılanır; yoğun sınav temposu ve projeler zaman zaman mental yorgunluk yaratabilir.
+
+---
+
+## 6. 💡 Altın Tavsiyeler (İlk Hafta Hayatta Kalma Kiti)
+
+1. **Herkese "Hocam" De:** Güvenlik görevlisinden bölüm başkanına, kantinciden oda arkadaşına kadar herkes ODTÜ'de "Hocam"dır. Bu hitap hiyerarşiyi sıfırlar ve ODTÜ kültürünün şifresidir.
+2. **Otostop Çekmekten Çekinme:** Ring kuyruğu gördüğün anda hemen otostop cebine geç ve elini uzat; ODTÜ'de otostopa binmek en doğal haktır.
+3. **En Az Bir Topluluğa Aktif Katıl:** ODTÜ'yü ODTÜ yapan şey dersler değil, topluluklarıdır. DKSK (Dağcılık), MT (Müzik), İletişim, Oyuncular veya IEEE topluluklarının tanışma toplantılarına git; ömür boyu kopmayacağın network'ünü burada kurarsın.
+4. **Devrim Stadyumu Merdivenlerini Yaşa:** Bahar aylarında ders çıkışında arkadaşlarınla içeceğini alıp Devrim'in basamaklarında gün batımını izle; ODTÜ'lü olduğunu en derinden hissedeceğin yer orasıdır.
+5. **Proficiency Essay Formatını Önceden Çalış:** Hazırlık atlama sınavına gireceksen ODTÜ'nün istediği "Opinion" ve "Compare-Contrast" essay formatlarını ve note-taking tekniklerini DBE sitesinden indirip önceden çalış.

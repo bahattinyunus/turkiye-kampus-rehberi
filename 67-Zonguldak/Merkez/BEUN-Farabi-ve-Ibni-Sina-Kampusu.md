@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Zonguldak / Merkez & Kozlu  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Şehir Merkezi Yamaç Kampüsü (Farabi) & Sahil Yolu Kampüsü (Kozlu)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4/5)
+> **Kampüs Konumu:** Şehir İçi Yamaç Kampüsü (Farabi / İncivez) & Sahil Yolu Kampüsü (İbn-i Sina / Kozlu)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.3/5)
 
 ---
 
@@ -12,95 +12,101 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | Farabi: Merkezde (1-2 km) / Kozlu: 7 km | Alt kapı çarşıya/AVM'ye yürüme mesafesi; üst kapı doğrudan İncivez'de |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | İncivez ve Kozlu'da (Karaelmas, Uzunmehmet, Nesibe Hatun) dev yurtlar |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 9.000 - 15.000 TL | İncivez Mahallesi (öğrenci merkezi), Bahçelievler ve Kozlu popüler |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Alt ve üst kampüs yemekhaneleri; 4 çeşit doyurucu menü |
-| **📚 Kütüphane Kapasitesi** | 7/24 Açık | Prof. Dr. Durmuş Günay Kütüphanesi; deniz manzaralı ve yıl boyu 7/24 açık! |
-| **🌐 İnternet (eduroam)** | Hızlı ve Yaygın | Kütüphane, amfiler ve öğrenci alanlarında güçlü çekim |
-| **🌆 Sosyal Yaşam & Çevre** | Canlı | İncivez öğrenci sokağı, kampüs dibinde 2 AVM, Fener ve Kozlu sahili |
+| **🚇 Şehir Merkezine Uzaklık** | Farabi: 1-2 km / İbn-i Sina: 6 km | Alt kapı doğrudan AVM ve sahilde; üst kapı İncivez'de; Kozlu dolmuşları sık |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (%90+ Yerleşim) | İncivez'de Karaelmas KYK; Kozlu'da Nesibe Hatun, Abdullah Sabri Efendi yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 9.000 - 15.500 TL | İncivez Mahallesi (öğrenci cumhuriyeti), Bahçelievler ve Kozlu sahil hattı |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi & Zengin | Alt ve üst kampüs yemekhaneleri; 4 çeşit dengeli menü ve deniz manzarası |
+| **📚 Kütüphane Kapasitesi** | Yıl Boyu 7/24 Açık! | Prof. Dr. Durmuş Günay Kütüphanesi; Karadeniz manzaralı çalışma salonları |
+| **🌐 İnternet (eduroam)** | Hızlı ve Yaygın | Fakültelerde, kütüphanede ve İncivez sınırında güçlü çekim |
+| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı & Samimi | İncivez kafeler sokağı, 67 Burda AVM, Fener Mahallesi falezleri, Kozlu sahili |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Ağı, Dik Yokuşlar ve "Merdivenler Şehri" Taktikleri
 
-* **Şehir Merkezinden Ulaşım:**  
-  BEUN Merkez yerleşkesi iki ana bölümden oluşur:
-  1. **Farabi Ana Kampüsü (Merkez / İncivez):** Mühendislik, Fen, İnsan ve Toplum Bilimleri, İİBF, İlahiyat ve Yabancı Dillerin bulunduğu ana kampüstür. Kampüsün **Alt Kapısı (Sahil/Milli Egemenlik Caddesi girişi)** şehir merkezine, Otogar'a ve **Esas 67 Burda AVM**'ye sadece birkaç dakikalık yürüme mesafesindedir. Kampüsün **Üst Kapısı** ise dik bir yamacın tepesindeki meşhur **İncivez Mahallesi**'ne açılır. Çarşıdan İncivez dolmuşları ve halk otobüsleri ile üst kapıya 10 dakikada çıkılır.
-  2. **İbn-i Sina Kampüsü (Kozlu / Esenköy):** Tıp Fakültesi, Diş Hekimliği, Eczacılık, Sağlık Bilimleri ve Araştırma Hastanesi'nin bulunduğu kampüstür. Merkezden Kozlu-Tıp Fakültesi otobüs ve dolmuşlarıyla sahil yolundan 15-20 dakikada ulaşılır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Farabi Kampüsü deniz seviyesindeki alt kapıdan başlayıp İncivez üst kapısına kadar **oldukça dik bir yokuş ve merdivenler sistemi** üzerine kuruludur! Alt kapıdan üst kapıdaki İİBF veya Mühendislik binalarına yürüyerek çıkmak ciddi efor ister. Bu nedenle İncivez'de kalanlar üst kapıdan aşağıya doğru yürürken, sahil tarafında kalanlar alt kapıyı veya dolmuşları kullanır.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Zonguldak ve Kozlu halk otobüslerinde elektronik kart sistemi ve dolmuşlarda indirimli öğrenci tarifesi geçerlidir.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Karadeniz iklimi nedeniyle Zonguldak'ta sonbahar ve kış aylarında **sağanak yağmur ve rüzgar** çok sık görülür. Rüzgarda ters dönmeyen sağlam bir şemsiye yerine **su geçirmez yağmurluk ve kaymaz tabanlı bot** Zonguldak öğrencisinin hayatta kalma ekipmanıdır; zira ıslak İncivez yokuşları ve merdivenleri kayganlaşabilir.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** Farabi Kampüsü üst kapısına ve İncivez'e çok yakın olan **Karaelmas KYK Kız Öğrenci Yurdu** ve **Zonguldak KYK Kız Yurdu** ile Kozlu sahil yolundaki devasa **Nesibe Hatun KYK Kız Öğrenci Yurdu** binlerce öğrenci kapasitelidir.
-  * **Erkek Yurtları:** Kozlu/Esenköy bölgesindeki **Uzunmehmet KYK Erkek Öğrenci Yurdu** yüksek kapasitesi ve modern odalarıyla erkek öğrencilerin ana barınma merkezidir.
-* **Özel Yurtlar ve Apartlar:**  
-  Özellikle **İncivez Mahallesi** ve **Bahçelievler**'de adım başı özel öğrenci yurdu ve 1+0 / 1+1 eşyalı apart bulunur. Fiyatlar 8.500 - 13.500 TL aralığındadır.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **İncivez Mahallesi:** Tam anlamıyla bir "öğrenci cumhuriyeti"dir. Üst kapıdan çıktığınız an kendinizi kafelerin, dönercilerin, fotokopicilerin ve öğrenci apartlarının içinde bulursunuz. Derse uyanıp 5 dakikada amfide olmak isteyen herkes buradadır (Kiralar 9.000 - 14.000 TL). Ancak binalar birbirine yakın ve sokaklar yokuşludur.
-  * **Bahçelievler Mahallesi:** Sahile, AVM'ye ve kampüs alt kapısına yakın, daha ferah ve düzenli sokaklara sahip mahalledir (Kiralar 10.500 - 15.500 TL).
-  * **Kozlu (Merkez & Güney Mah.):** Tıp ve Diş Hekimliği öğrencilerinin tercih ettiği, deniz manzaralı dairelerin bulunduğu bölgedir.
+* **Zonguldak'ın Topoğrafik Gerçeği: "Ölüm Yokuşu" ve Merdivenler:**  
+  Zonguldak'a adım atan her öğrencinin ilk karşılaştığı gerçek: **Şehirde düz ayak yer neredeyse sıfırdır!** Farabi Kampüsü, deniz seviyesindeki sahil dolgu alanından başlayıp İncivez tepesine doğru 150 metrelik dik bir rakım farkıyla yükselir.
+  * **Alt Kapı (Milli Egemenlik Caddesi):** Sahil yolunda, Otogar'a ve **Esas 67 Burda AVM**'ye 2 dakika yürüme mesafesindedir.
+  * **Üst Kapı (İncivez Mahallesi):** Dik yamacın tepesindedir ve doğrudan öğrenci mahallesine açılır.
+  * **Kot Farkı Taktikleri:** Alt kapıdan üst kapıdaki Mühendislik veya İİBF binalarına tırmanmak yüzlerce dik basamak ve "Ölüm Yokuşu"nu çıkmak demektir; bu nedenle öğrenciler derse giderken mümkünse İncivez'den girip aşağı inmeyi veya Soğuksu/Çarşı'dan kalkan **İncivez dolmuşlarına** binmeyi tercih eder. Zonguldak'ta mezun olan bir öğrencinin bacak ve baldır kasları doğal olarak çelikleşir!
+* **Merkezden İncivez ve İbn-i Sina (Kozlu) Ulaşımı:**  
+  * **İncivez Dolmuşları:** Valilik önü, Madenci Anıtı ve Soğuksu duraklarından kalkar; 5 dakikada bir hareket ederek İncivez meydanına ve Farabi Üst Kapı'ya çıkar.
+  * **İbn-i Sina (Tıp ve Sağlık) Ulaşımı:** Kozlu ilçesi Esenköy sırtlarındadır. Çarşıdan ve Soğuksu'dan kalkan "Kozlu - Tıp Fakültesi" dolmuş ve belediye otobüsleriyle 15-20 dakikada varılır.
+* **TCDD Karaelmas Bölgesel Treni:**  
+  Zonguldak Garı'ndan kalkan bölgesel trenle Çaycuma, Gökçebey ve Karabük yönüne tüneller ve dağ vadileri arasından geçen son derece ucuz ve manzaralı bir yolculuk yapılabilir.
+* **Hava ve Yağmur Ekipmanı:**  
+  Karadeniz'in hırçın rüzgarında şemsiye açmak imkansızdır; şemsiyeler ilk rüzgarda ters döner veya telleri kırılır. Bu yüzden Zonguldak öğrencisinin olmazsa olmazı **su geçirmez gore-tex mont ve kaymayan kauçuk tabanlı sağlam bir bottur**; zira ıslak taş merdivenler kışın buz pisti gibi kayganlaşır.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri Dinamikleri
 
-* **Kütüphane İmkanları:**  
-  Farabi Kampüsü'nde yer alan **Prof. Dr. Durmuş Günay Kütüphanesi**, Türkiye'nin en güzel manzaralı kütüphanelerinden biridir! Üst kat çalışma salonlarından uçsuz bucaksız **Karadeniz manzarasına** karşı ders çalışabilirsiniz. Üstelik sadece sınav haftalarında değil, **yıl boyunca 7/24 açık** olan nadir üniversite kütüphanelerindendir.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  1924 Yüksek Maadin Mektebi kökenli olan **Mühendislik Fakültesi**, Türkiye'de uzaya ilk cep uydusunu (**Grizu-263A**) gönderen efsanevi öğrenci takımına ve güçlü laboratuvarlara sahiptir. İbn-i Sina Kampüsü'ndeki **Tıp Fakültesi ve Uygulama Araştırma Hastanesi** ise Batı Karadeniz'in en büyük sağlık üssüdür.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Farabi ve İbn-i Sina kampüslerinde `eduroam` kablosuz internet altyapısı güçlü ve hızlıdır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Dünya şampiyonlukları bulunan **Grizu-263 Uzay Takımı**, İHA/Elektromobil TEKNOFEST takımları, Maden Mühendisliği, Tiyatro, Müzik ve Dağcılık kulüpleri son derece aktiftir.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane:**  
-  Hem Farabi Kampüsü'nde (alt ve üst yerleşke noktalarında) hem de İbn-i Sina Kampüsü'nde öğrenci yemekhaneleri bulunur. Hafta içi öğle ve akşam yemekleri 25 - 35 TL bandında sunulur.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içinde deniz manzaralı kafeteryalar, kantinler ve dinlenme alanları mevcuttur. Ayrıca kampüsün alt kapısından çıktığınız anda **Esas 67 Burda AVM** ve **Westalife AVM**'nin yemek katlarına (zincir fast-food, kahveciler, sinema), üst kapıdan çıktığınızda ise **İncivez**'in yüzlerce uygun fiyatlı öğrenci mekanına adım atarsınız.
-* **Spor Tesisleri:**  
-  Farabi Kampüsü içinde kapalı spor salonu, fitness salonu ve açık sahalar yer alır.
+* **İncivez Mahallesi: Türkiye'nin En Saf Öğrenci Cumhuriyeti:**  
+  Bursa Görükle veya Eskişehir Bağlar neyse, Zonguldak'ta da **İncivez** odur. Farabi Kampüsü'nün üst kapısının etrafını saran bu mahallenin nüfusunun %85'i öğrencidir.
+  * Mahallede bakkal, kırtasiye, çamaşırhane, PlayStation salonları, gece 03:00'e kadar açık tostçular ve yüzlerce 1+1 stüdyo apart yer alır.
+  * **Kritik Uyarı: Deniz Rutubeti ve Küf Sorunu!** Karadeniz kıyısında yer alan Zonguldak'ta deniz nemi çok yüksektir. İncivez'deki apartların kot altı, bodrum ve zemin katları ciddi rutubet ve küf problemi yaşar. Ev tutarken kesinlikle güneş gören **orta veya üst katlar** tercih edilmelidir; rutubetsiz daireler altın değerindedir.
+  * Kira seviyeleri 1+1 apartlarda **9.000 - 14.500 TL**, 2+1 evlerde ise **11.000 - 16.000 TL** bandındadır.
+* **KYK Yurtları ve Yaşam:**  
+  * **Kız Yurtları:** İncivez Mahallesi'ndeki **Karaelmas KYK Kız Yurdu** ve **Zonguldak KYK Kız Yurdu** kampüse sıfır mesafededir; Kozlu sahil yolundaki **Nesibe Hatun KYK Kız Yurdu** ise bölgenin en büyük ve en modern kız yurdudur.
+  * **Erkek Yurtları:** Kozlu Esenköy mevkiindeki **Abdullah Sabri Efendi KYK Erkek Yurdu** ve **Uzunmehmet KYK Yurdu** yüksek kapasiteye sahiptir; odalarda banyo ve tuvalet mevcuttur.
+  * **Giriş-Çıkış Katılığı:** Saat 23:00 turnike geçişleri ve parmak izi denetimleri sıkıdır; hafta sonu izinleri GSB Gençlik sistemi üzerinden takip edilir.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🎓 Akademik Miras, Madencilik Ruhu ve Sektörel Fırsatlar
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Zonguldak, madencilik ve işçi kültüründen gelen sıcak, dayanışmacı ve samimi bir halka sahiptir. Öğrenciler şehir hayatının merkezindedir ve gece geç saatlerde dahi İncivez ve sahil hattı hareketlidir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Tarihi Fransız evleri, asırlık çınar ağaçları, falezleri ve deniz feneriyle ünlü **Fener Mahallesi** (ve buradaki Deniz Kulübü / Tenis Kortları), **Kozlu Sahil Kordonu**, **Kapuz Plajı**, **Gökgöl Mağarası** ve **Harmankaya Şelaleleri** öğrencilerin en sevdiği gezi ve sosyalleşme noktalarıdır.
-* **Part-Time İş ve Staj Olanakları:**  
-  Kampüs yanındaki iki AVM (67 Burda ve Westalife) ile İncivez/Sahil kafeleri öğrencilere bolca part-time iş olanağı sunar. **Zonguldak Teknopark**, Türkiye Taşkömürü Kurumu (TTK), Eren Enerji ve ERDEMİR/KARDEMİR gibi sanayi devleri mühendislik öğrencileri için eşsiz staj kapılarıdır.
+* **1924'ten Gelen Mühendislik Mirası ve Grizu-263:**  
+  Cumhuriyet'in ilk yükseköğretim kurumlarından olan Maadin Mektebi mirası üzerine kurulu Mühendislik Fakültesi (Maden, Makine, Geomatik, Elektrik); Türkiye'nin uzaya fırlatılan ilk cep uydusunu (**Grizu-263A**) üreten ve NASA yarışmalarında dünya şampiyonlukları kazanan efsanevi takımlara ev sahipliği yapar.
+* **Filyos Vadi Projesi ve Karadeniz Doğalgazı Staj Cenneti:**  
+  Türkiye'nin en büyük mega projelerinden biri olan **Filyos Doğalgaz İşleme Tesisi ve Filyos Limanı**, Zonguldak BEÜN öğrencileri için devasa bir staj, proje ve istihdam kapısı haline gelmiştir. TPAO, BOTAŞ ve taşeron uluslararası enerji şirketleri üniversiteden düzenli stajyer ve mühendis istihdam etmektedir. Ayrıca TTK (Taşkömürü Kurumu) ve Eren Enerji gibi devler staj için hazırdır.
+* **İbn-i Sina Tıp ve Sağlık Yerleşkesi:**  
+  Batı Karadeniz'in en kapsamlı üçüncü basamak araştırma hastanesidir; yanık ünitesi, kardiyoloji ve onkolojide yoğun vaka akışı sayesinde tıp ve diş hekimliği öğrencileri teoriyi sahada birebir yaşayarak öğrenir.
+* **Prof. Dr. Durmuş Günay Kütüphanesi (7/24 Karadeniz Manzarası):**  
+  Üniversitenin en büyük gurur kaynaklarından biridir. Sadece sınav haftalarında değil, **yılın 365 günü 7/24 açık** olan Türkiye'deki ender kütüphanelerdendir. Üst kat salonlarında Karadeniz falezlerini ve gün batımını izleyerek ders çalışılır; sınav haftalarında gece yarısı sıcak çorba servisi eksik olmaz.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 4. 🍽️ Beslenme, Sokak Lezzetleri ve Kampüs Yaşamı
+
+* **Zonguldak Pideleri & Sokak Gastronomisi:**  
+  * **Kıymalı ve Kuşbaşılı Zonguldak Pidesi:** Kapalı formda yapılan, çıtır hamurlu ve bol tereyağlı pide, İncivez'deki pide fırınlarında ve çarşıda öğrencilerin en büyük ziyafetidir.
+  * **Taze Balık Ekmek & Hamsi Tava:** Karadeniz sahilinde balık sezonu açıldığında (özellikle palamut ve hamsi döneminde) liman içindeki balıkçılarda çok ucuza taze balık ekmek yenir.
+  * **İncivez Gece Tostçuları & Dönerciler:** Gece 02:00-03:00'e kadar açık olan İncivez büfelerinde karışık öğrenci tostu ve soslu tavuk döner uygun fiyatlı kurtarıcılardır.
+* **Kampüs Yemekhaneleri:**  
+  Farabi Kampüsü'nde hem alt hem üst bölgede geniş yemekhaneler hizmet verir. 4 çeşit öğle ve akşam menüsü **25 - 35 TL** bandındadır. Yemekhanenin geniş pencerelerinden deniz manzarasını seyrederek yemek yiyebilirsiniz.
+* **Sosyal Mekanlar ve Kafe Kültürü:**  
+  İncivez'deki kafeler sokağı hafta içi ve hafta sonu cıvıl cıvıldır. Kampüs alt kapısının hemen karşısındaki **Esas 67 Burda AVM** ise sineması, kahve zincirleri ve alışveriş mağazalarıyla kampüsün doğal bir uzantısı gibidir.
+
+---
+
+## 5. 🌆 Şehir Dinamikleri ve Sosyal Yaşam
+
+* **Tarihi Fener Mahallesi ve Falezler:**  
+  Zonguldak'ın en büyüleyici köşesidir. Fransız maden mühendislerinden kalma tarihi taş konaklar, asırlık kestane ve çınar ağaçları, deniz feneri ve sarp kayalıkların üzerine kurulu Deniz Kulübü... Gün batımında falezlerin kenarındaki çay bahçelerinde oturup Karadeniz'in köpüren dalgalarını seyretmek öğrencilerin en büyük meditasyonudur.
+* **Kozlu ve Milli Egemenlik Sahili:**  
+  Deniz boyunca uzanan yürüyüş ve bisiklet parkurları, Değirmenağzı plajı ve Kozlu sahilindeki kafeler bahar aylarında gençlerle dolar.
+* **Halkın Öğrenciye Bakışı:**  
+  Zonguldak madenci kentidir; insanı cefakardır, sıcaktır ve dayanışmayı çok iyi bilir. Esnaf öğrenciye alışkındır; geceleri İncivez ve merkez sokakları tamamen öğrencilerle dolu olduğu için güvenlidir.
+
+---
+
+## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* **Deniz Manzaralı 7/24 Kütüphane ve Kampüs:** Karadeniz'e nazır yemyeşil bir yamaçta, şehir merkeziyle ve AVM'lerle iç içe bir kampüs hayatı sunar.
-* **İncivez Öğrenci Mahallesi:** Binlerce öğrencinin bir arada yaşadığı İncivez sayesinde yalnızlık çekmezsiniz; her bütçeye uygun kafe ve yemek alternatifi vardır.
-* **Güçlü Mühendislik ve Tıp Geleneği:** Grizu-263 gibi uluslararası başarılara imza atan teknik takımlar ve köklü akademik kadro mevcuttur.
+* **7/24 Kesintisiz Yaşayan İncivez Ruhu:** Kampüsün üst kapısıyla iç içe geçmiş dev bir öğrenci mahallesi; yalnızlık çekmek imkansızdır, her an kapı komşunuzla buluşup kahve içebilirsiniz.
+* **Yıl Boyu 7/24 Açık Deniz Manzaralı Kütüphane:** Sınav dönemlerinde yer arama stresi minimumdur; kütüphanenin deniz manzaralı çalışma ortamı motive edicidir.
+* **Filyos ve Enerji Sektörü Yakınlığı:** Filyos Doğalgaz Tesisi, TTK ve Erdemir gibi devasa kuruluşlar staj ve mühendislik kariyeri için altın değerinde referanstır.
+* **Deniz ve Doğanın İç İçe Olması:** Kampüsten çıkıp 2 dakikada sahile inebilmek ve falezlerin üzerinde Karadeniz rüzgarını hissetmek harika bir duygudur.
 
-### ❌ Eksileri
-* **Bitmeyen Yokuşlar ve Merdivenler:** Kampüsün ve şehrin dik yamaçlı yapısı ilk aylarda bacaklarınızı epey yoracaktır.
-* **Yağışlı ve Nemli Hava:** Sonbahar ve kış aylarında günlerce süren yağmur ve kapalı hava güneşli bölgelerden gelen öğrencileri bunaltabilir.
-* **Sıkışık Kentsel Yapı:** İncivez Mahallesi'nde binalar birbirine çok bitişik ve sokaklar dardır.
+### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+* **Merdivenler ve Dik Yokuşlar Çilesi:** Şehirde düz ayak neredeyse hiçbir yer yoktur. Alt kapıdan üst kapıya tırmanmak nefes keser; topuklu veya kaygan tabanlı ayakkabı giymek imkansızdır.
+* **Deniz Rutubeti ve Küf Kabusu:** Evlerin özellikle alt katlarında rutubet, nem ve küf kokusu eşyaları çürütebilir; ev tutarken üst katlar seçilmezse sağlık sorunlarına yol açabilir.
+* **Kışın Kömür Kokusu ve Kasvetli Hava:** Karadeniz'in gri, kapalı ve aralıksız yağışlı kış günleri ile evlerde yakılan kömürün kokusu birleştiğinde şehir bazen boğucu bir havaya bürünebilir.
+* **Daracık Şehir Merkezi:** Gazipaşa Caddesi haricinde düz bir çarşı caddesi yoktur; trafik sıkışıklığı dar yollarda zaman zaman çileye dönebilir.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Zonguldak'a gelirken yanınıza şemsiye değil, sağlam bir **kapüşonlu yağmurluk ve su geçirmez bot** alın; çünkü Karadeniz rüzgarı şemsiyeyi ilk haftadan kırar! Sınav haftalarında **Durmuş Günay Kütüphanesi**'nin deniz gören masalarında sabahlamak ve gün batımında **Fener Mahallesi**'nde yürüyüş yapmak Zonguldak öğrenciliğinin en unutulmaz ritüelidir."
+> "Zonguldak'a bavul hazırlarken şemsiye almayı unutabilirsin çünkü burada rüzgardan kırılır; ama su geçirmez kapüşonlu bir yağmurluk ve tırtıklı, kaymayan tabanlı sağlam bir bot almayı ASLA unutma! Ev tutacaksan İncivez'de zemin veya bodrum kattan koşarak uzaklaş; güneş alan 2. veya 3. katları seç. Ders aralarında alt kapıdaki AVM'ye in, akşamları ise Fener falezlerinde Karadeniz'e karşı bir demlik çay söyle. Grizu-263 takımına veya TEKNOFEST atölyelerine ilk yıldan girmeye bak; BEÜN'den aldığın mühendislik vizyonu seni Türkiye'nin en iyi şirketlerine taşır!"

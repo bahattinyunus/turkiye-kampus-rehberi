@@ -12,81 +12,89 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Demir Çelik Ana Kampüse Uzaklık** | 5 - 6 km / ~10-12 dk | Safranbolu - 100. Yıl - Karabük otobüs ve dolmuşlarıyla kesintisiz |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Bostanbükü ve Safranbolu'da dev kapasiteli KYK kız ve erkek yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 11.000 - 16.500 TL | Emek, Kıranköy, Yeni Mahalle, Bostanbükü ve Bağlar |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Yerleşke yemekhaneleri + Safranbolu Kıranköy/Atamerkez kafeleri |
+| **🚇 Demir Çelik Ana Kampüse Uzaklık** | 5 - 6 km / ~10-12 dk | Safranbolu - 100. Yıl - Karabük otobüs ve dolmuşlarıyla kesintisiz ring |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Bostanbükü'nde Taşkent KYK Kız ve Safranbolu KYK Erkek dev yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 11.000 - 16.500 TL | Emek Mahallesi, Kıranköy, Yeni Mahalle, Sadri Artunç Cad. ve Bostanbükü |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Yerleşke yemekhaneleri + Kıranköy/Atamerkez öğrenci lokantaları |
 | **📚 Kütüphane Kapasitesi** | Mesai Saatleri (+Ana Kampüs 7/24) | Yerleşke kütüphaneleri + 10 dk mesafedeki 7/24 Kamil Güleç Kütüphanesi |
-| **🌐 İnternet (eduroam)** | Hızlı | Fakülte, tasarım stüdyoları ve MYO binalarında güçlü eduroam |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı & Tarihi | UNESCO mirası tarihi konaklar, Kıranköy kafeleri ve kanyonlar |
+| **🌐 İnternet (eduroam)** | Hızlı | Mimarlık stüdyoları, GSF atölyeleri ve MYO amfilerinde güçlü eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı & Estetik | UNESCO mirası tarihi konaklar, Kıranköy kafeler sokağı ve Tokatlı Kanyonu |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚇 Ulaşım Ağı ve Öğrenci Hatları
 
-* **Karabük ve 100. Yıl'dan Ulaşım:**  
-  Safranbolu, Karabük ile tamamen birleşmiş durumdadır. 100. Yıl Mahallesi'nden (Ana Kampüs önünden) geçen belediye otobüsleri ve Safranbolu minibüsleriyle **10 dakikada** Safranbolu merkezdeki fakültelere ve **Bostanbükü** yerleşkesine ulaşılır.
-* **Safranbolu'daki Akademik Birimler:**  
-  Karabük Üniversitesi'nin sanat, tasarım ve turizm kimliğini taşıyan birimleri Safranbolu'da konumlanmıştır:
-  * **Başak Cengiz Mimarlık Fakültesi**
-  * **Fethi Toker Güzel Sanatlar ve Tasarım Fakültesi**
-  * **Turizm Fakültesi**
-  * **Safranbolu Şefik Yılmaz Dizdar Meslek Yüksekokulu & Safranbolu Başak Cengiz Mimarlık MYO** (Bostanbükü Yerleşkesi)
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Karabük Kart ve Safranbolu içi toplu taşıma araçlarında öğrenci tarifesi (16 - 20 TL) geçerlidir.
+* **Safranbolu - 100. Yıl - Karabük Merkez Hattı:**  
+  Safranbolu fiziki olarak Karabük Merkez ile birleşmiş vaziyettedir. Safranbolu merkezden kalkan belediye halk otobüsleri ve özel halk minibüsleri her 7-10 dakikada bir **Bostanbükü -> 100. Yıl (Demir Çelik Kampüsü) -> Karabük Çarşı** güzergahında kesintisiz çalışır. Öğrenciler 10-12 dakikada ana kampüse ve 100. Yıl eğlence merkezine varır.
+* **Safranbolu'daki Akademik Yerleşkelerin Dağılımı:**  
+  * **Başak Cengiz Mimarlık Fakültesi & Fethi Toker Güzel Sanatlar ve Tasarım Fakültesi (GSF):** Safranbolu merkezinde tarihi dokuya yakın konumdadır; yürüyerek çarşıya ve kafelere inilebilir.
+  * **Turizm Fakültesi:** Gastronomi mutfakları ve turizm amfileriyle donatılmıştır.
+  * **Bostanbükü Yerleşkesi (Safranbolu Şefik Yılmaz Dizdar MYO & Mimarlık MYO):** Karabük ile Safranbolu sınırındaki düzlük alanda kuruludur. Taşkent KYK yurdunun hemen bitişiğindedir.
+* **Ulaşım Kartı & Gece Seferleri:**  
+  Karabük Kart ile indirimli tarife (~16 - 20 TL) geçerlidir. Gece 23:30'a kadar 100. Yıl ile Safranbolu Kıranköy arasında minibüs bulmak mümkündür.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma, Yurtlar ve Mahalle Hayatı
 
-* **KYK Yurtları:**  
-  Safranbolu **Bostanbükü** mevkiinde (Şefik Yılmaz Dizdar MYO'nun hemen yanı başında) binlerce öğrenci kapasiteli modern **Taşkent KYK Kız Öğrenci Yurdu** ve **Safranbolu KYK Erkek Öğrenci Yurdu** yer alır. MYO öğrencileri yurttan çıkıp yürüyerek derslerine girer.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Safranbolu, Karabük'ün en nezih ve en yaşanabilir yerleşim yeridir. Öğrenciler özellikle **Kıranköy (Atamerkez çevresi)**, **Emek Mahallesi**, **Yeni Mahalle (Sadri Artunç Caddesi)** ve **Bostanbükü** mahallelerinde ev ve apart kiralar. Kiralar 11.000 - 16.500 TL bandındadır.
-
----
-
-## 3. 🎓 Akademik ve Fiziki Altyapı
-
-* **Atölyeler, Stüdyolar ve Mimari Ortam:**  
-  Dünya mirası bir Osmanlı kentinde **Mimarlık**, **İç Mimarlık**, **Endüstriyel Tasarım**, **Resim/Müzik** ve **Turizm/Gastronomi** okumak öğrencilere doğal bir açık hava laboratuvarı sunar. Mimarlık çizim stüdyoları, maket atölyeleri, Turizm Fakültesi uygulama mutfakları ve Şefik Yılmaz Dizdar MYO'nun modern derslik binaları oldukça donanımlıdır.
-* **Kütüphane ve İnternet:**  
-  Yerleşkelerde kütüphane, bilgisayar laboratuvarları ve **eduroam** internet ağı mevcuttur. Ayrıca öğrenciler gece çalışmak istediklerinde 10 dakikalık otobüs yolculuğuyla Ana Kampüs'teki 7/24 açık Kamil Güleç Kütüphanesi'ne geçebilmektedir.
+* **Bostanbükü KYK Kompleksi (Yürüyerek Derse Gitme Avantajı):**  
+  * **Taşkent KYK Kız Öğrenci Yurdu:** Binlerce kız öğrenci kapasiteli, modern bloklardan oluşan dev bir yerleşkedir. Şefik Yılmaz Dizdar MYO'ya 2 dakikalık yürüme mesafesindedir. Odalar bazalı, 3-4 kişiliktir.
+  * **Safranbolu KYK Erkek Yurdu:** Bostanbükü aksında yer alır; ferah odaları ve spor alanları mevcuttur.
+  * **Yurt Kuralları:** 23:00 turnike giriş kuralı ve parmak izi uygulaması burada da tavizsiz uygulanır.
+* **Öğrenci Evleri ve Popüler Bölgeler:**  
+  Safranbolu, Karabük geneline göre çok daha nezih, güvenli ve yeşillikler içinde bir yaşam vadeder:
+  * **Kıranköy & Yeni Mahalle:** Safranbolu'nun modern çarşısıdır; Atamerkez AVM civarı, Sadri Artunç Caddesi ve bankalar caddesi kafelerin ve evlerin kalbidir.
+  * **Emek Mahallesi:** Uygun fiyatlı 2+1 ve 3+1 apartman daireleri için öğrenci gruplarının en çok tercih ettiği yerleşimdir.
+  * **Tarihi Konak Pansiyonları:** Bazı öğrenciler Tarihi Çarşı (Çukur) bölgesindeki restore edilmiş ahşap konak odalarında oda kiralayarak masalsı bir atmosferde yaşar.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🎓 Mimarlık Jürileri, Atölyeler ve Akademik Zorluk
 
-* **Yemekhane ve Kantinler:**  
-  Fakülte ve Bostanbükü MYO yerleşkelerinde üniversitenin 25 - 35 TL'lik öğle yemeği hizmeti sunulur.
-* **Kafe ve Restoran Kültürü:**  
-  Safranbolu **Kıranköy** ve **Sadri Artunç Caddesi**, üçüncü nesil kahvecileri, butik tatlıcıları, su börekçileri, kuyu kebapçıları ve öğrenci kafeleriyle Karabük'ün gastronomi merkezidir.
-
----
-
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
-
-* **Tarihi ve Turistik Atmosfer:**  
-  UNESCO Dünya Mirası Listesi'nde yer alan **Safranbolu Tarihi Çarşı (Çukur)**, Hıdırlık Tepesi, Cinci Han, İncekaya Su Kemeri, **Kristal Teras**, Tokatlı Kanyonu yürüyüş parkuru ve Bağlar bölgesi öğrencilerin ders dışı zamanlarını geçirdiği büyüleyici mekanlardır.
-* **Part-Time İş ve Staj Olanakları:**  
-  Safranbolu yılın 12 ayı yerli ve yabancı turist ağırladığı için ilçedeki yüzlerce tarihi konak otel, restoran, kafe ve seyahat acentesi özellikle Turizm, Gastronomi, Mimarlık ve MYO öğrencilerine hem staj hem de part-time çalışma fırsatı sunar. Ayrıca her yıl düzenlenen uluslararası **Altın Safran Belgesel Film Festivali** sanatsal atmosferi zirveye taşır.
+* **Mimarlık ve GSF'nin Jüri Maratonları:**  
+  Başak Cengiz Mimarlık Fakültesi ve Güzel Sanatlar Fakültesi, Türkiye'nin yaşayan en büyük Osmanlı mimarlık laboratuvarının merkezindedir. Ancak bu estetiğin bedeli ağır mimarlık jürileridir. Proje teslim haftalarında çizim stüdyolarında 48 saat uykusuz sabahlama kültürü vardır. Fakülte binaları teslim haftalarında gece boyunca öğrencilere açık tutulur.
+* **Turizm & Gastronomi Mutfakları:**  
+  Turizm Fakültesi öğrencileri uygulama mutfaklarında yerel Safranbolu lezzetlerinden dünya mutfağına kadar eğitim alır. Safranbolu'daki 4 ve 5 yıldızlı tarihi konak otellerde zorunlu stajlar yapılır.
+* **Kütüphane Olanakları:**  
+  Yerleşke kütüphaneleri mesai saatlerinde açıktır. Ancak gece 7/24 çalışma ihtiyacında öğrenciler minibüsle 10 dakikada Kamil Güleç Kütüphanesi'ne geçer.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 4. 🍽️ Yeme-İçme ve Sokak Lezzetleri
+
+* **Öğle Yemeği:**  
+  Yerleşke yemekhanelerinde 25 - 35 TL'ye 4 çeşit tabldot çıkar.
+* **Safranbolu Fırın Lezzetleri:**  
+  * **Bükme:** Safranbolu fırınlarında pişirilen kıymalı ve ıspanaklı bükme, öğrencilerin en vazgeçilmez kahvaltı ve öğle yemeğidir.
+  * **Bağlar Gazozu & Kuyu Kebabı:** Tarihi çarşıda yerel Bağlar gazozu eşliğinde simit veya bükme yemek klasik ritüeldir.
+  * **Kıranköy Kafeler Caddesi:** 3. nesil kahveciler, krep ve waffle mekanları, uygun fiyatlı ev yemekçileri Kıranköy'de yoğunlaşmıştır.
+
+---
+
+## 5. 🌆 Kültür, Turizm ve Sosyal Dinamikler
+
+* **Tarihi Dokunun İçinde Yaşamak:**  
+  Hıdırlık Tepesi'nden tarihi konakların çatısını seyretmek, Cinci Hanı avlusunda çay içmek, Akçasu Kanyonu boyunca yürümek ve Tokatlı Kanyonu üzerindeki Kristal Teras'a gitmek Safranbolu öğrencisinin hafta sonu rutini haline gelir.
+* **Turizm ve Part-Time İstihdam:**  
+  Safranbolu yıl boyunca yüz binlerce yerli-yabancı turist ağırladığı için dil bilen öğrenciler butik otellerde resepsiyonist, rehber yardımcısı veya tarihi kafelerde barista/garson olarak kolaylıkla part-time iş bulabilir.
+
+---
+
+## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* **UNESCO Mirası Şehirde Eğitim:** Tarihi doku, temiz hava ve estetik bir çevrede Mimarlık, Sanat ve Turizm okuma ayrıcalığı.
-* **Bostanbükü KYK ve MYO Entegrasyonu:** MYO kampüsü ile dev KYK yurtlarının yan yana olması.
-* **Hem Nezih Hem Ana Kampüse Yakın:** Safranbolu'nun huzurlu ortamında yaşayıp 10 dakikada 100. Yıl Mahallesi ve Ana Kampüs olanaklarına ulaşabilme.
+* **Huzurlu ve Estetik Yaşam:** Sanayi kenti karmaşasından ve dumanından uzak, UNESCO korumasındaki bir açık hava müzesinde yaşamak.
+* **Bostanbükü Konforu:** MYO öğrencileri için yurdun dersliğin dibinde olması.
+* **Kaliteli Sosyal Hayat:** Kıranköy ve Tarihi Çarşı'da nezih kafeler ve turistik canlılık.
 
-### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
-* **Kira Seviyesi:** Safranbolu merkezdeki (Yeni Mahalle / Kıranköy) daire kiralarının Karabük merkeze göre biraz daha yüksek olması.
-* **Yokuşlu Coğrafya:** Tarihi Çarşı ve Kıranköy arasındaki bazı sokakların eğimli/yokuşlu olması.
+### ❌ Eksileri ve Kronik Sorunları
+* **Kira Seviyeleri:** Kıranköy ve Yeni Mahalle'deki ev kiraları turist talebi nedeniyle Karabük merkeze göre %15-25 daha pahalıdır.
+* **Yokuşlu Arnavut Kaldırımları:** Tarihi Çarşı'ya inip çıkarken dik yokuşlar ve yağmurlu günlerde kaygan taşlar yürüyüşü zorlaştırır.
+* **Kış Sezonu Erken Kapanan Mekanlar:** Turizm sezonu dışında (özellikle kasım-şubat arası) Tarihi Çarşı'daki işletmeler akşam erken saatlerde kapanır.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 💡 Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Mimarlık, Güzel Sanatlar, Turizm veya Safranbolu MYO'yu kazandıysanız Türkiye'nin en karakteristik ilçelerinden birinde okuyacaksınız. Eskiz defterinizi alıp Tarihi Çarşı'daki asırlık konakların avlusunda kahve içerek proje çizmek Safranbolu öğrencilerinin en büyük ayrıcalığıdır."
+> "Mimarlık veya GSF kazandıysan yanına bol bol T-cetveli, eskiz kağıdı ve sabır al; jüri haftalarında stüdyoda sabahlamak kaderin olacak! Ev tutacaksan Kıranköy veya Emek Mahallesi'ni seç; hem dolmuş ayağının altında olur hem de akşamları açık bir kafe bulursun. Hafta sonu sabahı fırından yeni çıkmış sıcak bir kıymalı bükme alıp Cinci Han arkasında çay yudumlamak Safranbolu'da okumanın en tatlı ödülüdür."

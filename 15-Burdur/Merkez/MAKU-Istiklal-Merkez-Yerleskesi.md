@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Burdur / Merkez  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Şehir Dışı Ana Kampüs (Antalya Karayolu 9. km, Örtülü Mevki)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.0/5)
+> **Kampüs Konumu:** Şehir Dışı Ana Kampüs (Antalya Karayolu 9. km, Örtülü Mevkii / Tepe Yerleşke)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.1/5)
 
 ---
 
@@ -12,91 +12,80 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 9 km / ~20 - 25 dk | Gazi Caddesi ve Köprübaşı'ndan 1 Numaralı Halk Otobüsü ile |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs içinde Fereli Sinan Efendi ve Safahat Kız KYK; merkezde Erkek KYK |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 10.000 - 15.000 TL | Bahçelievler, Konak, Burç ve Yeni Mahalle |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / Çok İyi | MAKÜ Çiftliği kendi et/süt ürünlerini kullandığı için yemekler çok lezzetli |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri (Sınavda 7/24) | Prof. Dr. İlhan Varank Kütüphanesi (modern ve çok geniş) |
-| **🌐 İnternet (eduroam)** | İyi | Fakülteler, kütüphane ve Çarşı alanında kesintisiz erişim |
-| **🌆 Sosyal Yaşam & Çevre** | Kampüste Spor/Doğa, Merkezde Dengeli | Kampüste FIFA standartlarında tesisler ve otel; sosyal hayat 9 km uzaktaki merkezde |
+| **🚇 Şehir Merkezine Uzaklık** | 9 km / ~20 - 25 dk | Cumhuriyet Meydanı, Gazi Caddesi ve Köprübaşı'ndan 1 Numaralı Özel Halk Otobüsü |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs içinde Fereli Sinan Efendi ve Safahat Kız KYK; merkezde Asım'ın Nesli Erkek KYK |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 10.000 - 15.500 TL | Bahçelievler, Bağlar Mahallesi, Konak, Burç ve Özgür |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 32 TL / Mükemmel | Üniversite çiftliğinden gelen organik et, süt ve yoğurtla hazırlanan zengin tabldot |
+| **📚 Kütüphane Kapasitesi** | 7/24 (Vize ve Finalde) | Prof. Dr. İlhan Varank Kütüphanesi; sınav haftasında gece 23:00 çorba ikramı |
+| **🌐 İnternet (eduroam)** | Hızlı ve Kesintisiz | Binalarda ve Avşar Han Yaşam Merkezi'nde yüksek çekim gücü |
+| **🌆 Sosyal Yaşam & Çevre** | Kampüste Spor/Doğa, Merkezde Dengeli | FIFA onaylı dev spor tesisleri, Salda Gölü (45 dk), Antalya (1 saat 15 dk) |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım, 1 Numaralı Otobüs ve Otostop Taktikleri
 
-* **Şehir Merkezinden Ulaşım:**  
-  İstiklal Yerleşkesi, Burdur-Antalya karayolu üzerinde şehir merkezine 9 km uzaklıkta yüksek bir tepe/plato üzerinde yer alır. Şehir merkezinden (Bahçelievler, Gazi Caddesi, Cumhuriyet Meydanı, Köprübaşı) geçen **1 Numaralı Kampüs Halk Otobüsü** ile 20-25 dakikada kampüse çıkılır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  İstiklal Yerleşkesi oldukça geniş bir alana yayılmıştır. Halk otobüsleri kampüs içine girerek Eğitim Fakültesi, İİBF, Mühendislik, Veterinerlik, Diş Hekimliği ve en üstteki KYK Yurtları duraklarını dolaşır.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  **Kentkart** öğrenci kartı ile indirimli biniş yapılır.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  İstiklal Yerleşkesi yüksek ve açık bir tepede kurulu olduğu için kışın sert rüzgarı ve ayazıyla ünlüdür. Sabah ders giriş saatlerinde (08:30 - 09:30) 1 numaralı otobüslerde yoğunluk yaşanır.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** Doğrudan İstiklal Yerleşkesi içinde yer alan **Fereli Sinan Efendi Kız KYK Yurdu** ve **Safahat Kız KYK Yurdu** binlerce kişilik kapasiteye sahiptir. Ayrıca şehir merkezinde **Burdur Kız KYK Yurdu** bulunur.
-  * **Erkek Yurtları:** Şehir merkezinde (Bahçelievler/Emek aksında) yer alan **Asım'ın Nesli Erkek KYK Yurdu** modern bloklarıyla erkek öğrencilere hizmet verir; buradan kampüs otobüsüyle okula çıkılır.
-* **Özel Yurtlar ve Apartlar:**  
-  Kampüs etrafında yerleşim olmadığı için tüm apartlar şehir merkezindedir. Köprübaşı, Gazi Caddesi ve Bahçelievler'de 1+1 eşyalı öğrenci apartları oldukça yaygındır.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  İstiklal Yerleşkesi öğrencileri otobüse ilk duraklardan binmek veya merkeze yakın olmak için **Bahçelievler**, **Konak**, **Burç** ve **Özgür** mahallelerinde ev tutar. Kiralar 10.000 - 15.000 TL aralığındadır.
+* **1 Numaralı Kampüs Otobüsü ve Oturma Taktikleri:**  
+  Burdur Merkez ile dağ başındaki İstiklal Yerleşkesi arasındaki tek toplu taşıma can damarı **1 Numaralı Özel Halk Otobüsü**dür.
+  * *Oturma Taktikleri:* Sabah 08:30 ve 09:30 derslerine gidecekseniz otobüse **Köprübaşı** veya **Cumhuriyet Meydanı**'ndaki ilk duraklardan binin. Otobüs Gazi Caddesi boyunca dolup taştığı için Özgür Mahallesi veya Devlet Hastanesi önündeki duraklarda binmeye çalışanlar ya araca giremez ya da 9 kilometrelik yokuşu ayakta kapıya yaslanarak tırmanır.
+  * Dönüşte ise fakülteler sırayla Diş Hekimliği, Veterinerlik, Mühendislik, İİBF, Eğitim Fakültesi ve KYK Yurtları aksında dolaşır. Akşam 16:45 çıkışında Eğitim Fakültesi durağından binmek dolmadan oturma şansını artırır.
+* **Otostop Noktaları (Kampüs Sapağı):**  
+  Antalya karayolu üzerindeki kampüs kavşağında otostop yaygındır. Hem akademisyenler hem de Antalya yönüne seyreden yerel Burdur halkı öğrencilere karşı son derece sıcak ve yardımseverdir.
+* **Ulaşım Kartı (Burdur Kentkart):**  
+  Öğrenci Kentkart ile binişler indirimli yapılır.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma, Yurtlar ve Mahalle Dinamikleri
 
-* **Kütüphane İmkanları:**  
-  Kampüsün tam kalbinde yer alan **Prof. Dr. İlhan Varank Kütüphanesi**, mimarisi, binlerce kişilik oturma kapasitesi, bireysel çalışma salonları ve dijital altyapısıyla Akdeniz Bölgesi'nin en iyi üniversite kütüphanelerinden biridir. Sınav dönemlerinde 7/24 açıktır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  MAKÜ, **Hayvancılık ve Tarım** alanında Bölgesel Kalkınma Odaklı İhtisas Üniversitesi'dir. **Veteriner Fakültesi** ve Hayvan Hastanesi Türkiye'nin en donanımlı merkezlerinden biridir. Ayrıca **Eğitim Fakültesi** (köklü Burdur Eğitim Enstitüsü mirası), **Diş Hekimliği Fakültesi** ve **Mühendislik-Mimarlık** laboratuvarları oldukça moderndir.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  eduroam tüm kampüste yüksek hızda çalışmaktadır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Veteriner Hekimler, Doğa Sporları, Havacılık, Müzik, Tiyatro ve Teknoloji kulüpleri aktiftir.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane:**  
-  Avşar Han / Merkezi Yemekhane binasında sunulan yemeklerde üniversitenin kendi çiftliğinde üretilen et, süt, yoğurt ve peynir ürünleri kullanılır. Bu sayede 25-30 TL'ye yenen yemekhane menüsü hem çok kaliteli hem de çok doyurucudur.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içindeki **Avşar Han** çarşısında kafeler, restoranlar, **MAKÜ Store** (üniversitenin kendi doğal süt ürünleri, dondurma ve kavurmasının satıldığı market), kırtasiye, kuaför ve ATM'ler bulunur.
-* **Spor Tesisleri:**  
-  MAKÜ spor altyapısıyla bir devdir: Kampüs içinde Süper Lig ve Avrupa kulüplerinin kampa geldiği **Lavantalı Tepeler Oteli**, FIFA standartlarında çim stadyum ve antrenman sahaları, olimpik kapalı yüzme havuzu, devasa spor salonu ve tenis kortları yer alır.
+* **KYK Yurtları ve Oda Durumları:**  
+  * **Fereli Sinan Efendi Kız KYK Yurdu:** Kampüs sınırları içindedir. 3-4 kişilik bazalı, çalışma masalı yeni bloklardan oluşur. Banyo ve tuvalet oda içerisindedir. Fakültelere ve kütüphaneye yürüyerek 5-8 dakikada gidilebilmesi kış soğuğunda büyük lükstür. Çamaşırhane dijital randevuyla işler.
+  * **Safahat Kız KYK Yurdu:** Kampüs içinde yeni açılan ek bloklardır; fiziki donanımı ve ısıtması kusursuzdur.
+  * **Asım'ın Nesli Erkek KYK Yurdu:** Şehir merkezinde (Bahçelievler/Emek aksında) yer alır. Erkek öğrenciler kampüste yurt olmadığı için her gün 9 km yolu 1 numaralı otobüsle gidip gelmek zorundadır; ancak akşamları şehir merkezindeki kafelere ve sosyal hayata yürüme mesafesinde olmanın keyfini sürerler.
+* **Öğrenci Mahalleleri ve Kira Dinamikleri:**  
+  * **Bahçelievler Mahallesi:** Burdur'un öğrenci merkezidir. Gazi Caddesi'nin bittiği noktada, kafeler, pastaneler ve marketlerle doludur (11.000 - 15.000 TL).
+  * **Bağlar Mahallesi & Konak:** Sakin, müstakil bahçeli veya 3-4 katlı doğalgazlı binaların olduğu huzurlu mahallelerdir. Kiralar daha uygundur (9.500 - 13.500 TL).
+  * **Burç ve Özgür:** Çarşı merkezinde her yere yürüme mesafesinde olan eski-yeni karma mahallelerdir.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🍽️ Beslenme, Hakiki Burdur Şiş ve MAKÜ Çiftlik Ürünleri
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Burdur halkı kültürlü, sakin ve öğrenciye alışkındır. Şehirde asayiş ve güvenlik üst düzeydedir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Şehir merkezinde **Gazi Caddesi**, **Cumhuriyet Meydanı**, **Bahçelievler (Depremevleri / Kafeler bölgesi)** ve **Burdur Gölü Halk Plajı / Serenler Tepesi** ana sosyalleşme alanlarıdır. Hafta sonu **Salda Gölü**'ne (45 dk), **Sagalassos Antik Kenti**'ne, **Isparta**'ya (30 dk) veya **Antalya**'ya (1 saat 15 dk) gitmek çok kolaydır.
-* **Part-Time İş ve Staj Olanakları:**  
-  MAKÜ Teknokent, üniversite çiftliği/hastanesi kısmi zamanlı öğrenci programları ve merkezdeki kafeler part-time iş imkanı sunar.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* Türkiye'nin en iyi spor tesislerine, kütüphanelerinden birine ve güçlü Veteriner/Eğitim/Diş Hekimliği fakültelerine sahip olması.
-* Kampüs içinde büyük kız KYK yurtlarının bulunması ve üniversitenin kendi çiftlik ürünleriyle çıkan kaliteli yemekhane menüsü.
-* Antalya ve Isparta'ya çok yakın konum, ekonomik yaşam maliyeti.
-
-### ❌ Eksileri
-* Kampüsün şehir merkezine 9 km uzaklıkta, rüzgarlı bir tepede olması ve akşamları kampüste sosyal hayatın durması.
-* Erkek KYK yurdunun şehir merkezinde olması sebebiyle erkek öğrencilerin her gün otobüsle kampüse çıkması.
-* Burdur şehir merkezinde büyük bir AVM bulunmaması (AVM için 30 dk mesafedeki Isparta Iyaşpark/Meydan AVM'ye gidilir).
+* **Merkezi Yemekhane ve MAKÜ Çiftlik Farkı:**  
+  İstiklal Yerleşkesi Avşar Han içerisindeki yemekhanede çıkan yemeklerin eti, sütü ve yoğurdu bizzat üniversitenin kendi veterinerlik ve hayvancılık çiftliğinden gelir. Bu yüzden 25-32 TL bandındaki yemekhane tabldotu lezzet ve besleyicilik açısından Türkiye'nin en üst basamaklarındadır.
+* **Hakiki Burdur Şiş Ritüeli:**  
+  Burdur'a gelip de Gazi Caddesi arkasındaki tarihi arastada veya şişçiler caddesinde kıyması sadece et ve tuzla yoğrulan tırnak pideli meşhur **Burdur Şiş** yememek düşünülemez. Yanında buz gibi yayık ayran ve ceviz ezmesi tatlısı sınav stresini unutturur.
+* **Avşar Han MAKÜ Store:**  
+  Kampüsteki Avşar Han çarşısında yer alan MAKÜ Store'da üniversitenin kendi üretimi olan keçi sütlü dondurma, katkısız kavurma ve kaşar peyniri piyasanın yarı fiyatına öğrencilere satılır.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 4. 📚 Akademik Altyapı ve Sınav Dönemi Taktikleri
 
-> 💬 **Öğrenci Notu:**  
-> "İstiklal Yerleşkesi ilk gördüğünde rüzgarlı bir tepe gibi gelebilir ama kütüphanesine, spor kompleksine ve Avşar Han'daki MAKÜ kavurmalı tostuna/dondurmasına alışınca çok seveceksin. Merkezde ev tutacaksan mutlaka 1 numaralı kampüs otobüsünün geçtiği Gazi Caddesi veya Köprübaşı aksına yakın bir yer seç!"
+* **Fakültelerin Karakteristiği ve Barajlar:**  
+  * **Veteriner Fakültesi:** Türkiye'nin en modern Hayvan Hastanesi ve uygulama çiftliğine sahiptir; klinik stajlarda gece nöbetleri ve pratik uygulamalar oldukça ciddidir.
+  * **Eğitim Fakültesi:** Türkiye'nin en eski öğretmen okulu geleneklerinden birine sahiptir; KPSS başarı yüzdesi çok yüksektir.
+  * **Diş Hekimliği:** Klinik hasta barajları ve preklinik laboratuvarları son teknolojiyle donatılmıştır.
+* **Prof. Dr. İlhan Varank Kütüphanesi & Gece Çorbası:**  
+  Bölgenin en ferah ve modern kütüphanesidir. Sınav haftalarında 7/24 hizmet verir; gece **23:00**'te kütüphane girişinde sıcak mercimek çorbası dağıtılır. Prizli masalar erkenden dolduğu için sabah 08:30'da kütüphaneye girmek gerekir.
+
+---
+
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **Örtülü Mevkiinin Kesilmeyen Rüzgarı ve Ayazı:**  
+  İstiklal Yerleşkesi açık ve yüksek bir tepede kurulu olduğu için sonbahar ve kış aylarında sert bir rüzgar eser. Şehir merkezinde hava ılıkken kampüste titremek olasıdır; kalın kapüşonlu mont zorunludur.
+* **Akşam 18:30'dan Sonra Hayalet Kampüs Hali:**  
+  Fakülteler kapandıktan sonra kampüste hayat Avşar Han ve KYK yurtlarının içine çekilir; dışarısı tamamen ıssızlaşır.
+* **Erkek Öğrencilerin 9 Kilometrelik Yol Çilesi:**  
+  Kampüste erkek KYK yurdu olmaması sebebiyle erkek öğrencilerin her sabah otobüs kuyruğunda beklemesi kronik bir yakınma konusudur.
+* **Büyük AVM Eksikliği:**  
+  Burdur'da büyük bir alışveriş merkezi bulunmaz; sinema veya büyük mağazalar için öğrenciler 30 dakikalık minibüsle komşu il Isparta'ya (Iyaşpark/Meydan AVM) gider.
+
+---
+
+## 6. 💡 Burdur Öğrencisine Altın Tavsiyeler
+
+1. **Antalya ve Isparta Kaçışları:** Burdur Garı ve Otogarı'ndan Antalya sadece 1 saat 15 dakikadır. Cuma dersi sonrası denize kaçıp pazar dönmek çok kolaydır.
+2. **Salda Gölü ve Sagalassos Gezisi:** Baharda Türkiye'nin Maldivleri sayılan Salda Gölü'ne ve Ağlasun'daki görkemli Sagalassos Antik Kenti'ne kulüp gezileriyle mutlaka gidin.
+3. **MAKÜ Store'u Kullanın:** Peynir, kavurma, süt ve dondurmayı kampüsteki MAKÜ Store'dan alın; hem bütçeniz hem de sağlığınız kazanır.
+4. **Ev Kiralarken Otobüs Güzergahı:** Şehirde ev tutacaksanız 1 numaralı kampüs otobüsünün ilk geçtiği Köprübaşı veya Cumhuriyet Meydanı aksını seçin.

@@ -1,48 +1,48 @@
 # 🌲 37 - Kastamonu İl Öğrenci ve Kampüs Rehberi
 
 > **Son Güncelleme:** Kasım 2026  
-> **Bölge:** Batı Karadeniz  
-> **Öğrenci Nüfusu:** ~30.000  
-> **Genel Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.5/5)
+> **Bölge:** Karadeniz  
+> **Öğrenci Nüfusu:** ~28.000+  
+> **Genel Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
 
-Kastamonu; Batı Karadeniz'in doğası, Ilgaz Dağı eteklerindeki temiz havası, tarihi konakları ve dikey olarak uzanan vadi yapısıyla sakin ama kendi içinde kendi ekosistemini kurmuş bir öğrenci şehridir. Şehirde yükseköğretim hayatı tamamen **Kastamonu Üniversitesi** etrafında şekillenir. Merkez kampüsün bulunduğu **Kuzeykent Mahallesi**, adeta şehirden bağımsız bir öğrenci kasabası gibidir.
+Kastamonu; Ilgaz Dağları ile Karadeniz sahilleri arasında uzanan muazzam çam ormanları, kanyonları, tarihi ahşap konakları ve sakin Anadolu kültürüyle güvenli, ekonomik ve doğayla iç içe bir üniversite şehridir. Şehirde yükseköğretim hayatı **Kastamonu Üniversitesi** etrafında şekillenir. Şehirlerarası Otogar'ın hemen bitişiğindeki modern **Kuzeykent Merkez Kampüsü**, ahşap ve pirinç diyarı **Tosya** ve sarımsak başkenti **Taşköprü** yerleşkeleriyle Kastamonu Üniversitesi, özellikle "Ormancılık ve Tabiat Turizmi" alanındaki YÖK Bölgesel Kalkınma İhtisas Üniversitesi kimliğiyle öne çıkar.
 
 ---
 
-## 🏛️ Kastamonu'daki Üniversiteler ve Yerleşkeler
+## 🏛️ Kastamonu'daki Üniversite ve Yerleşkeler
 
 | Üniversite | Yerleşke / Kampüs | İlçe | Tür | Öne Çıkan Özellik | Rehber Linki |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Kastamonu Üniversitesi** | Kuzeykent Merkez Kampüsü | Merkez | Devlet | Tüm fakültelerin toplandığı devasa bütünleşik kampüs | [Merkez Kampüs Rehberi](./Merkez/Kastamonu-Universitesi-Kuzeykent-Kampusu.md) |
-| **Kastamonu Üniversitesi** | Tosya Meslek Yüksekokulu | Tosya | Devlet | D-100 karayolu üzerinde, gelişmiş sanayi ve pirinç diyarı | [Tosya MYO Rehberi](./Tosya/Kastamonu-Universitesi-Tosya-MYO.md) |
-| **Kastamonu Üniversitesi** | Taşköprü / İnebolu / Cide MYO | Taşköprü, İnebolu, Cide | Devlet | Sahil ve iç kesimlerdeki butik meslek yüksekokulları | [Taşköprü ve Sahil MYO Rehberi](./Taskopru/Kastamonu-Universitesi-Taskopru-ve-Ilce-MYO.md) |
+| **Kastamonu Üniversitesi** | Kuzeykent Merkez Kampüsü | Merkez | Devlet | Ormancılık ve Tabiat Turizmi İhtisas, Mühendislik, Eğitim, İİBF, Otogar yanı | [Kuzeykent Kampüs Rehberi](./Merkez/Kastamonu-Universitesi-Kuzeykent-Kampusu.md) |
+| **Kastamonu Üniversitesi** | Tosya Yerleşkesi | Tosya | Devlet | Tosya Meslek Yüksekokulu, marangozluk, mobilya ve pirinç tarımı | [Tosya MYO Rehberi](./Tosya/Kastamonu-Universitesi-Tosya-MYO.md) |
+| **Kastamonu Üniversitesi** | Taşköprü ve İlçe MYO'lar | Taşköprü, Cide, İnebolu | Devlet | Taşköprü MYO, Cide Rıfat Ilgaz MYO, Denizcilik ve Sağlık | [Taşköprü ve İlçe MYO Rehberi](./Taskopru/Kastamonu-Universitesi-Taskopru-ve-Ilce-MYO.md) |
 
 ---
 
-## 🚌 Şehirde Ulaşım ve "Kuzeykent" Faktörü
+## 🚇 Şehirde Ulaşım: Kastamonu Kart ve Otogar Avantajı
 
-* **Şehir Yapısı:** Kastamonu, Karaçomak Deresi boyunca uzanan ince, uzun bir şehirdir. Bu durum şehir içi ulaşımı **tek bir ana hat** (Kuzeykent - Merkez - Olukbaşı) üzerine kurmuştur.
-* **Kastamonu Kart (Özel Halk Otobüsleri):** Şehir içi ulaşımda mor/sarı renkli özel halk otobüsleri kullanılır. Öğrenci kartı (**Kastamonu Kart**) ile binişler indirimlidir (2026 itibarıyla ~14-16 TL bandında).
-* **Otogar ve Havalimanı:** Kastamonu Otogarı (Kuzeykent'te) kampüsün hemen yanı başındadır; Türkiye'nin nadir "otogardan yürüyerek kampüse ve yurduna gidebileceğin" şehirlerinden biridir. Kastamonu Havalimanı'ndan ise sadece İstanbul uçuşları bulunur ve merkeze yaklaşık 15-20 dakikadır.
-
----
-
-## 🏠 Barınma, KYK Yurtları ve Popüler Öğrenci Mahalleleri
-
-* **Kuzeykent Mahallesi (Öğrencinin Kalbi):** Kampüsün hemen karşısında ve çevresinde yer alır. Yeni yapılmış rezidanslar, 1+1 eşyalı apartlar, kafeler, zincir marketler ve KYK yurtlarının neredeyse tamamı buradadır. Kuzeykent'te yaşayan bir öğrencinin resmi bir işi olmadıkça Kastamonu çarşı merkezine (Cumhuriyet Meydanı / Nasrullah) inmesine gerek bile kalmaz.
-* **Saraçlar ve Mehmet Akif Ersoy Mahalleleri:** Merkez ile Kuzeykent arasında kalan, nispeten daha uygun kiralı 2+1 ve 3+1 aile/öğrenci apartmanlarının bulunduğu bölgelerdir.
-* **KYK Yurt Durumu:** Kuzeykent bölgesinde yer alan **Rabia Hatun**, **Şeyh Şaban-ı Veli**, **Fatma Aliye Hanım**, **Baharzade Feride Hanım** ve **Hüma Hatun** gibi büyük kapasiteli KYK yurtları sayesinde Kastamonu Merkez'de yurt çıkma oranı Türkiye ortalamasının oldukça üzerindedir.
-* **Ortalama Kira ve Yaşam Maliyeti (2026):**
-  * **1+1 Eşyalı Apart / Stüdyo (Kuzeykent):** 8.500 - 13.000 TL
-  * **2+1 / 3+1 Öğrenci Evi:** 10.000 - 15.000 TL (Kışın doğalgaz faturası sert soğuklar nedeniyle yüksek gelir, yalıtıma dikkat edilmelidir!)
+* **Otogar Yanı Kampüs:** Şehirlerarası Otobüs Terminali doğrudan Kuzeykent Kampüsü'nün altındadır; memleketten gelen öğrenciler valizleriyle yürüyerek 5 dakikada kampüse varır.
+* **Kuzeykent Özel Halk Otobüsleri:** Cumhuriyet Meydanı ve Nasrullah'tan kalkan halk otobüsleriyle 15 dakikada kampüse ulaşılır.
+* **Yürüme Mesafesinde Yaşam:** Kuzeykent'te yaşayan öğrenciler için okul, yurt, kafe ve marketler yürüme mesafesinde olduğu için günlük ulaşım masrafı sıfıra yakındır.
+* **Kastamonu Kart:** Şehir içi otobüslerde indirimli öğrenci tarifesi uygulanır.
 
 ---
 
-## 🌆 Öğrenci Yaşamı, İklim ve Sosyal İpuçları
+## 🏠 Barınma, KYK Yurtları ve Popüler Mahalleler
 
-1. **Ilgaz Soğuğu Gerçeği:** Kastamonu'nun kışı uzun ve serttir. Ekim sonundan Nisan ortasına kadar kalın mont ve bot şarttır. Ancak Ilgaz Dağı Kayak Merkezi'ne yakınlığı, kış sporlarını seven öğrenciler için büyük bir ayrıcalıktır.
-2. **Yöresel Lezzetler ve Öğrenci Bütçesi:** Etli ekmek (Kastamonu usulü), banduma, çekme helva ve Tosya pirinci meşhurdur. Kuzeykent'teki öğrenci lokantaları ve kafeler büyükşehirlere kıyasla bütçe dostudur.
-3. **Sakinlik Arayanlara:** Gece hayatı ve büyük konser/festival beklentisi olanlar için Kastamonu ilk aylarda durgun gelebilir; buradaki öğrencilik daha çok **ev buluşmaları, Kuzeykent kafe kültürü, kampüs toplulukları ve doğa/kanyon (Horma Kanyonu, Valla Kanyonu, Gideros Koyu) gezileri** üzerine kuruludur.
+* **Kuzeykent Kampüs İçi KYK Yurtları:**
+  * **Baharzade Feride Hanım KYK Kız Yurdu**, **Rabia Hatun KYK Yurdu**, **Hüma Hatun KYK Yurdu** ve **Şeyh Şaban-ı Veli KYK Erkek Yurdu**. Derse 5 dakikada yürüme konforu sağlar.
+  * 23:00 turnike ve parmak izi okuma sistemi hassasiyetle denetlenir.
+* **Öğrenci Evleri:** **Kuzeykent Mahallesi**'nde doğalgazlı yeni 1+1 stüdyo rezidanslar ve 2+1 daireler (8.500 - 14.000 TL).
+
+---
+
+## 🍽️ Kastamonu Lezzetleri & Gurme Duraklar
+
+* **Meşhur Kastamonu Sacda Etli Ekmeği:** İnce yufka içine kıymalı harç konularak sacda kapalı pişirilen ve üzerine mis gibi köy tereyağı sürülen efsane lezzet.
+* **Ilgaz Rüzgarında Kuruyan Kastamonu Pastırması:** Doğal dağ rüzgarında kurutulan, zırhla incecik doğranan sarımsaklı pastırma.
+* **Çekme Helva & Banduma:** Ağızda dağılan un helvası ve hindi suyunda cevizli yufka yemeği banduma.
+* **Sınav Haftası Gece Çorbası:** Cemil Meriç Merkez Kütüphanesi önünde sınav gecelerinde dağıtılan sıcak çorba ve ekmek.
 
 ---
 
@@ -50,4 +50,4 @@ Kastamonu; Batı Karadeniz'in doğası, Ilgaz Dağı eteklerindeki temiz havası
 
 * 📍 **Merkez:** [Kastamonu Üniversitesi - Kuzeykent Merkez Kampüsü](./Merkez/Kastamonu-Universitesi-Kuzeykent-Kampusu.md)
 * 📍 **Tosya:** [Kastamonu Üniversitesi - Tosya Meslek Yüksekokulu](./Tosya/Kastamonu-Universitesi-Tosya-MYO.md)
-* 📍 **Taşköprü & Sahil İlçeleri:** [Kastamonu Üniversitesi - Taşköprü, İnebolu ve Cide MYO](./Taskopru/Kastamonu-Universitesi-Taskopru-ve-Ilce-MYO.md)
+* 📍 **Taşköprü ve Diğer İlçeler:** [Kastamonu Üniversitesi - Taşköprü ve İlçe Meslek Yüksekokulları](./Taskopru/Kastamonu-Universitesi-Taskopru-ve-Ilce-MYO.md)

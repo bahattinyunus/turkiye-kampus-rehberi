@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Ağrı / Merkez (Erzurum Yolu Üzeri - Fırat Mah.)  
 > **Üniversite Türü:** Devlet (IC Vakfı Destekli)  
-> **Kampüs Konumu:** Merkez Kampüs  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (3.7/5)
+> **Kampüs Konumu:** Merkez Kampüs (Erzurum Karayolu 4. km)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.0/5)
 
 ---
 
@@ -12,90 +12,79 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 4 km / ~10-12 dk | Erzurum yolu üzerinde; Çarşı (Cumhuriyet Cad.) dolmuşları ve belediye otobüsleri |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek (%95+) | İbrahim Çeçen, Abdurrahman Arvasi ve İshak Paşa KYK yurtları kampüs içinde/yanında |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 7.500 - 12.000 TL | Fırat Mahallesi (kampüs karşısı), Erzurum Caddesi |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 TL / İyi | Merkezi Yemekhane ve Konukevi restoranı; kışın sıcak ve doyurucu menüler |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri + Sınav Dönemi Uzatmalı | Merkezi Araştırma Kütüphanesi modern, sıcak ve bol prizli |
-| **🌐 İnternet (eduroam)** | İyi | Tüm kapalı binalarda ve kültür merkezinde eduroam çekimi güçlü |
-| **🌆 Sosyal Yaşam & Çevre** | Kampüs İçi Canlı / Şehir Kısıtlı | Osmanlı Kültür Merkezi, yarı olimpik havuz, Fırat Mah. kafeleri |
+| **🚇 Şehir Merkezine Uzaklık** | 4 km / ~10 dk | Erzurum yolu üzerinde; Cumhuriyet Cad. dolmuşları ve sarı belediye otobüsleri |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (%98) | İbrahim Çeçen, Abdurrahman Arvasi ve İshak Paşa KYK yurtları kampüs içinde/dibinde |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 7.500 - 12.000 TL | Fırat Mahallesi (kampüs karşısı) ve Erzurum Caddesi 1+1 / 2+1 apartlar |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 TL / Çok İyi | IC Vakfı sübvansiyonlu, etli doyurucu menüler, Nezahat Çeçen Konukevi |
+| **📚 Kütüphane Kapasitesi** | 7/24 Sınav Dönemi | Merkezi Araştırma Kütüphanesi son derece modern, sıcacık ve geniş |
+| **🌐 İnternet (eduroam)** | Çok İyi | Kapalı alanlarda ve kültür merkezinde güçlü fiber eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | Kampüs İçi Odaklı | Yarı olimpik havuz, Osmanlı Kültür Merkezi, Fırat Mah. kafeleri, Küpkıran Kayak |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **Şehir Merkezinden Ulaşım:**  
-  AİÇÜ Merkez Kampüsü, Ağrı-Erzurum D100 karayolu üzerinde, şehir merkezinin 4 km batısındaki Fırat Mahallesi'nde yer alır. Şehir merkezinden (Cumhuriyet Caddesi, Dörtyol, Valilik) her 5 dakikada bir kalkan **Üniversite / Fırat Mahallesi dolmuşları** ve belediye otobüsleri doğrudan kampüs kapısından ve KYK yurtlarının önünden geçer.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Kampüs tamamen düz bir ovada, modern ve toplu bir yerleşim planıyla kurulmuştur. Tıp, Eczacılık, Eğitim, Fen-Edebiyat, İslami İlimler, Spor Bilimleri fakülteleri ile Merkezi Yemekhane ve Kütüphane birbirine 5-10 dakikalık yürüme mesafesindedir.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Belediye otobüsleri ve dolmuşlarda öğrenci tarifesi uygulanır. Ancak KYK yurtlarının tamamı ve Fırat Mahallesi'ndeki öğrenci apartları kampüsle iç içe olduğu için öğrencilerin %80'i okula yürüyerek gider.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım (Ağrı Kışı Gerçeği):**  
-  Ağrı'da kış Kasım ayında başlar ve Nisan'a kadar sürer. Kar kalınlığı yarım metreyi aşabilir ve gece ayazında sıcaklık **-30°C**'yi görebilir. Ancak kampüs içi yollar ve kaldırımlar üniversite araçları tarafından sabahın erken saatlerinde sürekli kürenir ve tuzlanır. Yine de termal içlik, kar botu (kaymaz tabanlı), bere ve eldiven bu kampüste hayatta kalma ekipmanıdır.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** Kampüs yerleşkesi içinde/hemen yanında yer alan **İbrahim Çeçen KYK Kız Öğrenci Yurdu** ve **İshak Paşa KYK Yurdu** çok yüksek kapasitelidir. Odalar kaloriferli ve çok sıcak olduğu için Ağrı kışında en güvenli ve ekonomik tercihtir.
-  * **Erkek Yurtları:** **Abdurrahman Arvasi KYK Erkek Öğrenci Yurdu** yine kampüs sınırında yer alır ve fakültelere yürüme mesafesindedir.
-* **Özel Yurtlar ve Apartlar:**  
-  Kampüsün hemen karşısındaki **Fırat Mahallesi**'nde öğrencilere özel 1+0 ve 1+1 eşyalı apartlar mevcuttur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Öğrencilerin neredeyse tamamı kampüs karşısındaki **Fırat Mahallesi**'nde veya **Erzurum Caddesi** üzerinde ev tutar. **Altın Kural:** Ağrı'da kesinlikle zemin kat veya en üst kat daire tutulmamalıdır; ara kat, dış cephe mantolaması tam ve mümkünse merkezi sistem (kömür/doğalgaz yakıtı aidata dahil) binalar tercih edilmelidir.
+* **Şehir Merkezinden Geliş & Minibüs Hatları:**  
+  AİÇÜ Kampüsü, şehir merkezinin 4 km batısında Erzurum karayolu üzerindedir. 
+  * Şehir merkezinden (Cumhuriyet Caddesi, Eski Otogar, Dörtyol) her 4-5 dakikada bir kalkan **Fırat Mahallesi / Üniversite dolmuşları** ve belediye halk otobüsleri doğrudan nizamiye ve KYK yurtlarının önünde durur.
+  * **Ağrı Ayazında Yürüyüş Taktikleri:** Yurtlar ve apartlar kampüsle iç içe olsa da kışın -25 derecede 400 metre yürümek bile dondurucu olabilir. Öğrenciler binalar arasındaki kapalı geçitleri ve rüzgar almayan koridorları kullanarak fakülteden fakülteye geçer.
+* **Otostop Noktası:**  
+  * **Fırat Mahallesi Kavşağı Işıkları:** Şehir merkezine inmek isteyen öğrenciler kavşakta bekler; geçen memur ve akademisyen araçları öğrencileri çarşıya kadar ücretsiz götürür.
+* **Ulaşım Kartı:**  
+  Minibüs ve belediye otobüslerinde nakit ve indirimli öğrenci kartı geçerlidir. Ancak öğrencilerin %85'i okula yürüyerek gittiği için ulaşım bütçesi neredeyse sıfırdır.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma & KYK Gerçekleri (-30 Derecede Hayatta Kalma)
 
-* **Kütüphane İmkanları:**  
-  Kampüsün kalbinde yer alan **Merkezi Araştırma Kütüphanesi**, Doğu Anadolu'nun en modern kütüphane binalarından biridir. İçerisi kışın sıcacıktır, bireysel çalışma masaları ve bilgisayar salonları oldukça ferahtır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Üniversitenin en büyük şansı **İbrahim Çeçen (IC) Vakfı** tarafından hibe edilen binalar ve **Merkezi Araştırma ve Uygulama Laboratuvarı (MERLAB)** altyapısıdır. Tıp, Eczacılık, Sağlık Bilimleri ve Eğitim Fakültesi binaları birçok batı üniversitesinden daha yeni ve donanımlıdır. Ayrıca IC Vakfı her yıl başarılı ve ihtiyaç sahibi AİÇÜ öğrencilerine **karşılıksız eğitim bursu** vermektedir.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Tüm fakültelerde **eduroam** bağlantısı hızlıdır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Kampüs içerisindeki Selçuklu-Osmanlı mimarili **Kültür ve Kongre Merkezi**'nde yıl boyu tiyatro gösterileri, konserler, kariyer günleri ve sinema gösterimleri düzenlenir. Kayak, Dağcılık ve Spor Bilimleri toplulukları oldukça aktiftir.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane:**  
-  Merkezi öğrenci yemekhanesi çok temizdir ve IC Vakfı / üniversite sübvansiyonu sayesinde yemek ücretleri (~25 TL) oldukça düşüktür.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kışın dışarıda vakit geçirmek zor olduğu için kampüs içi yaşam çok gelişmiştir. Kampüs içindeki **Nezehat Çeçen Konukevi**, öğrenci çarşısı, bowling/oyun salonu, fakülte kantinleri ve kampüs karşısındaki Fırat Mahallesi kafeleri öğrencilerin tüm vaktini geçirdiği yerlerdir.
-* **Spor Tesisleri:**  
-  Kampüs içerisinde **Yarı Olimpik Kapalı Yüzme Havuzu**, buz pateni pisti/kapalı spor salonları, stadyum, fitness salonu ve halı sahalar bulunur.
+* **KYK Yurtlarının Detaylı Röntgeni:**  
+  * **İbrahim Çeçen KYK Kız Yurdu & İshak Paşa KYK:** Kampüs arazisinin hemen sınırındadır. Odalar 3 ve 4 kişiliktir, bazalıdır ve banyo-tuvalet oda içerisindedir.
+    * *En Büyük Nimeti - 24 Saat Yanan Kalorifer:* Dışarıda dondurucu tipi varken yurtların içi sıcacıktır; 24 saat sıcak su akar.
+    * *23:00 Turnikesi:* Giriş çıkışlarda parmak izi kontrolü titizlikle uygulanır.
+  * **Abdurrahman Arvasi KYK Erkek Yurdu:** Kampüsün hemen yanındadır; dersliklere yürüyerek 5 dakikada varılır.
+* **Fırat Mahallesi Apartları & Ev Sahibi/Isınma Tuzakları:**  
+  * Kampüsün tam karşısındaki **Fırat Mahallesi**, tamamen üniversite öğrencileri ve akademisyenler için inşa edilmiş 1+1 ve 2+1 apartlarla doludur (**7.500 - 12.000 TL**).
+  * **Hayati Donma Tuzağı:** Ağrı'da asla zemin kat, bodrum kat veya yalıtımsız en üst kat daire tutmayın! Kışın donan su boruları günlerce akmayabilir.
+  * **Alt-Sayaç ve Yakıt Aidatı Tuzağı:** Merkezi sistem kömürlü/doğalgazlı apartlarda yönetim fahiş yakıt parası talep edebilir. Tutacağınız evde çift cam yalıtımı, mantolama ve sabit aidat şartlarını sözleşmeye yazdırın.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Ağrı halkı geleneksel Doğu Anadolu misafirperverliğine sahiptir; esnaf öğrenciye yardımcı olur. Fırat Mahallesi tamamen öğrenci ve memur mahallesi olduğu için oldukça rahattır.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Şehir merkezinde **Cumhuriyet Caddesi**, **Millet Bahçesi**, **Ağrı Park AVM** ve Fırat Mahallesi kafeleri başlıca sosyal alanlardır. Hafta sonları **Doğubayazıt İshak Paşa Sarayı** gezileri, kışın ise **Bubi Dağı / Küpkıran Kayak Merkezi**'nde çok ucuza kayak yapma imkanı öğrencilerin en büyük eğlencesidir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Kampüs içinde SKS kısmi zamanlı çalışma imkanları ve Fırat Mahallesi'ndeki kafelerde part-time iş olanakları bulunur.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* **IC Vakfı Desteği ve Modern Kampüs:** Kampüs içindeki binalar, laboratuvarlar, yüzme havuzu ve kültür merkezi beklenenin çok üzerinde bir fiziksel kaliteye sahiptir; ayrıca vakıf burs imkanı vardır.
-* **Sıfır Barınma ve Ulaşım Sorunu:** KYK yurtları ve Fırat Mahallesi apartları kampüsün hemen dibindedir.
-* **Havalimanı Yakınlığı:** Şehir merkezine 10 dakika mesafedeki havalimanı sayesinde İstanbul ve Ankara'ya ulaşım çok kolaydır.
-
-### ❌ Eksileri
-* **Dondurucu ve Uzun Kış:** Yılın 5-6 ayı kar ve şiddetli soğukla geçer; açık hava sosyal hayatı kışın tamamen kapalı mekanlara hapsolur.
-* **Kısıtlı Şehir Sosyal Hayatı:** Kampüs dışındaki şehir merkezi küçüktür ve akşam erken saatlerde sakinleşir.
+* **Yemekhane Sistemi:**  
+  Merkezi Öğrenci Yemekhanesi'nde IC Vakfı desteğiyle Türkiye'nin en ekonomik yemeklerinden biri sunulur (~25 TL). Kış şartlarına uygun etli kavurma, kurufasulye, yayla çorbası ve helva menüleri çok doyurucudur.
+* **Kampüs İçi ve Çevre Lezzetleri:**  
+  * **Nezahat Çeçen Konukevi:** Kampüs içindeki konukevi restoranı uygun fiyata ızgara çeşitleri ve serpme kahvaltı verir.
+  * **Meşhur Abdigör Köftesi:** Ağrı'ya özgü yağsız ve sinirsiz tokmakla dövülmüş etten yapılan Abdigör köftesi, çarşıdaki tarihi lokantalarda deneyimlenmesi gereken bir gastronomi şaheseridir.
+  * **Tandır Ekmeği & Hakiki Ağrı Balı:** Fırat Mahallesi bakkallarından sıcacık tandır lavaşı ve yerel yayla balı alıp odada kahvaltı yapmak kış sabahlarının vazgeçilmezidir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 4. 📚 Akademik & Sınav Hayatta Kalma
 
-> 💬 **Öğrenci Notu:**  
-> "Ağrı'yı kazandıysan ilk yapacağın şey IC Vakfı burs başvurularını takip etmek ve kesinlikle kampüs içindeki KYK yurtlarına yerleşmek olsun; -30 derecede sıcacık yurttan çıkıp 5 dakikada amfiye girmek paha biçilemez. Kışlık montunu ve botunu batıdan değil, Ağrı'ya gelince buradaki iklim şartlarına uygun olarak al; kışın da Küpkıran'da kayak öğrenmeden dönme!"
+* **IC Vakfı Başarı Bursu İmkânı:**  
+  Ağrı İbrahim Çeçen Üniversitesi'nde okumanın en büyük avantajı **IC İbrahim Çeçen Vakfı** tarafından verilen karşılıksız yükseköğrenim burslarıdır. Genel not ortalamasını 3.00 ve üzerinde tutan ve disiplin cezası almayan başarılı öğrencilere düzenli burs ödenir; bu burs Ağrı şartlarında bir öğrencinin tüm masraflarını karşılar.
+* **Notlandırma & Çan Eğrisi:**  
+  Bağıl Değerlendirme Sistemi uygulanır (ham başarı barajı 35). Tıp ve Eczacılık Fakülteleri'nde kurul sınavları sıkıdır.
+* **Kütüphanede Sınav Nöbeti:**  
+  Merkezi Araştırma Kütüphanesi vize ve final haftalarında 7/24 açıktır.
+  * İçerisi son derece sıcak ve konforludur. 
+  * Gece saat 23:30'da sıcak mercimek çorbası ve taze ekmek ikramı yapılır.
+  * Masalarda priz sayısı yeterlidir; sınav haftalarında öğrenciler günlerce kütüphaneden çıkmadan ders çalışır.
+
+---
+
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **-30 Derece Ayaz ve Donma Riski:**  
+  Ağrı kışı şakaya gelmez; açıkta kalan kulak ve yanaklar 10 dakikada uyuşur. Dışarı çıkarken polar boyunluk, termal kar maskesi ve yün çorap giyilmelidir. Telefon bataryaları soğuk havada 5 dakikada %80'den %1'e inip kapanabilir (powerbank'i cebinizde sıcak tutun).
+* **Şehirde Sosyal Alan Darlığı:**  
+  Kampüs dışında sinema, tiyatro ve alternatif gençlik mekanları sınırlıdır; kışın tüm sosyal hayat Fırat Mahallesi kafeleri ve kampüs içi tesislerde geçer.
+
+---
+
+## 6. 💡 Altın Tavsiyeler (İlk Hafta Hayatta Kalma Kiti)
+
+1. **Ekim Ayı Bitmeden Kış Donanımını Tamamla:** Ağrı'da kasım ayında kar yağışı başlar. Su geçirmez kalın tabanlı kar botu, kaz tüyü uzun mont ve termal içlikleri Ağrı merkez çarşısındaki uygun fiyatlı esnaftan ilk hafta temin et.
+2. **IC Vakfı Burs Başvurusunu Kaçırma:** Dönem başında üniversite web sitesinde açılan IC Vakfı burs takvimini takip et ve belgelerini eksiksiz teslim et.
+3. **Küpkıran Kayak Merkezi'ni Değerlendir:** Şehir merkezine 3 km mesafedeki Küpkıran Kayak Pisti'nde çok cüzi bir fiyata kayak kiralayıp kış boyunca kayak sporunu öğrenebilirsin.

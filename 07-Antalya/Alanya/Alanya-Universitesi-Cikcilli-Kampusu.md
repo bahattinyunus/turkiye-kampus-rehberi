@@ -4,7 +4,7 @@
 > **İl / İlçe:** Antalya / Alanya  
 > **Üniversite Türü:** Vakıf  
 > **Kampüs Konumu:** Cikcilli Mahallesi (Çevre Yolu - Alanyum AVM Yakını)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.3/5)
 
 ---
 
@@ -13,85 +13,70 @@
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
 | **🚇 İlçe Merkezine Uzaklık** | 2.5 - 3 km / ~5-10 dk | Alanya merkezinden kalkan Cikcilli dolmuşları, bisiklet veya 20 dk yürüme |
-| **🏠 KYK Yurt İmkanı** | Orta - Yüksek | Alanya ilçe merkezindeki ve Kestel/Mahmutlar'daki KYK yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 15.000 - 24.000 TL | Cikcilli, Oba, Alanya Merkez ve Cumhuriyet Mahallesi apartları |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | Vakıf Standardı (55 - 85 TL) | Kampüs kafeteryası, profesyonel gastronomi mutfağı ve çevredeki restoranlar |
-| **📚 Kütüphane Kapasitesi** | Butik & Nitelikli | Tasarım, mimarlık ve sanat ağırlıklı kütüphane ve bireysel çalışma salonları |
-| **🌐 İnternet (eduroam)** | Çok Hızlı | Kampüs binalarında yüksek hızlı kablosuz internet ağı |
-| **🌆 Sosyal Yaşam & Çevre** | Alanya Şehir Merkezine Sıfır | Alanyum AVM, Alanya Sahili, İskele kafeleri, sinema ve yürüyüş yolları |
+| **🏠 KYK & Özel Yurtlar** | Orta - Yüksek | Alanya merkezdeki özel yurtlar ve Kestel/Mahmutlar KYK yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 15.000 - 24.000 TL | Cikcilli, Oba, Alanya Merkez ve Cumhuriyet Mahallesi 1+1 rezidanslar |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | Vakıf Standardı (60 - 85 TL) | Kampüs kafeteryası, profesyonel gastronomi mutfağı ve Alanyum restoranları |
+| **📚 Kütüphane Kapasitesi** | Butik & Nitelikli | Mimarlık, sanat ve tasarım ağırlıklı kütüphane, sınav haftasında uzatmalı |
+| **🌐 İnternet (eduroam)** | Ultra Hızlı | Kampüs binalarında ve stüdyolarda yüksek hızlı fiber kablosuz internet |
+| **🌆 Sosyal Yaşam & Çevre** | Alanya Şehir Merkezine Sıfır | Alanyum AVM yanı, Keykubat Sahili, İskele kafeleri, sinema ve plajlar |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **İlçe Merkezinden Ulaşım (Mükemmel Konum Avantajı):**  
-  Alanya Üniversitesi Cikcilli Yerleşkesi, dağ yamaçlarına kurulu ALKÜ'nün aksine **Alanya'nın tam içinde**, düz ayakta ve merkezi bir konumda yer alır. İlçe merkezinden (Hacı Memişler Camii, Cuma Pazarı veya Otogar) kalkan **Cikcilli ve Alanyum dolmuşları** ile sadece 5-8 dakikada kampüs kapısına ulaşılır. Bisikletle veya yürüyerek bile şehir merkezinden okula gitmek mümkündür.
-* **Sahile ve Alışveriş Merkezlerine Uzaklık:**  
-  Kampüs, Alanya'nın en büyük alışveriş merkezi olan **Alanyum AVM**'ye sadece birkaç yüz metre yürüme mesafesindedir. Keykubat Plajı ve sahil kordonuna yürümek 15 dakika sürer.
-* **Havalimanı Bağlantısı:**  
-  Gazipaşa-Alanya Havalimanı'na 38 km mesafededir; HAVAŞ servisleri çevre yolundan geçmektedir. Ulaşım açısından bölgenin en rahat erişilen vakıf yerleşkesidir.
+* **İlçe Merkezinden Ulaşım (Düz Ayak Şehir Kampüsü):**  
+  Alanya Üniversitesi Cikcilli Yerleşkesi, dağ yamaçlarındaki ALKÜ'nün aksine **Alanya'nın tam merkezindedir**:
+  * İlçe merkezindeki Cuma Pazarı ve Otogar'dan kalkan **Cikcilli / Alanyum dolmuşları** ile 5-7 dakikada doğrudan kampüs kapısına varılır.
+  * Şehir merkezinden veya Keykubat sahilinden kampüse bisikletle veya elektrikli scooter ile 10 dakikada düz yoldan ulaşmak mümkündür; yokuş tırmanma derdi yoktur.
+* **Alanyum AVM ve Sahile Yakınlık:**  
+  Kampüs Alanya'nın ana alışveriş merkezi olan **Alanyum AVM**'nin hemen arkasındadır. Keykubat Plajı'na yürüyüş sadece 12-15 dakikadır.
+* **Havalimanı Avantajı:**  
+  Gazipaşa-Alanya Havalimanı'na (GZP) 38 km mesafededir; çevre yolundan geçen HAVAŞ servisleriyle 35 dakikada havalimanına ulaşılır.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma & KYK Gerçekleri
 
-* **KYK Yurtları ve Özel Yurtlar:**  
-  Alanya merkezde yer alan özel öğrenci yurtları ile Mahmutlar ve Kestel'deki KYK yurtlarından tek araçla kampüse gelinebilir.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Cikcilli Mahallesi:** Üniversitenin yer aldığı mahalledir. Yeni konut projeleri, havuzlu siteler ve çok sayıda 1+1 daire seçeneği bulunur; öğrenciler derse yürüyerek gider.
+* **Öğrenci Evleri ve Rezidanslar:**  
+  * **Cikcilli Mahallesi:** Üniversitenin yer aldığı mahalledir. Yeni konut projeleri, havuzlu siteler ve çok sayıda 1+1 daire seçeneği bulunur; öğrenciler derse yürüyerek 5 dakikada gider (**15.000 - 23.000 TL**).
   * **Oba Mahallesi:** Kafeleri, hastanesi ve sahil düzenlemeleriyle Alanya'nın en nezih semtidir; kampüse komşudur.
-  * **Alanya Merkez (Cumhuriyet / Şekerhane):** Sahil ve çarşı canlılığı içinde yaşamak isteyen öğrencilerin tercihidir.
+  * **Kiralama Uyarısı:** Alanya'daki yabancı yoğunluğu nedeniyle ev sahiplerinin dövizle kira isteme veya yazın turistlere kiralamak için haziran tahliyesi dayatma riskine karşı sözleşmenizi 12 aylık TL bazlı yapın.
+* **Yurt İmkanları:**  
+  İlçe merkezindeki özel yurtlar ve Kestel/Mahmutlar'daki KYK yurtlarından dolmuşla 15-20 dakikada kampüse gelinir.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
-* **Tasarım, Gastronomi ve İletişim Odağı:**  
-  Alanya Üniversitesi (eski adıyla Hamdullah Emin Paşa Üniversitesi), butik yapısını koruyarak özellikle belirli yaratıcı alanlarda uzmanlaşmıştır:
-  * **Gastronomi ve Mutfak Sanatları:** Akdeniz mutfağı ve dünya lezzetlerini kapsayan profesyonel endüstriyel mutfak atölyelerine sahiptir. 5 yıldızlı otellerin şefleriyle doğrudan uygulamalı dersler yapılır.
-  * **Sanat ve Tasarım Fakültesi:** Mimarlık, İç Mimarlık ve Çevre Tasarımı, Çizgi Film ve Animasyon ile İletişim Tasarımı bölümleri güçlü atölye imkanlarına sahiptir.
-  * **Mühendislik ve İİBF:** Bilgisayar Mühendisliği ve Turizm İşletmeciliği gibi sektörle doğrudan bağı olan programlar öne çıkar.
-* **Butik Eğitim Avantajı:**  
-  Sınıf mevcutları küçüktür. Öğrenciler profesörlerle birebir proje geliştirme ve doğrudan mentörlük alma şansına sahiptir.
+* **Gastronomi Mutfağı & Kampüs Kafeteryası:**  
+  Üniversitenin Gastronomi ve Mutfak Sanatları bölümü çok aktiftir; profesyonel uygulama mutfakları ve şef atölyeleri kampüsün gastronomik kalitesini yükseltir.
+* **Çevre Lezzet Durakları:**  
+  * Kampüsün hemen bitişiğindeki **Alanyum AVM** içindeki restoranlar, fast-food zincirleri ve kahveciler ders aralarında sıklıkla kullanılır.
+  * Cikcilli ara sokaklarındaki yerel ev yemekçileri ve pide fırınları uygun fiyatlı tabldot alternatifi sunar.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 4. 📚 Akademik & Sektörel Uygulama
 
-* **Kafeterya ve Yemek Alanları:**  
-  Kampüs içinde butik yemekhane ve açık bahçe kafesi yer alır. Gastronomi öğrencilerinin hazırladığı tadım etkinlikleri kampüs yaşamına renk katar. Ayrıca Alanyum AVM ve çevresindeki yüzlerce restoran kampüsün yanı başındadır.
-* **Sosyal Alanlar:**  
-  Açık bahçe oturma alanları, sergi salonları ve tasarım stüdyoları öğrencilerin projelerini sergilediği ortak buluşma noktalarıdır.
-
----
-
-## 5. 🌆 İlçe Dinamikleri ve Sosyal Hayat
-
-* **Şehrin Göbeğinde Öğrencilik:**  
-  Kampüsten çıktığınız anda Alanya'nın tüm kafe, sahil, sinema, spor salonu ve market olanakları ayağınızın altındadır. Şehir merkezindeki İskele caddesi, Kızılkule ve Kale çevresi ders çıkışlarında sosyalleşmek için idealdir.
-* **Staj ve İstihdam:**  
-  Bölgedeki lüks otel zincirleri, mimarlık ve iç mimarlık ofisleri ile reklam ajansları Alanya Üniversitesi öğrencilerine geniş staj kapıları açar.
+* **Mimarlık, Tasarım ve Gastronomi:**  
+  * Sanat, Tasarım ve Mimarlık Fakültesi stüdyoları 24 saat açıktır; maket ve çizim teslim dönemlerinde öğrenciler stüdyolarda sabahlar.
+  * Turizm ve gastronomi öğrencileri için bölgedeki uluslararası zincir otellerde üst düzey staj imkanları sunulur.
+* **Kütüphane:**  
+  Tasarım ve sanat odaklı zengin koleksiyona sahip kütüphane, sınav haftalarında gece geç saatlere kadar açıktır.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 5. ❌ Eksileri ve Kronik Sorunları
 
-### ✅ Artıları
-* **Merkezi Konum (Düz Ayak):** Alanya'nın merkezinde, AVM'ye komşu, sahile yürüme mesafesinde benzersiz bir ulaşım rahatlığı.
-* **Gastronomi ve Mimarlıkta Güçlü Atölyeler:** Profesyonel mutfaklar, çizim stüdyoları ve butik eğitim kalitesi.
-* **Hoca-Öğrenci İletişimi:** Kalabalık devlet amfilerinin aksine hocalarla doğrudan iletişim kurabilme imkanı.
-* **Turizm ve Sektör Entegrasyonu:** Alanya turizm ve inşaat sektörüyle iç içe staj fırsatları.
-* **Deniz ve Sosyal Yaşam:** Hafta içi dersten çıkıp 10 dakikada plaja inebilme ayrıcalığı.
-
-### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
-* **Küçük Kampüs Arazisi:** Geniş yeşil alanlar, dev stadyumlar veya ormanlık koru bekleyenler için kampüs alanı bir bina kompleksi niteliğindedir.
-* **Yüksek Kira ve Yaşam Maliyeti:** Cikcilli ve Alanya merkezde turizm nedeniyle konut kiraları yüksektir.
-* **Vakıf Üniversitesi Ücretleri:** Eğitim ve kampüs içi tüketim maliyetleri devlet okullarına göre daha masraflıdır.
-* **Kış Durgunluğu:** Kış aylarında turizm sezonu bittiğinde sahil şeridinde hareketlilik belirgin biçimde azalır.
+* **Butik Kampüs Ölçeği:**  
+  Devasa yeşil orman arazisi veya stadyumu yoktur; modern binalardan ve avlulardan oluşan kompakt bir şehir üniversitesidir.
+* **Turizm Kenti Maliyetleri:**  
+  Alanya genelindeki kafe ve restoran fiyatları yaz aylarında turizm yoğunluğu sebebiyle yükselebilir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 6. 💡 Altın Tavsiyeler
 
-> 💬 **Öğrenci Notu:**  
-> "Alanya Üniversitesi'ni yazmayı düşünüyorsanız en büyük artınız okulun Alanya'nın tam kalbinde olmasıdır; ALKÜ gibi dağa tırmanmazsınız, ders bitince 10 dakikada denizdesiniz. Mimarlık veya Gastronomi okuyacaksanız atölyeler ve mutfaklar gerçekten çok kalitelidir. Ev tutarken Cikcilli veya Oba'daki 1+1 daireleri bir arkadaşınızla paylaşmak en mantıklı barınma formülüdür!"
+1. **Cikcilli'de Yürüme Mesafesinde Ev Tut:** Ulaşım masrafını sıfırlamak için kampüs etrafındaki siteleri tercih et.
+2. **Keykubat Plajı'nı Değerlendir:** Ders aralarında 15 dakika yürüyüp Akdeniz'in tadını çıkar.
+3. **Sektör İş Birliklerinden Faydalan:** Otel yöneticileri ve şeflerle düzenlenen seminerlere katıl; mezuniyet öncesi iş teklifi al.

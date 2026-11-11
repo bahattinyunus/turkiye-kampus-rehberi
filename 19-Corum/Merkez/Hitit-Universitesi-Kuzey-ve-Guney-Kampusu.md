@@ -2,9 +2,9 @@
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Çorum / Merkez  
-> **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Çevre Yolu Üzeri Ana Kampüs (Kuzey) & Şehir İçi Dağınık Birimler (Güney/Merkez)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.5/5)
+> **Üniversite Türü:** Devlet (Makine ve İmalat Teknolojilerinde İhtisas Üniversitesi)  
+> **Kampüs Konumu:** Çevre Yolu Üzeri Ana Kampüs (Kuzey) & Akkent / Şehir İçi Birimler (Güney/Merkez)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.8/5)
 
 ---
 
@@ -12,93 +12,85 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 4 - 6 km (~15-20 dk) | Saat Kulesi ve Gazi Caddesi'nden belediye otobüsleriyle tek vasıta |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Kuzey Kampüsü bitişiğinde Hayrettin Karaman KYK Kız/Erkek yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.500 - 14.000 TL | Bahçelievler, Buharaevler, Yavruturna ve Ulukavak mahalleleri |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / Orta-İyi | Günde 1-2 öğün, HİTÜ Akıllı Kart rezervasyonlu sistem |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri + Sınav Dönemi Uzatmalı | Kuzey Kampüsü Merkez Kütüphanesi modern ve ferah |
-| **🌐 İnternet (eduroam)** | Orta-İyi | Yeni fakülte binalarında hızlı, eski MYO/Fakülte binalarında kopmalar olabiliyor |
-| **🌆 Sosyal Yaşam & Çevre** | Dengeli / Sakin | AHL Park AVM, Gazi Caddesi kafeleri, Hürriyet Meydanı |
+| **🚇 Şehir Merkezine Uzaklık** | 4 - 6 km (~15-20 dk) | Saat Kulesi ve Gazi Caddesi'nden Kuzey Kampüsü otobüsleriyle tek vasıta |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (Açıkta Kalma Yok) | Kuzey Kampüsü bitişiğinde dev Hayrettin Karaman KYK Kız ve Erkek Yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.500 - 14.500 TL | Bahçelievler, Buharaevler (AHL Park civarı), Yavruturna, Ulukavak |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | HİTÜ Akıllı Kart rezervasyonlu sistem; 4 çeşit sıcak tabldot menü |
+| **📚 Kütüphane Kapasitesi** | Sınav Dönemleri 7/24 Açık | Kuzey Kampüsü Merkez Kütüphanesi (geniş, modern ve ferah çalışma katları) |
+| **🌐 İnternet (eduroam)** | Yeni Binalarda Hızlı | Kuzey Kampüsü amfilerinde güçlü fiber eduroam; eski MYO binalarında değişken |
+| **🌆 Sosyal Yaşam & Çevre** | Sakin & Gelişmekte | AHL Park AVM, Gazi Caddesi kafeleri, Hürriyet Meydanı Saat Kulesi |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Ağı, Bölünmüş Kampüs Gerçeği ve Otobüs Taktikleri
 
-* **Şehir Merkezinden Ulaşım:**  
-  Hitit Üniversitesi uzun yıllar şehir içinde dağınık binalarda hizmet verdikten sonra ana fakültelerini Samsun-Ankara Çevre Yolu üzerindeki **Kuzey Kampüsü**'nde toplamıştır. Şehir merkezinin kalbi olan **Saat Kulesi (Hürriyet Meydanı)** ve **Gazi Caddesi**'nden kalkan Kuzey Kampüsü / Akkent belediye otobüsleriyle 15-20 dakikada kampüse ulaşılır. Tıp Fakültesi öğrencileri ise klinik eğitimlerini otogar karşısındaki **Erol Olçok Eğitim ve Araştırma Hastanesi**'nde alır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Kuzey Kampüsü düz ve hafif eğimli bir arazide kurulu olup İlahiyat, İİBF, Spor Bilimleri, Mühendislik ve Merkez Derslikler birbirine yürüme mesafesindedir (5-10 dk). Güney Kampüsü (Akkent tarafı) ve Meslek Yüksekokulları arasında ise belediye otobüsleri kullanılır.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Belediye otobüslerinde **Çorumkart** geçerlidir. Öğrenci biniş ücreti tam bilete göre yaklaşık %40-45 indirimlidir. Kart dolumları Saat Kulesi gişelerinden, büfelerden ve mobil uygulama üzerinden yapılabilir.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Çorum'un karasal iklimi nedeniyle kış ayları sert, ayazlı ve zaman zaman yoğun kar yağışlı geçer. Kuzey Kampüsü çevre yolu kenarında açık bir arazide yer aldığı için kışın rüzgarı oldukça keskindir; sabah saatlerinde otobüslerde ciddi yoğunluk yaşanır.
+* **Kuzey Kampüsü Ulaşımı (Samsun-Ankara Çevre Yolu Üzeri):**  
+  Hitit Üniversitesi'nin ana yerleşkesi olan **Kuzey Kampüsü** (Mühendislik, İİBF, İlahiyat, Fen-Edebiyat, Spor Bilimleri, Yabancı Diller ve Rektörlük); Samsun-Ankara çevre yolu üzerindedir.  
+  * Şehir merkezindeki **Saat Kulesi (Hürriyet Meydanı)** ve **Gazi Caddesi** duraklarından kalkan Kuzey Kampüsü belediye otobüsleri her 10-15 dakikada bir hareket eder; yolculuk 15-20 dakika sürer.
+  * Sabah 08.15 - 08.45 arasında otobüslerde kalabalık yaşanır; derse vaktinde yetişmek için Saat Kulesi ilk duraklarından binmek koltuk bulma garantisi sağlar.
+* **Akkent (Güney) Kampüsü ve Meslek Yüksekokulları:**  
+  Sosyal Bilimler ve Teknik Bilimler Meslek Yüksekokulları şehrin güney çıkışındaki Akkent bölgesindedir. Kuzey Kampüsü ile Güney Kampüsü arasında belediye hatlarıyla aktarma yapılır.
+* **Tıp Fakültesi ve Sağlık Bilimleri Ulaşımı:**  
+  Tıp ve Sağlık öğrencileri klinik eğitimlerini Çorum Şehirlerarası Otobüs Terminali'nin hemen karşısındaki devasa **Erol Olçok Eğitim ve Araştırma Hastanesi**'nde alırlar; şehir merkezinden hastaneye ulaşım çok sıktır.
+* **Ulaşım Kartı (Çorumkart):**  
+  Belediye otobüslerinde **Çorumkart** geçerlidir ve öğrenci tarifesi çok ekonomiktir. Mobil bakiye yükleme ve temassız kart özellikleri aktiftir.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma Dinamikleri, Yurtlar ve Öğrenci Mahalleleri
 
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** **Hayrettin Karaman KYK Kız Öğrenci Yurdu** (Kuzey Kampüsü'ne yürüme mesafesinde, 3-4 kişilik odalar, baza ve çalışma masalı yeni tip bloklar) ve **Hitit KYK Kız Öğrenci Yurdu** (şehir merkezine ve hastaneye yakın).
-  * **Erkek Yurtları:** **Kerebi Gazi KYK Erkek Öğrenci Yurdu** ve **İskilipli Atıf Hoca KYK Erkek Yurdu**. Yurtların kapasitesi yüksek olduğundan Çorum Merkez'de KYK yedek sıraları hızlı ilerler ve açıkta kalma oranı düşüktür.
-* **Özel Yurtlar ve Apartlar:**  
-  Gazi Caddesi arka sokaklarında, Bahçelievler ve Buharaevler'de 1+0 ve 1+1 eşyalı öğrenci apartları yaygındır. Faturalar dahil paket sunan apartlar özellikle ilk yıl öğrencileri tarafından tercih edilir.
+* **KYK Yurtları (Konum, Oda Düzeni ve Sıra Durumu):**  
+  Çorum'da KYK yurt kapasitesi çok yüksektir ve öğrencilerin büyük çoğunluğuna ilk yerleştirmede yurt çıkar:  
+  * **Hayrettin Karaman KYK Kız ve Erkek Yurdu:** Kuzey Kampüsü'nün hemen nizamiyesinin bitişiğindedir. Kampüs içindeki fakültelere yürümek sadece 3-5 dakikadır. Odalar yeni tip bloklarda 3-4 kişiliktir; baza, çalışma masası, mini buzdolabı ve banyo oda içerisindedir. Otobüs masrafı ve durakta donma derdi yoktur.
+  * **Kerebi Gazi KYK Erkek Yurdu & Hitit KYK Kız Yurdu:** Şehir merkezine ve hastaneye yakın konumda hizmet veren alternatif yurtlardır.
 * **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Bahçelievler & Yavruturna:** Sosyal hayata, kafelere ve otobüs duraklarına en yakın mahallelerdir. Bina yaşları 15-30 yıl arasındadır, doğalgaz kombili daireler yaygındır.
-  * **Buharaevler:** AHL Park AVM'ye yakın, yeni yapılı, asansörlü ve yalıtımlı binaların bulunduğu bölgedir. Tıp ve Diş Hekimliği öğrencileri sıklıkla burayı tercih eder.
-  * **Ulukavak:** Kuzey Kampüsü'ne yakın, kiraların daha ekonomik olduğu mahalledir.
+  * **Bahçelievler & Yavruturna:** Gazi Caddesi'ne ve Saat Kulesi'ne yürüme mesafesinde olan, kafelerin, marketlerin ve dönercilerin yoğun olduğu en popüler öğrenci semtidir. Binaların çoğu kombilidir.
+  * **Buharaevler Mahallesi:** AHL Park AVM'ye yakın, daha yeni yapılı, mantolamalı ve asansörlü güvenlikli sitelerin bulunduğu bölgedir; özellikle Tıp ve Diş Hekimliği öğrencileri tercih eder.
+  * **Ulukavak Mahallesi:** Kuzey Kampüsü'ne en yakın kiralık ev bölgesidir; kiralar Bahçelievler'e göre daha uygundur.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
-
-* **Kütüphane İmkanları:**  
-  Kuzey Kampüsü'nde yer alan Merkez Kütüphane modern mimarisi, grup çalışma salonları ve bireysel çalışma masalarıyla öne çıkar. Vize ve final haftalarında çalışma saatleri gece geç saatlere kadar uzatılır ve sınav dönemlerinde sıcak çorba/çay ikramı yapılır. Şehir merkezinde kalan öğrenciler için Çorum Belediyesi'nin gençlik merkezleri ve İl Halk Kütüphanesi de iyi birer alternatiftir.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  **HÜBTUAM** (Hitit Üniversitesi Bilimsel Teknik Uygulama ve Araştırma Merkezi) bünyesinde gıda, makine, kimya ve malzeme laboratuvarları oldukça donanımlıdır. Mühendislik ve Tıp Fakültesi laboratuvarları güncel cihazlara sahiptir. Kuzey Kampüsü'ndeki amfiler yeni ve ısıtma/projeksiyon açısından sorunsuzdur; ancak şehir içindeki eski binalarda (Fen-Edebiyat/MYO blokları) fiziki şartlar daha mütevazıdır.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Kampüs genelinde `eduroam` ağı aktiftir. Kütüphane ve yeni fakülte binalarında hız tatminkârken, yoğun ders saatlerinde amfilerde bağlantı kopmaları yaşanabilir. HİTÜ Öğrenci Bilgi Sistemi (OBS) ders kayıt dönemlerinde ilk saatlerde yavaşlasa da genel olarak stabildir.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Üniversite bünyesinde 60'tan fazla öğrenci kulübü vardır. Özellikle **TEKNOFEST**, İHA, Savunma Sanayii ve Makine kulüpleri Çorum'un yerli sanayisiyle iş birliği içinde projeler yürütür. Tıp Öğrencileri Birliği (TurkMSIC), Genç Tema ve Müzik kulüpleri sosyal açıdan en aktif topluluklardır.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🍽️ Beslenme, Leblebi Çeşitleri ve İskilip Dolması
 
 * **Merkez Yemekhane:**  
-  Kuzey Kampüsü yemekhanesi ve diğer yerleşke yemekhanelerinde 4 çeşit tabldot yemek verilir. Yemekler HİTÜ kart üzerinden haftalık rezervasyonla veya günlük bakiye ile alınır. Fiyat/performans oranı öğrenci bütçesine uygundur, öğle saatleri 11.45 - 12.30 arasında sıra yoğunluğu yaşanır.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Her fakültenin kendi kantini mevcuttur; tost, poğaça ve çay fiyatları piyasa ortalamasının altındadır. Ancak Kuzey Kampüsü henüz tam anlamıyla "yaşayan bir kampüs çarşısı" (büyük zincir kafeler, geniş marketler) ekosistemine kavuşmamıştır; öğrenciler ders bitiminde sosyalleşmek için doğrudan şehir merkezine (Gazi Caddesi / AHL Park) inerler.
-* **Spor Tesisleri:**  
-  Spor Bilimleri Fakültesi'nin de Kuzey Kampüsü'nde yer alması sayesinde kapalı spor salonu, sentetik çim saha, tenis kortları ve fitness alanları oldukça gelişmiştir.
+  Kuzey Kampüsü Merkez Yemekhanesi'nde 25-30 TL bandında 4 çeşit sıcak menü sunulur. HİTÜ Akıllı Kart ile haftalık veya günlük rezervasyon yapılır. Fiyat/performans tatmin edicidir.
+* **Tarihi Çorum Leblebisi Efsanesi:**  
+  Çorum'da leblebi sıradan bir kuruyemiş değil, bir sanattır. Odun ateşinde bakır tavalarda çifte kavrulmuş sıcak sarı leblebi, tuzlu, karanfilli, susamlı, acılı ve çikolata kaplamalı onlarca çeşidiyle amfilerde ders aralarının değişmez atıştırmalığıdır.
+* **İskilip Dolması ve Çorum Mantısı:**  
+  * **İskilip Dolması (Ca Dolması):** Büyük bakır kazanlarda saatlerce et buharında pişirilen özel pirinç pilavı ve tiftiklenmiş dana etinden oluşan efsanevi yöresel yemektir. Hafta sonu kulüp etkinliklerinde veya yerel lokantalarda keşfedilmesi gereken bir lezzettir.
+  * **Çorum Mantısı ve Kuru Mantı:** Fırınlanmış çıtır kuru mantı üzerine sarımsaklı yoğurt ve kızgın tereyağlı salçalı sos dökülerek tüketilen muazzam bir öğrenci yemeğidir.
+  * Saat Kulesi çevresindeki pideciler ve dönerciler de bütçe dostu doyurucu menüler sunar.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 4. 📚 Akademik Odak: Makine İhtisas Üniversitesi ve Sanayi Gücü
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Çorum esnafı geleneksel Anadolu esnafı profilindedir; genel olarak yardımseverdir. Şehirde güvenlik sorunu düşüktür, düz ayak olduğu için akşam saatlerinde Gazi Caddesi ve Buharaevler aksında yürümek rahattır.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Öğrencilerin buluşma noktası **AHL Park AVM**, **Gazi Caddesi** üzerindeki üçüncü nesil kahveciler ve Bahçelievler ara sokaklarındaki kafelerdir. Gece hayatı ve bar kültürü oldukça sınırlıdır; daha çok kafe, bilardo, masa oyunları ve ev buluşmaları yaygındır. Hafta sonları **Çatak Tabiat Parkı**, **Boğazkale (Hattuşa) Antik Kenti** ve **İncesu Kanyonu** doğa gezileri için tercih edilir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Çorum Organize Sanayi Bölgesi (OSB) makine, döküm, tuğla-kiremit, un ve yem fabrikaları açısından Türkiye'nin önemli üretim merkezlerinden biridir. Mühendislik ve MYO öğrencileri için OSB'de ve **Çorum Teknokent**'te staj ve iş bulma imkanı yüksektir. Hizmet sektöründe ise AVM mağazalarında ve kafelerde part-time çalışma olanakları mevcuttur.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* **Ekonomik Yaşam ve Barınma:** Büyükşehirlerle kıyaslandığında ev kiraları, yemek fiyatları ve şehir içi ulaşım bütçeyi çok yormaz; KYK yurt kapasitesi yüksektir.
-* **Sanayi ve Tıp Altyapısı:** Tıp Fakültesi'nin modern eğitim araştırma hastanesi ve Mühendislik/MYO bölümlerinin Çorum OSB ile kurduğu pratik staj bağı güçlüdür.
-* **Düz Ayak ve Ulaşılabilir Şehir:** Yokuşu olmayan şehir merkezi sayesinde pek çok yere yürüyerek veya tek otobüsle hızlıca ulaşılır.
-
-### ❌ Eksileri
-* **Bölünmüş Kampüs Yapısı:** Kuzey Kampüsü hızla gelişse de bazı birimlerin hâlâ şehir içinde farklı noktalarda olması "tek ve büyük kampüs" ruhunu zayıflatmaktadır.
-* **Sınırlı Gece Hayatı ve Kültür-Sanat:** Büyük konserler, alternatif tiyatrolar ve eğlence mekanları kısıtlıdır; sosyal hayat AVM ve belirli cadde kafeleri etrafında döner.
-* **Sert Kış İklimi:** Kuzey Kampüsü'nün açık arazide olması nedeniyle kış aylarında soğuk ve rüzgar oldukça zorlayıcıdır.
+* **Makine ve İmalat Teknolojilerinde İhtisaslaşan Üniversite:**  
+  Hitit Üniversitesi, YÖK tarafından "Makine ve İmalat Teknolojileri" alanında Türkiye'deki tek **İhtisas Üniversitesi** seçilmiştir. Çorum'un gelişmiş un, yem, kiremit ve değirmen makineleri imalat sanayisi ile üniversitenin Mühendislik Fakültesi tam entegredir; öğrenciler son sınıfta sanayi projelerinde aktif rol alır.
+* **HÜBTUAM (Bilimsel Teknik Uygulama ve Araştırma Merkezi):**  
+  Merkez laboratuvarı bünyesinde gıda analizleri, polimer karakterizasyonu ve ileri malzeme testleri yapılmaktadır.
+* **Kuzey Kampüsü Merkez Kütüphanesi:**  
+  Geniş cam cepheli modern binasında bireysel çalışma locaları ve grup etüt odaları bulunur. Vize ve final dönemlerinde 7/24 açık tutulur; öğrencilere sıcak çay ve çorba ikram edilir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
 
-> 💬 **Öğrenci Notu:**  
-> "Çorum'a gelirken bir Eskişehir veya İzmir gece hayatı beklentisiyle gelmeyin; ancak sakin, ekonomik ve derslerinize/projelerinize odaklanabileceğiniz güvenli bir şehir arıyorsanız doğru yerdesiniz. İlk senenizde Kuzey Kampüsü'ndeki Hayrettin Karaman KYK yurdunda kalıp şehri tanıyın, ikinci sınıfta arkadaşlarınızla Bahçelievler veya Buharaevler'de eve çıkarsanız çok rahat edersiniz."
+* **Parçalı Kampüs Yapısı:**  
+  Kuzey Kampüsü çevre yolundayken, MYO'ların Akkent'te, Tıp Fakültesi'nin hastanede olması üniversite genelinde ortak bir kampüs havası solunmasını zorlaştırır.
+* **Kuzey Kampüsü Çevre Yolu Ayazı ve Rüzgarı:**  
+  Kampüs çevre yolu kenarında açık bir ovada kurulu olduğundan kış aylarında rüzgarı çok serttir. Binalar arasında yürürken iyi giyinmek şarttır.
+* **Cuma Akşamı Memlekete Kaçış Boşluğu:**  
+  Çorum; Ankara (2.5 saat), Samsun (2 saat), Amasya (1 saat) ve Yozgat'a çok yakın olduğu için Cuma günü saat 15.00'ten sonra öğrenciler memleketlerine kaçar. Hafta sonu kampüste hayat tamamen durur.
+* **Gece Sosyal Hayatının Kısıtlılığı:**  
+  Sosyal yaşam ağırlıklı olarak Gazi Caddesi kafeleri ve AHL Park AVM ile sınırlıdır; canlı gece eğlence hayatı arayanlar için seçenekler çok azdır.
+
+---
+
+## 6. 💡 İlk Günden Mezuniyete Altın Tavsiyeler
+
+1. **Kuzey Kampüsü'ndeysen Hayrettin Karaman KYK'yı Seç:** Kampüsün hemen yanındaki bu yurtta kalırsan her gün otobüs beklemekten ve kış soğuğundan kurtulursun.
+2. **Ev Tutacaksan Bahçelievler veya Buharaevler'e Bak:** Şehir hayatından kopmamak ve sosyal alanlara yakın olmak için Saat Kulesi ile AHL Park arasındaki mahalleleri tercih et.
+3. **İhtisas Sanayi Projelerine Dahil Ol:** Makine, malzeme veya elektrik okuyorsan HÜBTUAM ve sanayi odaklı TÜBİTAK projelerinde görev al; mezuniyet sonrası işin hazır olsun.
+4. **Hattuşa ve Alacahöyük Antik Kentlerini Gez:** Kampüse 1 saat mesafedeki Hitit uygarlığının başkenti Hattuşa (UNESCO Dünya Mirası) ve Boğazkale'yi mutlaka keşfet.
+5. **Kış Giysilerini Sağlam Tut:** Çorum'un kış ayazını hafife alma; rüzgar kesici mont ve botunu kış gelmeden hazırla.

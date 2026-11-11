@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Çankırı / Merkez  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Şehir Tepesi Ana Kampüs (Uluyazı Mevki, Merkeze 5 km)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (3.8/5)
+> **Kampüs Konumu:** Şehir Tepesi Ana Kampüs (Uluyazı Mevkii / Merkeze 5 km)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (3.9/5)
 
 ---
 
@@ -12,87 +12,83 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 5 km / ~12 - 15 dk | Kucaklama Taşı ve Çarşı'dan Uluyazı halk otobüsleriyle |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kız ve Erkek KYK Yurtları doğrudan kampüsün içinde! |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.500 - 13.500 TL | Abdülhalik Renda, Buğdaypazarı, Kırkevler ve Cumhuriyet mahalleleri |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 20 - 28 TL / İyi | Merkezi yemekhane, ekonomik ve doyurucu |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri (Sınavda 7/24) | Modern mimarili Merkez Kütüphane |
-| **🌐 İnternet (eduroam)** | İyi | Tüm fakültelerde ve kütüphanede aktif |
-| **🌆 Sosyal Yaşam & Çevre** | Sakin (Ankara Destekli) | Yunus AVM, Kucaklama Taşı kafeleri; 1.5 saatte Ankara |
+| **🚇 Şehir Merkezine Uzaklık** | 5 km / ~12 - 15 dk | Belediye Meydanı, Kucaklama Taşı ve Buğdaypazarı'ndan kalkan Uluyazı halk otobüsleriyle |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (Zirve) | Sabiha Anne Kız KYK, Emir Karatekin Erkek KYK ve Hacı Murad-ı Veli KYK doğrudan kampüs içinde! |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.500 - 13.500 TL | Buğdaypazarı (Yunus AVM çevresi), Abdülhalik Renda ve Kırkevler |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 20 - 28 TL / Dengeli | Merkezi yemekhane, uygun fiyatlı doyurucu 4 çeşit sıcak tabldot |
+| **📚 Kütüphane Kapasitesi** | 7/24 (Vize ve Finalde) | Modern mimarili Merkez Kütüphane; sınav haftasında gece 23:00 çorba ikramı |
+| **🌐 İnternet (eduroam)** | İyi | Fakültelerde, kütüphanede ve çarşı alanında stabil kablosuz ağ |
+| **🌆 Sosyal Yaşam & Çevre** | Sakin & Güvenli / Ankara Destekli | Yunus AVM, Kucaklama Taşı kafeleri; 1.5 saatte Ankara (AŞTİ/Kızılay) |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım, Uluyazı Yokuşu Taktikleri ve Otostop
 
-* **Şehir Merkezinden Ulaşım ve "Uluyazı Yokuşu":**  
-  Uluyazı Merkez Kampüsü, Çankırı şehir merkezinin kuzeydoğusunda, şehre kuşbakışı bakan yüksek bir tepe/plato üzerinde kurulmuştur. Şehir merkezi ile kampüs arası mesafe sadece 5 km'dir ancak aradaki **Uluyazı Yokuşu** oldukça diktir; bu nedenle yürüyerek çıkmak imkansıza yakındır. Şehir merkezinden (Belediye, Kucaklama Taşı, Buğdaypazarı) kalkan **Uluyazı Halk Otobüsleri** 12-15 dakikada kampüs içine ve yurtlar bölgesine çıkar.
-* **Kampüs İçi Ulaşım:**  
-  Kampüs tepedeki düzlük/yamaç alanda toplu şekilde planlanmıştır. KYK yurtları, Merkezi Derslikler, Mühendislik, İİBF, Hukuk, Edebiyat, Fen ve Orman fakülteleri birbirine 5-8 dakikalık yürüme mesafesindedir.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  **Çankart** öğrenci kartı ile halk otobüslerine indirimli binilir.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Uluyazı tepesi kışın Çankırı merkezden birkaç derece daha soğuk ve oldukça rüzgarlıdır. Kar yağışlı günlerde Uluyazı rampası belediye ekiplerince sürekli tuzlanır ve açık tutulur; kampüste KYK yurdunda kalanlar ise otobüs stresi yaşamadan yürüyerek dersine girer.
+* **Şehir Merkezinden Uluyazı Tepesine Ulaşım:**  
+  Uluyazı Merkez Kampüsü, Çankırı şehir merkezine 5 km uzaklıkta, şehre tepeden bakan yüksek bir plato üzerindedir. Kampüs ile şehir arasındaki tek engel **Uluyazı Yokuşu**dur. Bu rampa o kadar dik ve uzundur ki yürüyerek inmek bile dizleri titretir, yürüyerek çıkmak ise imkansıza yakındır.
+  * Ulaşım belediyeye ait **Uluyazı Kampüs Halk Otobüsleri** ile sağlanır. 
+  * *Biniş Taktikleri:* Şehir merkezindeki **Kucaklama Taşı** ve **Belediye Meydanı** ilk kalkış peronlarıdır. Sabah 08:30 dersi için Buğdaypazarı ara duraklarından binmek yerine Kucaklama Taşı'ndan binmek oturma garantisi sunar.
+* **Otostop Noktaları (Uluyazı Rampası Girişi):**  
+  Uluyazı rampasının başladığı kavşak ve Çankırı Devlet Hastanesi önü otostop için en verimli noktalardır. Hem kampüste görevli hocalar hem de idari personel sabahları yukarıya çıkan öğrencileri arabalarına seve seve alır; Çankırı'da öğrenciler arasında dayanışma yüksektir.
+* **Ankara Ulaşımı:**  
+  Çankırı'nın en büyük nimeti başkent Ankara'ya olan 130 km'lik (1.5 saat) mesafesidir. Çankırı Otogarı'ndan AŞTİ ve Etlik yönüne yarım saatte bir otobüs kalkar; Ankara'da ailesi olan öğrenciler cuma akşamı gidip pazartesi sabahı ilk otobüsle derse yetişebilir.
+* **Ulaşım Kartı (Çankart):**  
+  Öğrenci Çankart ile otobüs binişleri çok uygundur; ancak kampüs KYK'da kalan öğrencilerin ulaşım masrafı fiilen sıfırdır.
 
 ---
 
 ## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
 
-* **KYK Yurtları:**  
-  * **Kız ve Erkek Yurtları:** Uluyazı Kampüsü'nün en büyük artısı, yüksek kapasiteli **Çankırı Kız KYK Yurdu / Sabiha Anne Kız Yurdu**, **Emir Karatekin Erkek KYK Yurdu** ve **Hacı Murad-ı Veli KYK Yurdu** bloklarının doğrudan kampüs sınırları içerisinde yer almasıdır. Başvuran öğrencilerin neredeyse tamamına ilk tercihte KYK yurdu çıkar.
-* **Özel Yurtlar ve Apartlar:**  
-  Şehir merkezinde Kucaklama Taşı, Cumhuriyet Mahallesi ve Abdülhalik Renda bölgesinde özel öğrenci apartları mevcuttur.
+* **KYK Yurtları ve Kampüs İçi Yaşam Avantajı:**  
+  Çankırı Karatekin Üniversitesi, Türkiye'de KYK yurt konforunun en yüksek olduğu yerlerden biridir. Çünkü yurtların neredeyse tamamı kampüsün içindedir:
+  * **Sabiha Anne Kız KYK Yurdu:** Kampüs arazisinin hemen kalbinde yer alır. 3 ve 4 kişilik bazalı, çalışma masalı odalardan oluşur. Banyo ve tuvalet oda içindedir. Kışın ısıtması çok kuvvetlidir. Derse yetişmek için yataktan 10 dakika önce kalkmak yeterlidir.
+  * **Emir Karatekin Erkek KYK Yurdu & Hacı Murad-ı Veli KYK:** Kampüs içinde geniş spor sahaları ve bahçesi olan bloklardır. Açıkta kalma ihtimali neredeyse sıfırdır; başvuran erkek öğrencilerin tamamı yerleşir.
 * **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Ev tutmak isteyen öğrenciler yeni binaların, kafelerin ve **Yunus AVM**'nin bulunduğu **Buğdaypazarı** ile **Abdülhalik Renda** mahallelerini tercih eder. Kiralar (8.500 - 13.500 TL) Ankara ve büyükşehirlere göre çok ekonomiktir.
+  Şehir merkezinde ev tutmak isteyen öğrenciler:
+  * **Buğdaypazarı Mahallesi (Yunus AVM Çevresi):** Şehrin en modern binalarının, kafelerinin ve marketlerinin olduğu bölgedir (9.500 - 13.500 TL).
+  * **Abdülhalik Renda Mahallesi:** Düz ayak, tren istasyonuna ve kampüs otobüsü duraklarına yakın sakin bir bölgedir (8.500 - 12.000 TL).
+  * **Kırkevler:** Daha geniş ve bütçe dostu 3+1 dairelerin bulunduğu aile/öğrenci karma mahallesidir.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 3. 🍽️ Beslenme, Yâran Kültürü ve Sokak Lezzetleri
 
-* **Kütüphane İmkanları:**  
-  Kampüsün merkezinde yer alan **ÇAKÜ Merkez Kütüphanesi**, geniş çalışma salonları, bilgisayar laboratuvarları ve ferah mimarisiyle sınav haftalarında 7/24 açıktır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Son 10 yılda tamamlanan modern fakülte binalarında **Hukuk Fakültesi**, **Diş Hekimliği Fakültesi**, **Mühendislik Fakültesi** (Bilgisayar, Elektrik-Elektronik, Makine, Gıda, Kimya, İnşaat), **Orman Fakültesi**, **İİBF** ve **Edebiyat/Fen** fakülteleri eğitim verir. Amfiler, kurgusal duruşma salonu ve merkezi araştırma laboratuvarları yeni ve bakımlıdır.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  eduroam tüm binalarda sorunsuz çalışır. Ayrıca ÇAKÜ, Erasmus+ uluslararası öğrenci/akademisyen değişim projelerinde Türkiye'nin en yüksek bütçeli ve en aktif genç üniversitelerinden biridir.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Hukuk, Bilişim, Dağcılık ve Kış Sporları (Ilgaz), Tiyatro, Müzik ve Genç Kızılay toplulukları aktiftir.
+* **Merkezi Yemekhane:**  
+  Uluyazı Kampüsü'ndeki iki katlı modern yemekhanede öğle saatlerinde 20-28 TL bandında 4 çeşit sıcak menü verilir. Yemekler doyurucudur ve kış günlerinde sıcak çorbalar vazgeçilmezdir.
+* **Çankırı Kaya Tuzu ve Gastronomi:**  
+  Dünyaca ünlü Çankırı kaya tuzuyla hazırlanan yerel lezzetler oldukça meşhurdur. Çarşıdaki tarihi güveç fırınlarında pişirilen **Yâran Güveci**, taş fırın **Çankırı Pidesi** ve sarımsaklı etli ekmek sınav dönemlerinde öğrencilerin ziyafet menüleridir.
+* **Kafeler ve Buluşma Noktaları:**  
+  Şehir merkezindeki **Yunus AVM** yemek katı ve **Kucaklama Taşı** boyunca sıralanan üçüncü nesil kahveciler ders sonrası sohbetlerin adresidir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 4. 📚 Akademik Altyapı, Erasmus Gücü ve Kütüphane
 
-* **Merkez Yemekhane:**  
-  Kampüs merkez yemekhanesinde 20-28 TL bandında 4 çeşit sıcak yemek çıkar.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içinde öğrenci çarşısı, kafeteryalar, market, kırtasiye ve ATM'ler mevcuttur.
-* **Spor Tesisleri:**  
-  Kapalı spor salonu, halı sahalar, tenis kortları ve fitness salonu kampüs içinde yer alır.
-
----
-
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
-
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Çankırı geleneksel, vatansever ve sakin bir İç Anadolu şehridir; asayiş sorunu yoktur ve halk öğrenciye karşı yardımseverdir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Şehir merkezinde **Kucaklama Taşı**, **Atatürk Bulvarı**, **Yunus AVM** çevresindeki öğrenci kafeleri, **Recep Tayyip Erdoğan Parkı** ve dünyanın en ilginç mekanlarından biri olan **Yeraltı Tuz Şehri (Tuz Mağarası - içinde kütüphane, kafe ve sanat galerileri vardır)** öne çıkar. Kışın **Ilgaz Dağı Kayak Merkezi**'ne gitmek ve hafta sonları **1.5 saatte Ankara Kızılay/Bahçelievler**'e geçmek çok yaygındır.
+* **Fakültelerin Karakteristiği ve Barajlar:**  
+  * **Hukuk Fakültesi:** Kurgusal duruşma salonu ve zengin hukuk kütüphanesiyle genç kadrosuna rağmen iddialıdır; vize/final sınavlarında klasik sınav sistemi ve baraj notları ciddiyetle uygulanır.
+  * **Diş Hekimliği Fakültesi:** Yeni nesil fantom laboratuvarları ve preklinik derslikleri son derece moderndir.
+  * **Orman ve Mühendislik Fakülteleri:** Ilgaz Dağı ekosistemi ve sanayi ortaklıklarıyla saha araştırmaları yürütülür.
+* **ÇAKÜ'nün Gizli Silahı: Muazzam Erasmus+ Kontenjanları:**  
+  Çankırı Karatekin Üniversitesi, Türkiye genelinde öğrenci başına düşen **Erasmus+ hibe bütçesinde** ilk sıralardadır. Birçok büyük üniversitede yüzlerce kişiyle yarışmak gerekirken, ÇAKÜ'de dil sınavını geçen öğrencilerin çok büyük bir kısmı Avrupa'daki (Polonya, İtalya, Portekiz, İspanya, Çekya vb.) üniversitelere 1-2 dönem hibe destekli gidebilmektedir.
+* **Kütüphanede Gece Çorbası:**  
+  Merkez Kütüphane sınav haftalarında 7/24 hizmet verir; gece **23:00**'te dağıtılan sıcak mercimek çorbası kütüphane önünde samimi bir mola yaratır.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
 
-### ✅ Artıları
-* Kız ve erkek KYK yurtlarının doğrudan kampüs içinde yer alması ve yurt çıkma oranının çok yüksek olması.
-* Ankara'ya sadece 1.5 saat mesafede olması ve çok ekonomik yaşam/barınma maliyeti.
-* Erasmus+ yurt dışı öğrenci değişimi olanaklarının çok geniş olması ve yeni fakülte binaları.
-
-### ❌ Eksileri
-* Uluyazı Kampüsü'nün dik bir tepede yer alması, kış aylarında sert rüzgarı ve soğuğu.
-* Çankırı şehir merkezinin küçük olması ve gece hayatı/eğlence çeşitliliğinin kısıtlı kalması.
+* **Uluyazı Tepesinin Dondurucu Rüzgarı ve Ayazı:**  
+  Kampüs çıplak bir tepe üzerinde olduğu için kış aylarında rüzgar hiç durmaz. Şehir merkezinde hava sakinken Uluyazı'da yürümek yüzü dondurabilir; rüzgar geçirmez kapüşonlu kaban ve boyunluk olmadan dışarı çıkılmamalıdır.
+* **Akşam 19:00'dan Sonra Kampüsün Sessizliğe Gömülmesi:**  
+  Dersler bittikten ve personel ayrıldıktan sonra Uluyazı tamamen ıssızlaşır. Sosyal hayat sadece KYK yurtlarının kantinleri ve çalışma odalarıyla sınırlı kalır.
+* **Taşra Sıkıntısı ve Sosyal Mekan Darlığı:**  
+  Büyükşehirlerin sınırsız eğlence hayatına alışkın olanlar için Çankırı'nın küçük çarşısı ve tek AVM'si bir süre sonra dar gelebilir; bu boşluğu doldurmak için hafta sonları Ankara'ya gitmek şart olur.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 6. 💡 Çankırı Öğrencisine Altın Tavsiyeler
 
-> 💬 **Öğrenci Notu:**  
-> "Çankırı Karatekin Üniversitesi'ni kazandıysan hiç düşünmeden Uluyazı Kampüsü içindeki KYK yurtlarına başvur; derse yürüyerek gitmenin rahatlığı paha biçilemez. Ayrıca ÇAKÜ'nün Erasmus kontenjanları çok yüksektir; yabancı dil sınavına girip 1 dönem Avrupa'ya gitme fırsatını kesinlikle değerlendir!"
+1. **Erasmus Fırsatını Kaçırma:** Üniversiteye başlar başlamaz Dış İlişkiler Ofisi'nin Erasmus sınav tarihlerini takvime not edin; ÇAKÜ'den Avrupa'ya gitmek büyükşehirlere göre 5 kat daha kolaydır!
+2. **Kampüs KYK Yurtlarında Kal:** Asla merkezde gereksiz masrafla ev tutmaya kalkmayın; Uluyazı içindeki Sabiha Anne veya Emir Karatekin yurtlarında kalarak yol stresini sıfırlayın.
+3. **Ilgaz Dağı ve Yeraltı Tuz Şehri:** Kışın Ilgaz Dağı Kayak Merkezi'ne düzenlenen günübirlik kayak turlarını ve yerin 150 metre altındaki devasa Tuz Mağarası'nı mutlaka ziyaret edin.
+4. **Ankara Kartı Edin:** Ankara EGO kartınızı cüzdanınızda hazır tutun; cuma akşamından Ankara'ya geçip tiyatro, konser ve festival enerjisi depolayıp dönün.

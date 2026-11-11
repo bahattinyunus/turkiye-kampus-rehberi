@@ -1,10 +1,10 @@
 # 🏛️ Şırnak Üniversitesi - Mehmet Emin Acar Merkez Kampüsü
 
 > **Son Güncelleme:** Kasım 2026  
-> **İl / İlçe:** Şırnak / Merkez  
+> **İl / İlçe:** Şırnak / Merkez (İkizce Mevkii / Cizre Yolu)  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Şehir Dışı Ana Kampüs (Yeni Mahalle / Cizre Yolu Üzeri - Merkeze ~6 km)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.5/5)
+> **Kampüs Konumu:** Şehir Dışı Ana Kampüs (Cudi Dağı Eteği - Şırnak Merkeze ~10 km, Cizre'ye ~35 km)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.6/5)
 
 ---
 
@@ -12,91 +12,93 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 6 km / ~12-15 dk | Cizre yolu üzerinden geçen belediye otobüsleri ve minibüsler |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs sınırları içinde / yürüme mesafesinde kız ve erkek KYK yurtları |
+| **🚇 Şehir Merkezine Uzaklık** | 10 km / ~12-15 dk | Cizre yolu üzerinden geçen Şırnak-Cizre minibüsleri ve belediye otobüsleri |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (%95+ Yerleşme) | Kampüs sınırları içinde Cezeri KYK Erkek, Cudi KYK Kız ve Şırnak KYK |
 | **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.500 - 13.500 TL | Yeni Mahalle, Bahçelievler ve Merkez TOKİ konutları |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / Orta-İyi | Günde 1 öğün (öğle, KYK'da sabah/akşam), sıra az, doyurucu |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri (Sınavda Uzatmalı) | Modern bina, sakin çalışma ortamı, sınav haftaları dahi yer bulunur |
-| **🌐 İnternet (eduroam)** | Orta - İyi | Fakülte binalarında ve kütüphanede stabil, açık alanlarda kısmi |
-| **🌆 Sosyal Yaşam & Çevre** | Kısıtlı / Kampüs Odaklı | Kampüs içi spor tesisleri ve topluluklar aktif, şehir merkezi sakin |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / Orta-İyi | Günde 2 öğün sıcak tabldot; sıra beklemeden hızlı servis |
+| **📚 Kütüphane Kapasitesi** | Mesai Saatleri (Sınavda Uzatmalı) | Modern mimarili Merkez Kütüphane; sakin, sıcak ve prizli çalışma salonları |
+| **🌐 İnternet (eduroam)** | Hızlı | Fakülte binalarında, kütüphanede ve yaşam merkezinde stabil eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | Kampüs İçi & Cizre Odaklı | Kampüs içi spor kompleksi aktif; sosyal hayat için 35 dk'da Cizre'ye inilir |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚇 Ulaşım Ağı ve Hayat Kurtaran Taktikler
 
-* **Şehir Merkezinden Ulaşım:**  
-  Mehmet Emin Acar Kampüsü, Şırnak-Cizre karayolu üzerinde şehir merkezine yaklaşık 6 km uzaklıkta konumlanmıştır. Şırnak Merkez çarşıdan (Ömer Kabak Meydanı ve Cumhuriyet Meydanı çevresinden) kalkan belediye otobüsleri ve kampüs minibüsleri doğrudan yerleşke girişine ve fakülteler önüne kadar gelmektedir. Ayrıca Cizre'den günübirlik gidip gelen öğrenciler için Cizre-Şırnak arası çalışan minibüsler kampüs kapısının hemen önünden geçmektedir.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Kampüs toplu ve planlı bir mimariye sahiptir. İlahiyat Fakültesi, Mühendislik Fakültesi, İktisadi ve İdari Bilimler Fakültesi, Sağlık Bilimleri Fakültesi, Ziraat Fakültesi ve Şırnak MYO binaları birbirine yürüme mesafesinde (5-10 dakika) yer alır. Kampüs hafif eğimli bir arazide kurulu olsa da bina araları yaya yollarıyla birbirine bağlıdır.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Şırnak Belediyesi otobüslerinde ve şehir içi minibüslerde indirimli öğrenci tarifesi uygulanır. Tek biniş ücreti 15-20 TL bandındadır. KYK yurtları kampüsün hemen içinde/bitişiğinde olduğundan yurtta kalan öğrencilerin günlük ulaşım maliyeti yoktur.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Şırnak Merkez yaklaşık 1.350 metre rakıma sahip dağlık bir coğrafyada yer alır. Bu nedenle kış ayları (Aralık-Mart) oldukça soğuk ve kar yağışlı geçer. Cizre'nin ılıman havasının aksine Merkez Kampüs'te kışın yoğun kar ve sis görülebilir; ancak ana karayolu üzerinde olduğu için yollar sürekli açık tutulur.
+* **İkizce Mevkii ve Şırnak-Cizre Karayolu Hattı:**  
+  Mehmet Emin Acar Kampüsü, Şırnak ile Cizre'yi birbirine bağlayan bölünmüş ana karayolu üzerinde, **İkizce mevkisinde** ve heybetli **Cudi Dağı**'nın eteklerinde kuruludur.
+  * Şırnak Merkez (Cumhuriyet Meydanı ve Ömer Kabak Meydanı) kalkışlı kampüs minibüsleri ve belediye otobüsleriyle yaklaşık 10-12 dakikada kampüs kapısına ulaşılır (öğrenci binişi ~15 - 18 TL).
+  * **Cizre Minibüsleri Avantajı:** Kampüs nizamiyesi tam Cizre-Şırnak anayolu üzerinde olduğu için, gün boyu her 10 dakikada bir geçen Cizre minibüslerine el kaldırarak **35 dakikada Cizre merkezine** ve Dicle Nehri kıyısına inilebilir.
+* **Şırnak Şerafettin Elçi Havalimanı Transferi:**  
+  Cizre ile İdil arasında yer alan Şerafettin Elçi Havalimanı'na İstanbul ve Ankara'dan her gün düzenli uçuşlar vardır. Havalimanı servis otobüsleri ve taksiler kampüs önünden geçer; kampüse ulaşım yaklaşık **45 dakika** sürer.
+* **Cudi Dağı Ayazı ve Kış Şartları:**  
+  Şırnak Merkez yaklaşık 1.350 metre rakımda yer alırken kampüs de yüksek bir tepe düzlüğündedir. Kış aylarında Cudi yamaçlarından inen dondurucu rüzgar ve kar yağışı kampüs içinde hissedilir. Sıcak Cizre havasına aldanmayıp kalın rüzgarlık ve mont bulundurmak gerekir.
 
 ---
 
 ## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
 
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** Kampüs yerleşkesiyle entegre konumda bulunan **Şırnak KYK Kız Öğrenci Yurdu**, modern odaları (genellikle 3-4 kişilik, çalışma masalı, banyo-tuvalet oda içinde) ile öğrencilere güvenli ve fakültelere yürüyerek 5 dakikada ulaşabilecekleri bir barınma imkanı sunar.
-  * **Erkek Yurtları:** Yine kampüs alanında yer alan **Cezeri KYK Erkek Öğrenci Yurdu**, yeni nesil yurt standartlarında olup yemekhane, etüt odası ve spor alanlarıyla öğrencilerin tüm temel ihtiyaçlarını kampüsten çıkmadan karşılamasını sağlar.
-* **Özel Yurtlar ve Apartlar:**  
-  KYK yurt kapasitesinin yüksekliği nedeniyle Şırnak Merkez'de özel yurt sektörü çok geniş değildir; ancak şehir merkezinde memur ve öğrencilere hitap eden 1+1 eşyalı daireler ve apart tarzı yeni binalar mevcuttur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Ev tutmak isteyen öğrenciler çoğunlukla **Yeni Mahalle**, **Bahçelievler Mahallesi** ve **Gündoğdu / TOKİ** bölgelerini tercih eder. Şırnak Merkez'deki binaların büyük çoğunluğu son 8-10 yıl içinde yeniden inşa edildiği için deprem yönetmeliğine uygun, ısı yalıtımlı ve merkezi/doğalgaz ısıtmalıdır. Ev kiraları 2+1 ve 3+1 dairelerde 8.500 TL ile 13.500 TL arasında değişmektedir.
+* **KYK Yurtları (Kampüs İçi Yaşamın Kalbi):**  
+  Şırnak Üniversitesi'nde öğrencilerin en büyük avantajı kampüs içi yurt olanaklarıdır:
+  * **Cezeri KYK Erkek Öğrenci Yurdu:** Kampüs sınırlarının içinde, modern bloklardan oluşan yüksek kapasiteli bir yurttur. Odalar 3-4 kişilik, bazalı, çalışma masalı ve banyo-tuvalet oda içerisindedir.
+  * **Cudi KYK Kız Öğrenci Yurdu & Şırnak KYK Kız Yurdu:** Kampüs yerleşkesiyle entegredir; kız öğrenciler hiçbir taşıt kullanmadan yürüyerek 3 dakikada fakültelerine girer.
+  * **Çamaşırhane & Güvenlik:** Yurtlarda çamaşırhaneler ücretsizdir; hafta sonları yoğunluk yaşanabileceğinden çamaşırları hafta içi gündüz saatlerinde yıkamak önerilir.
+  * **23:00 Turnike ve Parmak İzi Katılığı:** Turnikeler 23:00'te kapanır. Cizre'ye kafeye giden öğrencilerin en geç 22:00 minibüsüne binmesi gerekir.
+* **Şehir Merkezindeki Evler ve Mahalleler:**  
+  Şehir merkezinde ev tutmak isteyen öğrenciler **Yeni Mahalle**, **Bahçelievler** ve **TOKİ Konutları** çevresini tercih eder. Şırnak'taki binaların tamamına yakını son yıllarda sıfırdan yapıldığı için yeni, asansörlü ve ısı yalıtımlıdır. Kiralar 8.500 - 13.500 TL bandındadır.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 3. 🎓 Akademik Profil, Gabar Petrolü ve Kütüphane
 
-* **Kütüphane İmkanları:**  
-  Merkez Kütüphane, geniş pencereli ferah okuma salonları, bireysel çalışma masaları ve bilgisayar laboratuvarıyla kampüsün en sevilen noktalarından biridir. Öğrenci sayısının butik olması sayesinde vize ve final haftalarında bile yer bulma krizi yaşanmaz.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Genç bir üniversite olmasının avantajıyla tüm fakülte binaları yenidir. Mühendislik (Bilgisayar, İnşaat, Enerji Sistemleri, Maden), Ziraat ve Sağlık Bilimleri fakültelerindeki laboratuvarlar modern cihazlarla donatılmıştır. Amfilerde projeksiyon, akıllı tahta ve merkezi ısıtma/soğutma sistemleri sorunsuz çalışmaktadır.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Fakülte binaları, kütüphane ve idari birimlerde **eduroam** kablosuz internet ağı kesintisiz hizmet verir. Üniversitenin Öğrenci Bilgi Sistemi (OBS) ve uzaktan eğitim altyapısı sınav dönemlerinde stabil çalışmaktadır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Üniversite bünyesinde Genç Kızılay, Genç Yeşilay, Doğa Sporları ve Dağcılık, Müzik ve Sanat, Bilişim ve Teknoloji gibi 30'dan fazla öğrenci kulübü vardır. Özellikle bahar aylarında düzenlenen kültür-sanat etkinlikleri, Cudi Dağı doğa yürüyüşleri ve kampüs içi voleybol/futbol turnuvaları sosyal hayatı canlandırır.
+* **Mühendislik, Maden ve Gabar Petrol Sahaları:**  
+  Mühendislik Fakültesi bünyesindeki Maden Mühendisliği ve Enerji Sistemleri programları, bölgedeki devasa Gabar petrol rezervleri, asfaltit ve kömür yatakları sayesinde sahada zengin staj ve uygulama olanaklarına sahiptir.
+* **İlahiyat Fakültesi'nin Güçlü Mirası:**  
+  Bölgenin köklü medrese ve ilim geleneği İlahiyat Fakültesi'nde güçlü bir akademik kadroyla buluşmuştur; Arapça hazırlık ve temel İslam bilimlerinde iddialıdır.
+* **Merkez Kütüphane Konforu:**  
+  Kampüs merkezindeki kütüphane, Cudi Dağı manzaralı çalışma salonlarıyla sessiz ve ferahtır. Sınav dönemlerinde saatleri uzatılır; priz ve internet sıkıntısı yaşanmaz.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 4. 🍽️ Beslenme ve Yöresel Şırnak Lezzetleri
 
 * **Merkez Yemekhane:**  
-  Merkez öğrenci yemekhanesinde hafta içi her gün öğle saatlerinde 4 çeşit sıcak yemek (çorba, ana yemek, pilav/makarna, tatlı/salata/ayran) 25 - 30 TL gibi oldukça ekonomik bir ücretle sunulur. Öğrenci yoğunluğu aşırı olmadığı için yemekhane sıraları hızlı ilerler.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Her fakültenin kendi kantini mevcuttur ve tost, poğaça, çay, kahve fiyatları piyasa ortalamasının altındadır. Kampüs içerisinde sosyal tesis, kafeterya, kırtasiye/fotokopi noktası ve PTT/banka ATM'leri yer almaktadır.
-* **Spor Tesisleri:**  
-  Mehmet Emin Acar Kampüsü spor altyapısı bakımından zengindir. Kapalı spor salonu, yarı olimpik yüzme havuzu, fitness salonu, açık basketbol/voleybol sahaları, tenis kortu ve sentetik çim yüzeyli futbol sahası öğrencilerin kullanımına açıktır.
+  Hafta içi 25 - 30 TL'ye 4 çeşit sıcak yemek sunulur. Kalorisi yüksek ve doyurucu menüler çıkar.
+* **Şırnak Perde Pilavı:**  
+  Özel fes şeklindeki bakır tencerelerde pişen, keklik veya tavuk eti, badem, çam fıstığı ve baharatlarla harmanlanmış pilavın ince hamur kılıfı içinde fırınlanmasıyla yapılır. Dışı nar gibi kızarmış çıtır hamur, içi dumanı üstünde aromatik bir lezzettir.
+* **Suryaz Yemeği:**  
+  İlkbaharda Cudi ve Gabar dağlarının yüksek yaylalarından toplanan şifalı **suryaz otu**nun kavrulup çökelek veya etle pişirilmesiyle yapılan yöresel yemektir.
+* **Kutlık (İçli Köfte) & Helise:**  
+  İnce bulgur kabuğunun içine kıyma ve baharat doldurularak haşlanan Kutlık ve et ile buğdayın saatlerce dövülerek pişirildiği Helise öğrencilerin ziyafet yemekleridir.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 5. 🌆 Sosyal Yaşam, Spor ve Cizre Kaçışları
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Şırnak halkı misafirperver ve öğrencilere karşı yardımseverdir. Esnaf öğrencilere kolaylık sağlar. Kampüs alanı 7/24 özel güvenlik ve kamera sistemleriyle korunduğundan kampüs içi yaşam son derece güvenlidir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Şırnak Merkez'de sosyal yaşam yeni açılan modern kafeler, pastaneler, Gençlik ve Spor İl Müdürlüğü'ne bağlı Gençlik Merkezi ile sınırlıdır. Ancak hafta sonları öğrenciler 35-40 dakika uzaklıktaki **Cizre**'ye inerek Dicle Nehri kenarındaki tesislere, Mem û Zîn Türbesi'ne, Kırmızı Medrese'ye ve Cizre'nin hareketli çarşı/kafe kültürüne katılmaktadır.
-* **Part-Time İş ve Staj Olanakları:**  
-  Şırnak Üniversitesi her akademik yıl başında kütüphane, spor tesisleri, laboratuvarlar ve idari birimlerde çalışmak üzere çok sayıda **Kısmi Zamanlı (Part-Time)** öğrenci istihdam eder. Ayrıca bölgedeki enerji, madencilik (petrol ve kömür sahaları) ve gümrük/lojistik faaliyetleri ilgili bölüm öğrencileri için önemli staj kapıları aralar.
+* **Kampüs İçi Spor Kompleksi:**  
+  Kampüste yarı olimpik kapalı yüzme havuzu, kapalı spor salonu, halı sahalar, tenis kortları ve fitness merkezi bulunur; ders dışı vakitlerin büyük kısmı burada spor yaparak geçer.
+* **Cizre'ye Sosyal Kaçış (35 Dakika):**  
+  Şırnak Merkez sosyal imkanlar açısından butik ve sakindir. Bu yüzden öğrenciler hafta sonları 35 dakikada **Cizre**'ye iner. Dicle Nehri kıyısındaki modern kafeler, tarihi Kırmızı Medrese, Mem û Zîn Türbesi, Ulu Cami ve canlı Cizre çarşısı öğrencilerin ana sosyalleşme merkezidir.
+* **Kasrik Boğazı ve Doğa:**  
+  Şırnak ile Cizre arasındaki Kasrik Boğazı, kayalara oyulmuş tarihi kabartmaları ve nehir kenarı piknik alanlarıyla bahar aylarında öğrencilerin en popüler doğa kaçamağıdır.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* **Kompakt ve Her Şey Dahil Kampüs:** KYK yurtları, fakülteler, yemekhane, kütüphane ve spor salonunun aynı yerleşke içinde yürüme mesafesinde olması.
-* **Düşük Yaşam Maliyeti ve Yüksek Yurt Kapasitesi:** Yurt çıkmama stresinin olmaması ve yeme-içme/barınma giderlerinin büyükşehirlere kıyasla çok ekonomik olması.
-* **Butik Eğitim Avantajı:** Akademisyenlerle birebir iletişim kurabilme, laboratuvar ve kütüphaneden sıra beklemeden yararlanabilme.
+* **Kampüs İçi Entegre Yaşam:** KYK yurtlarının, dersliklerin, havuzun ve kütüphanenin yan yana olması; sıfır yol masrafı.
+* **Garantili Barınma:** Yurt çıkmama riskinin neredeyse olmaması ve yeni binalarda konforlu konaklama.
+* **Bölgesel Staj Fırsatları:** Enerji, madencilik, petrol sahaları ve gümrük sektöründe pratik yapabilme.
+* **Ekonomik Yaşam:** Büyükşehirlere göre giderlerin çok düşük kalması.
 
-### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
-* **Sınırlı Gece ve Eğlence Hayatı:** Şehir merkezinde büyük AVM'ler, zincir eğlence mekanları veya geniş çaplı konser/tiyatro sahnelerinin bulunmaması.
-* **Kış İklimi:** Şırnak Merkez'in yüksek rakımı nedeniyle kış aylarının soğuk, rüzgarlı ve karlı geçmesi.
-* **Ulaşım Mesafesi:** Batı illerinden karayoluyla ulaşımın uzun sürmesi (Şerafettin Elçi Havalimanı bu dezavantajı uçak kullananlar için büyük ölçüde telafi etmektedir).
+### ❌ Eksileri ve Kronik Sorunları
+* **Kampüsün Şehir Dışında Oluşu:** İkizce mevkiinde açık arazide kurulu kampüsün etrafında yerleşim bulunmaması; akşamları kampüs dışının ıssız olması.
+* **Şırnak Merkez'in Kısıtlı Sosyal Hayatı:** Şehir merkezinde sinema, AVM ve eğlence mekanlarının bulunmaması; sosyal hayat için Cizre'ye gitme ihtiyacı.
+* **Cudi Eteği Rüzgarı:** Kışın ve erken baharda kampüs alanında sert esen ayaz ve rüzgar.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Şırnak Üniversitesi'ne gelirken büyükşehir beklentisiyle değil, 'kendi yağında kavrulup hem dersime odaklanırım hem de yakın bir arkadaş grubuyla güzel anılar biriktiririm' düşüncesiyle gelin. Kampüs içindeki KYK yurtları ve spor tesisleri gerçekten yeni ve konforlu; kışlık kalın montunuzu yanınıza almayı unutmayın, hafta sonları da mutlaka Cizre'ye inip Dicle kenarında çay için."
+> "Şırnak Üniversitesi'ne gelirken ön yargılarını bir kenara bırak; kampüs sıfırdan yapılmış modern bir vaha gibidir. Kesinlikle kampüs içindeki Cezeri veya Cudi KYK yurtlarında kal; sabah 5 dakikada yürüyerek derse girersin. Canın nehir kenarında kahve içmek veya çarşıda gezmek istediğinde kampüs önünden dolmuşa atla, 35 dakikada Cizre'desin! Kış için sağlam bir rüzgarlık almayı da unutma."

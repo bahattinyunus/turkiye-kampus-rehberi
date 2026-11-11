@@ -2,10 +2,10 @@
 
 > **Son Güncelleme:** Kasım 2026  
 > **Bölge:** Doğu Anadolu (Yukarı Fırat Bölümü)  
-> **Öğrenci Nüfusu:** ~10.000+  
-> **Genel Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.3/5)
+> **Öğrenci Nüfusu:** ~10.500+  
+> **Genel Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.4/5)
 
-Doğu Anadolu'nun zümrüt kenti **Tunceli**; Munzur Vadisi Milli Parkı, buz gibi berrak Munzur Çayı, dünyaca ünlü rafting parkurları, Türkiye'nin **suç oranı en düşük ve okuma-yazma oranı en yüksek kenti** olma unvanıyla son derece özgün bir üniversite şehridir. 2008 yılında kurulan **Munzur Üniversitesi**, Uzunçayır Baraj Gölü kıyısındaki modern **Aktuluk Merkez Kampüsü** ve ilçe meslek yüksekokullarıyla doğayla iç içe, huzurlu ve emniyetli bir akademik yaşam sunar.
+Doğu Anadolu'nun doğa harikası **Tunceli**; Munzur Vadisi Milli Parkı, buz gibi berrak Munzur Çayı, rafting parkurları, Türkiye'nin **suç oranı en düşük ve eğitim seviyesi en yüksek ili** olma unvanıyla Türkiye'nin en özgün ve huzurlu öğrenci şehirlerinden biridir. 2008 yılında kurulan **Munzur Üniversitesi**, Uzunçayır Baraj Gölü kıyısındaki modern **Aktuluk Merkez Kampüsü** ve ilçe meslek yüksekokullarıyla doğayla iç içe, güvenli ve samimi bir akademik yaşam sunar.
 
 ---
 
@@ -20,25 +20,34 @@ Doğu Anadolu'nun zümrüt kenti **Tunceli**; Munzur Vadisi Milli Parkı, buz gi
 
 ---
 
-## 🚇 Ulaşım Rehberi: Minibüsler, Havalimanı Erişimi ve Pertek Feribotu
+## 🚇 Ulaşım Rehberi: Aktuluk Minibüsleri ve Pertek Feribot Entegrasyonu
 
-* **Şehir İçi & Kampüs Ulaşımı:** Şehir merkezi (Moğultay Mahallesi / Sanat Sokağı) ve Atatürk Mahallesi'nden Aktuluk Yerleşkesi'ne (9 km) her 10-15 dakikada bir belediye otobüsleri ve özel halk minibüsleri kalkar (yolculuk ~12-15 dakika).
-* **Şehirlerarası Ulaşım ve Havalimanları:** Tunceli'de aktif havalimanı bulunmadığından havayolu yolculukları için **Elazığ Havalimanı** (~85-90 km, Pertek Feribotu veya karayoluyla 1.5 saat) ve **Erzincan Yıldırım Akbulut Havalimanı** (~130 km, Pülümür Vadisi üzerinden 2 saat) kullanılır. Her iki havalimanına da Tunceli merkezden servis ve dolmuşlar hareket eder.
-* **Pertek Feribot Hattı:** Pertek ile Elazığ arasında Keban Baraj Gölü üzerinden çalışan feribotlar sayesinde Pertek ilçesinden Elazığ merkezine ulaşım sadece **35-40 dakika** sürer.
+* **Şehir İçi & Aktuluk Kampüsü Ulaşımı:** Şehir merkezi (Moğultay Mahallesi / Sanat Sokağı) ve Atatürk Mahallesi güzergahından kalkan **sarı belediye halk otobüsleri ve Aktuluk halk minibüsleri**, Munzur Çayı kıyısından Uzunçayır Baraj Gölü'nü izleyerek 10-12 dakikada Aktuluk Kampüsü içine girer.
+* **Pertek – Elazığ Feribot Entegrasyonu:** Pertek Sakine Genç MYO öğrencileri için Keban Baraj Gölü üzerindeki feribot hattı hayat kurtarır. Pertek İskelesi'nden kalkan feribotlarla 15-20 dakikada karşı kıyıya geçilir; oradan belediye otobüsüyle 15 dakikada Elazığ merkezine ve Elazığ Havalimanı'na (~85 km) ulaşılır.
+* **Şehirlerarası Ulaşım:** Tunceli'de havalimanı olmadığından uçuşlar için Elazığ Havalimanı (feribotla 1.5 saat) veya Erzincan Havalimanı (Pülümür Vadisi üzerinden 2 saat) kullanılır; Tunceli merkezden havalimanlarına düzenli servisler kalkar.
 
 ---
 
 ## 🏠 Popüler Öğrenci Mahalleleri ve Barınma Dinamikleri
 
-Tunceli'de konut yapılaşması son yıllarda hızla yenilenmiş olup binaların büyük çoğunluğu doğalgazlıdır.
+1. **Atatürk Mahallesi (Merkez):** Tunceli'de öğrencilerin bir numaralı tercihidir. Kampüse giden yol üzerinde, yeni yapılan deprem yönetmeliğine uygun doğalgazlı sitelerin, üçüncü nesil kahvecilerin ve spor salonlarının bulunduğu modern mahalledir (Kira: 8.000 - 13.000 TL).
+2. **Moğultay Mahallesi (Çarşı / Sanat Sokağı):** Şehrin kültürel merkezidir; kitapçılar, yerel lokantalar ve kafeler buradadır.
+3. **Ali Baba ve Cumhuriyet Mahalleleri:** Sakin, kiraların daha hesaplı olduğu merkez mahallelerdir.
+4. **Pertek İlçe Merkezi (İstiklal ve Camicedit):** Keban Baraj Gölü manzaralı, çok ekonomik kiralık evlerin bulunduğu sahil kasabası havasında mahallelerdir.
 
-1. **Atatürk Mahallesi (Merkez):** Kampüs yolunda yer alan, şehrin en modern sitelerinin, spor salonlarının ve yeni nesil kafelerinin bulunduğu bir numaralı öğrenci mahallesidir.
-2. **Moğultay Mahallesi (Çarşı / Sanat Sokağı):** Şehir merkezinin kalbidir; kitap kafeler, yerel lokantalar, bankalar ve kültürel etkinlik mekanlarına yürüme mesafesindedir.
-3. **Cumhuriyet ve Ali Baba Mahalleleri:** Merkeze yakın, sakin, kiraların daha ekonomik olduğu aile ve memur yerleşimleridir.
-4. **Pertek İlçe Merkezi (İstiklal ve Camicedit):** Pertek Sakine Genç MYO öğrencilerinin kiralık ev tuttuğu, Keban Baraj Gölü manzaralı huzurlu mahallelerdir.
+### KYK Yurtları ve Standartları
+* **Munzur KYK Kız ve Erkek Yurtları:** Aktuluk Kampüsü içerisinde ve hemen girişindedir. Odalar 3-4 kişiliktir; baza, çalışma masası ve banyo mevcuttur. Odalardan baraj gölü manzarası görülür. Tunceli'de KYK yurdu çıkmama riski neredeyse sıfırdır; başvuran tüm öğrenciler yerleşir.
+* **Pertek KYK Yurdu:** Pertek MYO binasına ve ilçe merkezine yürüme mesafesindedir.
 
-### KYK Yurt Durumu
-Tunceli, Türkiye'de KYK yurt sorununun yaşanmadığı illerdendir. Aktuluk Kampüsü içerisindeki ve şehir girişindeki **Munzur KYK Kız ve Erkek Yurtları** ile Pertek'teki **Pertek KYK Yurdu** başvuran hemen her öğrenciyi ilk yerleştirmede barındırmaktadır.
+---
+
+## 🍽️ Beslenme, Sokak Lezzetleri ve Munzur Mutfağı
+
+* **Zerefet / Babuko:** Tunceli'nin en meşhur geleneksel lezzetidir. Özel fırınlanan kalın mayasız hamurun içi oyulur, ufalanan hamur parçaları sarımsaklı ayran ve taze dağ tereyağıyla yoğrulup göbeğe dökülür; kaşık kaşık yenilen bir lezzet bombasıdır.
+* **Munzur Alabalığı:** Munzur Çayı'nın buz gibi kaynak sularında yetişen taze kırmızı benekli alabalık; vadideki doğal kır lokantalarında mısır ununda ızgara yapılarak sunulur.
+* **Şir (Kete) & Ovacık Fasulyesi:** Taş fırınlarda pişen tereyağlı Tunceli ketesi ve Türkiye'nin en kaliteli organik kuru fasulyesi kabul edilen meşhur Ovacık fasulyesi güveci.
+* **Munzur Yayla Balı & Çemişgezek Dutu:** Doğal floradan elde edilen kekik kokulu Munzur süzme balı ve tatlı niyetine tüketilen güneşte kurutulmuş Çemişgezek dutu.
+* **Sanat Sokağı Çay Kültürü:** Akşam saatlerinde Sanat Sokağı'nda taburelere oturup semaver çayı eşliğinde felsefe, edebiyat ve memleket sohbetleri yapmak Tunceli öğrenciliğinin vazgeçilmezidir.
 
 ---
 
@@ -46,11 +55,11 @@ Tunceli, Türkiye'de KYK yurt sorununun yaşanmadığı illerdendir. Aktuluk Kam
 
 | Gider Kalemi | Ortalama Maliyet Aralığı | Açıklama |
 | :--- | :--- | :--- |
-| **🏠 Ev Kirası (Atatürk Mah. / Merkez 1+1 / 2+1)** | 8.000 TL – 13.000 TL | Büyük şehirlere kıyasla son derece ekonomik |
-| **🛏️ Özel Apart / KYK Yurdu** | KYK: Standart / Apart: 6.500 – 10.000 TL | Kampüs içi KYK yurt kapasitesi çok geniştir |
-| **🚌 Aylık Ulaşım (Öğrenci Minibüs)** | 450 TL – 750 TL | Kampüs içi KYK'da kalanların ulaşım gideri yok denecek kadar azdır |
-| **🍽️ Yemekhane & Dışarıda Beslenme** | 3.500 TL – 6.000 TL | Kampüs yemekhanesi 20-25 TL; çarşıda yöresel esnaf lokantaları |
-| **☕ Sosyal Yaşam & Doğa Sporları** | 2.000 TL – 4.500 TL | Sanat Sokağı kafeleri, rafting turları, Munzur Gözeleri gezileri |
+| **🏠 Ev Kirası (Atatürk Mah. 2+1 Paylaşımlı)** | 8.000 TL – 13.000 TL | Kişi başı 3.000 - 4.500 TL bandında oldukça uygundur |
+| **🛏️ Özel Apart / KYK Yurdu** | 6.500 TL – 10.000 TL | Kampüs içi KYK yurt kontenjanı fazlasıyla yeterlidir |
+| **🚌 Aylık Ulaşım (Öğrenci Minibüs)** | 450 TL – 750 TL | Kampüs içi yurtta kalanlar için ulaşım gideri sıfıra yakındır |
+| **🍽️ Yemekhane & Dışarıda Beslenme** | 3.500 TL – 6.000 TL | Kampüs yemekhanesi 20-25 TL; yerel organik ürünler ekonomiktir |
+| **☕ Sosyal Yaşam & Doğa Sporları** | 2.000 TL – 4.500 TL | Rafting, Munzur Gözeleri ve Ovacık yayla turları |
 
 ---
 

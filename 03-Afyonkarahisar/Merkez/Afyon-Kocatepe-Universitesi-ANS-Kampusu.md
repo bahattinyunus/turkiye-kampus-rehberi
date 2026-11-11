@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Afyonkarahisar / Merkez (Gazlıgöl Yolu - Erenler)  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Merkez Ana Kampüs  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
+> **Kampüs Konumu:** Merkez Ana Kampüs (Gazlıgöl Karayolu 7. km)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.3/5)
 
 ---
 
@@ -12,91 +12,87 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 7 - 8 km / ~15-20 dk | Erenler'e 2 dk yürüme; Çarşı/Anıtpark'a minibüs ve otobüsle 15-20 dk |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Çiğiltepe, Tınaztepe, Kamil Miras, Destine Hatun KYK yurtları kampüs dibinde |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.500 - 13.500 TL | Erenler Mahallesi (1+1 eşyalı apart cenneti) |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | Merkezi yemekhane + fakülte yemekhaneleri; bükme/keşkek günleri meşhur |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri + Sınav Dönemi 7/24 | İbrahim Küçükkurt Kütüphanesi geniş; sınav haftalarında 7/24 açık |
-| **🌐 İnternet (eduroam)** | İyi | Fakültelerde ve kütüphanede eduroam sorunsuz |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı (Erenler) | Kampüs karşısındaki Erenler Mahallesi 7/24 yaşayan bir öğrenci kasabası |
+| **🚇 Şehir Merkezine Uzaklık** | 7 - 8 km / ~15-20 dk | Erenler'e yaya üst geçidinden 3 dk; Çarşı/Anıtpark'a minibüsle 15-20 dk |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Çiğiltepe, Tınaztepe, Kamil Miras, Destine Hatun yurtları kampüs dibinde |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.500 - 13.500 TL | Erenler Mahallesi (1+1 eşyalı apart cumhuriyeti) |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / Çok İyi | 4 çeşit menü, haşhaşlı bükme ve keşkek günleri, kartlı rezervasyon sistemi |
+| **📚 Kütüphane Kapasitesi** | 7/24 Sınav Dönemi | İbrahim Küçükkurt Kütüphanesi 3 katlı, gece 00:00 çorba servisi |
+| **🌐 İnternet (eduroam)** | İyi | Amfilerde ve kütüphanede stabil fiber eduroam; açık alanda hücresel |
+| **🌆 Sosyal Yaşam & Çevre** | Erenler Bağımsız Ekosistemi | Erenler kafe ve pub sokağı, Barış Manço Parkı, Frig Vadisi turları |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **Şehir Merkezinden Ulaşım:**  
-  Ahmet Necdet Sezer (ANS) Kampüsü, Afyonkarahisar-Eskişehir (Gazlıgöl) karayolu 7. kilometresinde yer alır. Şehir merkezinden (Anıtpark, Yeşilyol, Ambaryolu, Park Afyon AVM) ve Otogar'dan **Erenler / ANS Kampüs minibüsleri** ve **Afyon Belediyesi halk otobüsleri** ile 15-20 dakikada doğrudan kampüs içine ve Erenler Mahallesi'ne ulaşılır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  ANS Kampüsü oldukça geniş ve **tamamen düz** bir araziye yayılmıştır (yokuş yoktur!). Giriş kapısından Eğitim, Fen-Edebiyat, İİBF, Mühendislik, Güzel Sanatlar, Turizm ve Veterinerlik fakültelerine yürüyüş yolları veya bisikletle rahatça gidilir; ayrıca şehir içi minibüsler kampüs içindeki duraklardan da geçer.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Belediye otobüslerinde **Afyon Kart** (öğrenci indirimli) kullanılır. Ancak AKÜ öğrencilerinin %85'i kampüsün hemen karşısındaki **Erenler Mahallesi'nde** veya kampüs sınırındaki **KYK yurtlarında** kaldığı için üst geçitten yürüyerek 5-10 dakikada dersliğine ulaşır; dolmuşa sadece hafta sonu çarşıya veya Park Afyon AVM'ye inerken biner.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Afyon'un kışı meşhurdur; Aralık-Mart arası sert ayaz, sis ve yoğun kar yağışı görülür. Kampüs açık bir ovada olduğu için kışın rüzgarı keskindir; su geçirmez bot ve kalın mont şarttır. Ancak arazi düz olduğu için buzlanmada yokuş kayma derdi yaşanmaz.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** Kampüsün hemen yanında/Erenler sınırında yer alan **Çiğiltepe KYK Kız Yurdu**, **Tınaztepe KYK Kız Yurdu** ve **Destine Hatun KYK Kız Yurdu** oldukça yüksek kapasitelidir. Odalar 3-4 kişilik modern tiptedir ve kampüse yürüme mesafesindedir.
-  * **Erkek Yurtları:** **Kamil Miras KYK Erkek Yurdu** ve **Abdurrahim Mısri KYK Yurdu** yine kampüs bölgesinde yer alır; yurt çıkma ihtimali çok yüksektir.
-* **Özel Yurtlar ve Apartlar (Erenler Gerçeği):**  
-  Afyonkarahisar, Türkiye'de **1+0 ve 1+1 eşyalı öğrenci apartı** kültürünün en gelişmiş olduğu 2-3 ilden biridir (Eskişehir ve Kütahya ile birlikte). Kampüsün tam karşısındaki **Erenler Mahallesi**, yüzlerce apart binasından oluşur. Birçok apartta sıcak su, internet ve ısınma aidata dahildir.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Erenler Mahallesi:** Tamamen öğrencilerden oluşur. Gece 02:00'de bile sokaklarında öğrenciler yürür, çorbacılar ve dönerciler açıktır. Eşyalı 1+1 apart kiraları **8.500 - 13.500 TL** bandındadır.
-  * **Uydukent & Cumhuriyet/Dumlupınar (Yeşilyol çevresi):** Çarşı merkezde veya daha sakin aile apartmanlarında oturmak isteyenlerin tercih ettiği bölgelerdir.
+* **Şehir Merkezinden Geliş & Minibüs Yoğunluğu:**  
+  Afyon şehir merkezinden (Anıtpark, Yeşilyol, Ambaryolu ve Park Afyon AVM önü) kalkan **mavi-beyaz Erenler / ANS minibüsleri** ve Afyon Belediyesi halk otobüsleri her 5-7 dakikada bir hareket eder. 
+  * **Sabah 08:30 Yoğunluğu:** Çarşıdan binenler için sıkıntı yoktur ancak Ambaryolu duraklarında minibüsler dolu gelebilir. Yeşilyol başlangıcından binmek koltuk garantiler.
+* **Kampüs İçi Düz Ayak Avantajı & Bisiklet:**  
+  ANS Kampüsü Türkiye'nin en düzlük kampüslerinden biridir; yokuş sıfırdır. Erenler Mahallesi'nden üst geçitle kampüse geçtikten sonra fakültelere 5-12 dakikada yürünür. Öğrencilerin büyük kısmı bisiklet ve elektrikli scooter kullanır.
+* **Otostop Noktası:**  
+  * **Gazlıgöl Karayolu Nizamiye Çıkışı:** Çarşıya veya Erenler'e gitmek isteyen öğrenciler nizamiyedeki ışıklar cebinde otostop çeker; Afyon halkı ve akademisyenler öğrencileri arabalarına almaktan çekinmez.
+* **Ulaşım Kartı Taktikleri:**  
+  Belediye otobüslerinde indirimli **Afyon Kart** geçerlidir. Minibüslerde nakit ve temassız kart kabul edilir; ancak Erenler'de oturan bir öğrencinin aylık dolmuş masrafı sadece hafta sonu çarşıya indiği birkaç binişle sınırlıdır.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma & KYK Gerçekleri (Erenler Apart Cumhuriyeti)
 
-* **Kütüphane İmkanları:**  
-  Kampüs merkezindeki **İbrahim Küçükkurt Merkez Kütüphanesi** 3 katlı, geniş çalışma salonlarına ve bilgisayar laboratuvarlarına sahip modern bir binadır. Vize ve final dönemlerinde 7/24 açık tutulur.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Özellikle **Veteriner Fakültesi (Hayvan Hastanesi ve Çiftliği)**, **Turizm ve Gastronomi Bölümü uygulama mutfakları** (UNESCO Gastronomi Şehri avantajıyla çok donanımlıdır), **Maden/Harita/Gıda Mühendisliği laboratuvarları** ve **Devlet Konservatuvarı** güçlü bir fiziki altyapıya sahiptir.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Kampüs genelinde **eduroam** bağlantısı hızlıdır. AKÜ OBİS sistemi ve uzaktan eğitim altyapısı sorunsuz çalışır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  AKÜ'de 70'in üzerinde aktif öğrenci kulübü vardır. Gastronomi Kulübü, Havacılık ve İHA Takımları, Tiyatro, Müzik ve Doğa Sporları (Frig Vadisi yürüyüşleri düzenlerler) oldukça aktiftir. Her bahar **AKÜ Bahar Şenlikleri** ve kampüs konserleri coşkulu geçer.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane:**  
-  Merkezi yemekhane ve fakülte yemekhanelerinde kartlı rezervasyon sistemiyle (~25-30 TL) 4 çeşit sıcak yemek çıkar. Yemekler doyurucudur.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içinde **Barış Manço Şölen Alanı** çevresindeki sosyal tesisler, fakülte kantinleri ve **Kocatepe Kahve Evi** şubeleri bulunur. Ayrıca üst geçitten Erenler'e geçtiğiniz anda yüzlerce uygun fiyatlı öğrenci lokantası, bükmesi, dönerci ve üçüncü nesil kahveci elinizin altındadır.
-* **Spor Tesisleri:**  
-  Kampüs içinde büyük kapalı spor salonları, halı sahalar, tenis kortları, atletizm pisti ve kondisyon merkezi mevcuttur.
+* **KYK Yurtlarının Detaylı Röntgeni:**  
+  * **Çiğiltepe & Tınaztepe KYK Kız Yurtları:** Kampüsün hemen yanındadır. Odalar 3-4 kişilik, bazalı ve çalışma masalıdır. Banyo ve tuvalet oda içerisinde yer alır. 
+    * *Çamaşırhane Çilesi:* Pazar akşamları çamaşırhanelerde sıra çok uzar; hafta içi gündüz saatlerini değerlendirmek gerekir.
+    * *23:00 Turnikesi:* Parmak izi ve yüz tanıma kontrolü dakiktir; gecikmelerde idari tutanak tutulur.
+  * **Kamil Miras KYK Erkek Yurdu:** Kampüs sınırındadır; okula yürüyerek 5 dakikada geçilir.
+  * **Destine Hatun KYK Kız Yurdu:** Yeni bloklarıyla konforludur. Kontenjan bol olduğu için Afyon'da KYK yurdu çıkmama riski çok düşüktür.
+* **Erenler Mahallesi Gerçeği & Ev Sahibi/Apart Tuzakları:**  
+  * Kampüsün tam karşısındaki **Erenler Mahallesi**, 10.000'den fazla öğrencinin yaşadığı müstakil bir öğrenci kasabasıdır. 1. Sokak'tan 15. Sokak'a kadar tamamen eşyalı 1+0 ve 1+1 apartlarla doludur. Kiralar **8.500 - 13.500 TL** bandındadır.
+  * **Tuzak 1 - Yaz Tatili Kirası:** Apart sahiplerinin çoğu "12 aylık sözleşme" dayatır ve temmuz-ağustos aylarında Afyon'da olmasanız bile kirayı peşin tahsil etmek ister. 10 aylık sözleşme kabul eden apartları arayın.
+  * **Tuzak 2 - Alt-Sayaç ve Ortak Isınma Faturası:** Bazı binalarda jeotermal veya doğalgaz ısınma faturası "apart yönetimi" tarafından dairelere bölünür; kışın Afyon ayazında astronomik yakıt aidatı gelebilir. Bireysel kombili veya ısınması kiraya sabit dahil olan apartları tercih edin.
+  * **Tuzak 3 - Depozito İadesi:** Çıkarken "koltukta leke var, duvar çizik" bahanesiyle depozitoyu yakmaya çalışan emlakçılara karşı apartı tuttuğunuz ilk gün her köşenin detaylı videosunu çekin.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Şehir merkezi geleneksel ve muhafazakar bir İç Ege dokusuna sahip olsa da **Erenler Mahallesi** tamamen bağımsız bir öğrenci cumhuriyeti gibidir; kimse kimsenin giyimine veya yaşam tarzına karışmaz.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Erenler'deki kafeler, pub/bistro tarzı mekanlar, oyun salonları; şehir merkezinde ise **Yeşilyol Caddesi**, **Park Afyon AVM**, tarihi **Karahisar Kalesi** çevresi ve **Frig Vadisi (Ayazini & Emre Gölü)** sıcak hava balonları/kamp alanları en popüler sosyalleşme noktalarıdır. Ayrıca Gazlıgöl ve Ömer-Gecek termal tesislerinde uygun fiyata hamam/havuz keyfi yapmak öğrenci geleneğidir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Afyon'daki 5 yıldızlı termal oteller (Turizm ve Gastronomi öğrencileri için mükemmel staj ve yevmiyeli iş kapısıdır), mermer/gıda sanayi tesisleri, Afyon-Uşak Zafer Teknopark ve Erenler'deki kafeler öğrencilere bolca iş imkanı sunar.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* **Erenler Öğrenci Mahallesi:** Kampüsün tam karşısında binlerce öğrencinin bir arada yaşadığı, eşyalı apart bulmanın çok kolay ve ucuz olduğu harika bir öğrenci ortamı vardır.
-* **Ulaşım Kavşağı Olması:** Türkiye'nin neredeyse her şehrine direkt otobüs bulabilir; Eskişehir, Ankara, İzmir ve Antalya'ya hafta sonu günübirlik bile kaçabilirsiniz.
-* **Barınma Garantisi:** Hem KYK yurt kapasitesi hem de özel apart arzı çok yüksek olduğu için açıkta kalma ihtimali yoktur.
-
-### ❌ Eksileri
-* **Sert Kış ve Ayaz:** Kış aylarında sıfırın altına düşen dondurucu soğuklara hazırlıklı olunmalıdır.
-* **Şehir Merkezinin Erken Kapanması:** Erenler gece 02:00'ye kadar canlıyken, Afyon çarşı merkezi akşam 20:30'dan sonra oldukça sakinleşir.
+* **Yemekhane Sistemi & Haşhaşlı Bükme Günleri:**  
+  * AKÜ Öğrenci Bilgi Sistemi üzerinden haftalık bakiye yüklenir (~25-30 TL).
+  * UNESCO Tescilli Gastronomi Şehri olan Afyon'da üniversite yemekhanesinde dönem dönem yöresel mercimekli bükme, keşkek ve vişneli ekmek kadayıfı çıkar; bu günlerde yemekhane kapısında uzun ama neşeli sıralar oluşur.
+  * **Vejetaryen Menü:** Talep az olduğu için her gün sınırlı sayıda sebze menüsü ayrılır; saat 12:30'dan sonraya bırakmamak gerekir.
+* **Erenler ve Kampüs Çevresi Lezzet Durakları:**  
+  * **Meşhur Haşhaşlı & Mercimekli Bükme Fırınları:** Erenler ara sokaklarındaki taş fırınlardan sabah 08:00'de sıcacık çıkan tereyağlı bükmeler ve çay, öğrencinin en ucuz ve en lezzetli kahvaltısıdır.
+  * **24 Saat Açık Dürümcüler ve Çorbacılar:** Erenler ana caddesinde gece 03:00'te bile sıcak mercimek ve kelle paça çorbası, soslu tavuk döner bulunur.
+  * **Afyon Sucuk Ekmek Noktaları:** Çarşıdaki tarihi kasaplar ve Anıtpark civarındaki büfeler sucuk ekmeği uygun öğrenci menüsüyle sunar.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 4. 📚 Akademik & Sınav Hayatta Kalma
 
-> 💬 **Öğrenci Notu:**  
-> "AKÜ ANS Kampüsü'nü kazandıysan hayatın Erenler Mahallesi'nde geçecek demektir. Eve veya aparta çıkacaksan ilk soracağın soru 'Isınma faturaya dahil mi ve üst/ara kat mı?' olsun, çünkü Afyon ayazı şaka kaldırmaz. Haşaşlı bükme ve ağzı açık yemeden, Frig Vadisi'ne geziye gitmeden de mezun olma!"
+* **Notlandırma & Çan Eğrisi (BDS):**  
+  Afyon Kocatepe Üniversitesi'nde Bağıl Değerlendirme Sistemi uygulanır.
+  * Ham başarı notu barajı 35'tir; 35'in altında kalan notlar doğrudan FF ile değerlendirilir.
+  * Mühendislik Fakültesi'nde Diferansiyel Denklemler ve Mukavemet dersleri, İİBF'de İktisada Giriş ve Muhasebe dersleri baraj niteliğindedir.
+  * Veteriner Fakültesi ve Turizm-Gastronomi bölümlerinde devam zorunluluğu (%80 uygulama, %70 teori) çok sıkı takip edilir; devamsızlıktan kalma oranı yüksektir.
+* **Kütüphanede Sınav Nöbeti:**  
+  İbrahim Küçükkurt Merkez Kütüphanesi final haftasında 7/24 açıktır.
+  * Sabah 07:30'dan sonra priz kenarı masa bulmak imkansızlaşır; kütüphaneye mutlaka üçlü priz uzatmasıyla gelinmelidir.
+  * Gece saat 00:00'da rektörlük tarafından sıcak çorba ve taze ekmek dağıtımı yapılır.
+
+---
+
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **-15 Derece Dondurucu Ayaz & Yüz Felci Riski:**  
+  ANS Kampüsü açık bir bozkır ovasında kuruludur. Aralık, Ocak ve Şubat aylarında esen bıçak gibi ayaz rüzgarı yürümeyi zorlaştırır; atkı, bere ve rüzgar geçirmez polar maske takmayan öğrenciler ciddi soğuk ısırığı tehlikesi yaşar.
+* **Merkezin Erken Kapanması & Muhafazakar Doku:**  
+  Erenler Mahallesi gece 02:00'ye kadar cıvıl cıvılken, Afyon merkez çarşısı akşam 20:30'dan sonra sessizliğe bürünür; şehir merkezinde alternatif eğlence ve konser mekanları çok azdır.
+* **Kışın Isınma Maliyeti:**  
+  Afyon'da kış 5 ay sürdüğü için doğalgaz veya jeotermal yakıt faturaları öğrenci bütçesini zorlayabilir.
+
+---
+
+## 6. 💡 Altın Tavsiyeler (İlk Hafta Hayatta Kalma Kiti)
+
+1. **Erenler'de Apart Tutarken Kontratı İyi İncele:** Isınma, sıcak su, internet ve yaz tatili aylarının kiraya dahil olup olmadığını yazılı olarak sözleşmeye işletmeden kapora verme.
+2. **Kışlık Donanımını Erken Tamamla:** Afyon'a gelirken "nasılsa bir şey olmaz" deme; su geçirmez kaliteli bir kışlık bot ve rüzgar kesici kaz tüyü kaban ilk haftadan temin edilmelidir.
+3. **Frig Vadisi ve Gazlıgöl Kaplıcalarını Değerlendir:** Hafta sonu vize stresini atmak için Gazlıgöl veya Ömer-Gecek termal tesislerinde uygun fiyata havuz/hamam keyfi yapmayı ihmal etme.
+4. **Kütüphaneye Üçlü Prizle Git:** İbrahim Küçükkurt Kütüphanesi'nde masalardaki priz sayısı yetersiz kaldığında uzatma kablosu olan öğrenci tüm masanın kahramanı olur.

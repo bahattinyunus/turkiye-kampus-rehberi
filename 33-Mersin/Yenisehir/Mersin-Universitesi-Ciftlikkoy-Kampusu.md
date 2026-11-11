@@ -2,9 +2,9 @@
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Mersin / Yenişehir  
-> **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Ana Kampüs (Çiftlikköy) ve Şehir İçi Yerleşke (Yenişehir)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.6/5)
+> **Üniversite Türü:** Devlet (Köklü Bölge Araştırma Üniversitesi)  
+> **Kampüs Konumu:** Toros Eteklerinde Deniz Manzaralı Ana Kampüs (Çiftlikköy) & Şehir İçi Yerleşke (Yenişehir)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.7/5)
 
 ---
 
@@ -12,96 +12,81 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 12 km / ~20-25 dk (Pozcu/Marina'ya 10-15 dk) | Mersin 33 Kart belediye otobüsleri ve Pozcu-Çiftlikköy minibüsleri |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Çiftlikköy Kampüsü içinde ve Üniversite Caddesi'nde dev KYK yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 12.000 - 18.000 TL | Çiftlikköy (Üniversite Cad.), Mezitli (Viranşehir) ve Pozcu |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Merkez yemekhane ve fakülte yemekhanelerinde zengin menü |
-| **📚 Kütüphane Kapasitesi** | Geniş + Sınav Dönemi 7/24 | Çiftlikköy Merkez Kütüphanesi ve belediye öğrenci okuma salonları |
-| **🌐 İnternet (eduroam)** | Hızlı | Kampüs genelinde, Vadi Spor Tesisleri ve Çarşı alanında güçlü |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı | Üniversite Caddesi mekanları, Adnan Menderes Sahili ve Marina |
+| **🚇 Şehir Merkezine Uzaklık** | 12 km / ~20 dk (Pozcu/Marina'ya 10-15 dk) | Mersin 33 Kart "Limon" belediye otobüsleri ve Pozcu-Çiftlikköy minibüsleri |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (%80+ Yerleşme) | Çiftlikköy Kampüsü içinde ve Üniversite Caddesi'nde dev KYK yurtları (Kırkkaşık, Mersin KYK) |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 12.000 - 18.000 TL | Çiftlikköy (Üniversite Cad. havuzlu apartlar), Mezitli (Viranşehir) ve Pozcu (Kişi başı 5.000-8.000 TL) |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Merkez yemekhane, Tıp yemekhanesi ve Büyükşehir Belediyesi mobil yemek tırları |
+| **📚 Kütüphane Kapasitesi** | Geniş + Sınav Dönemi 7/24 | Çiftlikköy Merkez Kütüphanesi + Kültür Park denize sıfır belediye çalışma salonu |
+| **🌐 İnternet (eduroam)** | Hızlı / Fiber | Tüm fakültelerde, Vadi Spor Tesisleri'nde ve Cumhuriyet Meydanı'nda kesintisiz eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | Akdeniz Sahili & Canlı Gece Hayatı | Üniversite Caddesi kafeleri, Kushimoto Sokağı, Mersin Marina ve 12 km kesintisiz palmiyeli sahil |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚇 Ulaşım Taktikleri: Limon Otobüsler ve Minibüs Hatları
 
-* **Şehir Merkezinden Ulaşım:**  
-  Mersin Üniversitesi'nin ana kalbi olan **Çiftlikköy Kampüsü**, Yenişehir ilçesinin batı sınırında, Toroslar'ın eteklerinde Akdeniz manzarasına hakim geniş, yeşil ve modern bir arazi üzerinde yer alır. Kampüsün güney kapısından denize doğru inen **Üniversite Caddesi**, doğrudan **Adnan Menderes Sahil Bulvarı**'na ve **Mersin Marina**'ya (~4 km) bağlanır. Şehir merkezinden (Tevfik Sırrı Gür, Tren Garı, Forum AVM / Pozcu) ve Mezitli'den kalkan Büyükşehir Belediyesi'nin sarı otobüsleri (11M, 26M, 28M, 29M, 77M vb.) ile **Pozcu-Çiftlikköy minibüsleri** birkaç dakikada bir kampüsün içine ve Tıp Fakültesi Hastanesi'ne kadar çıkar.
-  **Yenişehir Kampüsü** (Eczacılık, Diş Hekimliği, Mimarlık, Denizcilik vb. birimler) ise doğrudan şehir içinde, Kushimoto Sokağı ve Forum AVM yakınlarında yer alır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Çiftlikköy Kampüsü oldukça büyük ve hafif eğimli bir kampüstür. Belediye otobüsleri kampüs ana kapısından girip Cumhuriyet Meydanı, fakülteler, KYK yurtları ve en üstteki Tıp Fakültesi Hastanesi'ne kadar ring güzergahında ilerler. Ayrıca kampüs içi yaya yolları narenciye ve palmiye ağaçlarıyla gölgelendirilmiştir.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Belediye otobüslerinde **Mersin 33 Kart** kullanılır; öğrenci biniş ücreti Türkiye'nin en ucuz büyükşehir tarifelerinden biridir. Ayrıca Mersin Büyükşehir Belediyesi'nin **KentBis** (kiralık bisiklet) istasyonları sahil ve Üniversite Caddesi aksında çok yaygındır.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Mersin'de kışın kar yağışı veya don olayı yaşanmaz; Ocak ayında dahi gündüzleri 15-18°C güneşli havada kampüs çimlerinde oturulabilir. Sadece kışın zaman zaman görülen şiddetli Akdeniz sağanak yağışlarında hazırlıklı olmak gerekir; Eylül ve Haziran aylarında ise klimalı otobüsler hayat kurtarır.
+Mersin Üniversitesi Çiftlikköy Kampüsü, Toros Dağları'nın Akdeniz'e bakan hafif eğimli yamaçlarında yer alır.
 
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** **Çiftlikköy Kampüsü içinde** ve Üniversite Caddesi üzerinde yer alan **Mersin KYK Kız Öğrenci Yurdu** ile **Kırkkaşık KYK Kız Yurdu** (yüksek kapasiteli modern bloklar), öğrencilerin fakültelerine yürüyerek 5-10 dakikada gitmesini sağlar.
-  * **Erkek Yurtları:** Kampüs girişinde ve Çiftlikköy aksında yer alan **Mersin KYK Erkek Öğrenci Yurdu** kampüse yürüme mesafesindedir.
-* **Özel Yurtlar ve Apartlar:**  
-  **Çiftlikköy Mahallesi** ve **Üniversite Caddesi**, Türkiye'nin en modern öğrenci rezidanslarına ev sahipliği yapar. İçinde açık yüzme havuzu, spor salonu, çalışma odası ve güvenliği bulunan yüzlerce 1+0 ve 1+1 eşyalı stüdyo daire/apart mevcuttur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Çiftlikköy (Üniversite Caddesi çevresi):** Kampüse yürüyerek gitmek isteyenlerin merkezidir; gece-gündüz yaşayan tam bir öğrenci mahallesidir.
-  * **Pozcu (Güvenevler, Bahçelievler, Akkent):** Forum AVM, Kushimoto Sokağı ve sahile yürüme mesafesinde yaşamak isteyenlerin tercih ettiği, 2+1 ve 3+1 geniş dairelerin bulunduğu bölgedir.
-  * **Mezitli (Viranşehir & Soli):** Denize ve plaja yakın, narenciye bahçeleri arasındaki güvenlikli sitelerde yaşamak isteyen öğrencilerin favorisidir; kampüse tek minibüsle 10-15 dakikada ulaşılır. Kiralar 12.000 - 18.000 TL aralığındadır (ısınma için doğalgaz faturası çok düşüktür).
+### 🚌 Limon Otobüsler ve Minibüs Güzergahları
+* **Büyükşehir Sarı "Limon" Otobüsleri:**  
+  Mersin Büyükşehir Belediyesi'nin modern otobüsleri (11M, 26M, 28M, 29M, 77M), Tren Garı, Tevfik Sırrı Gür, Forum AVM / Pozcu ve Mezitli aksından kalkarak doğrudan Çiftlikköy Kampüsü'ne ve Tıp Fakültesi Hastanesi'ne girer.
+* **Pozcu - Çiftlikköy Minibüsleri:**  
+  Otobüs beklemek istemeyen öğrenciler için her 2-3 dakikada bir kalkan minibüsler Pozcu ve Üniversite Caddesi üzerinden kampüs nizamiyesine ulaşır.
+* **TCDD Banliyö Treni (Mersin - Tarsus - Adana):**  
+  Tarsus veya Adana'dan gelen öğrenciler TCDD bölgesel treniyle Mersin Garı'nda inip, gardan kalkan 11M veya 26M otobüsleriyle 20 dakikada kampüse çıkar.
+* **KentBis (Kiralık Bisiklet):**  
+  Sahil bandı ve Üniversite Caddesi boyunca belediyenin akıllı bisiklet istasyonları (KentBis) yer alır; düz ayak sahil şeridinde pedal basmak çok yaygındır.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma, Yurtlar ve Mahalle Dinamikleri
 
-* **Kütüphane İmkanları:**  
-  Çiftlikköy Cumhuriyet Meydanı'nda yer alan **Merkez Kütüphane**, geniş koleksiyonu, bireysel çalışma masaları ve güçlü iklimlendirme (klima) sistemiyle öğrencilerin merkezidir. Ayrıca Mersin Büyükşehir Belediyesi'nin sahilde (Kültür Park içinde denize sıfır!), Çiftlikköy'de ve Forum AVM yanında açtığı **Merhaba Sanat / Öğrenci Çalışma Kütüphaneleri** ücretsiz kahve/çorba ikramıyla öğrencilere harika alternatifler sunar.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  1992'de kurulan MEÜ; Tıp Fakültesi ve devasa Araştırma Hastanesi, Mühendislik Fakültesi (Bilgisayar, Elektrik-Elektronik, Makine, Gıda, Çevre, Jeoloji, Metalurji), İletişim Fakültesi (radyo/TV stüdyoları), Güzel Sanatlar, Devlet Konservatuvarı ve İleri Teknoloji Eğitim Araştırma ve Uygulama Merkezi (MEİTAM) ile çok güçlü bir altyapıya sahiptir.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Kampüs genelinde **eduroam** hızlı ve stabildir. Üniversitenin dijital öğrenci işleri sistemi (ÖBS) sorunsuz çalışır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  70'ten fazla aktif öğrenci kulübü, TEKNOFEST takımları, Su Altı ve Dalış Topluluğu, Dağcılık, Tiyatro, Sinema ve Müzik kulüpleri kampüsü her daim canlı tutar. Prof. Dr. Uğur Oral Kültür Merkezi ve Vadi Açıkhava Alanı bahar şenlikleri ve konserlerin merkezidir.
+Mersin, Akdeniz Bölgesi'nde öğrencilerin kiralık ev ve yurt bulma konusunda en şanslı olduğu illerdendir.
 
----
+### 🏢 Kampüs İçi KYK Yurtları
+* **Mersin KYK ve Kırkkaşık KYK Kız Yurtları:** Çiftlikköy Kampüsü sınırları içinde ve Üniversite Caddesi üzerinde yer alır; fakültelere 5-10 dakika yürüyüş mesafesindedir. Odalar 3-4 kişiliktir, banyolar düzenlidir.
+* **Mersin KYK Erkek Yurdu:** Kampüs girişine çok yakın konumdadır; spor salonları ve etüt alanları geniştir.
+* **Turnike Kuralları:** Gece 23:00 yoklaması yapılır; sınav dönemlerinde kütüphane çalışma izinleriyle geç giriş kolaylığı tanınır.
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane:**  
-  Cumhuriyet Meydanı'ndaki Merkez Yemekhane ve Tıp Fakültesi yemekhanesinde öğle ve akşam saatlerinde 4 çeşit doyurucu yemek (25-35 TL) verilir; ayrıca Mersin Büyükşehir Belediyesi kampüs kapısında ve Üniversite Caddesi'nde öğrencilere çok ucuza (hatta zaman zaman ücretsiz) sıcak çorba ve yemek karavanı hizmeti de sunmaktadır.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içindeki **Öğrenci Çarşısı** ve **Gençlik Merkezi**'nde kafeteryalar, kırtasiyeler, kuaför, banka şubeleri/ATM'ler ve market bulunur. Kampüs kapısından dışarı adım attığınız anda başlayan **Üniversite Caddesi**'nde ise Mersin tantunicileri (yaprak tantuni ve yoğurtlu tantuni!), cezerye/kerebiç tatlıcıları, üçüncü nesil kahveciler ve dünya mutfağı restoranları sıralanır.
-* **Spor Tesisleri:**  
-  Kampüs içindeki **Vadi Spor Tesisleri** (Akdeniz Oyunları standartlarında inşa edilmiş olimpik kapalı yüzme havuzu, stadyum, tenis kortları, kapalı spor salonları ve fitness merkezi) Türkiye'deki en modern üniversite spor komplekslerinden biridir.
+### 🏘️ Öğrenci Mahalleleri & Ev Kiraları
+* **Çiftlikköy & Üniversite Caddesi:** Tamamen üniversite gençliğine göre dizayn edilmiş, açık havuzlu, güvenlikli 1+1 ve 2+1 sitelerle doludur. Kampüse yürüyerek gitme rahatlığı sunar (12.000 - 18.000 TL).
+* **Pozcu (Güvenevler, Bahçelievler):** Forum AVM, Kushimoto Sokağı ve sahile yürüme mesafesinde olan, şehrin en hareketli sosyal semtidir.
+* **Mezitli (Viranşehir & Soli Sahili):** Denize sıfır sitelerde narenciye kokuları arasında yaşamak isteyen öğrencilerin tercihidir; kampüse tek minibüsle 10-15 dakikada varılır.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🍽️ Beslenme, Kampüs İçi Yaşam ve Sokak Lezzetleri
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Mersin; hoşgörülü, sıcakkanlı, rahat ve özgürlükçü yaşam tarzıyla tam bir Akdeniz liman kentidir. Öğrenciler günün her saatinde sahilde ve Üniversite Caddesi'nde güvenle vakit geçirebilir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  * **Adnan Menderes Sahil Bandı (Kültür Park):** Türkiye'nin en uzun ve en yeşil sahil parklarından biridir; palmiyeler altında bisiklet sürmek, çimlerde kamp sandalyesiyle gün batımını izlemek Mersin öğrenciliğinin ritüelidir.
-  * **Üniversite Caddesi, Kushimoto Sokağı ve Mersin Marina:** Kafe, bar, canlı müzik ve alışveriş kültürünün kalbidir.
-  * **Deniz ve Doğa:** Bahar ve yaz aylarında dolmuşla 40-50 dakikada **Kızkalesi**, **Susanoğlu**, **Yapraklı Koy** ve **Narlıkuyu**'da turkuaz Akdeniz sularında yüzebilirsiniz.
-* **Part-Time İş ve Staj Olanakları:**  
-  Çiftlikköy Kampüsü içinde yer alan **Mersin Teknopark (Technoscope)**, Mersin Uluslararası Limanı (MIP), Mersin Serbest Bölgesi ve Tarsus-Mersin OSB, mühendislik, bilişim, lojistik ve dış ticaret öğrencileri için çok güçlü staj ve iş olanakları barındırır. Ayrıca Üniversite Caddesi, Marina ve Forum AVM'de yüzlerce part-time öğrenci işi bulunur.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* Kışın bile güneşli geçen Akdeniz iklimi, palmiyeli devasa sahil bandı ve düşük ısınma maliyeti.
-* Çiftlikköy Kampüsü'nün hemen önünde uzanan, Türkiye'nin en canlı öğrenci bulvarlarından biri olan Üniversite Caddesi.
-* Akdeniz Oyunları mirası olimpik spor tesisleri, güçlü akademik kadro ve büyükşehirler arasında en ekonomik ulaşım/yemek imkanları.
-
-### ❌ Eksileri
-* Mayıs ortasından Ekim başına kadar süren yüksek sıcaklık ve nem (klimasız ev veya yurtta kalmak zordur).
-* Son yıllarda artan nüfusla birlikte Pozcu ve Mezitli'de kiralık daire fiyatlarının yükselmiş olması.
-* Şehir içi raylı sistemin (metro) henüz tamamlanmamış olması nedeniyle mesai çıkış saatlerinde otobüs/minibüs trafiği.
+* **Merkez Yemekhane:** 25-35 TL bandında zengin ve kalorili 4 çeşit menü çıkar; ayrıca Büyükşehir Belediyesi'nin kampüs kapısındaki çorba ve yemek ikramları öğrencilerin bütçesini rahatlatır.
+* **Mersin Tantunisi (Biftek & Yoğurtlu):**  
+  Üniversite Caddesi ve Pozcu'daki tantunicilerde pamuk gibi pişen dana biftek tantuni, sumaklı soğan ve taze nane-limon eşliğinde dürüm yapılır; yoğurtlu tantuni ise sınav sonrası ziyafetidir.
+* **Kerebiç ve Atom:**  
+  Çöven otu köpüğüyle servis edilen cevizli/antep fıstıklı sıcak kerebiç tatlısı ve taze sıkılmış muzlu-ballı atom içeceği Mersin'in imza sokak lezzetleridir.
+* **Kushimoto Sokağı ve Marina:**  
+  Pozcu'daki Kushimoto Sokağı kafeleri ve Mersin Marina, ders aralarında ve hafta sonlarında arkadaşlarla kahve içmek için en popüler noktalardır.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 4. 📚 Akademik ve Hayatta Kalma Rehberi
 
-> 💬 **Öğrenci Notu:**  
-> "Deniz kıyısında, büyükşehir imkanlarıyla ama İstanbul-İzmir pahalılığında ezilmeden üniversite okumak istiyorsan Mersin Üniversitesi Çiftlikköy Kampüsü sana 4 yıl boyunca tatil gibi bir öğrencilik yaşatır. Ev tutacaksan kliması sağlam çalışan bir daire seç, akşamüstü bisikletini alıp Adnan Menderes sahilinde gün batımını izle ve gece vizelere çalışırken Üniversite Caddesi'nde limonlu bir tantuni gömmeyi ihmal etme!"
+* **Çan Eğrisi ve Tıp/Mühendislik Disiplini:**  
+  MEÜ Tıp Fakültesi ve Araştırma Hastanesi Doğu Akdeniz'in en büyük sağlık merkezidir; komite sınavları yoğundur. Mühendislik fakültesinde bağıl değerlendirme sistemi uygulandığı için vize notları büyük önem taşır.
+* **Denize Sıfır Kültür Park Kütüphanesi:**  
+  Çiftlikköy Merkez Kütüphanesi'nin yanı sıra Mersin Büyükşehir Belediyesi'nin sahil şeridinde açtığı denize sıfır kütüphanede ders çalışmak, dalga sesleri eşliğinde ücretsiz çay-kahve yudumlamak eşsiz bir deneyimdir.
+* **Technoscope Mersin Teknopark:**  
+  Kampüs arazisindeki teknopark firmaları yazılım, lojistik ve tarım teknolojileri alanında öğrencilere erken staj ve proje geliştirme kapısı açar.
+
+---
+
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **Yaz Sıcağı ve Yapışkan Nem:** Mayıs ayından Ekim başına kadar sıcaklık 35-40 dereceyi aşar, aşırı nem hissedilir; klimasız evde oturmak ve ders çalışmak imkansızdır.
+* **Doğalgaz Yokluğu/Klima Elektriği:** Şehirde doğalgaz yaygınlaşsa da çoğu apartta ısınma ve soğutma klimayla yapılır; yazın elektrik faturaları kabarık gelebilir.
+* **Mesai Çıkışı Pozcu Trafiği:** 17:30 - 18:30 saatlerinde GMK Bulvarı ve Üniversite Caddesi'nde trafik yoğunluğu yaşanabilir.
+
+---
+
+## 6. 💡 Altın Tavsiyeler
+
+> 💡 **Altın Kural 1:** Ev tutacaksan mutlaka klimalı daire seç; kışın ısınma derdin olmaz ama yaz ve sonbahar aylarında klimasız hayatta kalamazsın.  
+> 💡 **Altın Kural 2:** Barınma için Çiftlikköy Üniversite Caddesi'ni tercih edersen okula yürüyerek gider, yol parasından tasarruf edersin.  
+> 💡 **Altın Kural 3:** Ders stresinden bunaldığında dolmuşa binip 40 dakikada Kızkalesi veya Yapraklı Koy'a git; Akdeniz'in turkuaz sularında yüzmenin tadını çıkar!

@@ -3,7 +3,7 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Afyonkarahisar / Bolvadin  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Kırkgöz Mevkii (Çobanlar Yolu Üzeri)  
+> **Kampüs Konumu:** İlçe Kampüsü (Eber Gölü Aksı, Afyon Merkeze ~50 km)  
 > **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.4/5)
 
 ---
@@ -12,88 +12,70 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 İl Merkezine Uzaklık** | 50 km / ~40-45 dk | Afyon AFTAŞ Otogarı'ndan ve merkezden kalkan Bolvadin Birlik minibüsleri |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kırkgöz Kampüsü bitişiğinde Bolvadin KYK Kız ve Erkek Yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 7.500 - 11.500 TL | Bolvadin İlçe Merkezi, Konak Mahallesi ve kampüs yolu apartları |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 TL / İyi | Kampüs içinde geniş yemekhanede AKÜ SKS 4 çeşit tabldot öğle ve akşam menüsü |
-| **📚 Kütüphane Kapasitesi** | Geniş / Mesai Saatleri | Kırkgöz Kampüs Kütüphanesi, bilgisayar salonları ve bireysel çalışma odaları |
-| **🌐 İnternet (eduroam)** | Standart - İyi | Tüm fakülte ve yüksekokul bloklarında eduroam aktif |
-| **🌆 Sosyal Yaşam & Çevre** | İlçe / Kasaba Havası | Eber Gölü manzarası, Tarihi Kırkgöz Köprüsü, Çarşı kafeleri ve Horan Parkı |
+| **🚇 Şehir Merkezine Uzaklık** | Afyon'a 50 km (~45-50 dk) / Bolvadin Merkeze 3 km | Bolvadin Birlik minibüsleri ile Afyon Otogarı'ndan sık seferler |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Bolvadin KYK Kız ve Erkek Yurdu doğrudan Kırkgöz Kampüsü bitişiğinde |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 6.000 - 9.500 TL | Bolvadin Çarşı, Kırkgöz yolu ve İstasyon Caddesi çevresi |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | AKÜ SKS güvencesiyle 4 çeşit sıcak öğle yemeği tabldotu |
+| **📚 Kütüphane Kapasitesi** | Mesai Saatleri | Kırkgöz Kampüsü kütüphanesi ve bilgisayar laboratuvarı |
+| **🌐 İnternet (eduroam)** | Standart | Fakülte ve MYO dersliklerinde eduroam kablosuz ağı aktif |
+| **🌆 Sosyal Yaşam & Çevre** | İlçe Dinamiği & Eber Gölü | Eber Gölü etekleri, Horan Parkı, Bolvadin Çarşısı, çay ocakları |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **İl Merkezinden (Afyon'dan) Ulaşım:**  
-  Bolvadin, Afyonkarahisar il merkezine yaklaşık 50 km mesafede doğu aksında yer alır. Afyonkarahisar Otogarı'ndan (AFTAŞ) ve şehir merkezindeki eski otogardan her 15-20 dakikada bir hareket eden **Bolvadin Birlik** ve **Bolvadin Koop** minibüsleri çalışır. Yolculuk bölünmüş duble yoldan yaklaşık 40-45 dakika sürer. Ayrıca Konya ve Akşehir istikametine giden şehirlerarası otobüslerin birçoğu Bolvadin kavşağından geçer.
+* **Afyon Merkezden ve Konya Yönünden Ulaşım:**  
+  Bolvadin, Afyonkarahisar'ın en köklü ve büyük ilçelerinden biridir; Afyon-Konya karayolu hattı üzerindedir.
+  * Afyon Şehirlerarası Otogarı'ndan her 20 dakikada bir hareket eden **Bolvadin Birlik** minibüsleri ile 45-50 dakikada ilçeye ulaşılır.
+  * Bolvadin Kırkgöz Kampüsü ilçe merkezine 3 km mesafede olup, Afyon'dan gelen minibüsler kampüs kapısının önünden geçer; Afyon'dan günübirlik gelen öğrenciler ilçe merkezine girmeden doğrudan kampüste inebilir.
 * **İlçe İçi Ulaşım:**  
-  Kırkgöz Kampüsü, Bolvadin ilçe merkezine yaklaşık 3 km mesafededir. İlçe merkezinden (Bolvadin Çarşı ve Çınaraltı) kampüs nizamiyesine kadar çalışan düzenli şehir içi halk minibüsleri vardır. Seferler ders başlangıç ve bitiş saatlerinde sıklaşır; yolculuk 7-8 dakika sürer. Bisiklet kullanımı da düz ayak arazide oldukça yaygındır.
-* **Ulaşım Kartı ve Ücretler:**  
-  İlçe içi minibüslerde ve Afyon-Bolvadin hatlarında indirimli öğrenci tarifesi uygulanır; binişler oldukça ekonomiktir.
+  İlçe merkezinden kampüse düzenli belediye ve özel halk minibüsleri kalkar.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Evleri
+## 2. 🏠 Barınma & KYK Gerçekleri
 
-* **KYK Yurtları:**  
-  Kırkgöz Kampüsü'nün hemen yanında yer alan **Bolvadin KYK Kız ve Erkek Öğrenci Yurdu**, öğrencilere yürüme mesafesinde konforlu bir barınma sunar. Odalar 3-4 kişiliktir; yemekhane, çamaşırhane, spor salonu ve etüt salonları mevcuttur. Kontenjan bol olduğu için yedekte kalma problemi neredeyse yaşanmaz.
-* **Özel Yurtlar ve Kiralık Apartlar:**  
-  Bolvadin ilçe merkezinde ve kampüse yakın güzergahta çok sayıda eşyalı 1+1 apart daire ve özel pansiyon bulunur. Doğalgazlı binalar yaygındır; kiralar Erenler (Afyon merkez) piyasasına kıyasla oldukça hesaplıdır.
-
----
-
-## 3. 🎓 Akademik ve Fiziki Altyapı
-
-* **Bünyesindeki Akademik Birimler:**  
-  * **Bolvadin Uygulamalı Bilimler Fakültesi (BUBİF):** Muhasebe ve Finans Yönetimi, Bankacılık ve Sigortacılık, Yönetim Bilişim Sistemleri (YBS) ve Lojistik Yönetimi bölümleriyle bölgenin güçlü uygulamalı fakültelerindendir.
-  * **Bolvadin Meslek Yüksekokulu:** Bilgisayar Programcılığı, Elektrik, Gıda Teknolojisi, Makine, Büro Yönetimi gibi köklü teknik ve idari programları barındırır.
-* **Fiziki Tesisler ve Donanım:**  
-  Kırkgöz Kampüsü, AKÜ'nün il merkezindeki ANS Kampüsü'nden sonraki en büyük ve teşekküllü yerleşkesidir. Açık spor sahaları, kapalı spor salonu, geniş amfileri, modern laboratuvarları ve yeşil bahçesiyle bağımsız bir üniversite kampüsü hissi verir.
-* **Kütüphane ve Etüt:**  
-  Merkezi kampüs kütüphanesine bağlı Kırkgöz birim kütüphanesinde zengin referans kitapları, e-kaynak erişimi ve sınav dönemlerinde yoğun kullanılan etüt salonları bulunur.
-
-* **Öğrenci Toplulukları ve Etkinlikler:**  
-  Lojistik Kulübü, Bilişim Topluluğu ve Genç Tema Topluluğu yerleşkede aktiftir. Bahar aylarında fakülteler arası futbol ve voleybol turnuvaları ile kampüs içi bahar piknikleri düzenlenir.
+* **Bolvadin KYK Öğrenci Yurdu:**  
+  * Kırkgöz Kampüsü'nün hemen bitişiğindedir; kız ve erkek blokları yan yana konumlanmıştır.
+  * Kontenjan ilçe öğrenci mevcuduna rahatlıkla yettiği için yurt kaydı yaptıran neredeyse herkes ilk tercihte yerleşir.
+  * Odalar 3 ve 4 kişiliktir, banyo ve tuvalet oda içerisinde veya kat koridorunda oda tipine göre ayrılmıştır.
+  * Kampüse yürüyerek 2 dakikada geçildiği için sabah derslerine uyanmak son derece zahmetsizdir.
+  * 23:00 turnike kontrolü sıkıdır.
+* **Kiralık Daireler ve Yaşam:**  
+  Bolvadin'de 2+1 ve 3+1 kiralık evler **6.000 - 9.500 TL** gibi çok hesaplı seviyelerdedir. Öğrenciler çarşı içi veya Kırkgöz Caddesi üzerindeki müstakil/apartman dairelerinde kalır.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
-* **Öğrenci Yemekhanesi:**  
-  AKÜ Sağlık Kültür ve Spor Daire Başkanlığı tarafından sunulan öğle ve akşam yemeği servisi Kırkgöz Kampüsü yemekhanesinde mevcuttur. 4 çeşit yemek üniversite sübvansiyonuyla çok uygun fiyata (~25 TL) sunulur.
-* **Kantinler ve Sosyal Alanlar:**  
-  Fakülte ve yüksekokul binalarında ferah kantinler, çardaklar ve çim dinlenme alanları mevcuttur. Ders aralarında simit, tost, çay ve sıcak içecekler temin edilir.
-* **Yöresel Lezzetler:**  
-  Bolvadin çarşısında meşhur bükme, katmer, Afyon sucuğu ve kaymaklı tatlılar öğrencilerin hafta sonu kaçamaklarında en çok tükettiği uygun fiyatlı lezzetlerdir.
-
----
-
-## 5. 🌆 İlçe Dinamikleri ve Sosyal Hayat
-
-* **İlçede Yaşam:**  
-  Bolvadin, tarihi Roma ve Selçuklu dönemine dayanan, Eber Gölü kıyısında kurulu geleneksel ve köklü bir ilçedir. Meşhur Bolvadin kaymağı, manda yoğurdu ve haşhaşlı böreğiyle tanınır. Sosyal hayat Çarşı Meydanı, Horan Parkı ve kampüs çevresindeki kafelerle sınırlıdır.
-* **Halk ve Güvenlik:**  
-  İlçe halkı muhafazakar, sakin ve öğrencilere karşı koruyucudur. Asayiş sorunlarının yaşanmadığı son derece huzurlu bir yaşam ortamı vardır.
+* **Yemekhane:**  
+  AKÜ SKS tabldot menüsü hafta içi öğle yemeğinde çıkar (~25-30 TL).
+* **Meşhur Bolvadin Lezzetleri:**  
+  * **Hakiki Manda Kaymağı:** Türkiye'nin en kaliteli manda kaymağının üretildiği Bolvadin'de çarşıdaki mandıralardan sıcacık somun ekmek arasına kaymak ve bal sürerek kahvaltı yapmak bir öğrenci lüksüdür.
+  * **Bolvadin Bükmesi & Sucuğu:** Taş fırınlarda pişen çıtır haşhaşlı bükmeler ve yerel kasapların baharatlı sucukları bütçeyi sarsmadan mükemmel bir beslenme sağlar.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 4. 📚 Akademik & Sınav Hayatta Kalma
 
-### ✅ Artıları
-* **Büyük ve Teşekküllü Kampüs:** Kırkgöz Kampüsü sıradan bir bina değil; spor salonu, amfileri ve kütüphanesi olan müstakil bir kampüstür.
-* **Garantili Barınma:** Kampüsün hemen bitişiğindeki KYK yurtları sayesinde barınma masrafı ve sabah ulaşım derdi yaşanmaz.
-* **Düşük Yaşam Maliyeti:** Apart kiraları ve esnaf fiyatları öğrenci bütçesini asla yormaz.
-* **Afyon Merkeze Hızlı Erişim:** Yarım saatte bir kalkan dolmuşlarla 40 dakikada şehir merkezine gidilebilmesi.
-
-### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
-* **Sert Kış Ayazı:** Afyon ovasının ve Eber Gölü çevresinin kış rüzgarı bıçak gibidir. Kış aylarında sabah derslerine giderken kalın termal mont ve bot şarttır.
-* **Monoton Sosyal Yaşam:** Sinema, büyük AVM veya gece hayatı yoktur. Bir süre sonra aynı kafe ve çay ocaklarında oturmak sıkıcı hale gelebilir.
-* **Erken Kapanan İlçe Hayatı:** Akşam saatlerinde çarşıda dükkanlar erken kapanır, sokaklar tenhalaşır.
-* **Göl Kokusuna Duyarlılık:** Yaz sonlarında kurak geçen yıllarda Eber Gölü havzasından hafif bataklık kokusu gelebilir.
+* **Kırkgöz Kampüsü Birimleri:**  
+  Bolvadin Uygulamalı Bilimler Fakültesi (Muhasebe ve Finans Yönetimi, Bankacılık ve Sigortacılık) ve Bolvadin MYO (Makine, Elektrik, İnşaat, Bilgisayar) burada yer alır.
+  * AKÜ Bağıl Değerlendirme Sistemi (35 barajı) geçerlidir.
+  * Kampüs sakin ve yeşil bir alana kurulduğu için sınav haftalarında odaklanarak ders çalışmak çok verimlidir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 5. ❌ Eksileri ve Kronik Sorunları
 
-> 💬 **Öğrenci Notu:**  
-> "Bolvadin Kırkgöz Kampüsü'ne gelirken tereddüt etmeyin; kampüs olanakları birçok il merkezindeki fakülteden daha geniştir. Eğer KYK yurdunda kalırsanız sabah uyanıp 3 dakikada derse girersiniz, bu büyük bir konfordur. Sosyalleşmek istediğiniz hafta sonlarında minibüse atlayıp Afyon merkezdeki Park Afyon AVM'ye veya Erenler kafelerine gitmek tüm ihtiyacınızı çözer!"
+* **Sosyal Monotonluk:**  
+  İlçe geleneksel bir yapıya sahiptir; akşamları kafeler erkenden kapanır. Sosyal etkinlik arayanlar cuma günleri Afyon merkezdeki Erenler'e veya hızlı trenle Eskişehir'e gider.
+* **Kış Sis ve Soğuğu:**  
+  Eber Gölü havzasında yer aldığı için kış aylarında yoğun sis ve sıfırın altına inen sert don olayları görülür.
+
+---
+
+## 6. 💡 Altın Tavsiyeler
+
+1. **Yurtta Kal, Kampüs İçi Yaşamın Rahatlığını Yaşa:** Kampüs ile yurt yan yana olduğu için Bolvadin'de KYK yurdunda kalmak hem sıfır yol masrafı hem de maksimum ders çalışma konforu demektir.
+2. **Hafta Sonu Eskişehir Kaçamaklarını Planla:** Bolvadin'den Afyon merkeze geçip trenle 1 saatte Eskişehir'e geçebilir, hafta sonu sosyalleşip pazar akşamı sakin kampüsüne dönebilirsin.
+3. **Manda Mandıralarını Keşfet:** İlçenin tescilli lezzeti olan manda kaymağını ve yerel yoğurtları yerel üreticilerden doğrudan toptan fiyata al.

@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Düzce / Akçakoca  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Sahil İlçe Yerleşkesi (Karadeniz Kıyısı - Düzce Merkez'e ~35 km)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
+> **Kampüs Konumu:** Sahil İlçe Yerleşkesi (Karadeniz Kıyısı - Düzce Merkez'e ~35 km, Konuralp'e ~27 km)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.3/5)
 
 ---
 
@@ -12,80 +12,88 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Düzce Merkez'e Uzaklık** | 35 km / ~30-35 dk (Konuralp'e ~25 dk) | Düzce-Konuralp-Akçakoca hattında düzenli otobüsler + ilçe içi minibüsler |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Akçakoca KYK Öğrenci Yurdu + sahilde çok sayıda eşyalı öğrenci apartı |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 10.500 - 16.000 TL | Osmaniye, Cumhuriyet, Yeni Mahalle ve Çuhallı Çarşı çevresi |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 30 - 40 TL / İyi | Yerleşke yemekhanesi + sahil kafeleri ve balıkçılar |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri | Yerleşke kütüphanesi ve çalışma salonu |
-| **🌐 İnternet (eduroam)** | Hızlı | Fakülte ve MYO binalarında aktif eduroam |
-| **🌆 Sosyal Yaşam & Çevre** | Canlı Sahil Kasabası | Mavi bayraklı plajlar, Çuhallı Çarşı, Ceneviz Kalesi ve sahil kordonu |
+| **🚇 Düzce Merkez'e Uzaklık** | 35 km / ~30-35 dk (Konuralp'e ~25 dk) | Düzce-Konuralp-Akçakoca duble yolu üzerinde sık minibüsler + ilçe içi halk dolmuşları |
+| **🏠 KYK Yurt İmkanı** | Yüksek | Akçakoca KYK Öğrenci Yurdu + sahil boyunca sezonluk kiralık eşyalı yazlık apartlar |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 10.500 - 16.000 TL | Osmaniye Mahallesi, Cumhuriyet, Yeni Mahalle ve Çuhallı Çarşı çevresi |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 30 - 40 TL / İyi | Yerleşke yemekhanesi + Çuhallı sahil balıkçıları ve öğrenci lokantaları |
+| **📚 Kütüphane Kapasitesi** | Mesai Saatleri | Deniz manzaralı çalışma salonu ve bilgisayar odaları |
+| **🌐 İnternet (eduroam)** | Hızlı | Fakülte, gastronomi mutfağı ve MYO binalarında aktif eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | Canlı Sahil Kasabası | Mavi bayraklı plajlar, Çuhallı Çarşı, Ceneviz Kalesi, Aktaş Şelalesi |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚇 Ulaşım Ağı ve Öğrenci Taktikleri
 
 * **Düzce Merkez ve Konuralp'ten Ulaşım:**  
-  Batı Karadeniz'in en popüler tatil ve sahil ilçelerinden biri olan **Akçakoca**, Düzce Merkez'e 35 km, **Konuralp Ana Kampüsü**'ne ise sadece **27 km (yaklaşık 20-25 dakika)** mesafededir. Düzce-Konuralp-Akçakoca karayolu tamamen bölünmüş duble yol olup gün boyu düzenli otobüs/minibüs seferleri vardır.
+  Akçakoca, Düzce'nin Karadeniz kıyısındaki incisidir. Düzce Şehirlerarası Otobüs Terminali'nden ve **Konuralp Kampüsü kavşağından** geçen Akçakoca minibüsleri her 15-20 dakikada bir hareket eder. Bölünmüş duble yol sayesinde yolculuk Konuralp'ten sadece **25 dakika**, Düzce Merkez'den ise **35 dakika** sürer.
 * **Akçakoca Yerleşkesindeki Akademik Birimler:**  
-  Denize nazır bir konumda yer alan Akçakoca Yerleşkesi, Düzce Üniversitesi'nin en köklü dış yerleşkesidir ve 3 önemli birimi barındırır:
-  * **Akçakoca Bey Siyasal Bilgiler Fakültesi** (Uluslararası İlişkiler, Siyaset Bilimi ve Kamu Yönetimi, İktisat)
-  * **Akçakoca Turizm İşletmeciliği ve Otelcilik Yüksekokulu** (Turizm İşletmeciliği, Gastronomi ve Mutfak Sanatları)
-  * **Akçakoca Meslek Yüksekokulu**
+  * **Akçakoca Bey Siyasal Bilgiler Fakültesi (SBF):** Uluslararası İlişkiler, Siyaset Bilimi, İktisat.
+  * **Akçakoca Turizm İşletmeciliği ve Otelcilik Yüksekokulu:** Gastronomi ve Mutfak Sanatları, Turizm İşletmeciliği.
+  * **Akçakoca Meslek Yüksekokulu:** Dış Ticaret, Bilgisayar Programcılığı, Muhasebe.
+* **İstanbul ve Ankara'dan Doğrudan Seferler:**  
+  Akçakoca yazlık turizm merkezi olduğu için İstanbul Harem/Esenler ve Ankara AŞTİ'den özellikle bahar ve yaz aylarında doğrudan Akçakoca'ya otobüs seferleri vardır. Düzce'de aktarma yapmaya gerek kalmadan ilçeye gelinebilir.
 * **İlçe İçi Ulaşım:**  
-  Akçakoca sahil şeridi boyunca uzanan yürüyüş dostu bir ilçedir. İlçe içi halk otobüsleri ve minibüslerle yurtlardan ve Çuhallı Çarşı'dan yerleşkeye 5-10 dakikada ulaşılır.
+  Yerleşke denize hakim bir tepede kuruludur. Çuhallı Çarşı'dan ve merkezden kalkan ilçe içi belediye minibüsleriyle 5-7 dakikada kapıya ulaşılır; havalar güzelken sahilden yürümek 20-25 dakika sürer.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma, Yurtlar ve Sezonluk Apartlar
 
-* **KYK Yurtları:**  
-  İlçede yer alan yüksek kapasiteli **Akçakoca KYK Kız ve Erkek Öğrenci Yurdu**, modern tesisleri ve yerleşkeye yakınlığıyla öğrencilerin barınma ihtiyacını büyük ölçüde karşılar.
-* **Özel Yurtlar ve Sahil Apartları:**  
-  Akçakoca yazlık bir turizm kenti olduğu için (tıpkı Yalova Çınarcık gibi) kış aylarında öğrencilere kiralanan çok sayıda 1+1 ve 2+1 eşyalı apart daire bulunur. **Osmaniye Mahallesi**, **Cumhuriyet Mahallesi**, **Hacı Yusuflar** ve **Çuhallı Çarşı** çevresi öğrencilerin en çok yaşadığı yerlerdir. Kiralar 10.500 - 16.000 TL aralığındadır.
-
----
-
-## 3. 🎓 Akademik ve Fiziki Altyapı
-
-* **Derslikler, Uygulama Alanları ve Kütüphane:**  
-  Akçakoca Bey Siyasal Bilgiler Fakültesi'nin konferans salonları ve amfileri, Turizm Yüksekokulu'nun profesyonel gastronomi uygulama mutfakları ve bilgisayar laboratuvarları oldukça moderndir. Yerleşke kütüphanesi deniz havası eşliğinde sakin bir çalışma ortamı sunar; ayrıca tüm binalarda **eduroam** internet altyapısı aktiftir.
-* **Öğrenci Toplulukları:**  
-  Diplomasi ve Siyaset, Uluslararası İlişkiler, Gastronomi, Turizm ve Su Sporları toplulukları yerleşkede ulusal sempozyumlar, tadım etkinlikleri ve sahil festivalleri düzenler.
+* **Akçakoca KYK Yurtları:**  
+  İlçede yer alan **Akçakoca KYK Öğrenci Yurdu**, kız ve erkek bloklarıyla yerleşkeye yakın konumdadır. Odalar 3-4 kişilik, bazalı ve temizdir. Yurdun kapasitesi fakülte ve MYO kontenjanlarına yettiği için barınma sorunu yaşanmaz.
+* **Sezonluk Yazlık Apart Taktikleri:**  
+  Akçakoca bir tatil kenti olduğu için (tıpkı Yalova Çınarcık gibi) eylül ayında yazlıkçıların gitmesiyle birlikte sahil şeridindeki yüzlerce 1+1 ve 2+1 eşyalı daire kış sezonunda (Eylül - Haziran arası) öğrencilere kiralanır:
+  * **Çuhallı Çarşı & Çuhallı Plajı Çevresi:** Sosyal hayatın ve kafelerin kalbidir; öğrencilerin en çok ev tuttuğu yerdir.
+  * **Osmaniye ve Cumhuriyet Mahalleleri:** Sakin, doğalgazlı ve marketlere yakın binalar bulunur.
+  * **Kira Seviyesi:** 10.500 - 16.000 TL aralığındadır. Ancak ev tutarken binanın mantolamalı ve bireysel doğalgaz kombili olmasına dikkat edilmelidir; Karadeniz kış rüzgarında zayıf yalıtımlı yazlıklar fatura şoku yaratabilir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🎓 Siyasal Bilgiler, Gastronomi ve Kütüphane
 
-* **Yemekhane ve Kantinler:**  
-  Yerleşke yemekhanesinde hafta içi her gün 4 çeşit öğle yemeği 30 - 40 TL'ye sunulur. Kantin ve sosyal alanlardan Karadeniz manzarası izlenebilir.
-* **Sahil Gastronomisi:**  
-  Akçakoca merkez ve **Çuhallı Çarşı**; taze balık ekmekçileri, fındıklı tatlıları, melengüçceği tatlısı, öğrenci kafeleri ve ekonomik ev yemeği lokantalarıyla zengin seçenekler sunar.
-
----
-
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
-
-* **Sahil ve Doğa Yaşamı:**  
-  Düzce Merkez'in ova ve sisli havasının aksine Akçakoca doğrudan **Karadeniz** kıyısında, ferah ve rüzgarlı bir sahil kasabasıdır. UNESCO Dünya Mirası Geçici Listesi'ndeki **Ceneviz Kalesi** ve plajı, **Çuhallı Plajı**, **Akçakoca Merkez Sahil Kordonu**, **Fakıllı Mağarası** ve **Aktaş Şelalesi** öğrencilerin ders sonrasında ve hafta sonlarında vakit geçirdiği harika noktalardır.
-* **Part-Time İş ve Staj Olanakları:**  
-  İlçedeki 5 yıldızlı turistik oteller, butik pansiyonlar, balık restoranları ve sahil kafeleri özellikle Turizm, Gastronomi ve MYO öğrencilerine hem uygulama stajı hem de bahar/yaz sezonunda part-time iş imkanı sağlar.
+* **Akçakoca Bey SBF'nin Dinamik Havası:**  
+  Düzce'nin sosyal ve siyasal bilimler merkezi burasıdır. Uluslararası İlişkiler ve Kamu Yönetimi amfilerinde diplomasi simülasyonları, MUN etkinlikleri ve tartışma kulüpleri çok aktiftir.
+* **Gastronomi ve Mutfak Sanatları:**  
+  Turizm Yüksekokulu bünyesindeki profesyonel gastronomi mutfaklarında geleceğin şefleri yetişir. Karadeniz balıklarından yerel otlara, tatlılardan dünya mutfağına kadar yoğun pratik eğitimler yapılır.
+* **Kütüphane Ortamı:**  
+  Yerleşke kütüphanesi deniz manzaralı pencereleriyle sessiz ve ferah bir çalışma ortamı sunar; sınav dönemlerinde mesai saatleri uzatılır.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 4. 🍽️ Beslenme, Sokak Lezzetleri ve Balıkçılar
+
+* **Yerleşke Yemekhanesi:** Hafta içi 30 - 40 TL'ye 4 çeşit sıcak öğle yemeği sunulur.
+* **Sahil Balık Ekmek & Hamsi:**  
+  Sonbahar ve kış aylarında Karadeniz hamsisi ve palamut tezgahlara indiğinde, Akçakoca limanındaki ve Çuhallı sahilindeki balık ekmekçiler öğrencilerin en büyük ziyafet durağıdır.
+* **Melengüçceği Tatlısı ve Fındıklı Tatlar:**  
+  Akçakoca dünyanın en kaliteli tombul fındığının yetiştiği yerdir; taze fındıklı tatlılar, un helvası ve meşhur kaymaklı Melengüçceği tatlısı ilçe pastanelerinde öğrenci bütçesine uygun fiyatla satılır.
+
+---
+
+## 5. 🌊 Sahil Hayatı, Ceneviz Kalesi ve Doğa
+
+* **Mavi Bayraklı Plajlar ve Ceneviz Kalesi:**  
+  Eylül ve mayıs-haziran aylarında dersten çıkıp 10 dakikada Karadeniz'in mavi bayraklı sularına atlamak Akçakoca öğrenciliğinin en eşsiz ayrıcalığıdır. UNESCO geçici mirasındaki tarihi **Ceneviz Kalesi** burçlarında gün batımını izlemek ve kale plajında oturmak adeta bir gelenektir.
+* **Doğa Rotaları:** Aktaş Şelalesi ve Fakıllı Mağarası hafta sonu doğa yürüyüşleri için çok yakındır.
+* **Part-Time İş Fırsatları:**  
+  İlçedeki sahil otelleri, kafeler ve restoranlar özellikle Turizm, Gastronomi ve SBF öğrencilerine bahar ve yaz aylarında zengin part-time iş imkanı sunar.
+
+---
+
+## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* **Deniz Kenarında Üniversite Hayatı:** Düzce'nin sisli ovası yerine Karadeniz kıyısında, plajları ve sahil kordonu olan turistik bir ilçede okuma fırsatı.
-* **Siyasal Bilgiler ve Turizm Odaklı Kampüs:** SBF, Gastronomi ve Turizm öğrencilerinin bir arada olduğu sosyal ve dinamik yerleşke ortamı.
-* **Konuralp Ana Kampüse 25 Dakika Yakınlık:** İstenildiği an yarım saatte Düzce Merkez ve Konuralp Ana Kampüs'e ulaşılabilmesi.
+* **Deniz Kenarında Üniversite Keyfi:** Düzce merkezdeki sisli ve basık ovadan tamamen bağımsız, temiz deniz havasında kampüs hayatı.
+* **Konuralp Kampüsüne Yakınlık:** 25 dakikada Düzce Konuralp Kampüsü etkinliklerine veya hastanesine gidebilme rahatlığı.
+* **Kışın Uygun Eşyalı Evler:** Sezonluk yazlık dairelerin kışın öğrencilere makul fiyatlara kiralanması.
 
-### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
-* **Kışın Karadeniz Rüzgarı:** Kış aylarında denizden esen sert poyraz ve yağışlı Karadeniz havası.
-* **Kış Sezonu Sakinliği:** Yazın çok kalabalık olan ilçenin kış akşamlarında daha sakin bir kasaba temposuna dönmesi.
+### ❌ Eksileri ve Kronik Sorunları
+* **Karadeniz'in Kış Poyrazı ve Dalgaları:** Aralık - şubat ayları arasında Karadeniz'den esen sert fırtınalar, denizin taşması ve sahil bandındaki nemli soğuk.
+* **Kış Sezonu Issızlığı:** Yazın tıklım tıklım olan plajların ve kafelerin kış akşamlarında tenhalaşması ve erken saatte kapanması.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 💡 Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Akçakoca Bey Siyasal Bilgiler Fakültesi veya Turizm/Gastronomi'yi kazandıysanız Düzce'nin deniz gören en güzel köşesindesiniz demektir. Çuhallı Çarşı veya Osmaniye Mahallesi'nde bir apartta kalın; Eylül-Ekim ve Mayıs aylarında dersten çıkıp Ceneviz Kalesi plajında denize girmek sadece Akçakoca öğrencilerinin sahip olduğu bir lükstür."
+> "Akçakoca'ya gelirken deniz şortunun yanına mutlaka sağlam bir rüzgarlık ve kalın polar al; çünkü Karadeniz'in kasım ayazı affetmez! Ev tutacaksan Çuhallı tarafını seç ki akşamları yürüyebileceğin bir çarşın olsun. Eylül başında dersler başlamadan önce Ceneviz Kalesi plajında denize girip kumsalda arkadaşlarınla gitar çalmak üniversite yıllarının en güzel hatırası olacak."

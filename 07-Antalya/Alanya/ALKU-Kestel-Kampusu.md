@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Antalya / Alanya  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Kestel Mahallesi (Deniz Manzaralı Yamaç Yerleşkesi)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.0/5)
+> **Kampüs Konumu:** Kestel Mahallesi (Akdeniz Manzaralı Toros Yamacı Yerleşkesi)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
 
 ---
 
@@ -13,88 +13,81 @@
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
 | **🚇 İlçe Merkezine Uzaklık** | 10 - 12 km / ~25-35 dk | Alanya Cuma Pazarı (Merkez) ve Mahmutlar'dan kalkan belediye halk otobüsleri |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Kestel ve Mahmutlar'da yer alan Terken Hatun ve ALKÜ KYK yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 14.000 - 22.000 TL | Kestel, Mahmutlar, Tosmur ve Oba Mahalleleri (1+1 rezidans/apart) |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | Merkezi yemekhanede 4 çeşit sıcak menü; geniş deniz manzaralı kafeterya |
-| **📚 Kütüphane Kapasitesi** | Modern & Yeterli | ALKÜ Merkez Kütüphanesi, grup çalışma odaları ve bilgisayar laboratuvarı |
-| **🌐 İnternet (eduroam)** | Hızlı | Kampüs genelinde ve fakülte dersliklerinde eduroam ve ALKÜ-Net aktif |
-| **🌆 Sosyal Yaşam & Çevre** | Sahil ve Turizm Kenti | Alanya Kalesi, Kleopatra Plajı, İskele Barlar Sokağı, Mahmutlar Sahili |
+| **🏠 KYK Yurt İmkanı** | Çok Rahat & Modern | Terken Hatun (Kız) ve Mahmutlar (Erkek) KYK yurtları otel konseptinde |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 14.000 - 22.000 TL | Mahmutlar, Kestel, Tosmur ve Oba mahalleleri (1+1 rezidans/apart) |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / Çok İyi | Deniz manzaralı yemekhane, 4 çeşit sıcak menü, seyir terasları |
+| **📚 Kütüphane Kapasitesi** | 7/24 Sınav Dönemi | ALKÜ Merkez Kütüphanesi, grup çalışma odaları, deniz manzaralı masalar |
+| **🌐 İnternet (eduroam)** | Çok Hızlı | Kampüs genelinde ve fakültelerde fiber eduroam ve ALKÜ-Net kesintisiz |
+| **🌆 Sosyal Yaşam & Çevre** | Turizm & Doğa Kenti | Kleopatra Plajı, Alanya Kalesi, Dim Çayı, Mahmutlar Sahili, İskele |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **İlçe Merkezinden Ulaşım:**  
-  ALKÜ Kestel Yerleşkesi, Alanya ilçe merkezinin doğusunda, Kestel yamaçlarında denize hakim yüksek bir tepede yer alır. İlçe merkezindeki **Cuma Pazarı Otobüs Peronları**'ndan ve Otogar'dan hareket eden **belediye halk otobüsleri (ALKÜ hatları)** düzenli olarak çalışır. Yolculuk sahil yolu ve Kestel rampası üzerinden yaklaşık 25-35 dakika sürer.
-* **Mahmutlar ve Çevre Mahallelerden Ulaşım:**  
-  Öğrencilerin yoğun olarak kaldığı komşu Mahmutlar beldesinden kampüse direkt servis ve minibüs hatları mevcuttur (15-20 dakika).
-* **Gazipaşa Havalimanı Avantajı:**  
-  ALKÜ, Gazipaşa-Alanya Havalimanı'na sadece 32 km mesafededir. İstanbul, Ankara ve yurt dışından gelen öğrenciler için Antalya Havalimanı'na (135 km) inmek yerine Gazipaşa Havalimanı'nı kullanmak muazzam bir ulaşım kolaylığı sağlar.
-* **Kampüs İçi Arazi Şartları:**  
-  Kampüs Toroslar'ın denize inen yamacında kurulduğu için teraslı ve yokuşlu bir yapıya sahiptir. Binalar arasında basamaklar ve rampalar bulunur; sıcak yaz aylarında fakülteler arası yürümek biraz efor gerektirir.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  Kestel ve Mahmutlar hattında inşa edilen **Terken Hatun KYK Kız Yurdu** ve **Mahmutlar KYK Erkek Yurdu**, son derece modern otel konseptli binalara sahiptir. Yurt kapasitesi Alanya'daki öğrenci nüfusunu büyük oranda karşılar; KYK çıkma şansı Türkiye ortalamasının üzerindedir.
-* **Kiralık Apartlar ve Rezidanslar:**  
-  * **Mahmutlar:** Yüksek katlı lüks sitelerin, havuzlu rezidansların ve apartların bulunduğu Alanya'nın en kozmopolit semtidir. Birçok öğrenci 2-3 kişi birleşerek havuzlu sitelerde daire kiralar.
-  * **Kestel ve Tosmur:** Kampüse en yakın sahil mahalleleridir. Bisikletle veya tek otobüsle hızla kampüse ve sahile ulaşılır.
-  * **Oba:** Alanya Eğitim ve Araştırma Hastanesi'nin bulunduğu, Tıp ve Diş Hekimliği öğrencilerinin ağırlıklı tercih ettiği semttir.
+* **İlçe Merkezinden ve Mahmutlar'dan Ulaşım:**  
+  ALKÜ Kestel Yerleşkesi, Alanya ilçe merkezinin 11 km doğusunda, Toros Dağları'nın denize bakan yamacında kuruludur:
+  * **Cuma Pazarı Peronları (Alanya Merkez):** Alanya merkezden kalkan belediye halk otobüsleri (ALKÜ hatları) sahil yolu üzerinden Kestel rampasına tırmanarak 25-35 dakikada kampüs içine girer.
+  * **Mahmutlar Hattı:** Öğrencilerin en yoğun oturduğu Mahmutlar'dan kalkan dolmuşlar 15-20 dakikada doğrudan kampüse çıkar.
+* **Gizli Havalimanı Taktiki (Gazipaşa - GZP):**  
+  Alanya'ya büyükşehirlerden gelecek öğrencilerin yaptığı en büyük hata Antalya Havalimanı'na (AYT) inmektir (Antalya-Alanya arası otobüsle 2.5-3 saat sürer!).  
+  * **Gazipaşa-Alanya Havalimanı (GZP)** kampüse sadece **32 km (25 dakika)** mesafededir. İstanbul ve Ankara'dan doğrudan Gazipaşa'ya uçup HAVAŞ veya belediye otobüsüyle yarım saatte kampüse ulaşabilirsiniz.
+* **Otostop Noktaları:**  
+  * **Kestel Sahil Yolu Kavşağı & Dimçayı Köprüsü Çıkışı:** Sahil yolundan dağa tırmanan yokuşun başında bekleyen öğrenciler el kaldırır; ALKÜ personeli ve yerel sakinler öğrencileri tepeye kadar çıkarır.
+* **Yokuşlu Kampüs Gerçeği:**  
+  Kampüs dik bir yamaçta teraslar halinde inşa edildiğinden fakülteler arasında basamaklar ve dik yokuşlar vardır; yaz sıcağında kampüs içi ring araçlarını kullanmak hayat kurtarır.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma & KYK Gerçekleri (Mahmutlar Rezidansları)
 
-* **Bünyesindeki Güçlü Fakülteler:**  
-  * **Rafet Kayış Mühendislik Fakültesi:** Bilgisayar, İnşaat, Makine ve Biyosistem alanlarında yeni nesil modern laboratuvarlara sahiptir.
-  * **Tıp ve Diş Hekimliği Fakülteleri:** Alanya Eğitim ve Araştırma Hastanesi entegrasyonuyla güçlü bir klinik eğitim sunar.
-  * **Turizm Fakültesi ve Gastronomi:** Alanya'daki yüzlerce 5 yıldızlı otel ve tatil köyüyle doğrudan sektör iş birliklerine sahiptir.
-  * **İİBF, Eğitim ve Sanat Tasarım Fakülteleri:** Gelişmekte olan dinamik akademik kadroya sahiptir.
-* **Kütüphane ve İnternet:**  
-  Merkezi Kütüphane modern çalışma masaları, zengin dijital veritabanı ve sınav dönemlerinde genişletilmiş mesai saatleriyle hizmet verir. Kampüsün her noktasında eduroam hızlıdır.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkezi Yemekhane:**  
-  Öğrenci yemekhanesi deniz manzaralı ferah bir salonda hizmet verir. Öğle ve akşam saatlerinde 4 çeşit sıcak yemek devlet sübvansiyonuyla uygun fiyata (~25-30 TL) sunulur.
-* **Kafeler ve Manzara Terasları:**  
-  Kampüsteki kantinler ve kafeteryalar Akdeniz'e ve Alanya Kalesi'ne tepeden bakan eşsiz bir seyir terasına sahiptir. Ders aralarında gün batımı manzarası eşliğinde kahve içmek kampüsün en büyük ayrıcalığıdır.
-* **Spor Tesisleri:**  
-  Açık basketbol/voleybol sahaları, halı saha, kapalı spor salonu ve tırmanma alanları mevcuttur.
+* **KYK Yurtlarının Detaylı Röntgeni:**  
+  * **Terken Hatun KYK Kız Yurdu:** Kestel yamacında kampüse çok yakındır. Yeni binalardır; odalar 3-4 kişilik, bazalı ve çalışma masalıdır. Banyo ve tuvalet oda içerisindedir.
+  * **Mahmutlar KYK Erkek Yurdu:** Mahmutlar beldesindedir; otel konseptindedir ve okula tek otobüsle 15 dakikada ulaşılır.
+  * 23:00 turnike sistemi sıkı denetlenir.
+* **Öğrenci Mahalleleri & Yabancı Göçü/Kira Tuzakları:**  
+  * **Mahmutlar:** Alanya'nın en kozmopolit semtidir. Havuzlu, saunalı, fitness salonlu yüzlerce rezidans sitesi bulunur. 2-3 öğrenci birleşerek havuzlu 2+1 sitelerde kişi başı 5.000-7.500 TL'ye lüks hayat yaşayabilir (**14.000 - 22.000 TL**).
+  * **Kestel ve Tosmur:** Kampüse en yakın sahil mahalleleridir; bisiklet veya motorla okula ulaşmak çok rahattır.
+  * **Oba:** Alanya Eğitim ve Araştırma Hastanesi çevresidir; Tıp ve Diş öğrencileri burada kalır.
+  * **Büyük Ev Sahibi Tuzağı - Euro/Dolar Dayatması:** Alanya'da yabancı yerleşimci çok olduğu için bazı ev sahipleri Türk lirasını kabul etmeyip dövizle kira istemeye veya "yazın turist gelecek evi haziranda boşalt" taahhütnamesi imzalatmak isteyebilir. Bu tür sözleşmelerden kesinlikle uzak durun.
 
 ---
 
-## 5. 🌆 İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
-* **Sosyal Yaşam ve Tatil Atmosferi:**  
-  Alanya, Türkiye'nin en popüler uluslararası turizm destinasyonlarından biridir. Kleopatra Plajı, Damlataş Mağarası, Alanya Kalesi, Dim Çayı mesire alanları ve İskele barlar sokağı öğrencilerin boş vakitlerini değerlendirebileceği canlı bir atmosfer sunar.
-* **Staj ve Part-Time İş:**  
-  Özellikle Nisan-Kasım ayları arasında Alanya'da turizm, otelcilik, restoran işletmeciliği, animasyon, rehberlik ve su sporları sektörlerinde iş bulmak son derece kolaydır. Yabancı dilini geliştirmek isteyen öğrenciler için dünya çapında bir pratik ortamı mevcuttur.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* **Büyüleyici Deniz ve Doğa Manzarası:** Ders çalışırken veya yemekhanede otururken masmavi Akdeniz ve Alanya Kalesi manzarasını izleme lüksü.
-* **Turizm ve İş İmkânları:** Bölgedeki 5 yıldızlı otellerde staj ve yaz aylarında yüksek gelirli part-time çalışma şansı.
-* **Gazipaşa Havalimanı Erişimi:** Yarım saatte havalimanına ulaşıp büyükşehirlere ve yurt dışına kolayca uçabilme imkânı.
-* **Modern Kampüs Binaları:** 2015 sonrası yapılan yepyeni amfiler, laboratuvarlar ve konforlu KYK yurtları.
-
-### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
-* **Yokuşlu Kampüs Coğrafyası:** Kampüsün dik bir dağ yamacında olması nedeniyle yürüyerek dolaşmak yorucudur; yaz aylarında sıcakla birleştiğinde ciddi terletir.
-* **Alanya Merkeze Mesafe ve Otobüs Seferleri:** İlçe merkezine 10-12 km mesafededir. Sabah ve akşam ders çıkışlarında otobüslerde yoğun kuyruklar oluşabilir.
-* **Yabancı Nüfus ve Turizm Fiyatları:** Alanya'da yerleşik çok sayıda yabancı nüfus olduğu için ev kiraları ve dışarıda yeme-içme maliyetleri kışın bir nebze düşse de genel olarak yüksektir.
-* **Kış Durgunluğu:** Kasım ile Mart ayları arasında turizm sezonu kapandığı için sahil şeridi sessizliğe bürünür.
+* **Deniz Manzaralı Yemekhane:**  
+  Yemekhane Akdeniz'e ve Alanya Kalesi'ne tepeden bakan devasa pencerelere sahiptir. 4 çeşit tabldot yemek ~25-30 TL'dir. Ders çıkışı gün batımında yemekhane terasında oturup Akdeniz'i izlemek paha biçilmezdir.
+* **İlçe Lezzet Durakları:**  
+  * **Alanya Hülüklü Çorbası:** İşkembe, nohut, pirinç ve domates sosuyla hazırlanan tescilli yerel çorba, ilçe merkezindeki tarihi lokantalarda öğrencilerin favorisidir.
+  * **Dim Çayı Çardak Kahvaltıları:** Kampüsün hemen yanındaki serin vadide yer alan Dim Çayı üzerinde, buz gibi suyun üzerine kurulmuş ahşap çardaklarda hafta sonu ucuz köy kahvaltısı yapmak ve yüzmek Alanya klasiğidir.
+  * **Cuma Pazarı:** Cuma günleri kurulan dev pazardan tropik meyveler (avokado, muz, mango, portakal) toptan fiyatına alınır.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 4. 📚 Akademik & Sınav Hayatta Kalma
 
-> 💬 **Öğrenci Notu:**  
-> "ALKÜ'ye gelecekseniz buranın bir ilçe üniversitesi değil, uluslararası bir tatil kentinde deniz manzaralı modern bir kampüs olduğunu göreceksiniz. Ulaşım için Cuma Pazarı otobüs saatlerini ezberleyin ya da bütçeniz elveriyorsa küçük bir motor/scooter edinin; Alanya sahilinde motorla gezmek hayat kalitenizi beşe katlar. Barınma için öncelikle Mahmutlar veya Kestel KYK yurtlarını zorlayın; hem çok konforlular hem de bütçenizi korurlar!"
+* **Akademik Birimler & Turizm/Sağlık Stajları:**  
+  * **Rafet Kayış Mühendislik Fakültesi:** Bilgisayar, Makine ve İnşaat laboratuvarları moderndir.
+  * **Tıp ve Diş Hekimliği:** Alanya Eğitim ve Araştırma Hastanesi (Oba) entegrasyonuyla klinik eğitim yürütülür.
+  * **Turizm ve Gastronomi:** Bölgedeki 5 yıldızlı uluslararası otellerle yapılan protokoller sayesinde öğrencilere yaz aylarında döviz bazlı yevmiyeli staj ve part-time iş kapıları açılır.
+* **Kütüphanede Sınav Nöbeti:**  
+  Merkezi Kütüphane sınav haftasında 7/24 açıktır; masalarda priz ve hızlı eduroam mevcuttur. Rektörlük geceleri sıcak çorba ve meyve suyu dağıtır.
+
+---
+
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **Dik Dağ Yamacında Terleme Çilesi:**  
+  Kampüsün yokuşlu coğrafyası nedeniyle sıcak aylarda amfiler arasında yürümek ciddi anlamda yorucudur.
+* **Turizm Sezonu Fiyat Farklılıkları:**  
+  Nisan ile Ekim arasında Alanya'da çarşı, kafe ve market fiyatları yabancı turist tarifesine yaklaşabilir; öğrencilerin yerel market ve esnafı tanıması gerekir.
+* **Kış Durgunluğu:**  
+  Turizm sezonu bittiğinde (Kasım-Mart) sahil şeridi ve barlar tenhalaşır; sosyal hayat ilçe merkezindeki birkaç ana caddeye sıkışır.
+
+---
+
+## 6. 💡 Altın Tavsiyeler (İlk Hafta Hayatta Kalma Kiti)
+
+1. **Uçak Biletini Gazipaşa'ya (GZP) Al:** Antalya Havalimanı yerine Gazipaşa'ya in; 3 saatlik virajlı otobüs yolculuğundan kurtulup 25 dakikada evine geç.
+2. **Scooter / Küçük Motor Edin:** Alanya düz sahil şeridine ve Kestel rampasına sahiptir; bütçen yetiyorsa 50cc-125cc bir motor almak öğrencilik hayat kaliteni 5 katına çıkarır.
+3. **Dim Çayı'nı Yazın Sığınağın Yap:** Yaz sıcağında 40 derece nemden bunaldığında ders çalışmak ve serinlemek için Dim Çayı üzerindeki çardak kafelere sığın.
+4. **Mahmutlar'da Havuzlu Site Fırsatlarını Araştır:** 2-3 arkadaş birleşip Mahmutlar'da havuzlu rezidans kiralamak Alanya'da bir öğrencinin yapabileceği en akıllıca hamledir.

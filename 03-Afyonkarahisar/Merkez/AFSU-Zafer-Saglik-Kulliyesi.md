@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Afyonkarahisar / Merkez (İzmir Yolu - Dörtyol / Uydukent)  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Merkez Kampüs (İzmir Karayolu 8. km, Uydukent Yakını)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (3.8/5)
+> **Kampüs Konumu:** Merkez Kampüs (İzmir Karayolu 8. km, Özdilek/Afium AVM Yanı)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (3.9/5)
 
 ---
 
@@ -12,88 +12,76 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 6 - 8 km / ~15-20 dk | İzmir yolu üzerinde; Tıp/Uydukent minibüsleri ve belediye otobüsleriyle ulaşım |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Bacım Sultan KYK Kız Yurdu ve Erenler/Merkez KYK yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 10.000 - 16.000 TL | Uydukent (Selçuklu Mah.), Dörtyol, Cumhuriyet Mah. veya Erenler |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Külliye içinde temiz ve düzenli yemekhane |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri + Sınav Dönemi Uzatmalı | Tıp ve sağlık öğrencilerinin yoğun kullandığı sessiz çalışma salonları |
-| **🌐 İnternet (eduroam)** | İyi | Tüm fakülte ve hastane bloklarında eduroam aktif |
-| **🌆 Sosyal Yaşam & Çevre** | Dengeli | Yanında Afium ve Özdilek AVM'ler ile Uydukent kafeleri yer alır |
+| **🚇 Şehir Merkezine Uzaklık** | 6 - 8 km / ~15-20 dk | İzmir yolu üzerinde; Tıp Fakültesi / Uydukent minibüsleri ve belediye otobüsleri |
+| **🏠 KYK Yurt İmkanı** | Yüksek | Bacım Sultan KYK Kız Yurdu ve Abdurrahim Mısri Yurdu külliye/Uydukent aksında |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 10.000 - 16.000 TL | Uydukent (Selçuklu, Osmangazi Mah.) AFJET jeotermal ısıtmalı konutlar |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 30 TL / Hastane Entegre | Temiz ve protein ağırlıklı tabldot menü, nöbetçi tıp/sağlık öğrencisi akşam yemeği |
+| **📚 Kütüphane Kapasitesi** | 7/24 TUS Odaklı | Tıp ve Diş Hekimliği çalışma salonları, sessiz etüt alanları, zengin dijital kütüphane |
+| **🌐 İnternet (eduroam)** | Çok Hızlı | Hastane ve fakülte binalarında güçlü medikal fiber altyapı ve eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | AVM & Uydukent Kafe Aksı | Afium Outlet, Özdilek Park, Uydukent yeni nesil kahvecileri |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **Şehir Merkezinden Ulaşım:**  
-  AFSÜ Zafer Sağlık Külliyesi (Tıp, Diş Hekimliği, Eczacılık, Sağlık Bilimleri Fakülteleri ve Atatürk Sağlık Hizmetleri MYO), AKÜ ANS Kampüsü'nden **farklı bir konumda**, Afyon-İzmir karayolu üzerinde (Dörtyol / Uydukent kavşağı ile Özdilek-Afium AVM arasında) yer alır. Şehir merkezinden (Anıtpark, Yeşilyol, Ambaryolu) kalkan **Tıp Fakültesi / Özdilek / Uydukent minibüsleri** ve belediye otobüsleri doğrudan külliye kapısından geçer.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Zafer Sağlık Külliyesi içinde AFSÜ Uygulama ve Araştırma Hastanesi (Mavi Hastane), Tıp, Diş, Eczacılık ve Sağlık Bilimleri binaları aynı yerleşke içinde birbirine 3-5 dakikalık yürüme mesafesindedir.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Belediye otobüslerinde **Afyon Kart**, minibüslerde ise öğrenci tarifesi geçerlidir.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Külliye ana karayolu ve şehir hastanesi/Uydukent aksında olduğu için kışın yollar sürekli açık tutulur.
+* **En Büyük Hata - Kampüs Karışıklığı:**  
+  AFSÜ Zafer Sağlık Külliyesi, AKÜ ANS Kampüsü ile **tamamen farklı bir yöndedir**! ANS Kampüsü Gazlıgöl/Eskişehir yolunda iken, AFSÜ Zafer Külliyesi Afyon-İzmir karayolunun 8. kilometresindedir.
+  * Şehir merkezinden (Anıtpark, Yeşilyol) kalkan **Tıp Fakültesi / Özdilek / Uydukent minibüsleri** doğrudan hastane ve fakültelerin önüne kadar gelir.
+  * **Erenler'den Gelenler İçin Taktik:** Eğer Erenler'de kalıyorsanız külliyeye direkt araç bulmak zordur; ya şehir merkezinde aktarma yapmalı ya da öğrencilerin sabah 08:00'de organize ettiği servis/dolmuş gruplarına katılmalısınız. Bu nedenle AFSÜ öğrencilerinin Erenler yerine **Uydukent'te** oturması hayati önem taşır.
+* **Otostop Noktası:**  
+  * **İzmir Yolu Hastane Nizamiye Çıkışı:** Çarşı veya Uydukent yönüne giden personeller nöbet çıkışı öğrencileri arabalarına alır.
+* **Ulaşım Kartı:**  
+  Belediye halk otobüslerinde **Afyon Kart** geçerlidir; dolmuşlarda nakit ve temassız kart kullanılabilir.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma & KYK Gerçekleri
 
 * **KYK Yurtları:**  
-  * **Kız ve Erkek Yurtları:** Külliyeye ve Uydukent bölgesine yakın **Bacım Sultan KYK Kız Yurdu**, **Abdurrahim Mısri KYK Yurdu** ile AKÜ ANS tarafındaki büyük KYK yurtlarında kalınır. ANS/Erenler tarafındaki KYK yurtlarında kalan AFSÜ öğrencileri sabah-akşam aktarmalı veya kampüsler arası hatlarla külliyeye gelir.
-* **Özel Yurtlar ve Apartlar:**  
-  Uydukent (Selçuklu Mahallesi), Dörtyol ve Yeşilyol çevresinde apartlar ve özel yurtlar mevcuttur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  AFSÜ öğrencileri için en ideal yerleşim yeri külliyenin hemen arka tarafında uzanan **Uydukent (Selçuklu, Yeşilyurt, Osmangazi Mahalleleri)** bölgesidir. Buradaki evlerin büyük kısmı yeni yapılıdır ve **AFJET (jeotermal merkezi ısınma)** sistemine sahip olduğu için kışın çok iyi ısınır. Kiralar 2+1 ve 3+1 dairelerde **11.000 - 16.000 TL** civarındadır. Tek başına eşyalı apart isteyenler ise **Erenler** veya **Cumhuriyet Mahallesi**'ni tercih eder.
+  * **Bacım Sultan KYK Kız Yurdu:** Uydukent / Külliye aksındadır ve kız öğrenciler için en büyük nimettir. Odalar 4 kişilik, bazalı ve çalışma masalıdır. Külliyeye yürüyerek 10-15 dakikada veya tek minibüsle 3 dakikada gidilir. 23:00 parmak izi kontrolü uygulanır (nöbetçi stajyer öğrenciler nöbet çizelgelerini yurt idaresine vererek geç giriş izni alır).
+  * **Abdurrahim Mısri KYK Yurdu:** Erkek öğrenciler için bölgedeki ana yurttur.
+* **Öğrenci Mahalleleri & AFJET (Jeotermal) Isınma:**  
+  * **Uydukent (Selçuklu, Osmangazi ve Yeşilyurt Mahalleleri):** AFSÜ öğrencilerinin %80'inin yaşadığı bölgedir. Geniş caddeleri, yeni siteleri ve nezih ortamıyla bilinir.
+  * **AFJET Isınma Avantajı:** Uydukent'teki evlerin neredeyse tamamı Afyon Jeotermal (AFJET) ile 24 saat sıcacık ısınır. Kışın doğalgaz kombi derdi olmadan, sabit ve çok uygun jeotermal yakıt faturası ödenir. Kiralar 2+1 ve 3+1 dairelerde **11.000 - 16.000 TL** civarındadır.
+  * **Tuzak:** Ev kiralarken binada AFJET bağlantısının aktif olup olmadığını kontrol edin; bazı eski binalarda hat sorunları nedeniyle elektrikli ısıtıcıya mahkum kalınabilir.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
-* **Kütüphane İmkanları:**  
-  Sağlık temalı bir üniversite olduğu için TUS, DUS ve komite sınavlarına hazırlanan öğrencilerin yoğun kullandığı sessiz çalışma salonları ve tıp veri tabanlarına erişimli kütüphanesi vardır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  2018'de AKÜ'den ayrılarak sağlık ihtisas üniversitesine dönüşen AFSÜ'nün en büyük gücü, külliye içindeki **AFSÜ Sağlık Uygulama ve Araştırma Merkezi (Üniversite Hastanesi)**, Fizik Tedavi ve Rehabilitasyon Hastanesi ile Diş Hekimliği Hastanesi'dir. Kadavra, anatomi, farmasötik teknoloji ve simülasyon laboratuvarları oldukça donanımlıdır; klinik stajlarda hasta çeşitliliği çok yüksektir.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Külliye genelinde **eduroam** bağlantısı aktiftir.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Türk Tıp Öğrencileri Birliği (TurkMSIC), Genç Eczacılar, Diş Hekimliği, Fizyoterapi ve Sosyal Sorumluluk toplulukları mesleki kongreler ve etkinlikler düzenler.
+* **Yemekhane Düzeni:**  
+  Külliye içinde öğrenci yemekhanesi bulunur; güncel tabldot ücreti ~30 TL'dir. Hastane mutfağıyla entegre çalıştığı için hijyen ve kalori dengesi yüksektir. İntörn doktorlar ve nöbetçi stajyerler için hastane yemekhanesinde gece çorbası ve sandviç imkanı bulunur.
+* **Çevre Lezzet Durakları:**  
+  * Külliyenin hemen yanında yer alan **Afium Outlet ve Özdilek Park** içindeki zincir restoranlar, kafeler ve fast-food noktaları ders aralarında sıkça kullanılır.
+  * Nöbetteki sağlık öğrencileri için Uydukent'teki gece açık tostçular ve köfteciler en hızlı teslimat yapan kurtarıcılardır.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 4. 📚 Akademik & Sınav Hayatta Kalma (Tıp ve Sağlık İhtisası)
 
-* **Merkez Yemekhane:**  
-  Zafer Sağlık Külliyesi içindeki öğrenci yemekhanesinde uygun fiyata (~25-35 TL) 4 çeşit öğle yemeği çıkar.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Külliye içinde kantinler ve kafeteryalar mevcuttur. Ayrıca külliyenin hemen yürüme/tek durak mesafesinde açık hava konseptli **Afium Outlet AVM** ve **Özdilek** yer aldığı için ders aralarında veya çıkışında sinema, yemek ve alışveriş olanakları çok yakındır.
-* **Spor Tesisleri:**  
-  Külliye içinde açık spor alanları ve yürüyüş yolları bulunur; kapsamlı spor tesisleri için AKÜ ANS Kampüsü veya Uydukent'teki belediye tesisleri kullanılır.
-
----
-
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
-
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Uydukent bölgesi şehrin en modern, düzenli ve aile/memur/doktor ağırlıklı kesimidir; oldukça güvenli ve nezih bir çevresi vardır.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  **Uydukent kafeler caddesi (Selçuklu Mah.)**, hemen yakındaki **Afium AVM**, **Park Afyon** ve **Erenler** öğrencilerin vakit geçirdiği başlıca yerlerdir.
-* **Part-Time İş ve Staj Olanakları:**  
-  Sağlık bölümleri ağırlıklı olduğu için zorunlu klinik stajlar ve intörnlük doğrudan külliye içindeki üniversite hastanesinde ve şehirdeki termal fizik tedavi merkezlerinde yapılır.
+* **Komite ve Kurul Sınavları Sistemi:**  
+  Tıp ve Diş Hekimliği Fakülteleri'nde kurul/komite sistemi uygulanır.
+  * Her 5-6 haftada bir komite sınavı yapılır; anatomi, histoloji, fizyoloji ve biyokimya derslerinin barajı vardır.
+  * %50 baraj kuralı nedeniyle bir derste barajın altında kalırsanız eksi puan yazılır; bu yüzden "tek derse yüklenip diğerini boş verme" taktiği AFSÜ'de işlemez.
+  * Pratik ve anatomi laboratuvarlarında devamsızlık toleransı %0'a yakındır; kaçırılan her laboratuvar için telafi kurulu gerekir.
+* **Kütüphanede TUS/DUS Nöbetleri:**  
+  AFSÜ Kütüphanesi ve sessiz çalışma salonları 7/24 açıktır. 
+  * 4., 5. ve 6. sınıf tıp öğrencileri TUS hazırlığı için sabahın erken saatlerinde masalara kalın tıp kitaplarını bırakarak yer tutar.
+  * Sessizlik kuralı aşırı katıdır; telefonla konuşmak veya fısıldaşmak dahi anında uyarılır.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 5. ❌ Eksileri ve Kronik Sorunları
 
-### ✅ Artıları
-* **Güçlü Klinik ve Uygulama Eğitimi:** Hastane ve fakültelerin aynı bahçe içinde olması Tıp, Diş, Eczacılık ve Hemşirelik öğrencileri için büyük pratik avantaj sağlar.
-* **Uydukent ve Afium AVM Yakınlığı:** Hem modern ve AFJET ısınmalı Uydukent evlerine hem de şehrin en popüler AVM'sine çok yakındır.
-
-### ❌ Eksileri
-* **Kompakt Kampüs Alanı:** AKÜ ANS Kampüsü kadar devasa bir yeşil alanı ve şenlik atmosferi yoktur; daha çok ciddi bir tıp/hastane kampüsü havasındadır.
-* **AKÜ Kampüsü ile Ayrı Konum:** Erenler'de kalan öğrencilerin külliyeye gelmesi için dolmuş kullanması gerekir.
+* **Hastane Atmosferi ve Sosyal Boşluk:**  
+  Zafer Külliyesi klasik bir çimlerinde oturulan, amfi tiyatrosunda konser dinlenen yeşil kampüs değildir; büyük bir araştırma hastanesi etrafında şekillenmiştir. Bu durum öğrencilere erken dönemde yoğun bir klinik deneyim kazandırırken, klasik üniversite festival havasından mahrum bırakır.
+* **Erenler Öğrenci Ortamına Uzaklık:**  
+  AKÜ öğrencilerinin yaşadığı Erenler'deki kafe ve eğlence ortamı külliyeye yaklaşık 10 km uzaklıktadır; gece dönüşte taksi masrafı yüksek olabilir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 6. 💡 Altın Tavsiyeler
 
-> 💬 **Öğrenci Notu:**  
-> "AFSÜ'yü kazandıysan ev tutarken Erenler yerine doğrudan külliyenin arkasındaki Uydukent (Selçuklu Mahallesi) bölgesine ve AFJET ısınmalı dairelere bak; hem sabah 08:30 komitelerine ve hastane stajlarına uykusuz kalmadan yetişirsin hem de kışın Afyon soğuğunda sıcacık ders çalışırsın."
+1. **Evini Mutlaka Uydukent'te Tut:** Erenler cazip görünse de sabah 08:00 vizitlerine ve gece 24 saatlik klinik nöbetlerine yetişmek için Uydukent'te yürüyerek gidip gelinecek bir ev hayat kurtarır.
+2. **AFJET'li Bina Seç:** Kışın -15 derecede ısınma faturası stresi yaşamamak için AFJET bağlantılı konutları tercih et.
+3. **Anatomi ve Maket Laboratuvarlarını Boş Saatlerde Kullan:** Sınav öncesinde laboratuvarlar kilitlenmeden boş saatlerde kadavra ve maketler üzerinde bireysel tekrar yap; kurul sınavını geçmenin sırrı dokunarak öğrenmektir.

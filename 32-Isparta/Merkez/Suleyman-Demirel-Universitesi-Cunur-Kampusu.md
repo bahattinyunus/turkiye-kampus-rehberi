@@ -2,9 +2,9 @@
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Isparta / Merkez (Çünür)  
-> **Üniversite Türü:** Devlet  
+> **Üniversite Türü:** Devlet (Köklü Bölge Araştırma Üniversitesi)  
 > **Kampüs Konumu:** Ana Merkez Kampüs (Doğu ve Batı Yerleşkeleri)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.7/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.8/5)
 
 ---
 
@@ -12,93 +12,76 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 7 km / ~15-20 dk | Kaymakkapı Meydanı ve Kafeler Caddesi'nden 2-3 dakikada bir halk otobüsü |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Doğu Kampüsü içinde Türkiye'nin en büyük KYK yurt komplekslerinden biri |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 9.500 - 15.000 TL | Çünür (1+1 apartlar), Fatih/Bahçelievler (Iyaş çevresi) ve Kafeler Caddesi |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Doğu ve Batı Kampüsü dev yemekhanelerinde öğle ve akşam yemeği |
-| **📚 Kütüphane Kapasitesi** | 7/24 Açık (Bilgi Merkezi) | Prof. Dr. Hasan Gürbüz Bilgi Merkezi (devasa, konforlu ve sınavda çorba ikramlı) |
-| **🌐 İnternet (eduroam)** | Hızlı | Tüm fakülte binalarında, kütüphanede ve 19 Mayıs Meydanı'nda güçlü |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı | Tam bir öğrenci kenti; Kafeler Caddesi, Davraz Kayak Merkezi ve Antalya'ya yakınlık |
+| **🚇 Şehir Merkezine Uzaklık** | 7 km / ~15 dk | Kaymakkapı Meydanı ve Kafeler Caddesi'nden 2-3 dakikada bir kalkan halk otobüsleri |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (%85+ Yerleşme) | Doğu Kampüsü içinde Türkiye'nin en büyük KYK yurt komplekslerinden biri |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 9.500 - 15.000 TL | Çünür (1+1 fatura dahil apartlar), Fatih/Bahçelievler (Iyaşpark çevresi) ve Kafeler Caddesi |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Doğu ve Batı Kampüsü yemekhanelerinde öğle/akşam yemeği + vejetaryen/glütensiz menü |
+| **📚 Kütüphane Kapasitesi** | 7/24 Açık (Bilgi Merkezi) | **Prof. Dr. Hasan Gürbüz Bilgi Merkezi** (Geniş salonlar, sessiz petekler, gece çorba ikramı) |
+| **🌐 İnternet (eduroam)** | Hızlı / Kesintisiz | Tüm fakültelerde, Bilgi Merkezi'nde ve 19 Mayıs Öğrenci Meydanı'nda eduroam aktif |
+| **🌆 Sosyal Yaşam & Çevre** | Gerçek Öğrenci Şehri | Kafeler Caddesi, Çünür kafeleri, Davraz Kayak Merkezi (30 dk) ve 1.5 saatte Antalya |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚇 Ulaşım Taktikleri: Doğu-Batı Geçişi ve Gülkart Hatları
 
-* **Şehir Merkezinden Ulaşım:**  
-  SDÜ'nün efsanevi **Çünür Kampüsü**, Isparta şehir merkezinin 7 km kuzeyinde, Afyon-Antalya karayolu (Süleyman Demirel Bulvarı) iki yakasında **Doğu Yerleşkesi** ve **Batı Yerleşkesi** olarak konumlanır. Şehir merkezindeki **Kaymakkapı Meydanı**'ndan, **Kafeler Caddesi**'nden ve **Iyaşpark AVM** önünden kalkan halk otobüsleri doğrudan kampüsün içine girer ve Doğu-Batı yerleşkelerinde ring yaparak tüm fakültelerin önünden geçer. Ayrıca **Isparta Şehirlerarası Otobüs Terminali (Yeni Otogar)** hemen Çünür Mahallesi'nde, kampüsün yanı başında yer alır; otogarda inip yürüyerek bile kampüse veya Çünür'deki apartınıza geçebilirsiniz.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Doğu Yerleşkesi (Tıp, Diş Hekimliği, Hukuk, İİBF, Eğitim, İlahiyat, Eczacılık, Araştırma Hastanesi ve KYK Yurtları) ile Batı Yerleşkesi (Mühendislik ve Doğa Bilimleri, İnsan ve Toplum Bilimleri, Güzel Sanatlar, Mimarlık) birbirine büyük bir yaya üst geçidiyle bağlanır. Kampüs tamamen düz bir ova üzerinde kurulu olduğu için yürümek ve bisiklet/scooter kullanmak son derece keyiflidir.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Halk otobüslerinde **Gülkart** öğrenci kartı kullanılır; kampüs içi ring hatları ve merkez-kampüs aktarmaları öğrenci bütçesine uygundur.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Isparta, Akdeniz Bölgesi'nde yer alsa da 1.050 metre rakımlı Göller Yöresi iklimine sahiptir; kış geceleri ayaz ve kuru soğuk (-5°C ile -10°C) yapar, yılda birkaç kez kar yağar. Ancak Çünür Kampüsü dümdüz olduğu için buzlanmada yokuş kaygısı yaşanmaz.
+SDÜ Çünür Kampüsü, Isparta şehir merkezinin 7 km kuzeyinde, Süleyman Demirel Bulvarı'nın iki tarafına yerleşmiş Doğu ve Batı kampüslerinden oluşur.
 
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  * **Kız ve Erkek Yurtları:** SDÜ Doğu Yerleşkesi sınırları içinde yer alan **Isparta KYK Kız Yurdu**, **Mihri Hatun KYK Kız Yurdu**, **Murat Hüdavendigar KYK Erkek Yurdu** ve **Bediüzzaman Said Nursi KYK Yurdu** binlerce öğrenci kapasitesiyle adeta kampüs içinde ayrı bir şehir gibidir. Yurtlardan fakültelere, kütüphaneye ve yemekhaneye yürüyerek 5-10 dakikada ulaşılır.
-* **Özel Yurtlar ve Apartlar:**  
-  Isparta, Türkiye'de **1+1 ve 1+0 eşyalı öğrenci apartı** kültürünün en gelişmiş olduğu ildir. Hem Çünür Mahallesi'nde hem de Fatih/Bahçelievler ve merkezde resepsiyonlu, güvenlikli, faturalar (doğalgaz, sıcak su, internet) kiraya dahil yüzlerce apart seçeneği vardır.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Çünür Mahallesi:** Kampüse yürüyerek gitmek isteyenlerin 1 numaralı tercihidir. Tamamı son 5-10 yılda yapılmış modern apartlardan ve kafelerden oluşur.
-  * **Fatih, Zafer ve Bahçelievler Mahallesi:** Iyaşpark AVM ve Meydan AVM çevresindedir; hem merkeze hem kampüse yakın orta noktadır.
-  * **Kutlubey, Pirimehmet ve Yayla (Kafeler Caddesi çevresi):** Sosyal hayatın ve gece yaşamının tam kalbinde olmak isteyen öğrencilerin 2+1 ve 3+1 daire kiraladığı merkez mahallelerdir. Kiralar 9.500 - 15.000 TL aralığındadır.
+### 🚌 Şehir İçi Ulaşım ve Otobüs Hatları
+* **Halk Otobüsleri (9, 10, 14, 38 Numaralı Hatlar):**  
+  Şehir merkezindeki **Kaymakkapı Meydanı**, **Kafeler Caddesi** ve **Iyaşpark AVM** önünden kalkan otobüsler her 2-3 dakikada bir Çünür Kampüsü'ne sefer yapar. Otobüsler hem Doğu Kampüsü'nün (Tıp, Hukuk, İİBF, KYK Yurtları) hem de Batı Kampüsü'nün (Mühendislik, Mimarlık, Fen-Edebiyat) içini dolaşır.
+* **Gülkart İndirimli Öğrenci Kartı:**  
+  Isparta Özel Halk Otobüsleri'nde **Gülkart** kullanılır; aylık abonman veya bakiye yüklemesiyle çok ekonomik seyahat edilir.
+* **Doğu - Batı Kampüs Yaya Geçişi:**  
+  İki kampüsü bölen otoyolun üzerinden geçen modern **Yaya Üst Geçidi** sayesinde ders aralarında 4 dakikada bir kampüsten diğerine yürünebilir. Kampüs dümdüz bir ova üzerinde olduğu için bisiklet ve elektrikli scooter kullanımı oldukça rahattır.
+* **Yeni Otogar Kolaylığı:**  
+  Isparta Şehirlerarası Otobüs Terminali doğrudan Çünür Mahallesi'ndedir; şehre ilk gelen veya memleketten dönen öğrenci otogardan inip yürüyerek Çünür'deki evine ya da kampüs yurtlarına 10 dakikada geçebilir.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma, Yurtlar ve Mahalle Dinamikleri
 
-* **Kütüphane İmkanları:**  
-  Doğu ve Batı yerleşkelerinin birleşim aksında yer alan **Prof. Dr. Hasan Gürbüz Bilgi Merkezi (Merkez Kütüphane)**, yüz binlerce basılı kaynağı, ferah bireysel çalışma salonları, sesli/grup çalışma alanları ve vize-final dönemlerinde **7/24 açık** hizmetiyle öğrencilerin ikinci evidir. Sınav haftalarında üniversite ve belediye tarafından gece çorba/çay ikramı yapılır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  1992 yılında kurulan köklü SDÜ; Tıp Fakültesi ve devasa Araştırma Hastanesi, Diş Hekimliği Hastanesi, Merkezi Araştırma Laboratuvarı (YETEM), Mühendislik laboratuvarları, Hukuk kurgusal duruşma salonu ve Güzel Sanatlar atölyeleriyle çok güçlü bir fiziki altyapıya sahiptir.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Kampüs genelinde **eduroam** hızlı ve kesintisizdir. SDÜ Mobil uygulaması ve OBS üzerinden yemekhane rezervasyonu, ders seçimi ve ring takibi kolayca yapılır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  SDÜ'de 100'den fazla aktif öğrenci topluluğu vardır. Kampüsün kalbi olan **19 Mayıs Açıkhava Tiyatrosu ve Öğrenci Meydanı**, bahar şenliklerinde, kulüp tanıtım günlerinde ve açık hava konserlerinde on binlerce öğrenciyi ağırlar. Dağcılık ve Kayak (Davraz), Tiyatro, Müzik, IEEE, Havacılık ve TEKNOFEST takımları çok aktiftir.
+Isparta, Türkiye'de barınma imkanlarının en çeşitli ve öğrenci dostu olduğu şehirlerin başında gelir.
 
----
+### 🏢 Doğu Kampüsü İçi KYK Yurtları
+* **Devasa Yurt Kompleksi:** Doğu Yerleşkesi arazisinde yer alan **Murat Hüdavendigar KYK Erkek Yurdu**, **Isparta KYK Kız Yurdu**, **Mihri Hatun KYK Kız Yurdu** ve **Bediüzzaman Said Nursi KYK Yurdu**, binlerce öğrenciyi barındırır.
+* **Koşullar:** Odalar 3-4 kişiliktir, doğalgaz merkezi ısıtmalıdır; kışın dondurucu ayazda yurt odaları tişörtle gezilecek kadar sıcaktır. Sıcak su 7/24 akar, çamaşırhaneler ücretsizdir. Turnike kapanış saati 23:00'tür; Bilgi Merkezi'nde çalışan öğrenciler çalışma fişiyle geç giriş yapabilir.
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane:**  
-  Hem Doğu hem de Batı yerleşkesinde devasa öğrenci yemekhaneleri bulunur. Hafta içi öğle ve akşam saatlerinde 4 çeşit kaliteli yemek (25-35 TL) verilir; ayrıca çölyak/glütensiz ve vejetaryen beslenen öğrenciler için de diyet menü opsiyonları mevcuttur.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içindeki **19 Mayıs Öğrenci Meydanı ve Çarşısı**'nda kafeler, restoranlar, kırtasiyeler, fotokopi merkezleri (ders notu kültürünün kalesi!), berber/kuaför, PTT, kargo şubeleri ve banka ATM'leri yer alır. Kampüsten hiç çıkmadan haftalarca yaşamak mümkündür.
-* **Spor Tesisleri:**  
-  **29 Ekim Olimpik Yüzme Havuzu**, Atatürk Spor Salonu, Doğu ve Batı kampüs halı sahaları, tenis kortları, tırmanma duvarı ve fitness merkezleri Türkiye'deki en kapsamlı üniversite spor tesisleri arasındadır.
+### 🏘️ Çünür Apart Kültürü ve Mahalleler
+* **Çünür Mahallesi Apartları:** Kampüsün hemen bitişiğindeki Çünür Mahallesi, tamamen üniversite öğrencileri için inşa edilmiş yüzlerce 1+1 ve 1+0 eşyalı aparttan oluşur. Çoğu apartta doğalgaz, sıcak su, internet ve aidat kiraya dahil paket olarak sunulur (9.500 - 15.000 TL).
+* **Fatih ve Bahçelievler:** Iyaşpark AVM ve Meydan AVM çevresidir; hem merkeze hem okula yakın olmak isteyenlerin tercihidir.
+* **Kafeler Caddesi Çevresi (Kutlubey / Pirimehmet):** Gece hayatının ve kafelerin göbeğinde yaşamak isteyenler için popüler 2+1 ve 3+1 daireler sunar.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🍽️ Beslenme, Kampüs İçi Yaşam ve Sokak Lezzetleri
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Isparta'nın ekonomisi doğrudan üniversite öğrencisine dayandığı için esnaf ve halk öğrenciye son derece alışkındır. Şehir güvenli, düzenli ve gece geç saatlerde dahi öğrencilerin sokakta rahatça yürüyebildiği bir yapıya sahiptir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  * **Kafeler Caddesi (113. Cadde):** Yan yana dizilmiş onlarca kafe, pub, canlı müzik mekanı, tatlıcı ve oyun salonuyla akşam saatlerinde iğne atsan yere düşmeyecek kadar kalabalık bir öğrenci caddesidir.
-  * **Doğa, Göl ve Kayak:** Kışın kampüse sadece 30 dakika uzaklıktaki **Davraz Kayak Merkezi**'nde kayak yapmak, baharda **Gölcük Krater Gölü** ve **Eğirdir Gölü**'nde kamp kurmak, bunaldığınızda ise otobüsle **1.5 saatte Antalya Konyaaltı Plajı'na** yüzmeye gitmek Isparta'da öğrenciliğin en büyük ayrıcalığıdır.
-* **Part-Time İş ve Staj Olanakları:**  
-  Kampüs içindeki **Göller Bölgesi Teknokenti** yazılım ve mühendislik öğrencilerine staj ve part-time iş imkanı sunar. Ayrıca Kafeler Caddesi, Çünür kafeleri ve Iyaşpark/Meydan AVM mağazalarında binlerce öğrenci part-time çalışmaktadır.
+* **Merkez Yemekhaneler:** Doğu ve Batı kampüslerinde yer alan dev yemekhanelerde 25-35 TL'ye 4 çeşit kaliteli yemek sunulur. Vejetaryen ve glütensiz beslenenler için ayrı menüler mevcuttur.
+* **Isparta Fırın Kebabı:** Özel bakır fırınlarda saatlerce kendi yağıyla nar gibi pişen pide üstü kuzu eti fırın kebabı, sınav sonralarında öğrencilerin bütçe kutlamalarının kralıdır.
+* **Gül Ürünleri & Tatlılar:** Gül lokumu, gül şerbeti ve dondurması şehrin her yerinde bulunur.
+* **19 Mayıs Öğrenci Meydanı ve Kafeler Caddesi:** 19 Mayıs Açıkhava Tiyatrosu çevresindeki kafeler, simit fırınları ve wafflecılar ders aralarında öğrencilerin sosyalleşme merkezidir; akşamları ise Kafeler Caddesi dolup taşar.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 4. 📚 Akademik ve Hayatta Kalma Rehberi
 
-### ✅ Artıları
-* Türkiye'nin en düzenli, düz ayak, yeşil ve tam donanımlı kampüslerinden biri (Çünür Doğu & Batı Kampüsü).
-* Kampüs içinde devasa KYK yurt kapasitesi ve şehir genelinde çok gelişmiş, ekonomik 1+1 eşyalı apart kültürü.
-* Hem kışın Davraz'da kayak yapabilme hem de 1.5 saatte Antalya'ya denize inebilme lüksü.
-
-### ❌ Eksileri
-* Kış aylarında (Aralık-Şubat) gece ayazının ve kuru soğuğun sert hissedilmesi.
-* Büyük sanayi kuruluşlarının azlığı nedeniyle bazı mühendislik bölümlerinin yaz stajı için büyükşehirlere gitmesi gerekmesi.
-* Sınav dönemlerinde kütüphane ve popüler otobüs saatlerinde yaşanan yoğunluk.
+* **Akademik Prestij:**  
+  SDÜ Tıp Fakültesi ve Araştırma Hastanesi, Diş Hekimliği Hastanesi ve Mühendislik Fakültesi güçlü laboratuvar altyapısına sahiptir. Hukuk Fakültesi'nde kurgusal duruşmalar yapılır.
+* **Prof. Dr. Hasan Gürbüz Bilgi Merkezi (Merkez Kütüphane):**  
+  Doğu ve Batı kampüslerinin kesişim noktasındadır. Vize ve final haftalarında 7/24 açıktır; gece 01:00'de dağıtılan sıcak mercimek çorbası ve çay ikramı SDÜ geleneğidir.
+* **Davraz Kayak Merkezi & Antalya Kaçamağı:**  
+  Kış aylarında kampüse 30 dakika mesafedeki Davraz Kayak Merkezi'nde uygun öğrenci skipass fiyatlarıyla kayak yapmak; baharda ise otobüsle 1.5 saatte Antalya Konyaaltı sahiline inip yüzmek SDÜ öğrencisinin en büyük ayrıcalığıdır.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
 
-> 💬 **Öğrenci Notu:**  
-> "Eskişehir'in kalabalığından ve pahalı kiralarından çekiniyorsan ama tam bir öğrenci şehrinde, efsane bir kampüste okumak istiyorsan SDÜ Çünür Kampüsü nokta atışıdır. İlk senende Doğu Kampüsü'ndeki KYK yurtlarında kalıp ortamı tanı, 2. sınıfta istersen Çünür'de veya Kafeler Caddesi'nde faturalar dahil 1+1 aparta çık. Kışın Davraz'a, baharda Antalya'ya gitmeden ve meşhur Isparta fırın kebabını tatmadan mezun olma!"
+* **Kış Ayazı ve Kuru Soğuk:** Rakım 1.050 metredir; kışın geceleri sıcaklık -10 dereceye kadar düşebilir; rüzgarlı günlerde kalın mont ve atkı şarttır.
+* **Akşam Otobüs Yoğunluğu:** 17:00 - 18:30 saatleri arasında kampüsten merkeze inen halk otobüslerinde yoğunluk yaşanabilir; ara saatleri seçmek rahatlatır.
+
+---
+
+## 6. 💡 Altın Tavsiyeler
+
+> 💡 **Altın Kural 1:** Kampüse yürümek istiyorsan Çünür Mahallesi'ndeki fatura dahil 1+1 apartları incele; sosyal hayatın merkezinde olmak istiyorsan Kafeler Caddesi çevresini tercih et.  
+> 💡 **Altın Kural 2:** Kışın Davraz Kayak Merkezi turlarını kaçırma; çok uygun maliyetle kayak ve snowboard öğren.  
+> 💡 **Altın Kural 3:** Sınav dönemlerinde Prof. Dr. Hasan Gürbüz Bilgi Merkezi'nin sessiz katlarını kullan ve gece sıcak çorba ikramını kaçırma!

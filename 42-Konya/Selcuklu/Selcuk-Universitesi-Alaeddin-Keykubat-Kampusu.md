@@ -3,7 +3,7 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Konya / Selçuklu  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Ana Kampüs (İstanbul Yolu Üzeri - Bosna Hersek Mah. Yanı)  
+> **Kampüs Konumu:** Ana Kampüs (İstanbul Yolu 18. km - Bosna Hersek Mahallesi Bitişiği)  
 > **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.5/5)
 
 ---
@@ -12,89 +12,104 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 18 km / ~35-40 dk (Tramvay) | T1 Tramvayı kampüsün içinden geçiyor; Otogar ve YHT Garı aynı hat üzerinde |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs içinde ve hemen arkasındaki Bosna Hersek'te on binlerce yataklı KYK yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.500 - 14.500 TL | Bosna Hersek, Kosova, Sancak ve Yazır Mahalleleri |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | ~20 - 30 TL / İyi | Gökkuşağı / Merkez Yemekhane ve Tıp Yemekhanesi; ekonomik ve doyurucu |
-| **📚 Kütüphane Kapasitesi** | 7/24 Açık Salonlar Mevcut | Prof. Dr. Erol Güngör Merkez Kütüphanesi (vize/finalde çok yoğun) |
-| **🌐 İnternet (eduroam)** | İyi | Fakülteler, kütüphane ve Gökkuşağı çevresinde kesintisiz |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı (Bosna Hersek & Gökkuşağı) | 70.000+ öğrencili devasa bir üniversite kasabası atmosferi |
+| **🚇 Şehir Merkezine Uzaklık** | 18 km / ~50-60 dk (Tramvay) | T1 Tramvay Hattı doğrudan kampüsün içine girer; Zafer'den tam 1 saat sürer |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (On Binlerce Kapasite) | Kampüs içinde ve bitişiğindeki Bosna Hersek'te devasa KYK kız ve erkek yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.500 - 15.000 TL | Bosna Hersek (Öğrenci Cumhuriyeti), Kosova, Sancak ve Yazır |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | ~20 - 30 TL / Çok Ekonomik | Gökkuşağı / Merkez Yemekhane ve Tıp Yemekhanesi; doyurucu ve hijyenik |
+| **📚 Kütüphane Kapasitesi** | 7/24 Açık Salonlar | Prof. Dr. Erol Güngör Merkez Kütüphanesi; sınav haftası gece çorba ikramı |
+| **🌐 İnternet (eduroam)** | İyi | Fakülteler, Gökkuşağı ve kütüphanede stabil, amfilerde kalabalık saatlerde yavaşlama |
+| **🌆 Sosyal Yaşam & Çevre** | Özerk Öğrenci Şehri (Bosna Hersek) | 70.000+ öğrencili bağımsız öğrenci kasabası, yüzlerce kafe ve gece hayatı |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri: Tramvayın 1 Saatlik Yolculuğu & Bosna Dolmuşları
 
-* **Şehir Merkezinden Ulaşım (Efsanevi Kampüs Tramvayı):**  
-  Selçuk Üniversitesi **Alaeddin Keykubat Kampüsü**, şehir merkezinin (Zafer / Alaeddin Tepesi) yaklaşık 18 km kuzeyinde, İstanbul Yolu üzerinde yer alır. Ancak bu mesafe hiç hissedilmez çünkü **T1 (Alaeddin - Selçuk Üniversitesi) Tramvay Hattı** doğrudan kampüsün girişindeki **Gökkuşağı AVM**'nin altından geçerek kampüsün içine girer! Tramvay; Otogar'dan kampüse 12 dakikada, Selçuklu YHT Garı'ndan 20 dakikada, Alaeddin (çarşı) merkezden ise 35-40 dakikada ulaşır.
-* **Kampüs İçi Ulaşım (Ücretsiz Kampüs İçi Tramvay Ringi):**  
-  Alaeddin Keykubat Kampüsü Türkiye'nin en büyük ve en düz kampüslerinden biridir. Kampüsün içine giren tramvay hattı; **Tıp Fakültesi -> Mühendislik (KTÜN) -> Fen-Edebiyat -> Hukuk/İİBF -> Kayalar Camii / KYK Yurtları** duraklarını büyük bir çember (ring) çizerek dolaşır. Kampüs içindeki bu duraklar arasında tramvaya binmek **tamamen ücretsizdir**! Ayrıca kampüs dümdüz olduğu için bisiklet ve scooter kullanımı çok yaygındır.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  **Konyakart (Elkart)** öğrenci tarifesi Türkiye'nin en ucuz toplu taşıma ücretlerinden birine sahiptir. Ayrıca gece geç saatlerde bile Alaeddin - Kampüs - Bosna Hersek arasında **Gece Tramvayı** seferleri düzenlenir; bu sayede ulaşım 24 saat kesintisizdir.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Konya'da kışın kar yağışı ve meşhur kuru bozkır ayazı görülür. Ancak hem kampüs düz ayak olduğu hem de ulaşım tramvayla sağlandığı için kar yağdığında bile derslere gidiş gelişte hiçbir aksama yaşanmaz.
+### 🚋 T1 Tramvayı (Alaeddin - Selçuk Üniversitesi) ve Zafer'den 1 Saatlik Maraton
+Konya Selçuk Üniversitesi Alaeddin Keykubat Kampüsü, şehir merkezinin (Zafer Meydanı / Alaeddin Tepesi) 18 km kuzeyinde yer alır.
 
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  Kampüs içi ve çevresi adeta bir KYK yurtlar şehridir:
-  * **Kampüs İçi KYK Yurtları:** Kampüs sınırları içerisinde (tramvay durağının hemen yanında) **Cumhuriyet KYK Kız Yurdu**, **Alaaddin KYK Kız Yurdu**, **Şems-i Tebrizi Kız Yurdu** ve **Ali Ulvi Kurucu Erkek Yurdu** yer alır. Bu yurtlarda kalan bir öğrenci kampüs dışına adım bile atmadan tramvayla veya yürüyerek fakültesine gider.
-  * **Bosna Hersek KYK Yurtları:** Kampüsün üst kapısının açıldığı Bosna Hersek Mahallesi'nde **Tahir Büyükkörükçü**, **Melike Hatun**, **Sadreddin Konevi** ve **Kızören** gibi dev KYK blokları bulunur.
-* **Özel Yurtlar ve Apartlar:**  
-  Bosna Hersek, Kosova ve Sancak mahallelerinde 1+0 ve 1+1 eşyalı yüzlerce öğrenci apartı ve özel yurt mevcuttur.
-* **Öğrenci Evleri: "Bosna Hersek Cumhuriyeti":**  
-  Selçuk Üniversitesi öğrencilerinin %80'i kampüsün hemen bitişiğindeki **Bosna Hersek Mahallesi**'nde yaşar. Burası Konya'dan bağımsız bir öğrenci cumhuriyeti gibidir; sokaklarda sadece öğrenciler yürür, marketler ve kafeler gece yarısına kadar açıktır. Binalar merkezi sistem kaloriferli veya kombili olup 1+1, 2+1 ve 3+1 daire kiraları **8.500 - 14.500 TL** aralığındadır. Daha lüks ve yeni rezidans isteyenler ise bir alt duraktaki **Sancak / Kosova** veya **Yazır** mahallelerini tercih eder.
+* **Zafer Meydanı'ndan 1 Saatlik Sefer:** Şehir merkezinden kampüse giden **T1 Tramvay Hattı**, aradaki 25'ten fazla durakta dur-kalk yaparak kampüs girişine tam **55 - 60 dakikada** varır. Sabah 08:00 - 09:30 saatleri arasında Zafer, Kültürpark ve Otogar duraklarından binen öğrencilerle tramvay balık istifine döner.
+* **Yeşil Eski Skoda Tramvaylar vs. Yeni Körükler:** Filoda hem modern klimalı tramvaylar hem de nostaljik hatıralarla dolu eski yeşil Skoda tramvaylar yer alır. Yazın sıcakta camları açık giden eski tramvaylar Konya öğrencilerinin ortak anısıdır.
+* **Kampüs İçi Ücretsiz Ring Tramvayı:**  
+  T1 tramvayı kampüs nizamiyesindeki **Gökkuşağı AVM**'nin altından kampüse girer ve sırasıyla:
+  `Tıp Fakültesi -> Mühendislik (KTÜN) -> Fen-Edebiyat -> Hukuk / İİBF -> Kayalar Camii / KYK Yurtları`  
+  duraklarını çember çizerek dolaşır. **Kampüs içi duraklar arasında tramvaya binmek tamamen ücretsizdir!**
+* **Bosna Hersek Minibüs / Dolmuş Taktikleri:**  
+  Tramvayın 1 saatlik yavaşlığından sıkılan öğrenciler için merkezden kalkan **Bosna Hersek - Kampüs dolmuşları** can kurtarır. Dolmuşlar çevre yolunu kullandığı için merkeze 30-35 dakikada ulaşır. Arka koltuktan şoföre *"Kaptan bir Bosna öğrenci uzatır mısın"* diyerek para uzatma zinciri dolmuş kültürünün klasiğidir.
+* **Gece Tramvayı (24 Saat Kesintisiz Ulaşım):**  
+  Gece saat 00:00'dan sonra saat başı çalışan gece tramvayı sayesinde, Bosna Hersek veya kampüsten merkeze gece yarısı dahi ulaşım kesilmez.
+* **Konyakart (Elkart):**  
+  Türkiye'nin en ucuz öğrenci toplu taşıma tarifelerinden birine sahiptir. Düz ayak Konya coğrafyası nedeniyle kampüste ve Bosna'da bisiklet kullanımı da son derece yaygındır.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma & Mahalle Dinamikleri: "Bosna Hersek Öğrenci Cumhuriyeti"
 
-* **Kütüphane İmkanları:**  
-  Kampüsün merkezinde yer alan **Prof. Dr. Erol Güngör Kütüphanesi**, zengin kitap koleksiyonu ve **7/24 açık çalışma salonuyla** hizmet verir. Ancak ~70.000 öğrencinin bulunduğu kampüste vize/final haftalarında kütüphanede yer bulmak için sabah erken saatlerde gitmek gerekir.
-* **Laboratuvarlar, Hastane ve Derslikler:**  
-  1975 yılında kurulan köklü Selçuk Üniversitesi; İç Anadolu'nun en büyük referans hastanelerinden biri olan **Selçuk Üniversitesi Tıp Fakültesi Hastanesi**, **Diş Hekimliği Fakültesi**, **Veteriner Fakültesi (Hayvan Hastanesi ve uygulama çiftliği)**, **Hukuk Fakültesi**, **İletişim Fakültesi (ÜNTV televizyon stüdyoları ve Radyo Üniversite)**, **Ziraat**, **Edebiyat**, **Fen** ve **İİBF** ile devasa bir akademik güce sahiptir. **İleri Teknoloji Araştırma ve Uygulama Merkezi (İLTEK)** ileri düzey laboratuvar cihazları barındırır.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Kampüs genelinde **eduroam** bağlantısı güçlüdür.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  150'den fazla aktif öğrenci topluluğu vardır. Tiyatro, Müzik, Dağcılık, İletişim, Hukuk Atölyeleri ve teknik proje takımları **Süleyman Demirel Kültür Merkezi (SDKM)** ve **Sultan Alparslan Kültür Merkezi**'nde her hafta etkinlik, zirve ve konser düzenler.
+### 🇧🇦 Bosna Hersek Mahallesi Gerçeği
+Selçuk Üniversitesi'nin hemen kuzey kapısına bitişik olan **Bosna Hersek Mahallesi**, yaklaşık 60.000 öğrencinin ikamet ettiği, Konya genelinden tamamen bağımsız, adeta özerk bir öğrenci cumhuriyetidir!
 
----
+* **Sokak Yaşamı:** Sokaklarda sadece öğrenciler, kuryeler ve kafe çalışanları dolaşır. Kızlı-erkekli arkadaş grupları gece saat 02:00'de güvenle yürüyebilir; kimse kimsenin giyimine veya yaşam tarzına karışmaz.
+* **Kira Skalası (2026):**  
+  * **1+1 Eşyalı Stüdyo / Apart:** 8.500 - 12.000 TL  
+  * **2+1 ve 3+1 Daireler:** 11.000 - 15.500 TL  
+* **Kombi ve Doğalgaz Tuzakları (Konya Bozkır Ayazı):**  
+  Konya'da kışın sıcaklık -15 derecelere kadar düşer. Bosna Hersek'teki eski kooperatif binalarında yalıtım zayıfsa ve bireysel kombiliyse, aylık doğalgaz faturası kiraya yaklaşabilir! Öğrencilerin en büyük hatası petekleri kapatıp tek odayı yakmaya çalışarak evi buzhaneye çevirmektir. Merkezi sistem (pay ölçerli) binalar ısınma açısından çok daha güvenilirdir.
+* **Ev Sahiplerinin "Öğrenci Kriterleri":** Bazı yerel mülk sahiplerinin 6 aylık peşin kira veya devlet memuru kefil isteme talepleriyle karşılaşılabilir; sözleşme yaparken emlak komisyonu ve depozito maddelerine dikkat edilmelidir.
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+### 🏢 KYK Yurtları ve 23:00 Turnike Katılığı
+Kampüs içinde ve Bosna'da Türkiye'nin en büyük KYK yurt yerleşkeleri bulunur:
 
-* **Merkez Yemekhane:**  
-  Kampüs içinde yer alan **Merkez Öğrenci Yemekhanesi** ve **Tıp Fakültesi Yemekhanesi**'nde hafta içi öğle (ve sınav dönemlerinde/belirli aylarda akşam) yemeği çıkar. Öğrenci kimlik kartıyla online rezervasyon/bakiye sistemiyle çalışır ve 4 çeşit yemek ücreti (~20-30 TL) oldukça ucuzdur.
-* **Gökkuşağı AVM, Keykubat Çarşısı ve Bosna Kafeleri:**  
-  Kampüsün ana giriş kapısında yer alan **Gökkuşağı AVM**; teras kafeleri, dönercileri, kırtasiyeleri, banka şubeleri, PTT, terzi, kuaför ve süpermarketiyle kampüsün yaşam merkezidir. Kampüsün üst kapısından Bosna Hersek Mahallesi'ne çıktığınızda ise **Kıvılcım Bulvarı**, **Çarşı Bosna**, **Forum Kampüs** ve **Ovalı Çarşı** etrafında yüzlerce kafe, oyun salonu, tatlıcı ve ucuz öğrenci lokantası sıralanır.
-* **Spor Tesisleri:**  
-  **19 Mayıs Spor Salonu**, **75. Yıl Spor Salonu**, **15 Temmuz Stadyumu**, yarı olimpik kapalı yüzme havuzu, tenis kortları, halı sahalar ve binicilik tesisleri mevcuttur.
-
----
-
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
-
-* **Bosna Hersek vs. Konya Merkez:**  
-  Yeni gelecek adayların en çok merak ettiği konu: *"Konya'da öğrenci olarak rahat edebilir miyim?"* Cevabı çok nettir: Alaeddin Keykubat Kampüsü ve Bosna Hersek Mahallesi'nde hayat tamamen öğrenci odaklıdır. Kimse kimsenin giyimine, yaşam tarzına veya gece saat 02.00'de sokakta yürümesine karışmaz.
-* **Part-Time İş ve Staj Olanakları:**  
-  Kampüs sınırları içindeki **Konya Teknokent (Selçuk Teknokent)** yazılım, tarım teknolojileri ve mühendislik öğrencileri için önemli bir staj merkezidir. Ayrıca Bosna Hersek'teki yüzlerce kafe ve işletmede binlerce öğrenci part-time baristalık ve garsonluk yaparak harçlığını çıkarır.
+* **Kampüs İçi Yurtlar:** **Cumhuriyet KYK Kız Yurdu**, **Alaaddin KYK Kız Yurdu**, **Şems-i Tebrizi Kız Yurdu** ve **Ali Ulvi Kurucu Erkek Yurdu**. Fakültelere yürüyerek 3-10 dakika mesafededir.
+* **Bosna Bölgesi Yurtları:** **Tahir Büyükkörükçü KYK Erkek Yurdu**, **Melike Hatun KYK Kız Yurdu**, **Sadreddin Konevi** ve **Kızören** yurt blokları.
+* **23:00 Turnike ve Parmak İzi:** KYK yurtlarında 23:00 turnike kuralı tavizsiz uygulanır. Kampüs içi tramvay durağından veya Bosna kafe caddelerinden yurda doğru 22:50'de depar atan yüzlerce öğrenci her akşamın klasik manzarasıdır. GSB izin sistemi üzerinden hafta sonu izinleri mutlaka önceden girilmelidir.
+* **Çamaşırhane Sıraları:** Binlerce öğrencinin kaldığı yurt bloklarında pazar günleri çamaşır yıkamak saatler süren sıra bekleme demektir; salı veya çarşamba ders aralarında yıkamak en iyi taktiktir.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 3. 🍽️ Beslenme, Sokak Lezzetleri & Mekanlar
 
-### ✅ Artıları
-* **Türkiye'nin En İyi Kampüs Ulaşımı ve Düz Yapısı:** Kampüsün içinden geçen ücretsiz ring tramvayı, ucuz Konyakart ve YHT bağlantısı.
-* **Bosna Hersek Mahallesi Ekosistemi:** Kampüsle bitişik, 7/24 yaşayan, ekonomik ve her türlü öğrenci ihtiyacını karşılayan dev öğrenci mahallesi.
-* **Köklü Akademik Kadro ve Kampüs İmkanları:** 50 yıllık üniversite geleneği, dev Tıp Hastanesi, uygulama birimleri ve yeşil kampüs.
-
-### ❌ Eksileri
-* **Kalabalık (70.000+ Öğrenci):** Yemekhane sıralarında, vize/final haftası kütüphanede ve sabah pik saatlerinde Bosna-Kampüs tramvayında yaşanan yoğunluk.
-* **Kış Soğuğu ve Bozkır Ayazı:** Aralık-Şubat aylarında Konya'nın sert ve kuru soğuğu.
+* **Konya Etli Ekmeği ve "Fırına İç Götürme" Ritüeli:**  
+  Konya'da etli ekmek restoranına gidip yemek bir seçenek olsa da, gerçek öğrenci taktiği şudur: Kasaptan veya marketten kıymayı alıp mahalle fırınına götürmek! Fırıncı domates ve biberi kıymayla zırhtan geçirip çıtır çıtır metrelerce etli ekmek, bıçakarası veya Mevlana pidesi basar. Hem yarı fiyatına gelir hem de fırından yeni çıkmış sıcacık lezzeti rakipsizdir.
+* **Fırın Kebabı ve Tirit:**  
+  Tarihi Bedesten çarşısında bakır tabakta pide üzerinde ağır ateşte pişen kuzu fırın kebabı ve yoğurtlu soslu tirit, burs yattığı günlerde öğrencilerin kendini ödüllendirme yemeğidir.
+* **Bamya Çorbası ve Düğün Pilavı Efsaneleri:**  
+  Konya'nın ekşili kurutulmuş çiçek bamya çorbası ve dev kazanlarda pişen etli düğün pilavı efsanedir. Hafta sonları Konya köylerinde veya düğün salonlarında yapılan açık hava düğün pilavlarına *"akraba tanıdığı"* kontenjanından dahil olan öğrenci hikayeleri dilden dile anlatılır.
+* **Bosna Hersek Soslu Dönercileri:**  
+  Kıvılcım Caddesi ve Forum Kampüs etrafında gece 02:00'ye kadar açık tavuk dönerciler, bol soslu Hatay usulü dürümleri ve dev ayran menüleriyle öğrencilerin ana besin kaynağıdır.
+* **Gökkuşağı AVM & Merkez Yemekhane:**  
+  Kampüs girişindeki Gökkuşağı AVM'de yer alan öğrenci lokantaları ile üniversitenin merkez yemekhanesi (~20-30 TL) ay sonunu getirmeyi garanti eder.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 4. 📚 Akademik Hayatta Kalma & Kütüphane Savaşları
+
+* **Selçuk Hukuk ve Tıp Efsanesi:**  
+  * **Hukuk Fakültesi:** Türkiye'nin en köklü ve zorlu hukuk fakültelerinden biridir. Bağıl değerlendirme çan eğrisi acımasızdır. Öğrenciler arasında *"Büte kalmayan öğrenciye Selçuk Hukuk diploması vermezler"* sözü bir gurur nişanesidir.
+  * **Tıp Fakültesi:** Dev Selçuk Üniversitesi Tıp Hastanesi ile entegredir; komite sınavları öncesinde amfiler sabahın erken saatlerinde not fotokopileriyle dolar.
+* **Prof. Dr. Erol Güngör Kütüphanesi'nde Masa Kapma Savaşı:**  
+  Merkez Kütüphane sınav haftalarında 7/24 açıktır. Ancak 70.000 öğrencili kampüste yer bulabilmek için sabah saat 07:00'de kütüphane kapısında nöbet tutmak gerekir. Masalara mont, çanta veya kalın kalın kanun kitapları bırakılarak masa kapatılır. Prizli masalar kütüphanenin en kıymetli gayrimenkulüdür.
+* **Gece 01:00 Çorbası:**  
+  Sınav dönemlerinde rektörlük ve belediye tarafından kütüphane girişinde sıcak mercimek çorbası ve çıtır ekmek dağıtılır. Çorba sırası kütüphanenin en neşeli mola anıdır.
+
+---
+
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **Tramvayın Bitmek Bilmeyen Yolculuğu:**  
+  Zafer Meydanı'ndan veya merkezden bindiğinizde kampüse ulaşmak tam 1 saat sürer. Otogar, sanayi, real, otogar derken 25 durak boyunca tramvayda ayakta kalmak öğrencilerin mental dayanıklılığını test eder.
+* **Dondurucu Bozkır Ayazı:**  
+  Konya'nın kışı ıslak değil, bıçak gibi kesen kuru soğuktur. Sabah tramvay durağında beklerken rüzgar yüzünüzü uyuşturur; termal içlik, atkı ve kaliteli bir eldiven olmadan kış atlatılamaz.
+* **Bosna ile Şehir Merkezi Arasındaki Kültürel Yarılma:**  
+  Bosna Hersek Mahallesi ne kadar özgür ve gençlik odaklıysa, Konya'nın geleneksel merkez mahalleleri bir o kadar muhafazakardır. Bosna'dan çıkıp merkeze indiğinizde farklı bir şehre geçmiş gibi hissedebilirsiniz.
+* **Amfilerde Eduroam Kopmaları:**  
+  Özellikle Hukuk, İİBF ve Mühendislik amfilerinde sınav öncesi yüzlerce öğrenci slayt indirmeye çalıştığında eduroam sinyali kilitlenir.
+
+---
+
+## 💡 Selçuk Üniversitesi'ne Yeni Geleceklere Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Selçuk Üniversitesi'ni kazandıysan dışarıdan Konya hakkında duyduğun önyargıları unut; Alaeddin Keykubat Kampüsü ve Bosna Hersek Mahallesi Türkiye'de öğrenciliğin en rahat ve en ekonomik yaşandığı yerlerden biridir. İlk hafta Gökkuşağı'nda öğrenci kartını ve Konyakart abonmanını çıkar, ikinci el bir bisiklet al ve kampüsün tadını çıkar!"
+> 1. **Kafandaki Konya Tabularını Yık:** Dışarıdan duyduğun şehir önyargılarını unut; Alaeddin Keykubat Kampüsü ve Bosna Hersek Mahallesi Türkiye'de öğrenciliğin en rahat, en eğlenceli ve en ekonomik yaşandığı yerlerden biridir.  
+> 2. **İlk Hafta Bisiklet Edin:** Kampüs dümdüz ve devasadır; kampüs içi tramvay ringi olsa da ikinci el bir bisiklet kampüsteki hareket özgürlüğünü üçe katlar.  
+> 3. **Fırına İç Götürme Sanatını Öğren:** Arkadaşlarınla toplanıp fırına kıyma götürerek etli ekmek yaptırmayı ilk aydan öğren; hem bütçeni kurtarır hem de efsane ziyafet çekersiniz.  
+> 4. **Hukuk veya Tıptaysan Büte Kalmaktan Korkma:** Büte kalmak Selçuk'un fıtratında vardır; Ocak ve Haziran bütlerine psikolojik olarak hazır ol, moralini bozma!  
+> 5. **YHT ile Ankara ve İstanbul Kapı Komşun:** Selçuklu YHT Garı tramvay hattı üzerindedir; 1 saat 45 dakikada Ankara'ya, 4.5 saatte İstanbul'a trenle kaçabilirsin.

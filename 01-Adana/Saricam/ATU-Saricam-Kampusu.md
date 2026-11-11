@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Adana / Sarıçam  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Şehir Dışı / Gelişen Bölge Ana Kampüsü (Çatalan Caddesi, Balcalı Kuzeyi)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (3.9/5)
+> **Kampüs Konumu:** Şehir Dışı / Gelişen Bölge Ana Kampüsü (Çatalan Caddesi, Yeni Adana Stadyumu Yanı)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.0/5)
 
 ---
 
@@ -12,91 +12,79 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 12 - 14 km / ~30-35 dk | Çukurova Üni. Balcalı Kampüsü'nün yaklaşık 3 km kuzeyinde, otobüsle ulaşım |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Sarıçam ve Balcalı bölgesindeki KYK yurtlarına oldukça yakın |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 11.000 - 17.000 TL | Sarıçam (Gültepe, Balcalı Mah.) veya Barajyolu |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 28 - 35 TL / İyi | Butik ve temiz yemekhane, sıra bekleme süresi kısa |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri + Sınav Dönemi Uzatmalı | Yeni ve modern kütüphane binası, hızlı internet, ferah çalışma ortamı |
-| **🌐 İnternet (eduroam)** | Hızlı | Yeni nesil fiber altyapı, tüm bloklarda güçlü eduroam çekimi |
-| **🌆 Sosyal Yaşam & Çevre** | Kısıtlı (Kampüs Çevresi) / Dengeli (Şehir) | Kampüs çevresi yeni yapılaşıyor; sosyal hayat için Barajyolu'na iniliyor |
+| **🚇 Şehir Merkezine Uzaklık** | 12 - 14 km / ~30-40 dk | Balcalı'nın 3 km kuzeyinde; Adana Büyükşehir 159, 142, 162 ve özel halk otobüsleri |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kut'ül Amare, Mahmut Sami Ramazanoğlu ve Sarıçam KYK yurtları yürüme/tek durak |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 11.000 - 16.000 TL | Sarıçam Gültepe, İstiklal ve Çatalan Yolu 1+1 rezidans daireleri |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 30 TL / Çok Başarılı | Butik kampüs avantajı, sıra beklemeden sıcak yemek, hijyenik ve doyurucu |
+| **📚 Kütüphane Kapasitesi** | Modern & Bol Prizli | Yeni nesil mimari, bireysel çalışma kapsülleri, sınav döneminde 7/24 esnek |
+| **🌐 İnternet (eduroam)** | Çok Hızlı (Fiber) | Binalar yeni olduğu için eduroam ve ATÜ-Net tüm bloklarda kesintisiz |
+| **🌆 Sosyal Yaşam & Çevre** | Teknik Odaklı / Butik | Hackathonlar, TEKNOFEST atölyeleri, stadyum maç günleri; kafe hayatı için Barajyolu |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **Şehir Merkezinden Ulaşım:**  
-  ATÜ Kampüsü, Sarıçam ilçesinde Çatalan Caddesi üzerinde, Çukurova Üniversitesi Balcalı Kampüsü'nün biraz daha kuzeyinde (yukarısında) konumlanmıştır. Şehir merkezinden, Barajyolu'ndan ve Hastaneler bölgesinden **Adana Büyükşehir Belediyesi 159, 142, 162** numaralı otobüs hatları ve Sarıçam/ATÜ güzergahında çalışan özel halk otobüsleri ile doğrudan kampüs kapısına ulaşılır. ÇÜ Balcalı'ya göre sefer sıklığı bir miktar daha az olduğu için **Adana Kentkart mobil uygulamasından** canlı otobüs saatlerini takip etmek şarttır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Kampüs modern ve kompakt bir mimariyle planlandığı için Yabancı Diller Yüksekokulu (Hazırlık), Mühendislik blokları, kütüphane ve yemekhane birbirine 5-8 dakikalık yürüme mesafesindedir. Kampüs içi ringe ihtiyaç duyulmaz.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  **Adana Kentkart** tüm belediye ve özel halk otobüslerinde geçerlidir. Öğrenci tarifesiyle ekonomik ulaşım sağlanır.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Kampüs hafif tepelik ve açık bir arazide kurulduğu için kış aylarında rüzgarı ve sağanak yağışı Adana merkezine göre daha sert hissedilir. Yaz başında ve eylül ayında ise ağaçlandırma çalışmaları henüz genç olduğundan açık alanlarda yürürken güneş oldukça etkilidir.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** **Sarıçam KYK Kız Yurdu** ve Balcalı sınırındaki **Fevzi Çakmak KYK Kız Yurdu** ATÜ öğrencilerinin en çok yerleştiği yurtlardır. Otobüsle 5-10 dakikada kampüse ulaşılır.
-  * **Erkek Yurtları:** Kampüse oldukça yakın konumda bulunan **Kut'ül Amare KYK Erkek Yurdu** ve **Mahmut Sami Ramazanoğlu KYK Erkek Yurdu** sayesinde erkek öğrenciler barınma konusunda çok rahattır; hatta bazı yurt bloklarından yürüyerek veya tek durak otobüsle derse gidilebilir.
-* **Özel Yurtlar ve Apartlar:**  
-  Sarıçam Gültepe Mahallesi ve Balcalı kavşağı çevresinde yeni inşa edilmiş 1+0 ve 1+1 öğrenci rezidansları bulunur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  ATÜ öğrencileri ikiye ayrılır: Kampüse yakın, yeni bina ve uygun kira isteyenler **Sarıçam (Gültepe, Elif Su Uludağ, Balcalı Mah.)** bölgesinde 11.000 - 15.000 TL bandında ev tutar; sosyal hayata ve kafelere yakın olmak isteyenler ise **Barajyolu (Yenibaraj)** veya **Huzurevleri** bölgesinde oturup otobüsle okula gelir.
+* **Şehir Merkezinden ve Barajyolu'ndan Geliş:**  
+  ATÜ, Çukurova Üniversitesi Balcalı Kampüsü'nün hemen kuzeyinde, Çatalan Barajı yolu üzerindedir. Kampüse doğrudan **159, 142, 162, 118** numaralı turuncu belediye otobüsleri ve Sarıçam özel halk otobüsleri gider. 
+  * **Gizli Taktik:** Sabah saatlerinde Balcalı otobüsleri tıka basa dolarken, bazı hatlar önce Balcalı Hastanesi'ne uğrayıp ardından ATÜ nizamiyesine devam eder. Otobüs üzerinde "ATÜ / Çatalan Yolu" ibaresi olanları tercih ederseniz hastanede inen kalabalık sayesinde son durakta rahatça inersiniz.
+* **Otostop Noktaları:**  
+  * **Yeni Adana Stadyumu Kavşağı:** Maç olmayan günlerde stadyum göbeği ile ATÜ nizamiyesi arasındaki 1.5 kilometrelik düzlükte öğrenciler otostop çeker. Bölgeden geçen akademisyen ve idari personel araçları öğrencileri kampüse kadar alır.
+  * **Balcalı Hastanesi Çıkış Cebi:** ÇÜ Balcalı'dan ATÜ'ye geçiş yapacak öğrenciler hastane acil çıkışındaki ışıklardan geçen araçlara el kaldırır.
+* **Belediye Abonman & Sefer Sıklığı Tuzağı:**  
+  ATÜ'ye giden otobüslerin kalkış aralığı ÇÜ Balcalı'ya kıyasla daha uzundur (20-30 dakikada bir). Bu nedenle **Adana Kentkart mobil uygulamasından otobüsün canlı konumunu** kontrol etmeden durakta beklemeyin; özellikle akşam 18:00'den sonra sefer sayısı belirgin şekilde azalır.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma & KYK Gerçekleri
 
-* **Kütüphane İmkanları:**  
-  ATÜ Kütüphanesi yeni, ferah, klimalı ve bol prizli masalara sahiptir. Öğrenci sayısı Çukurova Üniversitesi kadar kalabalık olmadığı için vize ve final dönemlerinde bile masa bulmak çok daha kolaydır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  "Bilim ve Teknoloji Üniversitesi" misyonuna uygun olarak Bilgisayar, Yazılım, Havacılık ve Uzay, Elektrik-Elektronik ve Makine Mühendisliği laboratuvarları son teknoloji cihazlarla donatılmıştır. Bölümlerin büyük çoğunluğunda eğitim dili **%100 İngilizce** olduğu için Yabancı Diller Yüksekokulu binası ve dil laboratuvarları oldukça moderndir.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Binalar yeni olduğu için fiber altyapı ve **eduroam** çekim gücü amfilerde, laboratuvarlarda ve ortak alanlarda sorunsuzdur.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Özellikle **TEKNOFEST, İHA (İnsansız Hava Aracı), Roket, Otonom Araç, Siber Güvenlik ve Yapay Zeka** toplulukları üniversite yönetimi tarafından ciddi bütçelerle desteklenir. Kampüs sosyal şenliklerden ziyade teknik proje yarışmaları ve hackathon'larla öne çıkar.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane:**  
-  Öğrenci yemekhanesi modern ve hijyeniktir. Öğrenci sayısı butik ölçekte olduğu için dakikalarca güneşin altında yemek sırası beklenmez.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Fakülte binalarının içinde kantinler ve kahve noktaları mevcuttur ancak kampüsün hemen dışında yürüme mesafesinde büyük bir çarşı veya kafe sokağı henüz tam oluşmamıştır. Öğrenciler ders bitiminde genellikle Barajyolu'na veya Sarıçam merkeze iner.
-* **Spor Tesisleri:**  
-  Kampüs içerisinde açık/kapalı spor alanları, basketbol/voleybol sahaları ve yürüyüş yolları bulunmaktadır.
+* **KYK Yurtlarının Detaylı Röntgeni:**  
+  * **Kut'ül Amare KYK Erkek Yurdu:** ATÜ kampüsüne ve Yeni Adana Stadyumu'na en yakın erkek yurdudur. Odalar 4 kişilik, bazalı ve çalışma masalıdır. Banyo ve tuvalet oda içerisinde olup yeni binalardır. Kampüse yürüyerek 15-20 dakikada veya tek durak belediye otobüsüyle gidilebilir.
+  * **Mahmut Sami Ramazanoğlu KYK Erkek Yurdu:** Sarıçam bölgesinde, kampüse yakın diğer alternatiftir. 23:00 turnike ve parmak izi kontrolü çok titizdir.
+  * **Sarıçam KYK Kız Yurdu & Çukurova KYK:** Kız öğrenciler genellikle Sarıçam veya Balcalı sınırındaki Fevzi Çakmak yurdunda kalır. Sabahları ATÜ'ye gitmek için otobüse tek biniş yaparlar.
+* **Öğrenci Mahalleleri & Ev Tutma Taktikleri:**  
+  * **Sarıçam Gültepe & İstiklal Mahallesi:** Kampüsün hemen güneyinde yer alan, son 4-5 yılda inşa edilen siteler bölgesidir. 1+1 eşyalı daireler **11.000 - 15.000 TL** civarındadır.
+  * **Alt-Sayaç ve Ortak Elektrik Tuzağı:** Sarıçam'daki bazı yeni binalarda müteahhitler veya ev sahipleri süzme elektrik saati (alt sayaç) kullanır. Bu evlerde faturalar tek bir sayaç üzerinden keyfi paylaştırıldığında Adana sıcağında klima yüzünden fahiş bedeller çıkabilir. Kira sözleşmesi yaparken **bağımsız süzme değil resmi TEDAŞ/Toroslar EDAŞ bireysel aboneliği** şartı koşun.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Sarıçam hızla büyüyen bir üniversite ve stadyum (Yeni Adana Stadyumu kampüse çok yakındır) ilçesi olduğu için bölge esnafı öğrenciye alışkındır.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Kampüs çevresi akşam saatlerinde sakinleşir. Sosyal yaşam için otobüsle 15-20 dakikada **Barajyolu**, **Turgut Özal Bulvarı** veya **ÇÜ Balcalı Kayıkhane** tarafına geçilir. Ayrıca Yeni Adana Stadyumu kampüse çok yakın olduğundan maç günleri bölge oldukça hareketlidir.
-* **Part-Time İş ve Staj Olanakları:**  
-  ATÜ Teknoloji Transfer Ofisi (TTO), Adana Hacı Sabancı Organize Sanayi Bölgesi (AOSB) ile yapılan sanayi işbirliği protokolleri ve Uzun Dönem Staj (İntörn Mühendislik) programları sayesinde mezuniyet öncesi iş bulma oranı yüksektir.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* **%100 İngilizce ve Güçlü Teknik Eğitim:** Hazırlık eğitimi sıkıdır; mühendislik ve bilişim bölümlerinde modern laboratuvarlarda butik eğitim alınır.
-* **Yeni ve Konforlu Binalar:** Tüm derslikler, amfiler ve kütüphane yeni nesil, klimalı ve kalabalıktan uzaktır.
-* **KYK Yurtlarına Yakınlık:** Sarıçam bölgesindeki yeni KYK yurtlarına ulaşım çok kolaydır.
-
-### ❌ Eksileri
-* **Kampüs Çevresinin Tenhalığı:** ÇÜ Balcalı gibi asırlık ağaçları ve göl kenarı tesisleri yoktur; kampüs dışına adım attığınızda direkt bir öğrenci caddesi bulamazsınız.
-* **Otobüs Sefer Sıklığı:** Şehir merkezinden direkt gelen otobüslerin saatlerini kaçırırsanız bekleme süresi uzayabilir.
-* **Zorlu İngilizce Hazırlık:** Hazırlık sınıfını hafife alan öğrenciler kur tekrarına kalabilmektedir.
+* **Yemekhane Sistemi & Butik Avantaj:**  
+  ATÜ'nün öğrenci mevcudu 8.000 - 10.000 bandında olduğu için devasa kuyruklar yaşanmaz. Yemekhane otomasyon sistemi üzerinden bakiye yüklenir; 2026 yılı fiyatı ~30 TL'dir. 4 çeşit tabldot yemek çıkar, sıcak ve hijyeniktir. Vejetaryenler için ayrılan menü sayısı butik olsa da talep az olduğu için saat 13:00'e kadar vejetaryen yemek bulmak mümkündür.
+* **Kampüs İçi ve Çevre Lezzetleri:**  
+  * Kampüs merkez kafeteryasında uygun fiyatlı tost, börek ve filtre kahve satışı vardır.
+  * **Stadyum Çevresi Tablacıları:** Yeni Adana Stadyumu etrafındaki seyyar dürümcüler, Adana kebap ve tavuk şiş dürümleri Barajyolu fiyatlarının çok daha altına sunar.
+  * Gece geç saatte çalışan proje takımları genellikle Sarıçam Çarkıpare veya Barajyolu'ndan ortak yemek siparişi verir (Getir/Yemeksepeti kampüs nizamiyesine kadar teslimat yapar).
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 4. 📚 Akademik & Sınav Hayatta Kalma (Teknik Üniversite Gerçeği)
 
-> 💬 **Öğrenci Notu:**  
-> "ATÜ'ye geliyorsan buranın bir 'butik teknik üniversite' olduğunu bilerek gel. İngilizce hazırlık yılını yatış yılı olarak görme, hocalar devamlılığa ve projelere çok önem veriyor. İlk senende mutlaka bir TEKNOFEST veya yazılım takımına gir; sosyal hayat içinse otobüse atlayıp 15 dakikada Barajyolu'na inmek zaten günlük rutinin olacak."
+* **Zorlu İngilizce Hazırlık (İYS / Proficiency Sınavı):**  
+  ATÜ'de mühendislik ve bilişim programlarının tamamına yakını **%100 İngilizce** eğitim verir.
+  * Sene başında yapılan İngilizce Yeterlik Sınavı (İYS) oldukça ciddidir; dinleme (listening), yazma (writing/essay) ve konuşma (speaking) aşamalarını geçemeyenler doğrudan Hazırlık (Yabancı Diller Yüksekokulu) sınıfına başlar.
+  * Hazırlıkta devam zorunluluğu %85'tir; haftalık quizler ve portfolyo ödevleri yoğun olduğundan hazırlığı hafife alan öğrenciler yılı tekrar etmek zorunda kalır.
+* **TEKNOFEST & Atölye Kültürü:**  
+  ATÜ'nün alametifarikası TEKNOFEST takımlarıdır. İHA, Roket, Elektromobil, Model Uydu ve Otonom Araç atölyelerinde çalışan öğrenciler sınav dönemleri dahil laboratuvarda sabahlar. Rektörlük teknik projelere ve hackathon ekiplerine çok ciddi malzeme ve bütçe desteği sunar.
+* **Kütüphanede Sınav Dönemi:**  
+  ATÜ Kütüphanesi son teknolojiyle döşenmiştir; her masada çift priz, USB şarj girişi ve ergonomik çalışma koltukları vardır. Vize ve finallerde 7/24 açıktır; Çukurova Balcalı'daki gibi "sabah 06:30'da mont bırakıp yer kapma" savaşı yaşanmaz, saat 10:00'da gelseniz bile rahatça prizli çalışma masası bulabilirsiniz.
+
+---
+
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **Kampüs Çevresinde Sosyal Boşluk:**  
+  Kampüsten dışarı çıktığınızda kafe, sinema veya yürüyüş caddesi bulamazsınız; etraf hala gelişmekte olan boş araziler, inşaatlar ve stadyum otoparkıyla çevrilidir. Sosyal hayat için otobüse binip Barajyolu veya Ziyapaşa'ya gitmek şarttır.
+* **Akşam Otobüs Bekleme Çilesi:**  
+  Dersiniz veya laboratuvar çalışmanız 17:30'dan sonraya sarkarsa nizamiye durağında otobüs bekleme süresi 30-40 dakikaya çıkabilir. Kış aylarında Sarıçam tepesinin ayazı sert eser.
+* **Yeşil Alan Eksikliği & Yaz Sıcağı:**  
+  Çukurova Üniversitesi'nin asırlık çam ormanlarının aksine ATÜ kampüsündeki fidanlar henüz gençtir; bu nedenle yaz aylarında açık alanda gölge bulmak zordur ve Adana sıcağı binalar arasında çok hissedilir.
+
+---
+
+## 6. 💡 Altın Tavsiyeler (İlk Hafta Hayatta Kalma Kiti)
+
+1. **İngilizce Hazırlık Muafiyetine İyi Çalış:** Eğer İngilizce temelin varsa yaz tatilinde essay ve reading pratikleri yapıp İYS'yi geçmeye bak; hazırlığı geçmek sana doğrudan 1 yıl kazandırır.
+2. **Bir Proje Takımına (TEKNOFEST/Ar-Ge) Dahil Ol:** ATÜ'de sadece derslere girip çıkan vasat bir öğrenci olursun; TEKNOFEST veya Teknoloji Transfer Ofisi (TTO) bünyesindeki bir takıma girdiğinde ise mezun olmadan ASELSAN, TUSAŞ veya Adana Organize Sanayi şirketlerinde aday mühendislik kapısını aralarsın.
+3. **Canlı Otobüs Takibini Telefonuna İndir:** Adana Kentkart uygulamasında ATÜ durağını favorilere ekle; durakta boşuna 25 dakika beklememek için atölyeden çıkış saatini otobüsün konumuna göre ayarla.
+4. **Sarıçam Gültepe'de Ev Tutarken Bireysel Sayaç İste:** Elektrik ve suyun bağımsız sayaçlı olduğunu kontrata yazdırmadan depozito ödeme.

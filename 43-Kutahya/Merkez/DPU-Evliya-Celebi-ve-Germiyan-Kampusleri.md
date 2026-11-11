@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Kütahya / Merkez  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumları:** Evliya Çelebi Merkez Kampüsü (Tavşanlı Yolu 10. km) & Germiyan Kampüsü (Şehir İçi)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.6/5)
+> **Kampüs Konumları:** Evliya Çelebi Merkez Kampüsü (Tavşanlı Yolu 10. km) & Germiyan Kampüsü (Şehir İçi / Zafertepe)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.0/5)
 
 ---
 
@@ -12,95 +12,94 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | Evliya Çelebi: 10 km (~20-25 dk)<br>Germiyan: 3 km (~10 dk) | Özel halk otobüsleri (1, 7, 7A) Zafer Meydanı ve Gar'dan kalkar |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs içinde ve Zafertepe bölgesinde devasa KYK kız ve erkek yurtları |
+| **🚇 Şehir Merkezine Uzaklık** | Evliya Çelebi: 10 km (~20-25 dk)<br>Germiyan: 3 km (~10 dk) | Özel halk otobüsleri (1, 7, 7A, 7B) Zafer Meydanı (Vazo) ve Gar'dan kalkar |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (Garantili Barınma) | Kampüs içinde Hüsnü Özyeğin, Dumlupınar, Hezarfen Ahmet Çelebi KYK |
 | **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 8.000 - 13.500 TL | Meydan, Dumlupınar, Zafertepe ve Germiyan Mahalleleri |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | ~25 - 30 TL / Ortalama | Bedesten ve fakülte yemekhaneleri; ekonomik 4 çeşit menü |
-| **📚 Kütüphane Kapasitesi** | Çok Geniş | Osmanlı-Selçuklu mimarili devasa Merkez Kütüphane; vize/finalde 7/24 |
-| **🌐 İnternet (eduroam)** | Standart - İyi | Fakülte binalarında, kütüphanede ve Bedesten'de eduroam aktif |
-| **🌆 Sosyal Yaşam & Çevre** | Sakin / Eskişehir Kaçışlı | Sera AVM, Zafer Meydanı kafeleri ve trenle 1 saatte Eskişehir kaçamağı |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | ~25 - 30 TL / Ekonomik | Bedesten Çarşısı Merkez Yemekhanesi; 4 çeşit menü ve sınav çorbası |
+| **📚 Kütüphane Kapasitesi** | Çok Geniş (Sınavda 7/24) | Selçuklu mimarili dev kubbeli Merkez Kütüphane; vize/finalde 7/24 açık |
+| **🌐 İnternet (eduroam)** | Standart - İyi | Fakülte binalarında ve Bedesten'de aktif; açık alanda rüzgarlı mesafeler |
+| **🌆 Sosyal Yaşam & Çevre** | Dingin Şehir / 1 Saatte Eskişehir | Zafer Meydanı ve Sera AVM; cuma akşamı trenle 1 saatte Eskişehir kaçamağı |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri: Tavşanlı Yolu 1 ve 7 No'lu Otobüsler & Otostop Noktaları
 
-* **Evliya Çelebi Merkez Kampüsü Ulaşımı:**  
-  DPÜ Evliya Çelebi Ana Kampüsü, Kütahya-Tavşanlı karayolunun 10. kilometresinde kuruludur. Şehir merkezinden (Zafer Meydanı, Tren Garı, Vazo çevresi ve Laleli Camii aktarma noktaları) kalkan **1, 7, 7A, 7B numaralı Özel Halk Otobüsleri** ile kampüse ulaşım sağlanır. Sabah 08:15 - 09:30 saatleri arasında otobüsler tamamen dolar; duraklarda uzun kuyruklar oluşur.
+### 🚍 Evliya Çelebi Kampüsü Otobüs Çilesi
+DPÜ Evliya Çelebi Ana Kampüsü, Kütahya-Tavşanlı karayolunun 10. kilometresinde geniş ve anıtsal bir araziye kuruludur.
+
+* **1 ve 7 Numaralı Hatlar Efsanesi:**  
+  Şehir merkezindeki **Zafer Meydanı (Vazo Meydanı)**, Tren Garı ve Laleli Camii aktarma duraklarından kalkan **1, 7, 7A ve 7B numaralı Özel Halk Otobüsleri** kampüsün ana taşıyıcısıdır. Sabah 08:00 - 09:15 saatleri arasında duraklarda yüzlerce metreyi bulan kuyruklar oluşur. Otobüsler Tavşanlı yoluna çıktığında balık istifi dolar; ilk duraklardan binmeyenler arka kapıdan sıkışarak ayakta yolculuk eder.
+* **Otostop Noktaları ve Öğrenci Dayanışması:**  
+  Otobüslerin geciktiği veya tıklım tıklım geçtiği sabah ve akşam saatlerinde Kütahya'da çok güçlü bir **otostop kültürü** işler. 
+  * **Merkezden Kampüse Gidiş:** Tavşanlı yolu çıkışındaki çevre yolu kavşağı ve otogar ışıkları popüler otostop noktasıdır. Tavşanlı yönüne giden sivil araçlar ve üniversite hocaları öğrencileri arabalarına alır.
+  * **Kampüsten Merkeze Dönüş:** Evliya Çelebi Kampüsü'nün devasa Selçuklu Taç Kapısı önündeki otobüs cebi akşam saatlerinde otostop kuyruğuna döner. Özellikle kış soğuğunda arabası olan akademisyenler ve yerel sürücüler öğrencileri Zafer Meydanı'na kadar ücretsiz bırakır.
 * **Germiyan Kampüsü Ulaşımı:**  
-  Germiyan Kampüsü şehir merkezine çok daha yakındır (Afyon yolu çıkışı, Zafertepe mevkiinde). Merkezden yürüyerek 20-25 dakikada veya şehrin hemen her noktasından geçen minibüslerle 8-10 dakikada varılabilir. Beden Eğitimi ve Spor Yüksekokulu ile Kütahya Sosyal Bilimler MYO gibi birimler buradadır.
-* **Öğrenci Kartı ve Ulaşım:**  
-  Kütahya Belediyesi Özel Halk Otobüslerinde **Gülkart (Kütahya Kart)** kullanılır. Öğrenci tarifesi uygulanmaktadır.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Kütahya yaklaşık 950-1000 metre rakımlı yüksek bir plato üzerinde yer aldığından kış ayları çok sert, karlı ve buzlanmalıdır. Evliya Çelebi yolu karayolları ve belediye ekiplerince tuzlansa da kampüs girişindeki açık rüzgarlı arazide tipi etkili olur.
+  Şehir merkezine yakın Zafertepe mevkiinde yer alan Germiyan Kampüsü'ne yürüyerek 20 dakikada, minibüslerle 8 dakikada gidilir.
+* **Gülkart (Kütahya Kart):**  
+  Toplu taşımada indirimli öğrenci tarifesi uygulanır; biniş ücretleri büyükşehirlere göre oldukça uygundur.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma & Mahalle Dinamikleri: Zafertepe ve Meydan
 
-* **KYK Yurtları (Barınma Cenneti):**  
-  Kütahya, Türkiye'de KYK yurt çıkma olasılığı en yüksek illerden biridir; açıkta kalma riski neredeyse sıfıra yakındır.
-  * **Kampüs İçi Yurtlar:** Evliya Çelebi Kampüsü sınırları içinde yer alan **Hüsnü Özyeğin KYK Yurdu**, **Dumlupınar KYK Yurdu** ve **Hezarfen Ahmet Çelebi KYK Yurdu** öğrencilere büyük konfor sunar; otobüs derdi olmadan derse yürüyerek gidilir.
-  * **Şehir İçi Yurtlar:** Zafertepe ve Germiyan Kampüsü çevresinde **Zafertepe KYK Kız Yurdu** ve erkek yurt blokları bulunmaktadır.
-* **Öğrenci Evleri ve Kiralar:**  
-  Kütahya, büyükşehirlere ve komşusu Eskişehir'e kıyasla kira piyasasında çok daha ekonomiktir (**8.000 - 13.500 TL** bandında 2+1 ve 3+1 daireler). Öğrencilerin en yoğun ikamet ettiği mahalleler:
-  * **Zafertepe Mahallesi:** Germiyan Kampüsü'ne komşu, yeni binaların olduğu popüler öğrenci muhiti.
-  * **Dumlupınar ve Meydan (Vazo Çevresi):** Şehrin tam merkezi; kafeler, otobüs durakları ve mağazaların göbeği.
-  * **Yenidoğan ve Fuatpaşa:** Bütçe dostu, tren garına yakın kiralık ev bölgeleri.
+### 🏢 Evliya Çelebi Kampüs İçi KYK Yurtları (Barınma Cenneti)
+Kütahya, Türkiye'de KYK yurt kapasitesi açısından en rahat illerden biridir; açıkta kalma ihtimali neredeyse yoktur.
 
----
+* **Kampüs İçi Yurt Kompleksi:** **Hüsnü Özyeğin KYK Yurdu**, **Dumlupınar KYK Yurdu** ve **Hezarfen Ahmet Çelebi KYK Yurdu** kampüs arazisinin içindedir. Bu yurtlarda kalan öğrenciler Tavşanlı yolu otobüs çilesini hiç çekmeden yürüyerek amfilere gider.
+* **Zafertepe KYK Kız Yurdu:** Germiyan Kampüsü yakınında, şehir merkezine daha yakın olan yüksek kapasiteli kız yurdudur.
+* **23:00 Turnike ve Parmak İzi Katılığı:**  
+  KYK yurtlarında 23:00 turnike kuralı tavizsiz uygulanır. Şehir merkezinden kalkan son kampüs otobüsünün (genellikle 22:30 civarı) kaçırılmaması gerekir; son otobüsü kaçıran öğrenciler Zafer Meydanı'ndan taksi dolmuş yapmak zorunda kalır.
+* **Çamaşırhane:** Pazar günleri kurutma ve yıkama makineleri dolu olur; hafta içi sabah ders aralarında çamaşır yıkamak en pratik yöntemdir.
 
-## 3. 🎓 Akademik ve Fiziki Mimari
-
-* **Görkemli Selçuklu-Osmanlı Mimarisi:**  
-  Evliya Çelebi Kampüsü, devasa taç kapısı, yapay göletleri, Selçuklu kemerleri ve geniş yeşil meydanlarıyla Türkiye'nin görsel olarak en anıtsal kampüslerinden biridir. Kampüsün sembolü olan yapay gölet çevresi bahar aylarında öğrencilerin çimlere yayıldığı ana toplanma alanıdır.
-* **Güçlü Fakülteler:**  
-  * **Mühendislik Fakültesi:** Makine, Bilgisayar, Elektrik-Elektronik, İnşaat ve Malzeme Mühendislikleri güçlü laboratuvarlara sahiptir.
-  * **İktisadi ve İdari Bilimler Fakültesi (İİBF):** Üniversitenin en kalabalık ve köklü fakültelerindendir.
-  * **Güzel Sanatlar Fakültesi:** Çini, seramik ve geleneksel Türk sanatlarında Kütahya'nın tarihi zanaat mirasıyla bütünleşmiş Türkiye çapında bir merkezdir.
-* **Kütüphane ve İnternet:**  
-  Merkez Kütüphane Selçuklu tarzı dev kubbeli binasında zengin kitap koleksiyonu ve ferah çalışma salonları sunar. Vize ve final dönemlerinde 7/24 açıktır. Kampüste **eduroam** ağı aktiftir.
+### 🏡 Öğrenci Mahalleleri ve Kira Seviyeleri
+Kütahya, komşusu Eskişehir'e göre çok daha ekonomik bir ev piyasasına sahiptir:
+* **Zafertepe Mahallesi:** Yeni binaların, spor salonlarının ve marketlerin yoğun olduğu ana öğrenci muhitidir. Germiyan Kampüsü'ne yürüyüş mesafesindedir (**9.000 - 13.000 TL**).
+* **Meydan ve Dumlupınar (Vazo Çevresi):** Şehrin tam kalbidir; kafeler, fast food dükkanları ve otobüs durakları elinizin altındadır (**8.500 - 13.500 TL**).
+* **Kombi ve Kütahya Ayazı Uyarısı:** Kütahya yaklaşık 1000 metre rakımda yer aldığından kış ayları çok sert geçer. Yalıtımsız eski binalarda bireysel kombi faturaları yüksek gelebilir; ev tutarken mantolama ve cepheye dikkat edilmelidir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🍽️ Beslenme, Yöresel Lezzetler & Kampüs Yaşamı
 
-* **Merkez Yemekhane ve Bedesten Çarşısı:**  
-  Evliya Çelebi Kampüsü'nün kalbinde yer alan **Bedesten Çarşısı**, hem mimarisiyle geleneksel bir kapalıçarşıyı andırır hem de içinde kırtasiye, bankamatikler, kuaför, kargo şubeleri ve kafeleri barındırır. Üniversitenin ana yemekhanesi de bu komplekste yer alır; hafta içi 4 çeşit doyurucu öğrenci menüsü (~25-30 TL) bütçe dostudur.
-* **Kafeler ve Dinlenme Alanları:**  
-  Fakülte kantinleri haricinde gölet kenarındaki kafeteryalar ve çardaklar öğrencilerin kahve içip sohbet ettiği ana noktalardır. Germiyan Kampüsü'nde ise Beden Eğitimi tesisleri ve açık spor sahaları mevcuttur.
-* **Spor Tesisleri:**  
-  Kapalı spor salonu, olimpik tırmanma duvarı, tenis kortları, halı sahalar ve fitness merkezi kampüs içi sportif aktiviteleri destekler.
-
----
-
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
-
-* **Şehrin Ruhu ve Öğrenciye Yaklaşımı:**  
-  Kütahya, köklü çinicilik geleneğine sahip, sakin, muhafazakar ve dingin bir Anadolu şehridir. Yerel halk öğrencilere alışkındır; esnaf genel olarak yardımcıdır. Suç oranı son derece düşük, geceleri sokakları huzurlu ve güvenlidir.
-* **Sosyal Mekanlar ve Eğlence:**  
-  Öğrencilerin şehir merkezindeki sosyal yaşamı **Sera Kütahya AVM**, **Zafer Meydanı (Vazo Meydanı)** ve **Atatürk Bulvarı** boyunca uzanan kafeler, kahve zincirleri ve nargile kafeler etrafında döner.
-* **Eskişehir Mucizesi (Öğrencinin Can Simidi):**  
-  Kütahya'da okuyan her öğrencinin hayatındaki en büyük sosyal avantaj **Eskişehir'e olan 1 saatlik tren mesafesidir**. TCDD bölgesel trenleriyle gidiş-dönüş biletleri öğrenci tarifesiyle çok ucuzdur. Öğrenciler cuma akşamları trenle Eskişehir'e geçip hafta sonunu konserler, Barlar Sokağı, Adalar ve Porsuk Çayı kıyısında geçirip pazar akşamı Kütahya'ya dönerler.
+* **Meşhur Kütahya Güveci:**  
+  Kütahya'nın en ünlü yöresel yemeğidir. Toprak güveç çömleklerinde, taş fırında kuzu eti, domates ve biberle saatlerce ağır ateşte pişirilir; et lokum gibi dağılır. Öğrencilerin burs yattığında tarihi çarşı fırınlarında kendilerine çektiği efsane bir ziyafettir.
+* **Tarihi Germiyan Ekmeği & Cimcik:**  
+  Ekşi mayayla taş fırında pişen dev Germiyan ekmeği haftalarca bayatlamaz; tostları ve kahvaltıları şenlendirir. Minik hamurların çimdiklenerek yapıldığı yoğurtlu sarımsaklı cimcik aşı ise bütçe dostu yerel bir lezzettir.
+* **Bedesten Çarşısı Dönercileri & Merkez Yemekhane:**  
+  Evliya Çelebi Kampüsü'nün kalbindeki tarihi kapalıçarşı mimarili **Bedesten Çarşısı**, hem merkez yemekhaneyi barındırır (25-30 TL) hem de tavuk dönercileri, pidecileri ve çay ocaklarıyla öğrencilerin ana toplanma yeridir.
+* **Sınav Haftası Gece Çorbası:**  
+  Merkez Kütüphane önünde vize/final dönemlerinde gece saat 23:00'te rektörlük tarafından sıcak çorba ve ekmek dağıtılır.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 4. 📚 Akademik Yapı, Sınavlar & Kütüphane Kültürü
 
-### ✅ Artıları
-* **Düşük Yaşam Maliyeti:** Kira, yeme-içme ve genel yaşam masrafları Türkiye ortalamasının çok altındadır; az bir bütçeyle rahatça üniversite bitirilebilir.
-* **Garantili Barınma:** Kampüs içi ve merkezdeki KYK yurtlarının kapasitesi çok geniştir; açıkta kalma veya fahiş özel yurtlara mecbur kalma derdi yaşanmaz.
-* **Anıtsal ve Ferah Kampüs:** Yapay göletleri, Selçuklu mimarisi ve geniş peyzajıyla görsel olarak etkileyici bir yerleşkedir.
-* **Eskişehir'e Komşuluk:** Canınız sıkıldığında trenle 1 saatte Türkiye'nin en canlı öğrenci başkentine kaçabilme imkanı.
-
-### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
-* **Dondurucu Kütahya Ayazı:** Yüksek rakım ve açık plato nedeniyle kasımdan nisana kadar kuru soğuk, dondurucu rüzgar ve kar eksik olmaz. Göletlerin buz tuttuğu günlerde kampüs rüzgar tüneline döner.
-* **10 Kilometrelik Yol ve 1/7 Numaralı Otobüs İzdihamı:** Kampüs şehir dışında olduğundan sabah ve akşam saatlerinde otobüslerde balık istifi yolculuk kaçınılmazdır. Sefer aralıklarının bazen aksaması öğrencileri çıldırtır.
-* **Sınırlı Şehir Sosyal Hayatı:** Kütahya'da gece hayatı, alternatif kültürel etkinlikler, bağımsız tiyatrolar veya büyük konserler neredeyse yoktur; şehir saat 22:00'den sonra sessizliğe gömülür.
-* **Akşamları Issızlaşan Kampüs:** Dersler bitip otobüsler çekildiğinde kampüsteki Bedesten çarşısı erken kapanır; kampüs içi yurtta kalanlar için akşamlar fazlasıyla monoton geçebilir.
+* **Görkemli Selçuklu Mimarisi ve Dev Kütüphane:**  
+  Evliya Çelebi Kampüsü devasa kapısı, Selçuklu kemerleri ve yapay göletleriyle görsel olarak Türkiye'nin en anıtsal kampüslerinden biridir. Merkez Kütüphane dev kubbeli salonları, binlerce basılı kaynağı ve sessiz etüt amfileriyle vize/final haftasında 7/24 dolup taşar. Prizli masalar sabah 08:30'da tükenir.
+* **Mühendislik ve İİBF Geleneği:**  
+  DPÜ Mühendislik Fakültesi (Makine, Bilgisayar, Elektrik-Elektronik, İnşaat ve Malzeme) ve İİBF fakültelerinde bağıl değerlendirme sistemi (çan eğrisi) uygulanır. Laboratuvar föyleri ve vize barajları öğrencileri disiplinli çalışmaya zorlar.
+* **KSBÜ Sağlık Entegrasyonu:**  
+  Kütahya Sağlık Bilimleri Üniversitesi (KSBÜ) ile paylaşılan klinik alanlar ve Evliya Çelebi Eğitim ve Araştırma Hastanesi stajları tıp ve diş hekimliği için zengin vaka ortamı sunar.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+
+* **Dondurucu Kütahya Ayazı ve Buz Tutan Göletler:**  
+  Kış aylarında kampüsteki yapay göletlerin yüzeyi tamamen buz tutar. Açık platoda kurulu olduğu için binalar arasında yürürken tipi ve sert ayaz nefesinizi keser; kapüşonlu kalın dağcı montu şarttır.
+* **1 ve 7 No'lu Otobüs Çilesi:**  
+  Sabah merkezden kampüse giderken duraklarda yaşanan izdiham ve akşam dönüşte tıklım tıklım otobüste ayakta kalmak öğrencilerin en çok yakındığı konudur.
+* **Şehrin Erken Uyuyan Sakin Havası:**  
+  Kütahya'da gece hayatı ve alternatif gençlik kulüpleri yoktur; sokaklar saat 22:00'den sonra sessizliğe gömülür.
+* **Öğrencinin Can Simidi: Trenle 1 Saatte Eskişehir!**  
+  Kütahya'da okuyan her öğrencinin kurtarıcısı TCDD bölgesel trenleridir. Cuma akşamı öğrenci biletiyle trene atlayıp 1 saatte Eskişehir Garı'na geçen öğrenciler, hafta sonunu Barlar Sokağı, konserler ve Adalar'da geçirip pazar akşamı Kütahya'ya dönerler.
+
+---
+
+## 💡 DPÜ'ye Yeni Geleceklere Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Kütahya'ya geliyorsan valizine ilk koyacağın şey en kalın termal içliklerin, rüzgar geçirmez montun ve sağlam bir kışlık botun olsun. Bütçen kısıtlıysa burası senin için bir vaha gibidir; kira ve yurt ucuzdur. Sosyal hayatın bittiğini düşündüğün an hemen TCDD uygulamasını açıp tren bileti al, 1 saat sonra Eskişehir Porsuk kenarında kahveni yudumluyor olursun!"
+> 1. **Kampüs İçi KYK Yurtlarını İlk Sıraya Yaz:** Hüsnü Özyeğin veya Dumlupınar KYK çıkarsa sabah 1 ve 7 no'lu otobüs çilesinden tamamen kurtulur, derse 5 dakikada yürürsün.  
+> 2. **Otostoptan Çekinme:** Otobüs gelmediğinde nizamiyedeki otostop cebinde bekleyen öğrenci grubuna katıl; hocalar ve sürücüler arabaya öğrenci almayı sever.  
+> 3. **Eskişehir Tren Saatlerini Telefonuna Kaydet:** TCDD tren biletleri çok ucuzdur; canın sosyal hayat istediğinde 1 saatte Eskişehir'e kaçabilirsin.  
+> 4. **Kış Soğuğunu Hafife Alma:** 1000 metre rakımın ayazı serttir; su geçirmez kışlık bot ve termal içlik bavulunun demirbaşı olsun!

@@ -2,9 +2,9 @@
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Gaziantep / Şahinbey  
-> **Üniversite Türü:** Devlet  
+> **Üniversite Türü:** Devlet (ODTÜ Ekolü & Köklü İngilizce Mühendislik)  
 > **Kampüs Konumu:** Üniversite Bulvarı, Şahinbey (Şehrin Ana Arterinde)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.7/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.8/5)
 
 ---
 
@@ -12,99 +12,83 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 0 - 5 km (~12-15 dk) | Gaziantep Tramvayı'nın 'Üniversite' durağı doğrudan ana nizamiyenin önündedir |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs içinde ve sınırında Ümmü Gülsüm Kız KYK, Şahinbey Erkek KYK yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 10.000 - 16.000 TL | Üniversite Bulvarı, Yeditepe, Güvenevler ve Karataş mahalleleri |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / Çok Başarılı | 4 çeşit sıcak menü, GAÜN Akıllı Kart sistemi, diyet ve vejetaryen alternatif |
-| **📚 Kütüphane Kapasitesi** | 7/24 Açık (Sınav Dönemi) | GAÜN Merkez Kütüphanesi zengin dijital/basılı koleksiyon ve sessiz çalışma katları |
-| **🌐 İnternet (eduroam)** | Çok Hızlı | Kampüs geneli, fakülteler, kütüphane ve çim alanlarda fiber eduroam |
-| **🌆 Sosyal Yaşam & Çevre** | Efsanevi / Çok Dinamik | Karşı kaldırımda Üniversite Bulvarı kafeler sokağı, Yeditepe, UNESCO Gastronomi |
+| **🚇 Şehir Merkezine Uzaklık** | 0 - 5 km (~12-15 dk) | Gaziantep Tramvayı'nın 'Üniversite Meydanı' durağı doğrudan ana nizamiyenin önündedir |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (Kampüs İçi ve Bitişik) | Ümmü Gülsüm Kız, Ezogelin Kız, Şahinbey Erkek, Gazikent Erkek KYK |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 10.500 - 17.500 TL | Yeditepe, Üniversite Bulvarı, Karataş, Güvenevler |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / Çok Başarılı | 4 çeşit sıcak menü, GAÜN Akıllı Kart sistemi, diyet ve vejetaryen menü |
+| **📚 Kütüphane Kapasitesi** | 7/24 Açık (Sınav Dönemleri) | GAÜN Merkez Kütüphanesi zengin dijital/basılı koleksiyon ve sessiz çalışma locaları |
+| **🌐 İnternet (eduroam)** | Çok Hızlı (Fiber) | Tüm fakültelerde, kütüphanede, çim amfilerde kesintisiz fiber eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | Efsanevi Dinamik & Gastronomi | Karşı kaldırımda Yeditepe kafeler sokağı, UNESCO Gastronomi lezzetleri |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Ağı, Tramvay Taktikleri ve Gaziray Entegrasyonu
 
-* **Şehir Merkezinden ve Otogardan Ulaşım:**  
-  Gaziantep Üniversitesi Merkez Kampüsü, şehrin batı omurgası olan **Üniversite Bulvarı** üzerinde, ulaşım açısından mükemmel bir konumdadır. **Gaziantep Tramvayı'nın (Gar - Üniversite / Adliye - Burç Kavşağı)** ana aktarma istasyonu olan **"Üniversite" durağı**, doğrudan kampüsün ana giriş kapısının (A Kapısı) önündedir. Şehir merkezinden (Maanoğlu Parkı / Demokrasi Meydanı) tramvayla 15 dakikada, Gaziantep Otogarı'ndan ve Gar'dan ise tek vasıtayla 20 dakikada kampüse ulaşılır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  GAÜN Merkez Kampüsü, 1.500 dönümün üzerinde çam ağaçlarıyla kaplı yemyeşil devasa bir yerleşkedir. Kampüs içinde düzenli çalışan **ücretsiz ring araçları** fakülteler, Tıp Fakültesi Araştırma Hastanesi, yurtlar, kütüphane ve spor kompleksleri arasında ring yapar. Kampüs içi bisiklet ve yaya dostudur.
-* **Ulaşım Kartı ve Abonman:**  
-  Büyükşehir Belediyesi toplu taşıma araçlarında ve tramvayda **Gaziantep Kart** kullanılır. Öğrenci tarifesi son derece ekonomiktir; belediyenin gençlik dostu indirimleri ve aktarma avantajları aktiftir.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Gaziantep'te kışlar İç Anadolu veya Doğu Anadolu kadar sert geçmez; kar yağışı yılda birkaç gün etkilidir. Kampüs içi düz ve asfalt yollara sahip olduğu için kış aylarında ulaşım aksaması yaşanmaz.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** Doğrudan kampüs yerleşkesinin içinde ve hemen sınırında yer alan **Ümmü Gülsüm KYK Kız Yurdu** ve **Ezogelin KYK Kız Yurdu**, binlerce öğrenciye dersliklere yürüyerek gitme ayrıcalığı sunar.
-  * **Erkek Yurtları:** Kampüs bitişiğinde yer alan **Şahinbey KYK Erkek Yurdu** ve **Gazikent KYK Erkek Yurdu**, kapasite ve konfor açısından bölgenin en gelişmiş yurt komplekslerindendir. Odalar 3-4 kişiliktir, çalışma masası, banyo, sıcak su ve internet standarttır.
-* **Özel Yurtlar ve Apartlar:**  
-  Kampüsün ana nizamiyesinin tam karşısındaki **Üniversite Bulvarı ve Yeditepe Mahallesi**, tamamen öğrencilere yönelik 1+0, 1+1 eşyalı rezidans ve apartlarla doludur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Yeditepe Mahallesi:** GAÜN öğrencilerinin gayriresmi yaşam başkentidir. Kampüse yürüme mesafesinde (3-10 dk), yüzlerce kafe, kütüphane-kafe, restoran, market ve fotokopicinin yer aldığı, gecenin geç saatlerine kadar cıvıl cıvıl olan mahalledir.
-  * **Karataş:** Tramvayla kampüse 7-10 dakika mesafede, geniş caddeleri, yeni güvenlikli siteleri ve alışveriş merkezleriyle bilinen bölgedir. 2+1 ve 3+1 ev tutmak isteyen öğrenciler tarafından tercih edilir.
-  * **Güvenevler ve Osmangazi (Şehitkamil Aksı):** Daha sakin ve nezih sitelerin yer aldığı, tramvayla tek vasıtada ulaşılan alternatif yaşam alanlarıdır.
-  * **Ortalama Öğrenci Evi Kiraları (Kasım 2026):** Yeditepe ve Üniversite çevresinde 1+1 eşyalı apartlar **10.000 TL - 16.000 TL** bandında değişmektedir.
+* **Tramvay Hatları ve "Üniversite Meydanı" İstasyonu:**  
+  Gaziantep Üniversitesi Merkez Kampüsü, şehrin batı omurgası olan **Üniversite Bulvarı** üzerindedir. Tramvay ağının merkez istasyonu olan **"Üniversite" durağı**, doğrudan ana nizamiyenin (A Kapısı) turnikelerine açılır.  
+  * **Gar - Üniversite (1 Nolu Hat):** Tren Garı ve şehir merkezinden gelen öğrenciler için aktarmasız 15 dakikalık konforlu rotadır.
+  * **Adliye - Burç Kavşağı (2 Nolu Hat):** Adliye, Otogar çevresi ve Karataş aksından gelen öğrencileri kampüs kapısına bağlar.
+* **Gaziray Hızlı Banliyö Entegrasyonu:**  
+  Organize Sanayi Bölgesi (OSB) ile kentin doğu ilçelerini bağlayan **Gaziray** banliyö trenini kullanan öğrenciler, **Gar İstasyonu**'nda inip doğrudan tramvaya aktarma yaparak 10 dakikada GAÜN nizamiyesine varabilirler. İntörn mühendislik yapan öğrenciler için Gaziray sanayi bölgesine ulaşımda hayat kurtarır.
+* **Sabah Tramvay İzdihamı Taktikleri:**  
+  Sabah 08.15 - 08.50 arasında Rasaf Yolu ve Üniversite duraklarında ciddi bir öğrenci yığılması yaşanır. Bir durak önceki duraktan (Burç Kavşağı veya Güvenevler) binmek veya sarı belediye otobüslerini (B10, B28, B87 vb.) tercih etmek sıkışıklıktan kurtarır.
+* **Kampüs İçi Ring Seferleri:**  
+  1.500 dönümlük çam ormanlarıyla kaplı devasa yerleşkede fakülteler, Tıp Fakültesi Araştırma Hastanesi, kütüphane ve yurtlar arasında düzenli çalışan **ücretsiz kampüs içi ring araçları** sefer yapar.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma, Mahalle Dinamikleri ve Apart Piyasası
 
-* **ODTÜ Ekolü ve Güçlü İngilizce Mühendislik:**  
-  Gaziantep Üniversitesi Mühendislik Fakültesi, 1973 yılında **ODTÜ (Orta Doğu Teknik Üniversitesi)** bünyesinde kurulmuş köklü bir geleneğe sahiptir. Bu nedenle **Makine, İnşaat, Elektrik-Elektronik, Endüstri, Bilgisayar, Tekstil ve Gıda Mühendisliği** bölümlerinde eğitim %100 İngilizce olarak verilir. Laboratuvar donanımları, rüzgar tünelleri, talaşlı imalat atölyeleri ve TEKNOFEST atölyeleri Türkiye standartlarının üzerindedir.
-* **Sağlıkta Bölgenin Zirvesi:**  
-  GAÜN Şahinbey Araştırma ve Uygulama Hastanesi, Onkoloji Hastanesi ve Çocuk Hastanesi, Güneydoğu Anadolu'nun ve Ortadoğu'nun en büyük referans sağlık merkezidir. Tıp ve Diş Hekimliği öğrencileri zengin vaka çeşitliliği ve ileri teknoloji cerrahi imkanlarla yetişir.
-* **Kütüphane ve Çalışma Alanları:**  
-  GAÜN Merkez Kütüphanesi çok katlı modern binasında yüz binlerce basılı kitap, bireysel çalışma locaları, grup etüt odaları ve sınav dönemlerinde 7/24 hizmet veren çorba ikramlı salonlarıyla dikkat çeker.
-* **İnternet Altyapısı:**  
-  Tüm kampüste, fakülte amfilerinde ve açık sosyal alanlarda `eduroam` fiber omurgası yüksek hızda hizmet verir.
-* **Öğrenci Kulüpleri ve TEKNOFEST Başarıları:**  
-  100'ün üzerinde aktif öğrenci kulübü mevcuttur. Üniversitenin elektrikli araç, İHA, roket ve yapay zeka takımları TEKNOFEST yarışmalarında her yıl Türkiye dereceleri elde eder.
+* **KYK Yurtları (Konum, Oda Tipleri ve Düzen):**  
+  * **Kız Yurtları:** Kampüs arazisinin hemen içinde ve sınırında yer alan **Ümmü Gülsüm KYK Kız Yurdu** ve **Ezogelin KYK Kız Yurdu**, kız öğrencilere dersliklere yürüyerek 5 dakikada gitme konforu sunar. Odalar 3-4 kişiliktir; bazalı yataklar, çalışma masası, mini buzdolabı ve banyo oda içindedir. Çamaşırhane için online sıra fişi alınır.
+  * **Erkek Yurtları:** Kampüsün yanı başındaki **Şahinbey KYK Erkek Yurdu** ve **Gazikent KYK Erkek Yurdu** modern bloklarıyla hizmet verir. Sıcak su 24 saat aktiftir ve geniş etüt salonları sınav dönemlerinde çok rahattır.
+* **Öğrenci Evleri ve Apart Gerçeği (Yeditepe, Üniversite Bulvarı, Karataş):**  
+  * **Yeditepe Mahallesi (Öğrenci Gettosu):** Kampüsün ana nizamiyesinden karşıya geçtiğiniz anda Yeditepe başlar. Gece 02.00'de bile açık olan kafeler, çiğ köfteciler, fotokopiciler ve 1+1 apartlarla doludur. Ancak buradaki eşyalı 1+1 ve stüdyo dairelerin kiraları Gaziantep genelinin üzerindedir (**11.000 - 17.500 TL** bandı).
+  * **Depozito ve Komisyon Oyunlarına Dikkat:** Yeditepe'de ev tutarken bazı emlakçıların yüksek depozito ve aidat taleplerine karşı sözleşmeyi noter onaylı veya kurumsal şartlarla yapın; evdeki klimaların ve kombinin çalışır vaziyette olduğunu teyit edin.
+  * **Karataş Alternatifi:** Tramvayla 8-10 dakika mesafedeki Karataş, geniş caddeleri ve yeni güvenlikli siteleriyle 2-3 arkadaş birleşip 2+1 veya 3+1 ev tutmak için çok daha ekonomik ve konforludur.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🍽️ Beslenme, Sokak Lezzetleri ve Sabah Beyranı Kültürü
 
 * **Merkez Yemekhane:**  
-  Öğrenci Yaşam Merkezi bünyesindeki devasa yemekhanede günde 2 öğün sıcak yemek verilir. 4 çeşit tabldot menü 25-30 TL gibi oldukça ekonomik bir fiyata sunulmaktadır.
-* **Kampüs Çarşısı ve Çevre Mekanlar:**  
-  Kampüs içerisinde banka şubeleri, PTT, marketler, kuaför, kitap-kırtasiye mağazaları ve gölet kenarında açık kampüs kafeleri bulunur. Kampüs nizamiyesinden çıktığınız anda ise Gaziantep'in dünyaca meşhur kebapçıları, lahmacuncuları, beyran salonları ve künefecileri öğrencilere piyasanın altında uygun öğrenci menüleri sunar.
-* **Spor Tesisleri:**  
-  Yarı olimpik kapalı yüzme havuzu, kapalı spor salonları, açık tenis kortları, sentetik futbol sahaları, koşu pisti ve fitness merkezi tüm öğrencilerin kullanımına açıktır.
+  Öğrenci Yaşam Merkezi içindeki çok katlı yemekhanede 4 çeşit tabldot menü 25-30 TL gibi çok uygun bir fiyata verilir. Gaziantep mutfak kültürünün zenginliği yemekhaneye de yansır; porsiyonlar doyurucudur.
+* **Sokak Lezzetleri Efsaneleri:**  
+  * **Nohut Dürümü (Öğrencinin Baş Tacı):** Kemik iliği suyunda saatlerce haşlanmış sıcak nohutların tırnak pide üzerine serilip pul biber, kimyon, sumak, taze nane ve limon suyuyla ezilerek dürüm yapılmasıdır. **Dürümcü Recep, Dürümcü Adil** veya Üniversite Bulvarı'ndaki sokak tezgahlarında yenen nohut dürümü, Türkiye'deki en lezzetli ve en ucuz öğrenci yemeğidir.
+  * **Sabah Beyranı Ritüeli:** Gaziantep'te beyran çorba değil, ana yemektir! Sabah 05.00 ile 08.30 arasında **Metanet, Kelebek veya Kadir Usta**'da bakır sahanda et suyu, pirinç, kuzu incik eti, sarımsak ve pul biberin alevli ocakta pişirilmesiyle hazırlanır. Sınav sabahı içilen bir tabak beyran, bütün gün zinde tutar.
+  * **Küşleme, Lahmacun ve Katmer:** Şehirdeki tarihi kebapçılar ve Üniversite Bulvarı'ndaki fırınlar çıtır çıtır Antep lahmacununu çok uygun fiyata çıkarır. Hafta sonu ise çay eşliğinde kaymaklı sıcak katmer yemek bir GAÜN klasiğidir.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 4. 📚 Akademik Ciddiyet: ODTÜ Ekolü, İngilizce Hazırlık ve İntörn Mühendislik
 
-* **UNESCO Tescilli Gastronomi Başkenti:**  
-  Gaziantep, Türkiye'nin gastronomi alanında UNESCO tescilli ilk şehridir. Öğrencilik hayatı baklava, katmer, beyran, kebap ve sokak lezzetleri arasında eşsiz bir gurme şölenine dönüşür.
-* **Canlı Sosyal Yaşam ve Gençlik Alanları:**  
-  Üniversite Bulvarı ve Yeditepe sokakları gece yarısına kadar açık olan üçüncü nesil kahveciler, kitap-kafeler ve gençlik mekanlarıyla doludur. Şehir merkezindeki **Gaziantep Kalesi**, **Tarihi Bey Mahallesi** (butik kafeleri ve taş konakları), **Sankopark AVM**, **Forum Gaziantep** ve **Primemall AVM** öğrencilerin sıkça ziyaret ettiği sosyal noktalardır.
-* **Kültürel Zenginlik:**  
-  Dünyanın en büyük mozaik müzelerinden biri olan **Zeugma Mozaik Müzesi**, Gaziantep Hayvanat Bahçesi ve Alleben Göleti mesire alanı öğrencilere ders stresini atacakları harika rotalar sunar.
-* **Sanayi ve İstihdam Olanakları:**  
-  Türkiye'nin en büyük Organize Sanayi Bölgelerinden birine sahip olan Gaziantep'te mühendislik, İİBF ve teknik bölüm öğrencileri için staj ve mezuniyet sonrası iş olanakları oldukça geniştir.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
-
-### ✅ Artıları
-* **Bütünleşik Şehir ve Kampüs Yaşamı:** Tramvayın kapıya kadar gelmesi ve nizamiyeden çıkar çıkmaz Yeditepe kafeler sokağına adım atılması eşsiz bir konfor sağlar.
-* **ODTÜ Ekolü İngilizce Mühendislik ve Güçlü Tıp:** Mühendislik Fakültesi'nin İngilizce eğitimi ve Tıp Fakültesi'nin devasa hasta çeşitliliği kariyer kapılarını sonuna kadar açar.
-* **Muazzam Gastronomi ve Zengin Sosyal Hayat:** Uygun fiyatlı lezzetli yemekler, yaşayan sokaklar ve dinamik gençlik ortamı.
-* **Geniş ve Yeşil Kampüs:** Güneydoğu'nun bozkırında adeta vaha gibi korunan çam ormanlarıyla kaplı yeşil kampüs dokusu.
-
-### ❌ Eksileri ve Kronik Sorunları
-* **Yaz Sıcakları:** Haziran ve Eylül aylarında sıcaklık 40°C'yi bulabilir; amfilerde ve yurtlarda klima ihtiyacı hissedilir.
-* **İngilizce Hazırlık ve Mühendislik Ağır Müfredatı:** ODTÜ ekolü sebebiyle mühendislik bölümlerinde ders geçmek ve mezun olmak oldukça disiplinli çalışma gerektirir.
-* **Tramvay Yoğunluğu:** Sabah 08.00 - 09.00 saatleri arasında 'Üniversite' durağında tramvaya binerken ciddi kalabalık yaşanabilir.
+* **ODTÜ Ekolü ve Zorlu İngilizce Hazırlık:**  
+  GAÜN Mühendislik Fakültesi 1973 yılında Orta Doğu Teknik Üniversitesi'ne (ODTÜ) bağlı olarak kurulmuştur. Bu nedenle eğitim dili **%100 İngilizcedir** ve müfredat çok ağırdır:
+  * **Hazırlık Sınıfı (Yabancı Diller Yüksekokulu):** Hazırlıkta A, B ve C kurları vardır. Yıl sonu 'Proficiency' yeterlilik sınavını geçemeyen öğrenciler hazırlığı tekrar etmek zorunda kalır. Hazırlığı ciddiye almayan yüzlerce öğrenci bölüme geçemez.
+* **İntörn Mühendislik Modeli (Sektörde Tam Zamanlı Çalışma):**  
+  Mühendislik Fakültesi son sınıf öğrencileri, son dönemlerinde okula gelmek yerine Gaziantep Organize Sanayi Bölgesi'ndeki (Türkiye'nin en büyük OSB'lerinden biri) fabrikalarda **tam zamanlı "İntörn Mühendis"** olarak çalışır. Maaş ve sigortaları ödenir; mezun olmadan iş teklifi alan öğrenci oranı %70'in üzerindedir.
+* **Şahinbey Araştırma Hastanesi Vaka Zengini:**  
+  Tıp ve Diş Hekimliği Fakülteleri tüm Güneydoğu'ya ve sınır ötesine hizmet verdiği için stajyer hekimler nadir görülen cerrahi vakaları ve poliklinik yoğunluğunu birebir deneyimler.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
 
-> 💬 **Öğrenci Notu:**  
-> "Gaziantep Üniversitesi'ni yazarken kafanızda soru işareti kalmasın; burası Doğu ve Güneydoğu'nun açık ara en batılı, en dinamik ve en keyifli kampüs hayatına sahip üniversitesidir. Tramvay doğrudan okulun kapısında durur, karşıya geçtiğiniz an yüzlerce kafe ve öğrenci apartı sizi karşılar. Mühendislik okuyacaksanız İngilizce hazırlığı ciddiye alın; Tıp okuyacaksanız vaka zenginliğiyle Türkiye'nin en tecrübeli hekimlerinden biri olursunuz. Yanınızda mutlaka sağlam bir spor ayakkabı ve bolca yemek bütçesi getirin!"
+* **Kavurucu Güneydoğu Yaz Sıcağı:**  
+  Mayıs sonundan Eylül sonuna kadar hava sıcaklığı 40-43°C'ye ulaşır. Klimalı amfiler ve kütüphane hayat kurtarır; öğle saatlerinde açık kampüs alanlarında dolaşmak zordur.
+* **Yeditepe Kira ve Yaşam Pahalılığı:**  
+  Gaziantep'in turizm ve sanayi kenti olması, kiralık ev fiyatlarını Türkiye ortalamasının üzerine çekmiştir. Yeditepe'de öğrenciye yönelik fahiş kira talepleri öğrencileri Karataş veya Güvenevler'e taşınmaya zorlar.
+* **Sabah Tramvay Yoğunluğu:**  
+  Üniversite durağında sabah saatlerinde tramvaya binip inmek sabır gerektirir.
+* **Cuma Akşamı Memlekete Kaçış:**  
+  Öğrencilerin önemli kısmı çevre Güneydoğu ve Akdeniz illerinden (Şanlıurfa, Kahramanmaraş, Adıyaman, Hatay, Adana) geldiği için Cuma öğleden sonra kampüs tenhalaşır.
+
+---
+
+## 6. 💡 İlk Günden Mezuniyete Altın Tavsiyeler
+
+1. **İngilizce Hazırlığı İlk Günden Sıkı Tut:** "Nasıl olsa geçerim" deme; GAÜN hazırlık sınavları ODTÜ standardındadır, kelime ve dinleme pratiklerini aksatma.
+2. **Ev Tutarken Karataş ve Akkent'i Göz Ardı Etme:** Yeditepe'nin gürültüsü ve yüksek kirası yerine Karataş'ta tramvaya yakın geniş bir ev tut; hem paran cebinde kalsın hem de huzurlu uyu.
+3. **Nohut Dürümü ve Beyranı Keşfet:** Üniversite Bulvarı'nda sabahları nohut dürümünü, vize haftalarında sabah beyranını mutlaka dene; Gaziantep'in eşsiz gastronomi kültürünün tadını çıkar.
+4. **İntörn Mühendislik ve Sanayi Fırsatlarını Yakala:** Organize Sanayi Bölgesi'ndeki küresel tekstil, gıda, ambalaj ve makine devleriyle erken dönemde iletişim kur; intörnlük dönemini kadroya girmek için avantaja çevir.
+5. **Gaziantep Kart Öğrenci Kartını ve Gaziray'ı Kullan:** Tramvay ve Gaziray aktarmaları şehir içi ulaşım masrafını minimuma indirir.

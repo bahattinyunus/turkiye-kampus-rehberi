@@ -3,8 +3,8 @@
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** İstanbul / Esenler (Davutpaşa) & Beşiktaş (Yıldız)  
 > **Üniversite Türü:** Devlet (Teknik Araştırma Üniversitesi)  
-> **Kampüs Konumu:** Metroya Sıfır Devasa Tarihi Kışla/Park Kampüsü (Davutpaşa) & Boğaz Sırtlarında Tarihi Kampüs (Yıldız)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.6/5)
+> **Kampüs Konumu:** Metroya Sıfır Devasa Tarihi Kışla Kampüsü (Davutpaşa) & Boğaz Sırtlarında Tarihi Yerleşke (Yıldız)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️⭐️ (4.7/5)
 
 ---
 
@@ -12,93 +12,74 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | Davutpaşa: M1A Metrosu Kapıda / Yıldız: Beşiktaş Merkez | **M1A Davutpaşa-YTÜ** metro durağı doğrudan kampüs içine açılır; Cevizlibağ'dan ring |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek (İstanbul'un En İyisi!) | Davutpaşa Kampüsü içinde FSM KYK Erkek Yurdu ve 10 dk mesafede Cevizlibağ Atatürk KYK Kız Yurdu |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 17.000 - 28.000 TL | Esenler/Güngören/Merter/Şirinevler (Davutpaşa için uygun) ve Beşiktaş (Yıldız için yüksek) |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Tarihi Yemekhane ve sosyal tesislerde öğle/akşam yemeği |
-| **📚 Kütüphane Kapasitesi** | 7/24 Açık | Davutpaşa Merkez Kütüphanesi ve ünlü **Otağ-ı Hümayun / Kışla** çalışma alanları |
-| **🌐 İnternet (eduroam)** | Hızlı | Fakülte binalarında, kütüphanede ve Teknopark'ta güçlü eduroam |
-| **🌆 Sosyal Yaşam & Çevre** | Çok Canlı | Davutpaşa Ortabahçe & Festivaller, Yıldız Parkı ve Beşiktaş Çarşı |
+| **🚇 Şehir Merkezine Uzaklık** | Davutpaşa: M1A Metrosu Kapıda / Yıldız: Beşiktaş Merkez | **M1A Davutpaşa-YTÜ** metro durağı doğrudan kampüs içine açılır; Cevizlibağ Metrobüs'ten **41AT** ringi |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (İstanbul'un En Avantajlısı) | Kampüs içi **FSM KYK Erkek Yurdu** ve 10 dk mesafede **Cevizlibağ Atatürk KYK Kız Yurdu** |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 18.000 - 29.000 TL | Güngören, Merter, Haznedar, Esenler, Şirinevler (Davutpaşa için) / Beşiktaş, Abbasağa (Yıldız için) |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | Tarihi Kışla Yemekhanesi ve sosyal tesislerde öğle/akşam yemeği + vejetaryen menü |
+| **📚 Kütüphane Kapasitesi** | 7/24 Açık | Şevket Sabancı Kütüphanesi + Tarihi Hamam & Kışla Çalışma Salonları |
+| **🌐 İnternet (eduroam)** | Hızlı | YTU-NET & eduroam açık Ortabahçe çimleri, amfiler ve Teknopark dahil stabil |
+| **🌆 Sosyal Yaşam & Çevre** | Canlı & Çift Kutuplu | Davutpaşa Ortabahçe festivalleri, Kışla bahçesi + Beşiktaş Çarşı ve Yıldız Parkı |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚇 Ulaşım Taktikleri: M1A Hilesi, 41AT ve Yıldız Yokuşu
 
-* **Şehir Merkezinden Ulaşım:**  
-  1911 yılında kurulan köklü **Yıldız Teknik Üniversitesi (YTÜ)**, birbirinden çok farklı iki ana kampüste eğitim verir:
-  * **Davutpaşa Kampüsü (Ana Kampüs - Esenler/Güngören sınırı):** Osmanlı döneminden kalma devasa tarihi **Davutpaşa Kışlası** ve Otağ-ı Hümayun'un etrafına kurulmuş, uçsuz bucaksız yeşil alanlara sahip dev bir kampüstür (Elektrik-Elektronik, Bilgisayar, İnşaat, Kimya-Metalurji, Fen-Edebiyat, İİBF, Eğitim, Sanat ve Tasarım, Yabancı Diller Hazırlık buradadır). Ulaşımı çok rahattır: **M1A (Yenikapı - Atatürk Havalimanı) Metrosu'nun "Davutpaşa - YTÜ" durağından** çıktığınız an kampüsün içindesiniz! Ayrıca Metrobüs ve T1 Tramvayı'nın kesiştiği **Cevizlibağ** durağından kampüs içine sürekli çalışan **41AT** İETT otobüsleri ve **YTÜ Cevizlibağ Ring** servisleri vardır.
-  * **Yıldız Kampüsü (Beşiktaş):** Makine Fakültesi, Gemi İnşaatı ve Denizcilik Fakültesi ile Mimarlık Fakültesi'nin bulunduğu, Beşiktaş ile Ortaköy arasında **Yıldız Parkı ve Yıldız Sarayı** komşuluğundaki tarihi tepe kampüstür. Beşiktaş İskelesi ve Barbaros Bulvarı'ndan yürüyerek (meşhur **Yıldız Yokuşu**'nu çıkarak!) veya Barbaros Bulvarı İETT otobüsleriyle 5-10 dakikada ulaşılır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Davutpaşa Kampüsü çok geniş bir alana yayıldığı için metro girişinden fakültelere, Teknopark'a ve kampüs içi KYK yurduna düzenli **kampüs içi ring araçları** çalışır. Ayrıca kampüs düz ve hafif eğimli bisiklet yollarına sahip olduğundan paylaşımlı bisiklet ve scooter kullanımı çok yaygındır.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  İstanbulkart Öğrenci Abonmanı hem M1A metrosunda, hem 41AT otobüsünde hem de Cevizlibağ ringlerinde geçerlidir.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Yıldız (Beşiktaş) Kampüsü'nün dik Arnavut kaldırımlı yokuşu yağmurlu ve karlı günlerde kayganlaşır. Davutpaşa Kampüsü ise açık ve geniş bir tepe düzlükte yer aldığı için kışın rüzgarı sert eser; metro kapıdan fakülteye yürürken sıkı giyinmek gerekir.
+* **M1A Davutpaşa Metrosu Hilesi:**  
+  M1A (Yenikapı - Atatürk Havalimanı) hattının **"Davutpaşa - YTÜ"** istasyonunda inip köprü çıkışını takip ettiğinizde doğrudan kampüs nizamiyesine çıkarsınız. Sabah 08:30 ve 09:00 dersleri öncesinde metro kapısındaki kampüs içi ring durağında 200 metrelik devasa bir kuyruk oluşur.
+  * *Hayatta Kalma Hilesi 1:* Eğer dersiniz Elektrik-Elektronik, Bilgisayar veya Fen-Edebiyat fakültelerindeyse o kuyrukta 15 dakika beklemek yerine Kışla yanındaki yürüyüş yolundan tempolu yürüyün; 8 dakikada binadasınız!
+  * *Hayatta Kalma Hilesi 2 (Metrobüs Aktarması):* Anadolu Yakası'ndan veya Beylikdüzü'nden gelenler için **Cevizlibağ Metrobüs Durağı** can simididir. Cevizlibağ'dan kampüs içine doğrudan giren **41AT** İETT otobüsü veya YTÜ Cevizlibağ ringiyle 8 dakikada kampüs kalbine varılır.
+* **Yıldız (Beşiktaş) Kampüsü ve "Ciğer Söken Yokuş":**  
+  Makine, Denizcilik ve Mimarlık fakültelerinin bulunduğu Yıldız Kampüsü'ne Beşiktaş Meydanı'ndan yürürken **Barbaros Bulvarı** ve tarihi Yıldız Sarayı yokuşunu tırmanmak gerekir. Kışın yağmurda kaymamak için tırtıklı tabanlı ayakkabı şarttır; alternatif olarak Ihlamurdere veya Abbasağa dolmuşları kullanılabilir.
+* **Kampüsler Arası Ring:** Davutpaşa ile Yıldız kampüsleri arasında günün belirli saatlerinde karşılıklı ücretsiz öğrenci servisleri çalışır.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma, Yurtlar ve Mahalle Dinamikleri
 
-* **KYK Yurtları (YTÜ'nün En Büyük Avantajı):**  
-  İstanbul'daki büyük üniversiteler arasında **KYK yurtlarına erişimi en kolay üniversite YTÜ'dür**:
-  * **Erkek Yurtları:** **Fatih Sultan Mehmet (FSM) KYK Erkek Öğrenci Yurdu** doğrudan **Davutpaşa Kampüsü'nün kendi sınırları içinde** yer alır! Öğrenciler yurttan çıkıp yürüyerek veya kampüs ringiyle 5 dakikada dersliğe ulaşır. Ayrıca kampüs içinde **YTÜ Çağdaş Yaşam / Kampüs Kız Yurdu** da bulunur.
-  * **Kız Yurtları:** Türkiye'nin en büyük kız yurdu olan **Cevizlibağ Atatürk KYK Kız Öğrenci Yurdu**, Davutpaşa Kampüsü'nün hemen altındaki Cevizlibağ'da yer alır ve yurdun önünden kalkan 41AT / Ring araçlarıyla 10 dakikada kampüse çıkılır.
-* **Özel Yurtlar ve Apartlar:**  
-  Cevizlibağ, Merter, Topkapı, Şirinevler ve Beşiktaş'ta çok sayıda özel öğrenci yurdu ve İBB yurdu mevcuttur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Davutpaşa Öğrencileri İçin:** M1A metrosu ve metrobüs hattı üzerindeki **Merter, Güngören, Haznedar, Bahçelievler, Şirinevler, Esenler (Kemer/Menderes) ve Topkapı/Çapa** mahalleleri hem kampüse 10-20 dakika mesafededir hem de İstanbul ortalamasına göre çok daha uygun kiralara sahiptir (17.000 - 25.000 TL).
-  * **Yıldız (Beşiktaş) Öğrencileri İçin:** **Beşiktaş (Türkali, Abbasağa, Cihannüma, Dikilitaş)** ve **Mecidiyeköy/Fulya** en popüler mahallelerdir (24.000 - 35.000 TL).
+YTÜ, İstanbul'da KYK yurdu açısından en şanslı üniversitelerin başında gelir.
 
----
+### 🏢 Kampüs İçi ve Çevresi KYK Yurtları
+* **Fatih Sultan Mehmet (FSM) KYK Erkek Yurdu:** Doğrudan **Davutpaşa Kampüsü'nün arazisi içinde**, Teknopark ve stadyumun hemen yanı başındadır. Odalar 3-4 kişiliktir; sabah yataktan kalkıp 7 dakikada derse girmek İstanbul şartlarında inanılmaz bir lükstür. Yurt giriş turnikeleri 23:00 / 01:00 kontrolündedir; kütüphane çalışma izin kağıdı alanlar geç saatte rahatlıkla dönebilir.
+* **Cevizlibağ Atatürk KYK Kız Yurdu:** Türkiye'nin en büyük kız öğrenci yurdudur. Davutpaşa Kampüsü'ne 41AT ile yalnızca 2 durak mesafededir. T1 Tramvayı ve Metrobüs'e sıfır konumda olduğundan konumu stratejiktir.
+* **YTÜ Çağdaş Yaşam Kız Yurdu:** Kampüs sınırları içinde yer alan konforlu vakıf/üniversite yurdudur.
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
-
-* **Köklü Mühendislik ve Mimarlık Geleneği:**  
-  Yıldız Teknik Üniversitesi, Türkiye'nin en saygın teknik okullarından biridir. Sanayi ve özel sektörde devasa bir "Yıldızlılar" mezun ağı vardır.
-* **Kütüphaneler ve Çalışma Alanları:**  
-  Davutpaşa Şevket Sabancı Kütüphanesi 7/24 açıktır. Ayrıca Tarihi Hamam binası ve Kışla koridorlarındaki ders çalışma alanları mimari atmosferiyle öğrencilerin favorisidir.
-* **Yıldız Teknopark (Kampüs İçi İstihdam Cenneti):**  
-  Davutpaşa Kampüsü sınırları içinde faaliyet gösteren **YTÜ Yıldız Teknopark**, yüzlerce teknoloji, savunma sanayii ve yazılım şirketine ev sahipliği yapar. Öğrenciler 2. ve 3. sınıftan itibaren ders aralarında Teknopark şirketlerinde staj ve yarı zamanlı iş yapabilirler.
+### 🏘️ Öğrenci Mahalleleri & Ev Kiraları
+* **Güngören, Merter ve Haznedar:** M1A metrosuna ve Davutpaşa'ya çok yakın, esnaf lokantalarının ve fırınların bol olduğu, İstanbul'un en bütçe dostu semtleridir (3+1 evler 18.000 - 26.000 TL; 3 öğrenci kişi başı 6.000 - 8.500 TL).
+* **Esenler (Kemer / Çiftehavuzlar):** Kampüsün arka kapısına komşudur; yürüme mesafesinde ev arayanlar tercih eder.
+* **Beşiktaş (Abbasağa, Türkali):** Yıldız Kampüsü öğrencilerinin tercih ettiği, kafeleri ve öğrenci dayanışması yüksek semttir (Kişi başı 10.000 - 14.000 TL).
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🍽️ Beslenme, Kampüs İçi Yaşam ve Sokak Lezzetleri
 
-* **Merkez Yemekhane:**  
-  Davutpaşa ve Yıldız kampüslerindeki yemekhanelerde öğle ve akşam saatlerinde 4 çeşit sıcak yemek (vejetaryen menü dahil) 25-35 TL'ye sunulur.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Davutpaşa Kampüsü adeta yeşil bir kasabadır: Tarihi Kışla'nın ortasındaki **Ortabahçe**, **Tarihi Fırın** (kafeterya ve sergi alanı), **Taş Bina**, zincir kahveciler (Starbucks, Espressolab, Kahve Dünyası), yemek çarşısı, Migros, kırtasiyeler ve kuaför kampüs içinde yer alır.
-* **Spor Tesisleri:**  
-  Davutpaşa Kampüsü'nde **Yarı Olimpik Kapalı Yüzme Havuzu**, modern fitness merkezi, kapalı spor salonu, stadyum, tenis kortları, halı saha ve kilometrelerce uzanan bisiklet/koşu parkuru mevcuttur.
+* **Tarihi Kışla Yemekhanesi:** Öğle ve akşam saatlerinde uygun fiyata 4 çeşit dengeli yemek çıkar. Çorba ve tatlı/meyve porsiyonları doyurucudur.
+* **Tarihi Fırın & Ortabahçe Çay Sohbetleri:** Tarihi Kışla binasının avlusundaki Ortabahçe, YTÜ'lülerin sosyalleşme merkezidir. Tarihi Fırın'dan taze simit, poğaça ve çay alıp çimlere oturmak bahar aylarında tüm gün süren bir ritüeldir.
+* **Teknopark Restoranları:** Kampüs içindeki Yıldız Teknopark plazalarının zemin katında dönerciler, ev yemekçileri ve kahve zincirleri (Espressolab, Kahve Dünyası) yer alır; öğle saatlerinde aday mühendisler ile öğrencilerin buluşma noktasıdır.
+* **Yıldız Yokuşu Lezzetleri:** Beşiktaş Yıldız Kampüsü çıkışında Barbaros Bulvarı üzerindeki Balkan köftecileri ve meşhur sokak pilavcıları uygun fiyatlı alternatiflerdir.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 4. 📚 Akademik ve Hayatta Kalma: USIS Maratonu
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Davutpaşa Kampüsü etrafı duvarlarla çevrili, yüksek güvenlikli ve kendi içinde tamamen öğrenci odaklı devasa bir vahadır. Yıldız Kampüsü ise doğrudan Beşiktaş'ın enerjik öğrenci sokaklarına açılır.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Bahar geldiğinde Davutpaşa **Ortabahçe** ve **Şenlik Alanı** çimleri binlerce öğrencinin müzik yaptığı, frizbi oynadığı ve kamp sandalyeleriyle yayıldığı en keyifli alandır. Akşamları ise M1A metrosu + Yenikapı M2 veya Cevizlibağ üzerinden 25-30 dakikada Beşiktaş, Taksim veya Kadıköy'e geçilir.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* Davutpaşa Kampüsü'nün kapısında M1A metrosunun olması ve kampüs içinde FSM KYK, Cevizlibağ'da Atatürk KYK gibi devasa yurt avantajları.
-* Tarihi Davutpaşa Kışlası, Otağ-ı Hümayun ve Ortabahçe'nin sunduğu yemyeşil, gürültüden uzak gerçek kampüs atmosferi.
-* Kampüs içindeki dev YTÜ Yıldız Teknopark sayesinde mühendislik ve bilişim öğrencileri için yürüyerek staja gitme lüksü.
-* Beşiktaş Yıldız Kampüsü'nün Boğaz ve Beşiktaş Çarşı ile iç içe olan benzersiz konumu.
-
-### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
-* **Tarihi Kışla Sürgünü ve Dış Çevre Gerçeği:** Yıldız Sarayı ve Beşiktaş'taki tarihi binaların zaman içinde rektörlük ve devlet kullanımına tahsis edilmesiyle bölümlerin büyük çoğunluğunun Davutpaşa'ya sürgün edildiği hissi öğrenciler arasında kronik bir sitemdir. Kampüs içi ne kadar yeşil ve genişse, Davutpaşa ana kapısından dışarı çıkıldığında Esenler, Otogar, Sanayi Siteleri ve Merter tekstil atölyelerinin boğucu gri atmosferiyle karşılaşılır; kampüs etrafında yürüyerek gidilebilecek kafe ve sosyal sokak kültürü sıfıra yakındır.
-* **"Davutpaşa Bozkır Rüzgarı" ve Devasa Yürüme Mesafeleri:** Kışla arazisi o kadar büyüktür ki metro istasyonundan Elektrik-Elektronik, Kimya-Metalurji veya Fen Edebiyat fakültelerine yürümek en az 15-20 dakika tempolu yürüyüş gerektirir. Kış aylarında açık arazide esen meşhur Davutpaşa ayazı ve fırtınası yürümeyi çileye çevirir; kampüs içi ringler ise ders başlangıç saatlerinde tıklım tıklım dolar.
-* **USIS / OBS Ders Kayıt Kaosu:** Her dönem başı Yıldızlıların korkulu rüyası haline gelen ders seçim sistemi, sunucuların çökmesi, kontenjanların saniyeler içinde tükenmesi ve öğrencilerin ders alabilmek için fakülte koridorlarında dilekçe kuyruğuna girmesiyle ünlüdür.
-* **Yıldız Kampüsü'nün Ciğer Söken Yokuşu:** Beşiktaş Kampüsü'nde okuyan Makine ve Mimarlık öğrencileri için Barbaros Bulvarı'ndan veya Beşiktaş Meydanı'ndan kampüse tırmanan dik Arnavut kaldırımlı yokuş, özellikle yaz sıcağında ve kışın buzlu havalarda fiziksel bir dayanıklılık testidir.
+* **USIS / OBS Ders Kayıt Maratonu:**  
+  YTÜ'nün ders kayıt sistemi USIS her dönem başında açıldığı saniyede kilitlenir. Öğrenciler istedikleri hocalardan ders alabilmek için sabahın erken saatlerinde internet hız testi yapar. Kontenjan dolduğunda fakülte sekreterlikleri önünde "Ek Kontenjan / Çakışma Dilekçesi" kuyrukları oluşur.
+* **Çan Eğrisi ve Bölüm Disiplini:**  
+  Mühendislik fakültelerinde ve Temel Bilimlerde bağıl değerlendirme sistemi katıdır. Vize ortalamalarının 35-40 çıktığı derslerde dersi geçmek için sınıf ortalamasının üzerine çıkmak şarttır.
+* **Şevket Sabancı Kütüphanesi:**  
+  7/24 açık olan kütüphanede final döneminde sabah 08:00'de masa kapma yarışı yaşanır. Kütüphane altındaki dinlenme salonlarında sabahlarken belediyenin ve okulun sunduğu sıcak çorba ikramı öğrencilerin can damarıdır.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
 
-> 💬 **Öğrenci Notu:**  
-> "İstanbul'da hem çok güçlü bir teknik üniversitede okumak hem de barınma/yurt derdi çekmemek istiyorsan YTÜ Davutpaşa Kampüsü en mantıklı tercihtir. Erkeksen kampüs içindeki FSM KYK, kızsan 10 dakika aşağıdaki Cevizlibağ Atatürk KYK yurdu hayatını kurtarır. Bahar aylarında Ortabahçe çimlerinin tadını çıkar, ders seçimi gününde sabah erkenden internet kablosunu tak ve 2. sınıftan itibaren hemen kampüsün içindeki Yıldız Teknopark şirketlerinin kapısını çal!"
+* **Davutpaşa Ayazı ve Açık Arazi Rüzgarı:** Kışla arazisi devasa bir plato üzerinde kurulu olduğu için kışın rüzgar kesilmez; metro durağından fakülteye yürürken hissedilen soğuk İstanbul ortalamasının 3-4 derece altındadır.
+* **Dış Çevre İzolasyonu:** Davutpaşa Kampüsü'nün dışına adım attığınızda sanayi siteleri, tekstil atölyeleri ve Esenler trafiği ile karşılaşılır; kampüs dışı yürüyerek gidilecek kafe ortamı yoktur. Sosyalleşmek için metroya binip Beşiktaş, Kadıköy veya Taksim'e gitmek gerekir.
+* **Kışla İçi Mesafeler:** Fakülteler arası geçişler 15-20 dakikayı bulabilir; ders aralarında bir uçtan diğer uca koşturmak zordur.
+
+---
+
+## 6. 💡 Altın Tavsiyeler
+
+> 💡 **Altın Kural 1:** Davutpaşa Kampüsü sınırları içindeki **Yıldız Teknopark**'ı kesinlikle pas geçme! 2. sınıftan itibaren Teknopark firmalarına aday mühendislik ve staj başvurusu yap; kampüsünden çıkmadan sektör tecrübesi edin.  
+> 💡 **Altın Kural 2:** Barınma için öncelikle kampüs içi FSM KYK veya Cevizlibağ Atatürk KYK yurtlarını dene; yurt çıkmazsa M1A metrosu durakları olan Güngören/Merter hattında ev aramak bütçeni kurtarır.  
+> 💡 **Altın Kural 3:** USIS ders seçimi günü gelmeden önce yedekli ders ve hoca programını hazırla; sistem çöktüğünde anında B planına geç!

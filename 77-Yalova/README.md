@@ -3,9 +3,9 @@
 > **Son Güncelleme:** Kasım 2026  
 > **Bölge:** Marmara Bölgesi  
 > **Öğrenci Nüfusu:** ~18.500+  
-> **Genel Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
+> **Genel Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.3/5)
 
-İstanbul, Bursa ve Kocaeli üçgeninin tam ortasında, Marmara Denizi kıyısında yer alan Yalova; büyükşehirlerin stresinden ve kaotik trafiğinden uzak ama feribotla İstanbul'a (Yenikapı, Pendik, Kartal) sadece **45-75 dakika**, Bursa ve Kocaeli'ye ise **45 dakika** mesafede eşsiz bir konuma sahiptir. 2008 yılında kurulan **Yalova Üniversitesi**, denize sıfır konumdaki **Merkez Yerleşkesi (26 Ağustos / Çınarcık Yolu)** ile Türkiye'nin en güzel manzaralı kampüslerinden birine ev sahipliği yapar. Yürünebilir sahil kordonu, gelişmiş bisiklet yolları ve tatil beldesi **Çınarcık**'taki uygun fiyatlı öğrenci apartlarıyla Yalova, Marmara Bölgesi'nin en popüler öğrenci şehirlerinden biridir.
+İstanbul, Bursa ve Kocaeli metropol üçgeninin tam kalbinde, Marmara Denizi kıyısında yer alan Yalova; büyükşehirlerin stresinden ve trafiğinden uzak ama feribotla İstanbul'a (Pendik'e **45 dakika**, Yenikapı'ya **75 dakika**), Bursa ve Kocaeli'ye ise **45 dakika** mesafede benzersiz bir konuma sahiptir. 2008 yılında kurulan **Yalova Üniversitesi**, doğrudan Marmara Denizi'ne sıfır konumdaki **Merkez Yerleşkesi (26 Ağustos / Çınarcık Yolu)** ile Türkiye'nin en güzel deniz manzaralı kampüslerinden birine ev sahipliği yapar. Yürünebilir sahil kordonu, bisiklet yolları ve yazlık ilçe **Çınarcık**'taki uygun fiyatlı sezonluk eşyalı öğrenci apartlarıyla Yalova, Marmara'nın en pratik öğrenci kentlerindendir.
 
 ---
 
@@ -13,37 +13,39 @@
 
 | Üniversite | Tür | Ana Kampüs / Yerleşke | Bulunduğu İlçe | Öğrenci Yoğunluğu | Rehber Bağlantısı |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Yalova Üniversitesi** | Devlet | Merkez Yerleşkesi (Çınarcık Yolu) | Merkez | Çok Yüksek | [İncele](./Merkez/Yalova-Universitesi-Merkez-Yerleskesi.md) |
-| **Yalova Üniversitesi** | Devlet | Safran Yerleşkesi (Yalova MYO) | Merkez | Yüksek | [İncele](./Merkez/Yalova-Universitesi-Safran-Yerleskesi.md) |
-| **Yalova Üniversitesi** | Devlet | Çınarcık MYO Yerleşkesi | Çınarcık | Yüksek | [İncele](./Cinarcik/Yalova-Universitesi-Cinarcik-MYO.md) |
-| **Yalova Üniversitesi** | Devlet | Termal Sağlık Hizmetleri MYO | Termal | Orta | [İncele](./Termal/Yalova-Universitesi-Termal-MYO.md) |
-| **Yalova Üniversitesi** | Devlet | Altınova MYO (Tersaneler Bölgesi) | Altınova | Orta | [İncele](./Altinova/Yalova-Universitesi-Altinova-MYO.md) |
+| **Yalova Üniversitesi** | Devlet | Merkez Yerleşkesi (Çınarcık Yolu) | Merkez | Çok Yüksek (~11.000+) | [İncele](./Merkez/Yalova-Universitesi-Merkez-Yerleskesi.md) |
+| **Yalova Üniversitesi** | Devlet | Safran Yerleşkesi (Yalova MYO) | Merkez (Safran) | Yüksek (~3.000+) | [İncele](./Merkez/Yalova-Universitesi-Safran-Yerleskesi.md) |
+| **Yalova Üniversitesi** | Devlet | Çınarcık MYO Yerleşkesi | Çınarcık | Yüksek (~2.500+) | [İncele](./Cinarcik/Yalova-Universitesi-Cinarcik-MYO.md) |
+| **Yalova Üniversitesi** | Devlet | Termal Sağlık Hizmetleri MYO | Termal | Orta (~1.000) | [İncele](./Termal/Yalova-Universitesi-Termal-MYO.md) |
+| **Yalova Üniversitesi** | Devlet | Altınova MYO (Tersaneler Bölgesi) | Altınova | Orta (~1.000) | [İncele](./Altinova/Yalova-Universitesi-Altinova-MYO.md) |
 
 ---
 
 ## 🌆 Şehirde Öğrencilik, Ulaşım ve Yaşam Dinamikleri
 
 ### 🚇 Ulaşım & Kart Sistemi
-* **Ulaşım Kartı:** Yalova şehir içi minibüslerinde ve belediye hatlarında akıllı ulaşım kartı (**Yalova Kart**) ve temassız kartlar geçerlidir.
-* **Merkez - Kampüs - Çınarcık Koridoru:** Yalova Üniversitesi Merkez Yerleşkesi, Yalova-Çınarcık karayolu üzerinde şehir merkezine (İDO İskelesi ve Heykel Meydanı'na) yaklaşık **6 km**, Çınarcık ilçesine ise **8-9 km** mesafede, tam ortada yer alır. Bu sayede hem Yalova Merkez'den kalkan Kampüs minibüsleri hem de Çınarcık-Yalova minibüsleri kampüsün önünden/içinden geçer.
-* **İDO & Osmangazi Köprüsü:** Yalova İDO İskelesi'nden Pendik (45 dk) ve Yenikapı'ya düzenli hızlı feribot seferleri vardır; bu durum İstanbul'da yaşayan öğrencilerin hafta sonu evlerine gitmesini veya İstanbul'daki kültür-sanat/staj imkanlarından yararlanmasını çok kolaylaştırır.
+* **Ulaşım Kartı:** Yalova şehir içi minibüslerinde ve belediye hatlarında akıllı ulaşım kartı (**Yalova Kart**) ve temassız banka kartları geçerlidir (öğrenci tarifesi ~18 - 22 TL).
+* **Merkez - Kampüs - Çınarcık Koridoru:** Yalova Üniversitesi Merkez Yerleşkesi, Yalova-Çınarcık karayolu üzerinde şehir merkezine (İDO İskelesi ve Heykel Meydanı'na) yaklaşık **6 km**, Çınarcık ilçesine ise **8-9 km** mesafede, tam ortada yer alır. Sarı minibüsler 3-5 dakikada bir kampüs kapısından geçer.
+* **İDO & İstanbul'a Kaçış:** Yalova İDO İskelesi'nden Pendik'e (45 dk) ve Yenikapı'ya (75 dk) düzenli hızlı feribot seferleri çalışır. Bu durum öğrencilerin hafta sonları İstanbul'daki etkinliklere, sergilere ve evlerine gitmesini olağanüstü kolaylaştırır.
+* **Bisiklet ve Scooter Kültürü:** Sahil kordonu boyunca uzanan düz yollar sayesinde bisiklet ve scooter kullanımı çok yaygındır.
 
 ### 🏠 Popüler Öğrenci Mahalleleri ve Barınma
-* **Çınarcık (Harmanlar, Taşliman ve Çamlık Mahalleleri):** Yalova'da öğrencilerin en büyük barınma sırrı **Çınarcık** ilçesidir! Yazın tatilcilerin kullandığı binlerce yazlık ve 1+1 eşyalı daire, Eylül-Haziran arasındaki 9-10 aylık akademik dönemde öğrencilere Yalova Merkez'den çok daha uygun fiyatlarla kiralanır. Merkez Kampüs'e minibüsle sadece 10-12 dakika sürdüğü için Merkez Kampüs öğrencilerinin yarısı Çınarcık'ta yaşar.
-* **Yalova Merkez (Bahçelievler, Rüstempaşa, Adnan Menderes ve Safran):** Şehir merkezinde yıl boyu (12 ay) kalmak isteyen öğrenciler sahile yakın **Bahçelievler**, çarşı içindeki **Rüstempaşa** veya kampüs/yurt güzergahındaki **Adnan Menderes (Toki)** ve **Safran** mahallelerini tercih eder.
-* **KYK Yurtları:** Merkez Kampüs'ün hemen karşısında/yakınında **Akpınar KYK Kız Öğrenci Yurdu**, Termal yolu/Safran tarafında **Dilşad Hatun KYK Kız Yurdu** ve **Yalova KYK Erkek Öğrenci Yurdu** bulunur.
+* **Çınarcık (Harmanlar, Taşliman ve Karpuzdere Mahalleleri):** Yalova'da öğrencilerin en büyük barınma sırrı **Çınarcık** ilçesidir! Yazın tatilcilerin kullandığı binlerce yazlık 1+1 ve 2+1 eşyalı daire, Eylül-Haziran arasındaki 9-10 aylık akademik dönemde öğrencilere Yalova Merkez'den çok daha uygun fiyatlarla kiralanır. Merkez Kampüs'e minibüsle sadece 10 dakika sürdüğü için öğrencilerin büyük çoğunluğu Çınarcık'ta yaşar.
+* **Yalova Merkez (Süleyman Bey, Bahçelievler, Rüstempaşa ve Safran):** Şehir merkezinde yıl boyu (12 ay) kalmak isteyen öğrenciler sahile yakın **Süleyman Bey** ve **Bahçelievler** veya çarşı içindeki **Rüstempaşa** mahallelerini tercih eder.
+* **KYK Yurtları:** Merkez Kampüs'ün hemen karşısında/üst geçit mesafesinde **Akpınar KYK Kız Öğrenci Yurdu**, Termal yolu üzerinde **Dilşad Hatun KYK Kız Yurdu**, şehir merkezinde **Yalova KYK Erkek Öğrenci Yurdu** ve Çınarcık'ta KYK yurtları yer alır. Turnikeler 23:00'te kapanır.
 
 ### 💸 Yaşam Maliyeti (Kasım 2026 İtibarıyla)
 * **Ortalama Öğrenci Evi Kirası (1+1 / 2+1):**
   * **Çınarcık (Eylül-Haziran Sezonluk Eşyalı):** 10.500 TL – 15.500 TL
   * **Yalova Merkez (12 Aylık Kontratlı):** 15.000 TL – 22.000 TL
-* **Ulaşım (Öğrenci):** Şehir içi ve Çınarcık-Kampüs öğrenci minibüs ücretleri 18 - 25 TL bandındadır.
+* **Ulaşım (Öğrenci):** Minibüs binişi 18 - 25 TL bandındadır.
+* **Yeme-İçme:** Meşhur Termal köftesi, tescilli Yalova sütlüsü tatlısı, sahil balık ekmekçileri ve Çınarcık kumpir/tost sokakları zengin ve bütçe dostu seçenekler sunar.
 
 ---
 
 ## 📂 İlçe ve Kampüs Rehberleri
 
-Yalova Üniversitesi'nin merkez ve ilçe yerleşkelerine ait detaylı rehberlere aşağıdan ulaşabilirsiniz:
+Yalova Üniversitesi'nin merkez ve ilçe yerleşkelerine ait kapsamlı rehberler:
 
 * 📍 **Merkez (Ana Kampüs - Çınarcık Yolu):** [Yalova Üniversitesi - Merkez Yerleşkesi](./Merkez/Yalova-Universitesi-Merkez-Yerleskesi.md)
 * 📍 **Merkez (Safran Yolu - Yalova MYO):** [Yalova Üniversitesi - Safran Yerleşkesi](./Merkez/Yalova-Universitesi-Safran-Yerleskesi.md)

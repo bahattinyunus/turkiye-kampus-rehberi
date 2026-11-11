@@ -4,7 +4,7 @@
 > **İl / İlçe:** Adıyaman / Merkez (Altınşehir)  
 > **Üniversite Türü:** Devlet  
 > **Kampüs Konumu:** Merkez Kampüs (Atatürk Bulvarı Üzeri, Altınşehir)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.1/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
 
 ---
 
@@ -13,89 +13,75 @@
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
 | **🚇 Şehir Merkezine Uzaklık** | 4 - 5 km / ~10-15 dk | Atatürk Bulvarı üzerinde; belediye otobüsü ve Altınşehir dolmuşlarıyla tek vasıta |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Safvan Bin Muattal ve Veysel Karani KYK yurtları kampüse yürüme mesafesinde |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 9.000 - 14.000 TL | Altınşehir Mahallesi (kampüs karşısı), Yeni Mahalle |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | Merkezi Öğrenci Yemekhanesi doyurucu ve güneydoğu mutfağı ağırlıklı |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri + Sınav Dönemi 7/24 | Merkez Kütüphane ferah, sınav haftalarında 7/24 açık ve ikramlı |
-| **🌐 İnternet (eduroam)** | İyi | Tüm fakültelerde ve ADYÜ Çarşı alanında eduroam çekimi güçlü |
-| **🌆 Sosyal Yaşam & Çevre** | Dengeli | Altınşehir kafeler caddesi çok canlı; kampüs içi Minyaman ve sosyal tesisler |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Safvan Bin Muattal ve Veysel Karani KYK yurtları kampüse yürüme (5-8 dk) mesafesinde |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 9.000 - 14.000 TL | Altınşehir Mahallesi (kampüs karşısı), Yeni Mahalle 1+1 / 2+1 daireler |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / Çok İyi | 4 çeşit doyurucu tabldot, etli yemekler ve yöresel tatlar, rezervasyonlu sistem |
+| **📚 Kütüphane Kapasitesi** | 7/24 Sınav Dönemi | Merkez Kütüphane geniş, sınav haftalarında gece sıcak çorba ve kek ikramı |
+| **🌐 İnternet (eduroam)** | Çok İyi | Fakültelerde, Minyaman alanında ve kütüphanede stabil fiber eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | Altınşehir Odaklı | Altınşehir kafe caddeleri, Minyaman, Perre Uygulama Oteli, çiğköfte geceleri |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **Şehir Merkezinden Ulaşım:**  
-  Adıyaman Üniversitesi Merkez Kampüsü, şehrin ana arteri olan **Atatürk Bulvarı** üzerinde, batı girişindeki Altınşehir Mahallesi'nde yer alır. Otogardan kampüse yürüyerek bile 10-15 dakikada geçilebilir. Şehir merkezinden (Valilik, Demokrasi Parkı, Çarşı) kalkan tüm **Altınşehir dolmuşları** ve **Adıyaman Belediyesi otobüsleri (B1, B2 vb. ana bulvar hatları)** doğrudan kampüs ana giriş kapısının (ve üst kapının) önünden geçer.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Kampüs düz ve hafif eğimli, özenle peyzajlanmış yeşil bir araziye kuruludur. Fakülteler, Merkezi Derslikler, Yemekhane, Kütüphane ve Minyaman Çarşısı birbirine 5 ila 12 dakikalık yürüme mesafesindedir. Düz ayak olduğu için bisiklet ve scooter kullanımı oldukça yaygındır.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Belediye otobüslerinde **Yaman Kart** kullanılır. Ancak öğrencilerin büyük çoğunluğu Altınşehir'deki KYK yurtlarında veya apartlarda kaldığı için okula **yürüyerek** gelir ve aylık ulaşım masrafı neredeyse sıfırdır.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Adıyaman'da kışlar ılıman-serin ve yağmurlu geçer; yılda sadece birkaç gün hafif kar yağışı görülür. Kampüs içi yürüyüş yolları taş kaplama ve düzenli olduğu için kışın ulaşımda ciddi bir sorun yaşanmaz.
+* **Şehir Merkezinden Kampüse Geliş:**  
+  Kampüs, kentin omurgası olan **Atatürk Bulvarı** üzerinde yer alır. Valilik, Çarşı ve Demokrasi Parkı'ndan kalkan sarı-kırmızı **Altınşehir dolmuşları** ve **Adıyaman Belediyesi otobüsleri** doğrudan nizamiyeden geçer.
+  * **Sabah 08:00 - 08:30 Yoğunluğu:** Çarşıdan kalkan dolmuşlar ara duraklarda dolduğu için sabah dersine yetişmek isteyenler için Atatürk Bulvarı ana duraklarından binmek koltuk bulmayı sağlar.
+  * **Otogar Kestirmesi:** Şehirlerarası Adıyaman Otogarı kampüse sadece 1.5 km mesafededir. Taksicilere fahiş para kaptırmamak için nizamiyeye doğru bulvar üzerinden 15 dakikalık yürüyüşle veya geçen ilk dolmuşla 2 dakikada varabilirsiniz.
+* **Yürüyüş ve Bisiklet Rahatlığı:**  
+  Altınşehir'de yaşayan bir öğrenci için toplu taşıma neredeyse gereksizdir. Yurtlar ve öğrenci siteleri nizamiyenin hemen karşısındaki cadde boyunca sıralandığı için öğrenciler okula yürüyerek veya elektrikli scooter ile gelir.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma & KYK Gerçekleri
 
-* **KYK Yurtları:**  
-  * **Kız Yurtları:** Kampüsün hemen yanı başında/karşısında yer alan **Safvan Bin Muattal KYK Kız Öğrenci Yurdu** (modern bloklar, 4 kişilik baza ve çalışma masalı odalar) ve **Veysel Karani KYK Yurdu** sayesinde kız öğrenciler derse 5-10 dakikada yürüyerek gidebilir.
-  * **Erkek Yurtları:** **Adıyaman KYK Erkek Öğrenci Yurdu** ve Altınşehir'deki yeni KYK blokları yine kampüse yürüme veya tek durak dolmuş mesafesindedir.
-* **Özel Yurtlar ve Apartlar:**  
-  Altınşehir Mahallesi'nde öğrencilere yönelik 1+0 ve 1+1 eşyalı stüdyo apartlar, güvenlikli rezidanslar bulunur.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Adıyaman'da öğrenci evi denince tek adres **Altınşehir Mahallesi** ve hemen yanındaki **Yeni Mahalle / Cumhuriyet Mahallesi** aksıdır. 2023 depremi sonrasında Altınşehir'deki az katlı ve yeni binalar şehrin en güvenilir bölgesi olduğu için tüm kafeler, marketler ve sosyal hayat buraya taşınmıştır. Doğalgazlı 1+1 ve 2+1 daire kiraları **9.000 - 14.000 TL** aralığındadır.
-
----
-
-## 3. 🎓 Akademik ve Fiziki Altyapı
-
-* **Kütüphane İmkanları:**  
-  Kampüs merkezindeki çok katlı **Merkez Kütüphane**, bireysel çalışma masaları, grup çalışma odaları ve teras alanıyla oldukça ferahtır. Vize ve final dönemlerinde 7/24 açık tutulur ve geceleri sıcak çorba/çay ikramı yapılır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Tıp Fakültesi, Diş Hekimliği Fakültesi (uygulama kliniği oldukça gelişmiştir), Mühendislik ve Eğitim Fakültesi binaları yeni ve modern mimariye sahiptir. Ayrıca kampüs içinde **Perre Uygulama Oteli**, **Gözlemevi (Astronomi)** ve **Minyaman (Tarihi Adıyaman Evi ve Çarşısı)** gibi özgün uygulama alanları mevcuttur.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Kampüs genelinde **eduroam** bağlantısı sorunsuzdur. Öğrenci Bilgi Sistemi (OBİS) hızlı ve kullanıcı dostudur.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Müzik (Harfane kültürünün de etkisiyle çok canlıdır), Tiyatro, Doğa Sporları (Nemrut ve Cendere yürüyüşleri düzenlerler), Genç Kızılay ve TEKNOFEST toplulukları aktiftir.
+* **KYK Yurtlarının Detaylı Röntgeni:**  
+  * **Safvan Bin Muattal KYK Kız Yurdu:** Kampüs nizamiyesine 6-7 dakika yürüme mesafesinde devasa bir komplekstir. Odalar 4 kişilik, çalışma masalı ve bazalıdır. Banyo ve tuvalet oda içerisinde yer alır. 
+    * *Çamaşırhane Gerçeği:* Sınav haftası yaklaştığında pazar akşamları çamaşır makinelerinde ciddi sıra olur; çamaşırları hafta içi sabah 08:00'de yıkamak hayat kurtarır.
+    * *23:00 Turnikesi:* Parmak izi ve yüz tanıma sistemiyle yurt girişleri 23:00'te sıkı şekilde denetlenir; geç kalmalarda uyarı zaptı tutulur.
+  * **Veysel Karani KYK Yurdu & Erkek Blokları:** Erkek öğrenciler için kampüse yürüme mesafesindeki bloklarda barınma sağlanır. Odalar 4 kişilik olup etüt salonları sınav haftasında geceleri açıktır.
+* **Öğrenci Mahalleleri & Ev Tutma Tuzakları:**  
+  * **Altınşehir Mahallesi (Üniversite Caddesi):** Adıyaman'da öğrenci hayatının kalbidir. Tüm yeni kafeler, marketler ve spor salonları bu mahallededir.
+  * **Deprem Sonrası Bina ve Aidat Tuzağı:** 2023 depremleri sonrası sağlam kalan az katlı yeni bloklarda 1+1 eşyalı stüdyolar **10.000 - 14.000 TL** bandındadır. Bazı site yönetimleri fahiş "ortak alan / güvenlik / jeneratör aidatı" talep edebilmektedir; sözleşme imzalamadan önce aylık aidat tutarını mutlaka yazılı teyit edin.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
-* **Merkez Yemekhane:**  
-  Çok geniş ve modern bir yemekhane binası vardır. Güncel yemek ücreti (~25-30 TL) oldukça ekonomiktir. Yemekler lezzetli ve doyurucudur; haftanın belirli günleri yöresel lezzetler ve tatlılar çıkar.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içindeki **ADYÜ Çarşı / Minyaman** bölgesinde kafeler, restoranlar, kırtasiye, kuaför, market ve PTT bulunur. Kampüs kapısından dışarı adım attığınız anda ise Altınşehir'in onlarca yeni nesil kahvecisi, tatlıcısı ve çiğköftecisi sizi karşılar.
-* **Spor Tesisleri:**  
-  Kampüs içinde kapalı yüzme havuzu, büyük kapalı spor salonu, stadyum/atletizm pisti, tenis kortları ve halı sahalar mevcuttur; kampüsün spor tesisleri birçok büyükşehir üniversitesinden daha derli topludur.
-
----
-
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
-
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Adıyaman Türkiye'nin en güvenli ve huzurlu illerinden biridir. Halkı öğrenciye karşı son derece saygılı, yardımsever ve misafirperverdir. Altınşehir'de gece geç saatlere kadar kafeler açıktır ve sokaklar güvenlidir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Öğrencilerin tüm sosyal hayatı **Altınşehir Kafe Caddesi** ve kampüs çevresinde döner. Hafta sonları ise **Nemrut Dağı gün doğumu/batımı turları**, **Cendere Köprüsü**, **Perre Antik Kenti** ve **Atatürk Barajı (Su Sporları Merkezi)** gezileri öğrenci kulüplerinin vazgeçilmez rotalarıdır.
-* **Part-Time İş ve Staj Olanakları:**  
-  Altınşehir'deki kafe ve restoranlarda part-time baristalık/garsonluk işleri çok yaygındır. Ayrıca üniversite bünyesinde SKS kısmi zamanlı öğrenci alımı yapılır.
+* **Yemekhane Sistemi & Kalite:**  
+  * ADYÜ Öğrenci Bilgi Sistemi üzerinden haftalık bakiye yüklenir. Öğle ve akşam servisi vardır (25-30 TL).
+  * Güneydoğu mutfağının etkisiyle kavurma, kuru fasulye, güveç ve bulgur pilavı oldukça lezzetli çıkar; porsiyonlar doyurucudur.
+  * **Vejetaryen Menü:** Önceden talep edenler için zeytinyağlı ve sebzeli alternatif sunulur ancak kontenjan sınırlıdır.
+* **Kapı Önü ve İlçe Lezzetleri:**  
+  * **Gerçek Adıyaman Çiğköftesi:** Altınşehir caddesinde sıralanan çiğköftecilerde cevizli ve acılı el yapımı çiğköfte dürüm öğrencilerin en ucuz ve en lezzetli atıştırmalığıdır.
+  * **Minyaman Çarşısı:** Kampüs içindeki tarihi Adıyaman konakları mimarisindeki Minyaman alanında közde Türk kahvesi, çay ve taze simit eşliğinde ders araları geçirilir.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 4. 📚 Akademik & Sınav Hayatta Kalma
 
-### ✅ Artıları
-* **Sıfır Ulaşım Çilesi:** Yurtlar, öğrenci evleri, kafeler ve tüm fakülteler Altınşehir'de birbirine 5-10 dakikalık yürüme mesafesindedir; yolda ömür tüketmezsiniz.
-* **Çok Düzenli ve Yeşil Kampüs:** Tek kampüste tüm imkanların (havuz, kütüphane, çarşı, gözlemevi) toplanmış olması büyük konfor sağlar.
-* **Ekonomik ve Güvenli Şehir:** Öğrenci bütçesiyle ay sonunu getirmek büyükşehirlere göre çok daha kolaydır.
-
-### ❌ Eksileri
-* **Büyükşehir Eğlence Hayatının Olmaması:** Büyük AVM'ler, gece kulüpleri veya alternatif konser mekanları arayanlar için şehir bir süre sonra monotonlaşabilir.
-* **Yaz Başı ve Sonu Sıcakları:** Eylül ve Haziran aylarında Güneydoğu sıcağı oldukça etkilidir.
+* **Notlandırma & Çan Eğrisi:**  
+  Adıyaman Üniversitesi'nde Bağıl Değerlendirme Sistemi (çan eğrisi) uygulanır. 
+  * Ham başarı notu barajı 35 puandır. 35'in altında kalan notlar doğrudan FF ile değerlendirilir ve çana katılmaz.
+  * Tıp ve Diş Hekimliği Fakülteleri'nde kurul/komite sistemi geçerlidir; baraj derslerden kalındığında sene tekrarı riski bulunur.
+* **Kütüphanede Sınav Nöbeti:**  
+  Merkez Kütüphane vize ve final dönemlerinde 7/24 hizmet verir. 
+  * Saat 23:30'da kütüphane girişinde belediye ve rektörlük tarafından sıcak çorba, poğaça ve çay ikram edilir.
+  * Priz sayısı yeterli olmakla birlikte orta kat çalışma masalarında erken saatlerde mont bırakarak yer tutma yarışına girenler olur; eşyalarınızı uzun süre sahipsiz bırakmayın.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 5. ❌ Eksileri ve Kronik Sorunları
 
-> 💬 **Öğrenci Notu:**  
-> "Adıyaman'a gelirken önyargılarını otobüste bırak. Altınşehir Mahallesi tamamen öğrencilerden oluşan, yürüyerek her yere gidebildiğin küçük bir üniversite kasabası gibi. KYK yurdun hemen kampüsün dibinde çıkacak, yol parası vermeyeceksin; mezun olmadan önce de baharda arkadaşlarla mutlaka Nemrut'ta güneşin doğuşunu izle!"
+* **Büyükşehir Eğlence Eksikliği:**  
+  Adıyaman huzurlu ve güvenli bir şehir olmakla birlikte sinema, tiyatro, alternatif konser veya büyük AVM sayısı çok sınırlıdır; hafta sonu kaçamağı için öğrenciler hızlı tren veya minibüsle Gaziantep'e (1.5 saat) gider.
+* **Yaz Başlangıcı ve Güz Sıcağı:**  
+  Eylül-Ekim ve Mayıs-Haziran aylarında sıcaklık 38 derecenin üzerine çıkar. Altınşehir'deki evlerde klima olmaması yaz aylarını kabusa çevirebilir.
+
+---
+
+## 6. 💡 Altın Tavsiyeler (İlk Hafta Hayatta Kalma Kiti)
+
+1. **Ev veya Yurdunu Altınşehir Dışında Arama:** Çarşı veya Karapınar gibi uzak mahallelerde ev tutarsan her gün dolmuş çilesi çekersin; Altınşehir'de kalırsan okula ve kafelere terlikle bile gidersin.
+2. **Nemrut Gün Doğumu Gezisine İlk Dönem Katıl:** Üniversitenin Dağcılık/Kültür topluluklarının eylül-ekim aylarında düzenlediği Nemrut Dağı zirve gezisini kaçırma; hayatının en unutulmaz manzarasıdır.
+3. **Minyaman'ı Ders Çalışma Noktası Olarak Kullan:** Kütüphane kalabalık olduğunda Minyaman ahşap çardakları çay eşliğinde ders çalışmak için kampüsün en huzurlu köşesidir.

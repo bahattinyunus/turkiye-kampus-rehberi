@@ -4,7 +4,7 @@
 > **İl / İlçe:** Iğdır / Merkez  
 > **Üniversite Türü:** Devlet  
 > **Kampüs Konumu:** Şehir Dışı Ana Kampüs (Suveren Mevkii / Ağrı Dağı Eteği - Merkeze ~15 km)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (3.7/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (3.9/5)
 
 ---
 
@@ -12,89 +12,91 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 15 km / ~20-25 dk | Merkezden düzenli Suveren kampüs minibüsleri ve belediye otobüsleri |
-| **🏠 KYK Yurt İmkanı** | Yüksek | Suveren Kampüsü içinde ve Karaağaç/Merkez'de KYK yurtları |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 9.000 - 14.500 TL | Bağlar (Vali Yolu), Karaağaç ve Topçular mahalleleri |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | Merkezi yemekhane ve Mediko-Sosyal tesislerinde sıcak öğle yemeği |
-| **📚 Kütüphane Kapasitesi** | Mesai Saatleri (Sınavda Uzatmalı) | Ağrı Dağı manzaralı ferah Merkez Kütüphane |
-| **🌐 İnternet (eduroam)** | Hızlı | Tüm fakülte binalarında ve kütüphanede güçlü eduroam |
-| **🌆 Sosyal Yaşam & Çevre** | Kampüs Sakin / Merkez Canlı | Kampüs doğa içinde; sosyal hayat için Vali Yolu'na inilir |
+| **🚇 Şehir Merkezine Uzaklık** | 15 km / ~20-25 dk | Merkez Zübeyde Hanım Bulvarı ve Vali Yolu'ndan kalkan Suveren minibüsleri |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Kampüs içinde ve Karaağaç/Merkez'de dev yurtlar (Süreyya Sülün Hanım, İpek Yolu vb.) |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 9.000 - 14.500 TL | Bağlar (Vali Yolu çevresi), Topçular ve Karaağaç mahalleleri |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | Mediko-Sosyal merkezi yemekhanesi (4 çeşit tabldot); hızlı servis |
+| **📚 Kütüphane Kapasitesi** | Mesai Saatleri (Sınavda Uzatmalı) | 5.137 metrelik Ağrı Dağı manzaralı, geniş Merkez Kütüphane |
+| **🌐 İnternet (eduroam)** | Hızlı | Tüm fakültelerde, laboratuvarlarda ve kütüphanede aktif eduroam |
+| **🌆 Sosyal Yaşam & Çevre** | Kampüs Sakin / Merkez Canlı | Kampüs çevresi kırsal; sosyal hayat için şehir merkezindeki Vali Yolu'na inilir |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚇 Ulaşım Ağı ve Hayat Kurtaran Taktikler
 
-* **Şehir Merkezinden Ulaşım:**  
-  Halk ve öğrenciler arasında **"Suveren Kampüsü"** olarak bilinen Şehit Bülent Yurtseven Kampüsü, Iğdır-Doğubayazıt karayolu üzerinde şehir merkezine 15 km uzaklıkta, **Ağrı Dağı**'nın kuzey eteklerinde kurulmuştur. Şehir merkezinden (Zübeyde Hanım Bulvarı, Vali Yolu ve Karaağaç durağı) kalkan kampüs dolmuşları ve belediye otobüsleriyle yaklaşık 20-25 dakikada kampüse ulaşılır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Suveren Kampüsü; Mühendislik Fakültesi, Ziraat Fakültesi, Fen Edebiyat Fakültesi, İktisadi ve İdari Bilimler Fakültesi, İlahiyat Fakültesi, Güzel Sanatlar Fakültesi, Sağlık Bilimleri Fakültesi, Spor Bilimleri Fakültesi ve Iğdır MYO gibi birimlerin büyük kısmını barındırır. Kampüs içi minibüsler ana kapıdan girip fakülteler ve kampüs içi KYK yurdu arasında ring yapar.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Iğdır Belediyesi otobüsleri ve Suveren kooperatif minibüslerinde indirimli öğrenci tarifesi (20 - 25 TL) uygulanır.
-* **Kış / Rüzgarlı Hava Koşullarında Ulaşım:**  
-  Iğdır şehir merkezi çukur ovada olduğu için rüzgarsız ve ılımandır; **ancak** Suveren Kampüsü şehir merkezinden daha yüksekte ve tam Ağrı Dağı'nın yamacında yer aldığı için **oldukça rüzgarlıdır** ve merkeze göre 3-4 derece daha serindir. Bahar ve kış aylarında Suveren'e çıkarken rüzgar kesici bir mont bulundurmak şarttır.
+* **Suveren Minibüsleri ve Sefer Seyrekliği Riski:**  
+  Öğrenciler arasında **"Suveren Kampüsü"** olarak bilinen Şehit Bülent Yurtseven Yerleşkesi, Iğdır şehir merkezine 15 km uzaklıkta, Doğubayazıt yolu üzerinde ve **Ağrı Dağı**'nın kuzey yamacında yer alır.
+  * Şehir merkezinden (Zübeyde Hanım Bulvarı, Karaağaç ve Vali Yolu kavşağı) kalkan kampüs dolmuşları ve belediye otobüsleriyle yolculuk 20-25 dakika sürer.
+  * **Kritik Uyarı - Akşam Son Sefer:** Gündüz saatlerinde 10-15 dakikada bir kalkan minibüsler akşam 18:00'den sonra seyrekleşir; saat 20:30'dan sonra kampüsten merkeze dolmuş bulmak zorlaşır. Kütüphanede kalan veya kampüsteki yurttan şehre inen öğrencilerin dolmuş saatlerini şoförlerle teyit etmesi gerekir.
+* **Ağrı Dağı Rüzgar Koridoru:**  
+  Iğdır şehir merkezi çukur ovada olduğu için rüzgarsız ve ılımandır; fakat Suveren Kampüsü dağın tam eteğinde açık arazide kurulu olduğu için **çok sert bir dağ rüzgarı** alır. Kışın ve bahar sabahlarında insanın yüzünü kesen bu rüzgara karşı kapüşonlu rüzgarlık giymek şarttır.
+* **Iğdır Şehit Bülent Aydın Havalimanı:**  
+  Iğdır Havalimanı şehir merkezine 15 km, Suveren Kampüsü'ne ise yaklaşık 25 km mesafededir. İstanbul ve Ankara'dan haftanın her günü doğrudan uçuşlar mevcuttur; havalimanı servisleri uçak saatlerine göre çalışır.
 
 ---
 
 ## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
 
-* **KYK Yurtları:**  
-  * **Kız ve Erkek Yurtları:** Suveren Kampüsü içerisinde ve Karaağaç yerleşkesi çevresinde **Iğdır KYK Kız Öğrenci Yurdu** ile **Sürmeli KYK Erkek Öğrenci Yurdu** başta olmak üzere yüksek kapasiteli yurt blokları yer alır. Kampüs içindeki yurtta kalanlar ulaşım derdi yaşamazken, Karaağaç/Merkez'deki yurtlarda kalanlar şehir merkezinin sosyal imkanlarına yürüyerek ulaşır.
-* **Özel Yurtlar ve Apartlar:**  
-  Suveren Kampüsü'nün etrafı açık arazi olduğu için özel yurtlar ve 1+1 eşyalı apartlar tamamen Iğdır şehir merkezinde (**Bağlar**, **Topçular** ve **Karaağaç** mahallelerinde) toplanmıştır.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  Sosyal hayata yakın olmak isteyen öğrenciler **Bağlar Mahallesi (Vali Yolu çevresi)** ve **Cumhuriyet / Topçular** mahallelerinde ev tutar. Şehir düz ayak olduğu için evden durağa yürüyüp Suveren minibüsüne binmek çok pratiktir. Kiralar 9.000 - 14.500 TL bandındadır.
+* **KYK Yurtları (İsimler, Odalar ve Kurallar):**  
+  Iğdır'da KYK barınma kapasitesi öğrenci sayısına kıyasla oldukça yüksektir:
+  * **Süreyya Sülün Hanım KYK Kız Yurdu & İpek Yolu KYK Yurdu:** Şehir merkezi ve kampüs aksında hizmet veren yüksek kapasiteli, modern binalardır.
+  * **Sürmeli KYK Erkek Yurdu & Suveren Kampüs İçi Yurtlar:** Kampüsün içinde yer alan yurtlarda kalan öğrenciler sabah otobüs beklemeden yürüyerek amfilere girer. Odalar 3-4 kişilik, bazalı ve çalışma masalıdır; banyo ve lavabo oda içindedir.
+  * **23:00 Turnike Giriş Saati:** KYK yurtlarında 23:00 kuralı tavizsiz uygulanır. Şehir merkezindeki Vali Yolu'nda otururken saat 22:15 minibüsüne binmek yurda zamanında yetişmek için şarttır.
+* **Öğrenci Evleri ve Popüler Mahalleler (Vali Yolu vs. Karaağaç):**  
+  * **Bağlar Mahallesi (Vali Yolu Çevresi):** Iğdır'ın sosyal başkentidir. 3. nesil kafelerin, restoranların ve butiklerin yer aldığı caddenin etrafındaki yeni binalarda 1+1 ve 2+1 eşyalı daireler 9.000 - 14.500 TL aralığında kiralanır.
+  * **Karaağaç ve Topçular:** Daha sakin, uygun fiyatlı daireler arayanların tercihidir.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 3. 🎓 Ağrı Dağı Manzaralı Kütüphane ve Akademik Profil
 
-* **Kütüphane İmkanları:**  
-  Suveren Kampüsü'ndeki Merkez Kütüphane, geniş çalışma salonları, bilgisayar birimleri ve tam karşısında yükselen 5.137 metrelik Ağrı Dağı manzarasıyla Türkiye'nin en etkileyici manzaralı kütüphanelerinden biridir. Sınav haftalarında çalışma saatleri uzatılır.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Üniversitenin **Merkezi Araştırma ve Uygulama Laboratuvarı (ALUM)** oldukça gelişmiştir. Özellikle Ziraat, Mühendislik ve Sağlık bölümlerinin laboratuvarları yeni cihazlarla donatılmıştır. Ayrıca İlahiyat Fakültesi'nin yanındaki Kampüs Camii ve kültür merkezi yerleşkenin simge yapılarındandır.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Tüm fakülte binalarında ve kütüphanede **eduroam** hızlı ve sorunsuz çalışmaktadır.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  Dağcılık ve Doğa Sporları (Ağrı Dağı ve Korhan Yaylası yürüyüşleri), Havacılık, TEKNOFEST teknoloji takımları, Müzik ve Tiyatro kulüpleri ile her bahar düzenlenen bahar şenlikleri ve **Kayısı Şenliği** etkinlikleri kampüse renk katar.
+* **Merkez Kütüphane ve 5.137 Metrelik Manzara:**  
+  Suveren Kampüsü'ndeki kütüphanenin masalarında ders çalışırken kafanızı kaldırdığınızda Türkiye'nin çatısı olan karlı Ağrı Dağı zirvesini görmek muazzam bir motivasyon kaynağıdır. Kütüphanede yer bulma sıkıntısı yaşanmaz; ferah, sessiz ve internet altyapısı güçlüdür. Sınav haftalarında gece geç saatlere kadar açıktır.
+* **Ziraat, Mühendislik ve ALUM:**  
+  Iğdır'ın mikroklima tarım zenginliği dolayısıyla Ziraat Fakültesi ve araştırma uygulama alanları çok güçlüdür. **Merkezi Araştırma Laboratuvarı (ALUM)**, çevre illerin üniversitelerine de analiz hizmeti veren modern cihazlara sahiptir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 4. 🍽️ Beslenme, Sokak Lezzetleri ve Gastronomi
 
 * **Merkez Yemekhane:**  
-  Mediko-Sosyal binası ve merkezi yemekhanede hafta içi her gün 4 çeşit sıcak öğle yemeği 25 - 30 TL'ye sunulur.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Suveren Kampüsü şehir dışında olduğu için kampüs içindeki sosyal tesisler, kafeteryalar, market, kırtasiye ve fakülte kantinleri öğrencilerin gün içi tüm ihtiyaçlarını karşılayacak kapasitededir.
-* **Spor Tesisleri:**  
-  Kampüs içerisinde kapalı spor salonu, yarı olimpik yüzme havuzu, futbol sahası, tenis kortları ve açık basketbol/voleybol sahaları bulunmaktadır.
+  Hafta içi 25 - 30 TL'ye 4 çeşit tabldot çıkar. Kalorisi yüksek ve temiz menüler sunulur.
+* **Bozbaş (Piti) - Iğdır'ın Gastronomi Zirvesi:**  
+  Iğdır mutfağının 1 numaralı efsanesi özel toprak güveç veya metal maşrapalarda pişen **Bozbaş (Piti)** yemeğidir. Kemikli kuzu eti, nohut ve sarıkök (zerdeçal) ile saatlerce kısık ateşte pişer. Tabaktaki lavaş ekmeklerinin üzerine önce sıcak suyu dökülür, ardından eti ve nohudu özel tokmakla ezilerek yenir. Yanında kornişon turşu ve sumakla tam bir ziyafettir.
+* **Taş Köfte:**  
+  Yağsız dana etinin kara taş üzerinde tahta tokmakla macun kıvamına gelene kadar dövülmesiyle yapılan geleneksel köftedir; içine pirinç, tarhun otu ve lepe (kırık nohut) konarak pişirilir.
+* **Patlıcan Reçeli & Iğdır Kayısısı:**  
+  Küçük taze patlıcanlardan yapılan meşhur patlıcan reçeli ve kurutulmuş alça/kayısılar çay sohbetlerinin vazgeçilmezidir.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 5. 🌆 Sosyal Yaşam, Vali Yolu ve Doğa Rotaları
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Iğdır, kültürel çeşitliliği yüksek, hoşgörülü ve sıcakkanlı insanlarıyla bilinir. Şehir merkezi akşam saatlerinde de oldukça hareketli ve güvenlidir.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  Iğdır'da sosyal hayatın kalbi **Vali Yolu Caddesi** ve **Zübeyde Hanım Bulvarı**'nda atar. Trafiğe kapalı yürüyüş alanları, sağlı sollu dizilmiş modern üçüncü nesil kahveciler, canlı müzik mekanları ve restoranlar akşamları binlerce öğrenciyle dolar. Hafta sonları ise öğrenciler 45 dakika uzaklıktaki **Doğubayazıt İshak Paşa Sarayı**'na, **Tuzluca Tuz Mağaraları**'na veya Kars'a geziler düzenler.
-* **Part-Time İş ve Staj Olanakları:**  
-  Üniversite içi **Kısmi Zamanlı (Part-Time)** öğrenci çalışma kontenjanları oldukça geniştir. Ayrıca Vali Yolu üzerindeki onlarca kafe ve restoranda baristalık/garsonluk gibi part-time işler her zaman bulunur.
+* **Vali Yolu Canlılığı:**  
+  Iğdır merkezindeki **Vali Yolu**, Doğu Anadolu'nun en renkli ve genç caddelerinden biridir. Işıklandırılmış yürüyüş kaldırımları, onlarca kafe, nargile mekanları, pastaneler ve canlı müzik barları akşamları öğrencilerle dolup taşar.
+* **Hafta Sonu Gezileri:**  
+  * **Tuzluca Tuz Mağaraları:** Iğdır'a 30 dakika mesafedeki devasa yer altı tuz madenleri, ışıklandırması ve astıma iyi gelen tuz havasıyla popülerdir.
+  * **İshak Paşa Sarayı (Doğubayazıt):** Kampüsten sadece 40 dakikada ulaşılan Osmanlı şaheseri saray ve Ahmed-i Hani Türbesi.
+  * **Nahçıvan Sınırı (Dilucu):** Pasaportla günübirlik Nahçıvan Özerk Cumhuriyeti gezisi yapmak Iğdır öğrencilerinin en ilginç ritüellerindendir.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* **Doğu Anadolu'da Ilıman İklim:** Mikroklima özelliği sayesinde çevre iller (Kars, Ağrı, Erzurum) donarken Iğdır'da çok daha ılıman ve güneşli bir kış geçirilmesi.
-* **Canlı Vali Yolu Kültürü:** Şehir merkezindeki kafe caddesinin (Vali Yolu) bölge ortalamasının çok üzerinde modern ve hareketli olması.
-* **Ağrı Dağı Manzaralı Geniş Kampüs:** Ferah ve modern fakülte binaları ile güçlü spor/laboratuvar altyapısı.
+* **Doğu'da Akdeniz Havası (Mikroklima):** Kars ve Erzurum kardan donarken Iğdır ovasının çok daha ılıman ve karsız geçmesi; baharın erken gelmesi.
+* **Vali Yolu'nun Canlılığı:** Küçük bir şehir olmasına rağmen kafe kültürünün çok gelişmiş ve güvenli olması.
+* **Ucuz ve Lezzetli Mutfak:** Bozbaş, taş köfte ve taze meyvelerin büyükşehirlere göre çok uygun fiyatlı olması.
+* **KYK Yurdu Güvencesi:** Yurt çıkmama riskinin neredeyse olmaması.
 
-### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
-* **Suveren'in Merkeze Uzaklığı ve Rüzgarı:** Kampüsün şehir merkezine 15 km uzaklıkta olması ve Ağrı Dağı yamacında yer aldığı için sık sık sert rüzgar alması.
-* **Hava Kalitesi (Kış Ayları):** Iğdır Ovası'nın etrafı dağlarla çevrili çukur bir yapıda olması nedeniyle kış akşamlarında şehir merkezinde hava kirliliği/sis oluşabilmesi.
+### ❌ Eksileri ve Kronik Sorunları
+* **Suveren Kampüsü'nün Issızlığı ve Rüzgarı:** Kampüsün şehre 15 km mesafede çıplak arazide olması; akşamları rüzgarın çok sert esmesi ve kampüs dışının tamamen tenha kalması.
+* **Kış Aylarında Ova Sisi ve Kömür Dumanı:** Çanak şeklindeki Iğdır Ovası'nda kış gecelerinde duman ve sis birikmesi; hava kalitesinin düşmesi.
+* **Ulaşımda Minibüse Bağımlılık:** Şehir merkezinde kalıp Suveren'e gidenlerin her gün 25 dakika minibüs yolculuğu yapması.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Iğdır'ı 'Doğu Anadolu'da çok soğuk bir yerdir' diye düşünerek gelen herkes Vali Yolu'ndaki kafeleri ve bahar havasını görünce şaşırır. Ama dikkat edin: Şehir merkezinde tişörtle gezerken 15 km yukarıdaki Suveren Kampüsü'nde Ağrı Dağı'nın rüzgarı eser; çantanızda her zaman rüzgarlık bulundurun!"
+> "Iğdır'a önyargıyla gelme; kışın Kars ve Erzurum -30 derecedeyken burada montunu açarak gezersin! Sosyal hayat istiyorsan Vali Yolu çevresinde ev veya yurt tut; ama sabah Suveren minibüsünü kaçırmamak için saati iyi ayarla. Ağrı Dağı'nın yamacında esen rüzgara karşı rüzgarlık montunu eksik etme. Bir pazar günü de arkadaşlarınla meşhur bir lokantada maşrapadan dökülen sıcak bir Bozbaş (Piti) yemeden asla mezun olma!"

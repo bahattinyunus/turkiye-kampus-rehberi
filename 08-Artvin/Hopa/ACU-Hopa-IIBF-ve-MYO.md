@@ -1,10 +1,10 @@
-# 🏛️ Artvin Çoruh Üniversitesi - Hopa Yerleşkesi
+# 🏛️ Artvin Çoruh Üniversitesi - Hopa Yerleşkesi (İİBF ve Denizcilik MYO)
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Artvin / Hopa  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Karadeniz Sahil Yolu (Hopa Limanı ve Sahil Mevkii)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (3.9/5)
+> **Kampüs Konumu:** Karadeniz Sahil Yolu (Deniz Kıyısı, Düz Ayak Yerleşke)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
 
 ---
 
@@ -12,85 +12,72 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 İl Merkezine / Havalimanına Uzaklık** | Artvin Merkeze 65 km / Rize-Artvin HL'ye 45 dk | Karadeniz Sahil Yolu üzerinde düz ayak; HAVAŞ servisleri Hopa Otogarı'na kadar gelir |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Hopa KYK Kız ve Erkek Öğrenci Yurdu sahile ve fakülteye yakın |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 9.000 - 14.000 TL | Hopa İlçe Merkezi, Kuledibi ve Sahil Caddesi çevresi apartlar |
+| **🚇 İl Merkezine / Havalimanına Uzaklık** | Artvin'e 65 km / Rize-Artvin Havalimanı'na 45 dk | Karadeniz Sahil Yolu üzerinde düz ayak; HAVAŞ servisleri Hopa Otogarı'na kadar gelir |
+| **🏠 KYK Yurt İmkanı** | Çok Rahat | Hopa KYK Kız ve Erkek Öğrenci Yurdu sahile ve yerleşkeye çok yakın |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 9.000 - 14.000 TL | Hopa İlçe Merkezi, Kuledibi, Sundura deresi ve Sahil Caddesi apartları |
 | **🍽️ Yemekhane Ücreti & Kalitesi** | 20 - 25 TL / İyi | AÇÜ SKS bünyesinde 4 çeşit sıcak tabldot öğle ve akşam yemeği |
-| **📚 Kütüphane Kapasitesi** | Yeterli / Mesai Saatleri | İİBF Kütüphanesi, çalışma salonu ve bilgisayar laboratuvarı |
+| **📚 Kütüphane Kapasitesi** | Yeterli / Mesai Saatleri | İİBF Kütüphanesi, okuma salonu ve denizcilik simülasyon odaları |
 | **🌐 İnternet (eduroam)** | Standart - Hızlı | Fakülte ve MYO dersliklerinde eduroam kablosuz ağı aktif |
-| **🌆 Sosyal Yaşam & Çevre** | Deniz ve Sınır Kenti Dinamiği | Hopa Sahil Parkı, Çay bahçeleri, Gürcistan/Batum'a 20 dk (kimlikle geçiş) |
+| **🌆 Sosyal Yaşam & Çevre** | Deniz ve Sınır Kenti Dinamiği | Hopa Sahil Parkı, Çay bahçeleri, Gürcistan/Batum'a 20 dk (çipli kimlikle vizesiz) |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **Coğrafi Konum ve Ulaşım Ağı:**  
-  Hopa Yerleşkesi, Artvin'in dik dağ yamaçlarının aksine **Karadeniz Sahil Yolu üzerinde, tamamen düz ayakta ve denizin hemen kıyısında** yer alır. Artvin il merkezine 65 km mesafededir ancak Trabzon ve Rize sahil hattına çok daha entegredir:
-  * **Havalimanı Avantajı:** Rize-Artvin Havalimanı'na sadece 45-50 dakika mesafededir; HAVAŞ otobüsleri Hopa Otogarı'na doğrudan yolcu taşır.
-  * **Sahil Otobüsleri:** Trabzon, Rize, Hopa ve Batum arasında çalışan şehirlerarası otobüsler ve sahil dolmuşları her 15 dakikada bir kampüs önünden geçer.
-  * **Batum / Sarp Sınır Kapısı:** Türkiye'nin Gürcistan'a açılan kapısı olan Sarp Sınır Kapısı Hopa'ya sadece **18 km** mesafededir. Öğrenciler yeni tip çipli kimlik kartlarıyla vizesiz ve pasaportsuz 20 dakikada Batum'a geçebilmektedir.
+* **Düz Ayak Sahil Konumu (Artvin Merkezin Aksine!):**  
+  Hopa Yerleşkesi, Artvin merkezin dik dağ virajlarının aksine **Karadeniz Sahil Yolu üzerinde, tamamen düz ayakta ve denizin hemen kıyısında** yer alır:
+  * **Havalimanı Avantajı:** Rize-Artvin Havalimanı'na (RZV) sahil otoyolundan sadece **45 dakika** mesafededir; HAVAŞ servisleri Hopa Otogarı'na doğrudan yolcu taşır.
+  * **Sahil Dolmuşları:** Trabzon, Rize, Hopa ve Sarp Sınır Kapısı arasında çalışan dolmuşlar her 10-15 dakikada bir kampüs önünden geçer.
+* **Efsanevi Batum / Sarp Sınır Kapısı Avantajı:**  
+  Türkiye'nin Gürcistan'a açılan kapısı olan Sarp Sınır Kapısı Hopa'ya sadece **18 km (15-20 dakika)** mesafededir!
+  * Öğrenciler yeni tip çipli kimlik kartlarıyla vizesiz ve pasaportsuz olarak yurt dışı harç puluyla yarım saatte Batum'a geçip hafta sonu gezisi yapabilir.
 * **İlçe İçi Ulaşım:**  
-  Hopa düz bir sahil kasabası olduğu için öğrenciler ilçe merkezinden, KYK yurdundan ve evlerinden kampüse bisikletle veya yürüyerek 10-15 dakikada rahatlıkla gidebilir.
+  Hopa tamamen düz bir sahil ilçesi olduğu için öğrenciler merkezden, KYK yurdundan ve evlerinden kampüse bisikletle veya yürüyerek 10-15 dakikada rahatlıkla gider.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
+## 2. 🏠 Barınma & KYK Gerçekleri
 
-* **KYK Yurtları:**  
-  İlçede yer alan **Hopa KYK Öğrenci Yurdu** (kız ve erkek blokları), öğrencilerin konaklama ihtiyacını büyük oranda karşılar. Sahile yakın, ferah odalara sahiptir; açıkta kalma veya yedek bekleme sorunu yaşanmaz.
-* **Kiralık Apartlar ve Daireler:**  
-  Kuledibi Mahallesi, Sundura deresi çevresi ve Sahil Caddesi üzerinde çok sayıda 1+1 ve 2+1 kaloriferli/doğalgazlı apart daire bulunur. Kiralar büyükşehirlere kıyasla uygundur.
-
----
-
-## 3. 🎓 Akademik ve Fiziki Altyapı
-
-* **Bünyesindeki Akademik Birimler:**  
-  * **İktisadi ve İdari Bilimler Fakültesi (İİBF):** İktisat, İşletme, Siyaset Bilimi ve Kamu Yönetimi ile Uluslararası Ticaret ve Lojistik bölümlerini barındırır.
-  * **Hopa Meslek Yüksekokulu:** Deniz Ulaştırma ve İşletme (Kaptanlık), Mekatronik, Bilgisayar Programcılığı, Lojistik, Dış Ticaret gibi bölümler mevcuttur.
-* **Denizcilik ve Lojistik Odağı:**  
-  Hopa Limanı ve uluslararası transit tır koridoru sayesinde denizcilik, dış ticaret ve lojistik programı öğrencileri sahada birebir uygulama ve staj imkanı bulur.
-* **Kütüphane ve İnternet:**  
-  Yerleşke içerisinde ders çalışmak ve araştırma yapmak için sessiz çalışma salonu ve eduroam altyapısı mevcuttur.
+* **Hopa KYK Öğrenci Yurdu:**  
+  * Sahile ve yerleşkeye çok yakın mesafededir; kız ve erkek blokları bulunur.
+  * Odalar 3-4 kişilik, bazalı ve çalışma masalıdır. Kontenjan ilçe bazında rahat olduğu için açıkta kalma stresi yaşanmaz.
+  * Deniz havası ve düz ayak konumuyla Artvin merkezdeki Seyitler yurduna göre çok daha ferahtır.
+  * 23:00 turnike kontrolü standarttır.
+* **Kiralık Evler ve Apartlar:**  
+  Kuledibi Mahallesi ve Sundura Deresi çevresindeki 2+1 ve 3+1 kaloriferli/doğalgazlı daireler **9.000 - 14.000 TL** seviyesindedir.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
 * **Yemekhane:**  
-  AÇÜ Sağlık Kültür ve Spor Daire Başkanlığı kontrolünde öğle ve akşam saatlerinde 4 çeşit tabldot sıcak yemek sunulur. Yemek ücreti merkez kampüsle aynı sembolik tarifededir (~20-25 TL).
-* **Kantin ve Bahçe:**  
-  Deniz esintisine sahip kampüs bahçesinde çardaklar, oturma alanları ve sıcak içecek/atıştırmalık temin edilen kantin bulunur.
+  AÇÜ SKS güvencesiyle 4 çeşit sıcak tabldot öğle ve akşam yemeği sunulur (~20-25 TL).
+* **Meşhur Hopa Lezzetleri:**  
+  * **Taze Hamsi & Karadeniz Balıkları:** Hopa Limanı çevresindeki balıkçı lokantalarında mevsiminde çıtır hamsi tava, mezgit ve mısır ekmeği öğrenci bütçesini zorlamayacak fiyatlara sunulur.
+  * **Laz Böreği & Çay:** Hopa sahil kordonundaki çay bahçelerinde Karadeniz dalgaları eşliğinde taze demlenmiş Hopa çayı içmek günlük rutindir.
 
 ---
 
-## 5. 🌆 İlçe Dinamikleri ve Sosyal Hayat
+## 4. 📚 Akademik & Denizcilik/Lojistik Sektörü
 
-* **Deniz Kenti Kültürü ve Batum:**  
-  Hopa, Artvin'in diğer dağlık ilçelerine hiç benzemez; tamamen Karadeniz sahil yaşamının hakim olduğu, canlı bir sınır ve liman ilçesidir. Sahil parkı boyunca sıralanan çay bahçeleri, balık restoranları ve yürüyüş yolları öğrencilerin buluşma noktasıdır.
-* **Batum Seyahatleri:**  
-  Hafta sonları kimlikle Sarp Sınır Kapısı'ndan geçip Batum sahil bulvarını gezmek, Gürcü mutfağını tatmak Hopa'daki öğrenciliğin en popüler aktivitesidir.
-* **İklim:**  
-  Artvin merkeze göre iklim çok daha ılımandır; kar nadiren tutar. Ancak Türkiye'nin en çok yağmur alan kuşağında yer aldığı için sonbahar ve kış aylarında yağmurluk ve şemsiye ayrılmaz bir parçadır.
+* **İİBF & Denizcilik MYO:**  
+  * **Deniz Ulaştırma ve İşletme (Kaptanlık):** Hopa MYO bünyesindeki kaptanlık programı köprülü simülatörleri ve deniz stajlarıyla Türkiye'de tanınır.
+  * **Uluslararası Ticaret ve Lojistik:** Sarp Sınır Kapısı ve Hopa Uluslararası Limanı sayesinde öğrenciler doğrudan gümrük müşavirlikleri ve uluslararası nakliyat firmalarında pratik staj imkanı bulur.
+* Akdeniz/AÇÜ Bağıl Değerlendirme Sistemi (35 barajı) geçerlidir.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 5. ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
 
-### ✅ Artıları
-* **Düz Ayak Sahil Konumu:** Artvin merkez gibi dağ tırmanma derdi olmadan, deniz kenarında bisikletle ve yürüyerek yaşama imkânı.
-* **Batum'a 20 Dakika Yakınlık:** Yurt dışına pasaportsuz, sadece kimlikle günübirlik geçip gezebilme ayrıcalığı.
-* **Havalimanı Yakınlığı:** Rize-Artvin Havalimanı'na sadece 45 dakikada ulaşılabilmesi.
-* **Lojistik ve Denizcilikte Sektörle İç İçe Olma:** Hopa Limanı ve gümrük hattında doğrudan staj ve kariyer kapıları.
-
-### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
-* **Aşırı Yağışlı İklim:** Yılın büyük bölümünde Karadeniz sağanağı etkilidir; haftalarca güneş görmeden derslere gitmek moral bozabilir.
-* **Tır Kuyrukları:** Sarp Sınır Kapısı yoğunluğunda Karadeniz sahil yolunda uzun tır kuyrukları oluşabilir.
-* **Büyükşehir Olanaklarının Yokluğu:** AVM, sinema veya büyük konser salonları bulunmaz; sosyal hayat ilçe kafeleri ve sahil kordonuyla sınırlıdır.
+* **Yılda 250 Gün Yağmur Yağışı:**  
+  Hopa, Rize ile birlikte Türkiye'nin en çok yağış alan bölgesidir. Haftalarca aralıksız süren sağanak yağmurlar ve yüksek nem bazı öğrenciler için kasvetli olabilir; sağlam su geçirmez yağmurluk ve rüzgarda kırılmayan kaliteli şemsiye olmadan dışarı çıkılamaz.
+* **TIR Kuyrukları:**  
+  Sarp Sınır Kapısı'na giden uluslararası Karadeniz Sahil Yolu üzerinde dönem dönem kilometrelerce uzayan TIR kuyrukları oluşabilir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 6. 💡 Altın Tavsiyeler (İlk Hafta Hayatta Kalma Kiti)
 
-> 💬 **Öğrenci Notu:**  
-> "Hopa'ya geliyorsan ilk yapacağın şey sağlam, rüzgara dayanıklı bir şemsiye ve su geçirmez bir yağmurluk almak olsun. Artvin merkeze göre çok daha canlı, düz ayak ve deniz kenarı bir yerdir. Çipli kimliğini yanından ayırma; canın sıkıldığında dolmuşa binip Batum'a geçmek moralini hemen yerine getirir. KYK yurdunda kalırsan deniz kokusuyla uyanır, dersine de yürüyerek gidersin!"
+1. **Çipli Kimliğini Yanından Ayırma:** Sarp Sınır Kapısı 15 dakika mesafededir; hafta sonu arkadaşlarınla Batum bulvarlarında yürümek ve botanik parkı gezmek buradaki öğrenciliğin en büyük eğlencesidir.
+2. **Sağlam Yağmurluk ve Bot Edin:** Hopa yağmuru normal yağmurlara benzemez; çantanda mutlaka rüzgar geçirmez yağmurluk bulundur.
+3. **Liman ve Gümrük Sektörünü Değerlendir:** Lojistik veya denizcilik okuyorsan Hopa Limanı acenteleriyle 1. sınıftan temas kur; mezuniyette aranan eleman ol.

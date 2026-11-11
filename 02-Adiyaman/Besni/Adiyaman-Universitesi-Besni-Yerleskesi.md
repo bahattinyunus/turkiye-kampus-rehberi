@@ -1,10 +1,10 @@
-# 🏛️ Adıyaman Üniversitesi - Besni Yerleşkesi
+# 🏛️ Adıyaman Üniversitesi - Besni Yerleşkesi (Ali Erdemoğlu MYO ve Fakülteler)
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Adıyaman / Besni  
 > **Üniversite Türü:** Devlet  
-> **Kampüs Konumu:** Besni İlçe Girişi (Ali Erdemoğlu Külliyesi)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.3/5)
+> **Kampüs Konumu:** İlçe Yerleşkesi (Gaziantep Aksı, Adıyaman Merkeze ~45 km)  
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.5/5)
 
 ---
 
@@ -12,88 +12,69 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 İl Merkezine Uzaklık** | 45 - 50 km / ~45-55 dk | Adıyaman Otogarı ve Besni Birlik dolmuşları ile düzenli seferler; Gaziantep'e ~85 km |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Besni KYK Kız ve Erkek Öğrenci Yurdu kampüse çok yakın |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 6.500 - 10.000 TL | Besni İlçe Merkezi ve Korupınar Mahallesi çevresi apartlar |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 20 - 25 TL / Standart | ADYÜ SKS bünyesinde 4 çeşit sıcak tabldot yemek |
-| **📚 Kütüphane Kapasitesi** | Yeterli / Mesai Saatleri | Fakülte kütüphanesi, okuma salonu ve bilgisayar laboratuvarı |
-| **🌐 İnternet (eduroam)** | Standart | Kampüs binalarında eduroam ve kablosuz internet aktif |
-| **🌆 Sosyal Yaşam & Çevre** | Sakin İlçe / Kasaba Havası | Besni Çarşısı, Sugözü mesire alanı, yerel kafeler ve çay bahçeleri |
+| **🚇 İl Merkezine Uzaklık** | 45 km (~45 dk) / Gaziantep'e 85 km | Besni Koop minibüsleri ile Adana-Gaziantep-Adıyaman kavşağında ulaşım |
+| **🏠 KYK Yurt İmkanı** | Çok Rahat & Modern | Erdemoğlu Vakfı destekli modern Besni KYK Yurdu yerleşke yakınında |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 7.000 - 10.000 TL | Besni İlçe Merkezi ve Dumlupınar Mahallesi çevresi |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 30 TL / İyi | ADYÜ SKS bünyesinde 4 çeşit sıcak öğle yemeği servisi |
+| **📚 Kütüphane Kapasitesi** | Mesai Saatleri | Yerleşke kütüphanesi, sakin etüt salonları ve bilgisayar odaları |
+| **🌐 İnternet (eduroam)** | Standart | Derslikler ve ortak alanlarda eduroam ağı aktif |
+| **🌆 Sosyal Yaşam & Çevre** | İlçe Dinamiği / Gaziantep Yakınlığı | Besni Çarşısı, fırın kültürü, hafta sonu 1 saatte Gaziantep kaçamağı |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Taktikleri & Gizli Rotalar
 
-* **İl Merkezinden (Adıyaman'dan) Ulaşım:**  
-  Besni Yerleşkesi, Adıyaman il merkezine yaklaşık 45 km mesafededir. Adıyaman Otogarı'ndan ve şehir merkezinden her yarım saatte bir kalkan **Besni Birlik** minibüsleri çalışır. Yolculuk yaklaşık 45-50 dakika sürer. Ayrıca Besni, Adıyaman ile Gaziantep arasında stratejik bir kavşakta yer aldığından Gaziantep Otogarı'ndan Besni'ye günde birçok kez kalkan minibüs ve otobüsler mevcuttur (Gaziantep'e ~1 saat 15 dk).
+* **Adıyaman ve Gaziantep'ten Ulaşım:**  
+  Besni, coğrafi olarak Adıyaman ile Gaziantep arasında stratejik bir kavşaktadır. 
+  * Adıyaman Merkez Otogarı'ndan kalkan **Besni Koop** araçları her 20 dakikada bir çalışır ve yaklaşık 40-45 dakikada ilçeye varır.
+  * Gaziantep Otogarı'ndan Besni arabalarıyla 1 saat 15 dakikada ilçeye geçilebilir; bu nedenle Güneydoğu dışından gelen öğrenciler için Gaziantep Havalimanı üzerinden Besni'ye gelmek Adıyaman Havalimanı'na göre çok daha pratiktir.
 * **İlçe İçi Ulaşım:**  
-  Besni Ali Erdemoğlu Yerleşkesi, ilçe merkezine 2-3 km mesafededir. İlçe merkezinden kalkan şehir içi dolmuşlar düzenli olarak kampüs nizamiyesine kadar çalışır. Öğrencilerin birçoğu güzel havalarda ilçe merkezinden kampüse 20-25 dakikalık yürüyüşle de ulaşabilmektedir.
-* **Ulaşım Kartı ve Ücretler:**  
-  İlçe içi dolmuşlarda ve ilçe-il arası servislerde genellikle nakit ödeme veya yerel ilçe kartı kullanılır; öğrenci tarifesi oldukça ekonomiktir.
+  Yerleşke ilçe merkezine 2-3 km mesafededir; düzenli sarı minibüslerle 5 dakikada ulaşılır.
 
 ---
 
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Evleri
+## 2. 🏠 Barınma & KYK Gerçekleri
 
-* **KYK Yurtları:**  
-  İlçede yer alan **Besni KYK Öğrenci Yurdu**, hem kız hem erkek bloklarıyla öğrencilerin barınma ihtiyacını fazlasıyla karşılamaktadır. Kontenjan yeterli olduğu için açıkta kalma veya yedek bekleme riski neredeyse sıfırdır. Yurt binasında etüt salonları, internet ve çamaşırhane hizmetleri mevcuttur.
-* **Öğrenci Evleri ve Apartlar:**  
-  Besni'de son yıllarda üniversite öğrencilerine yönelik inşa edilmiş 1+1 ve 2+1 kaloriferli/doğalgazlı apart daireler bulunmaktadır. Kiralar Güneydoğu ortalamasında olup büyükşehirlerle kıyaslanamayacak kadar uygundur.
-
----
-
-## 3. 🎓 Akademik ve Fiziki Altyapı
-
-* **Bünyesindeki Akademik Birimler:**  
-  * **Besni Ali Erdemoğlu İşletme Fakültesi:** İşletme, Yönetim ve Bilişim alanlarında 4 yıllık lisans eğitimi verir. Merinos / Erdemoğlu Ailesi tarafından yaptırılan modern mimarili binalara sahiptir.
-  * **Besni Ali Erdemoğlu Meslek Yüksekokulu:** Bilgisayar Programcılığı, Bankacılık ve Sigortacılık, Büro Yönetimi, Mekatronik gibi ön lisans bölümlerini barındırır.
-* **Hayırsever Destekli Altyapı:**  
-  Yerleşke binaları Erdemoğlu Holding (Merinos) tarafından modern teknolojiyle inşa edilip üniversiteye bağışlanmıştır. Bu nedenle derslikler, amfiler ve bilgisayar laboratuvarları taşra standartlarının üzerindedir. Başarılı öğrencilere çeşitli vakıf burs imkanları sunulabilmektedir.
-* **Kütüphane ve İnternet:**  
-  Yerleşke içerisinde ders çalışmak ve araştırma yapmak için sessiz çalışma salonu ve eduroam altyapısı mevcuttur.
-
-* **Öğrenci Kulüpleri ve Sosyal Faaliyetler:**  
-  İşletme ve Kariyer Topluluğu, Sosyal Yardımlaşma Kulübü ve Genç Girişimciler Topluluğu aktiftir. Erdemoğlu Holding yöneticileriyle kariyer günleri ve söyleşiler düzenlenir.
+* **Besni KYK Öğrenci Yurdu:**  
+  Merinos / Erdemoğlu Ailesi'nin memleketi olan Besni'deki yerleşke ve yurt altyapısı birçok il merkezinden daha moderndir.
+  * KYK yurdu kız ve erkek öğrencilere geniş kapasite sunar; yedek bekleme sorunu yaşanmaz.
+  * Odalar 3-4 kişilik, bazalı ve çalışma masalıdır. Banyo ve tuvalet oda içerisindedir.
+  * 23:00 turnike sistemi mevcuttur.
+* **Kiralık Evler ve Yaşam:**  
+  Besni'de ev kiraları oldukça uygundur (**7.000 - 10.000 TL**). Halk öğrenciye alışkındır ve kiracılara kolaylık sağlar.
 
 ---
 
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
+## 3. 🍽️ Beslenme & Kampüs Efsaneleri
 
 * **Yemekhane:**  
-  ADYÜ Sağlık Kültür ve Spor Daire Başkanlığı kontrolünde öğle saatlerinde 4 çeşit tabldot sıcak yemek sunulur. Yemek ücreti Adıyaman Merkez Kampüs ile aynıdır (~20-25 TL).
-* **Kantin ve Kafeterya:**  
-  Yerleşke içerisinde geniş bir dinlenme salonu ve kantin alanı bulunur. Çay, kahve, aperitif tost ve atıştırmalıklar temin edilebilir. Kampüs bahçesinde oturma alanları mevcuttur.
-* **Yöresel Mutfak ve Dışarıda Yemek:**  
-  Besni tavası, lahmacun ve meşhur Besni üzümü ile fıstığı yerel lokantalarda öğrenci dostu fiyatlarla sunulur; dışarıda yemek Adıyaman merkeze göre daha da ekonomiktir.
+  Hafta içi 4 çeşit sıcak tabldot öğle yemeği çıkar. Fiyat öğrenci bütçesine dosttur (~25-30 TL).
+* **Meşhur Besni Tavası ve Üzümü:**  
+  * **Besni Tavası:** Kuzu eti, patlıcan, domates, sarımsak ve pul biberle taş fırında saatlerce pişen Besni Tavası, birkaç arkadaş birleşip fırına verildiğinde kişi başı bir fast-food parasına efsanevi bir ziyafete dönüşür.
+  * **Peygamber Üzümü:** Dünyaca ünlü çekirdeksiz Besni kuru sarı üzümü sınav haftalarında zihin açıcı en popüler atıştırmalıktır.
 
 ---
 
-## 5. 🌆 İlçe Dinamikleri ve Sosyal Hayat
+## 4. 📚 Akademik & Sınav Hayatta Kalma
 
-* **İlçede Yaşam:**  
-  Besni, meşhur Besni üzümü, fıstığı ve kendine has lezzetleriyle bilinen köklü bir ilçedir. Sosyal yaşam ilçe çarşısındaki ana cadde, yerel kahvehaneler ve birkaç modern kafe etrafında döner. Sugözü mesire alanı özellikle bahar aylarında öğrencilerin piknik yaptığı popüler bir dinlenme alanıdır.
-* **Öğrenciye Bakış:**  
-  Yerel halk yabancı öğrencileri kendi evladı gibi sahiplenir. Esnaf dürüst ve yardımseverdir; asayiş olayları yok denecek kadar azdır.
-
----
-
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
-
-### ✅ Artıları
-* **Modern Fiziki Tesisler:** Hayırsever katkısıyla inşa edilen yepyeni derslikler ve temiz sosyal tesisler.
-* **Sıfır Barınma Sorunu:** KYK yurtlarının kapasitesi sayesinde hiçbir öğrencinin açıkta kalmaması.
-* **Bütçe Dostu Hayat:** Kiralar ve genel gıda harcamalarının Türkiye ortalamasının çok altında olması.
-* **Gaziantep'e Yakınlık:** Canı sıkılan veya büyükşehir havası almak isteyen öğrencilerin 1 saatte Gaziantep'e ulaşabilmesi.
-
-### ❌ Eksileri ve Kronik Sorunları [Filtresiz Öğrenci Yorumları]
-* **İl Merkezine Uzaklık:** Adıyaman merkeze 45-50 km mesafededir. Merkezdeki etkinliklere ve sinemaya erişim için gün içinde yol gitmek gerekir.
-* **Kısıtlı Sosyal Hayat:** Bir iki kafe ve ilçe çay ocağı dışında gençlik mekanı bulunmaz. Hareketi ve kalabalığı seven öğrenciler için bir süre sonra monoton gelebilir.
-* **Akşam Sessizliği:** Saat 20:00'den sonra ilçe merkezinde hayat neredeyse durur, sokaklar tenhalaşır.
-* **Kış Şartları:** Kışın ayaz ve rüzgar etkilidir; sobalı evlerden kaçınmak ve doğalgazlı yerleri seçmek gerekir.
+* **Akademik Standartlar & Erdemoğlu Desteği:**  
+  Ali Erdemoğlu MYO ve fakülte programları sanayiyle iç içedir. 
+  * Merinos ve SASA gibi dev sanayi kuruluşlarının desteklediği tekstil, mekatronik ve makine öğrencileri için staj ve burs olanakları diğer ilçelere göre çok daha fazladır.
+  * ADYÜ bağıl değerlendirme (çan eğrisi) sistemi uygulanır, baraj derslerde devam zorunluluğuna dikkat edilmelidir.
 
 ---
 
-## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
+## 5. ❌ Eksileri ve Kronik Sorunları
 
-> 💬 **Öğrenci Notu:**  
-> "Besni'yi tercih edecekseniz sakin, telaşsız ve kendi dünyanızda çalışabileceğiniz bir ortam bulacağınızı bilin. Sınavlara hazırlanmak, DGS ile 4 yıllığa geçmek veya KPSS kasmak için dikkatinizi dağıtacak hiçbir şeyin olmadığı mükemmel bir kampüstür. Hafta sonu sosyalleşmek istediğinizde Adıyaman yerine daha yakın ve canlı olan Gaziantep'e gitmek öğrenciler arasında yaygın bir gelenektir!"
+* **Kültürel Etkinlik Azlığı:**  
+  İlçe akşam 20:00'den sonra tamamen sessizliğe bürünür. Kafe sayısı sınırlıdır; gençlik mekanları azdır.
+* **Hafta Sonu Boşalması:**  
+  Cuma günü son dersle birlikte öğrencilerin bir kısmı Adıyaman'a, bir kısmı ise Gaziantep'e gider; hafta sonları yerleşke tenhalaşır.
+
+---
+
+## 6. 💡 Altın Tavsiyeler
+
+1. **Erdemoğlu Burs ve Stajlarını Araştır:** İlçeye büyük yatırımlar yapan vakıf ve şirketlerin burs/staj duyurularını ilk haftadan itibaren takip et.
+2. **Gaziantep Avantajını Kullan:** Hafta sonu sosyalleşmek ve alışveriş için Gaziantep sadece 1 saatlik mesafededir; minibüsle günübirlik Antep turları yapabilirsin.
+3. **Fırın Kültürünü Öğren:** Akşam yemeği için fırına tava gönderme geleneğini hemen öğren; hem cebin hem karnın bayram eder.

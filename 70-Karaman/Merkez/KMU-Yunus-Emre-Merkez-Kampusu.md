@@ -4,7 +4,7 @@
 > **İl / İlçe:** Karaman / Merkez  
 > **Üniversite Türü:** Devlet  
 > **Kampüs Konumu:** Şehirle Bitişik Ana Kampüs (Üniversite Mahallesi)  
-> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.1/5)
+> **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.2/5)
 
 ---
 
@@ -12,92 +12,103 @@
 
 | Metrik | Durum / Değerlendirme | Detay |
 | :--- | :--- | :--- |
-| **🚇 Şehir Merkezine Uzaklık** | 4.5 km / ~10-15 dk | Çarşıdan 1 ve 2 No'lu otobüsler ve minibüsler; Üniversite Mah. yürüme mesafesi |
-| **🏠 KYK Yurt İmkanı** | Çok Yüksek | Hatuniye, Nefise Sultan ve Piri Reis KYK yurtları kampüsün hemen yanında |
-| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 7.500 - 12.500 TL | Üniversite Mahallesi, Kırbağı ve Gevher Hatun Mah. (yeni apartlar) |
-| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi | SKS Merkezi Yemekhane; 4 çeşit doyurucu yemek |
-| **📚 Kütüphane Kapasitesi** | Geniş / Sınav Dönemi 7/24 | KMÜ Merkez Kütüphanesi; modern, ferah ve bol prizli çalışma salonları |
-| **🌐 İnternet (eduroam)** | Hızlı ve Yaygın | Tüm fakültelerde, kütüphanede ve SKS çarşısında güçlü çekim |
-| **🌆 Sosyal Yaşam & Çevre** | Dengeli & Pratik | Kampüs karşısı Üniversite Mah. canlı; YHT ile Konya 40 dk |
+| **🚇 Şehir Merkezine Uzaklık** | 4.5 km / ~10-15 dk | Çarşıdan 1 ve 2 No'lu otobüs/minibüs; Üniversite Mah. ve yurtlar kampüse sıfır! |
+| **🏠 KYK Yurt İmkanı** | Çok Yüksek (%95+ Yerleşim) | Hatuniye, Nefise Sultan, Karaman Kız ve Piri Reis Erkek KYK yurtları kampüsün dibinde |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 7.500 - 12.500 TL | Üniversite Mahallesi ve Kırbağı'nda 1+1 stüdyolar; Gevher Hatun'da yeni siteler |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | 25 - 35 TL / İyi & Doyurucu | SKS Merkezi Yemekhane; 4 çeşit doyurucu yemek, hızlı turnike geçişi |
+| **📚 Kütüphane Kapasitesi** | Çok Geniş / Sınavda 7/24 | KMÜ Merkez Kütüphanesi; modern, ferah, bol prizli salonlar ve gece çorba servisi |
+| **🌐 İnternet (eduroam)** | Hızlı ve Kesintisiz | Binalarda ve SKS çarşısında stabil; bahçede ve açık spor alanlarında sinyal düşer |
+| **🌆 Sosyal Yaşam & Çevre** | Butik / YHT Kaçışlı | Üniversite Mah. kafeler sokağı; YHT ile 40 dakikada Konya Bosna Hersek veya Alaaddin! |
 
 ---
 
-## 1. 🚇 Ulaşım Ağı ve Erişilebilirlik
+## 1. 🚌 Ulaşım Ağı, YHT Avantajı ve Otostop Taktikleri
 
-* **Şehir Merkezinden Ulaşım:**  
-  KMÜ Yunus Emre Kampüsü, şehir merkezinin hemen güneydoğusunda **Üniversite Mahallesi** sınırları içerisinde yer alır. Çarşı merkezinden (**Aktekke Meydanı, İsmetpaşa Caddesi, Tren Garı**) kalkan belediye otobüsleri ve **Üniversite Minibüsleri** ile 10-15 dakikada kampüse ulaşılır. Ayrıca **Karaman YHT (Yüksek Hızlı Tren) Garı**'ndan kalkan hızlı trenler sayesinde Konya'ya 40 dakikada, Ankara ve İstanbul'a ise doğrudan raylı sistemle ulaşım sağlanır.
-* **Kampüs İçi Ulaşım (Ring Seferleri):**  
-  Yunus Emre Kampüsü tüm fakültelerin (Tıp, Diş Hekimliği, Mühendislik, Eğitim, İİBF, Edebiyat, İslami İlimler, Spor Bilimleri ve Sağlık Bilimleri) tek bir çatı altında toplandığı, **dümdüz ve modern** bir yerleşkedir. Yokuş olmadığı için kampüs içinde yürümek veya bisiklet/scooter kullanmak çok rahattır.
-* **Öğrenci Abonman & Ulaşım Kartı:**  
-  Karaman Belediyesi otobüslerinde **Karaman Kart** öğrenci tarifesi geçerlidir. Ancak öğrencilerin büyük çoğunluğu kampüs karşısındaki Üniversite Mahallesi'nde veya bitişikteki KYK yurtlarında kaldığı için toplu taşımaya bile ihtiyaç duymadan derslerine yürüyerek gider.
-* **Kış / Yağışlı Hava Koşullarında Ulaşım:**  
-  Kış aylarında İç Anadolu'nun kuru soğuğu ve zaman zaman kar yağışı görülür. Kampüs düz ayak olduğu için kışın yürümekte zorluk yaşanmaz.
-
----
-
-## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri
-
-* **KYK Yurtları:**  
-  KMÜ'de yurt-kampüs entegrasyonu mükemmel düzeydedir:
-  * **Kız Yurtları:** Kampüsün hemen içinde/girişinde yer alan **Nefise Sultan KYK Kız Öğrenci Yurdu**, **Hatuniye KYK Kız Yurdu** ve **Karaman KYK Kız Yurdu** binlerce öğrenci kapasitelidir. Yurt kapısından çıkıp amfiye girmek sadece 5-10 dakika sürer.
-  * **Erkek Yurtları:** Kampüs bitişiğindeki **Piri Reis KYK Erkek Öğrenci Yurdu** modern bloklarıyla erkek öğrencilerin barınma ihtiyacını eksiksiz karşılar.
-* **Özel Yurtlar ve Apartlar:**  
-  Kampüsün tam karşısında yer alan **Üniversite Mahallesi** ve **İbrahim Hakkı Konyalı Mahallesi**, baştan aşağı öğrenciler için inşa edilmiş 1+0 ve 1+1 eşyalı apartlarla doludur. Faturalar dahil (internet, ısınma, sıcak su) apart fiyatları 7.000 - 11.000 TL aralığındadır.
-* **Öğrenci Evleri ve Popüler Mahalleler:**  
-  * **Üniversite Mahallesi ve Gevher Hatun Mahallesi:** Kampüse yürüme mesafesinde, tamamı son 5-10 yılda yapılmış yeni, asansörlü ve doğalgazlı binalardan oluşur (2+1 / 3+1 kiralar 8.500 - 13.000 TL).
-  * **Kırbağı ve Mansurdede Mahalleleri:** Hem kampüse hem de çarşıya/Park Karaman AVM'ye yakın merkezi bölgelerdir.
+* **Ulaşım Masrafını Sıfırlayan Konum:**  
+  KMÜ Yunus Emre Kampüsü, şehir merkezinin sadece 4-5 km güneydoğusunda, **Üniversite Mahallesi** ile iç içe yer alır. Fakültelerin, öğrenci apartlarının ve dev KYK yurtlarının aynı çemberde bulunması sebebiyle Karaman'da öğrencilerin %70'i okula giderken tek kuruş yol parası ödemez; 5-10 dakikada yürüyerek veya bisikletle amfisine girer.
+* **Şehir Merkezinden Kampüse Ulaşım:**  
+  Çarşıdan (İsmet Paşa Caddesi, Aktekke Kent Meydanı, Tren Garı) kalkan **1 ve 2 numaralı Belediye Otobüsleri (Karaman Kart)** ile **Üniversite Minibüsleri** 10-15 dakikada kampüs içine kadar girer.
+* **Yüksek Hızlı Tren (YHT) Mucizesi:**  
+  Karaman'da öğrenci olmanın en büyük lüksü **YHT Garı**'dır:
+  * **Konya:** Yüksek Hızlı Tren ile **sadece 40 dakika!** Öğrenciler cumartesi sabahı trene binip Konya'da tramvaya aktarma yaparak Selçuklu Bosna Hersek Mahallesi'ne, Kentplaza AVM'ye veya Meram kafelerine gider; akşam 40 dakikada Karaman'daki yurduna döner.
+  * **Ankara:** 2 saat 15 dakika (Doğrudan Başkent Garı).
+  * **İstanbul:** 4.5 - 5 saat (Pendik/Söğütlüçeşme).
+  * **Mersin / Adana Kaçışı:** Toros Ekspresi veya D350 karayolu üzerinden 2-2.5 saatte Akdeniz sahiline (Mersin Kızkalesi, Mezitli) ulaşmak mümkündür.
+* **Otostop Noktaları:**  
+  Kampüs çıkışındaki Konya-Ereğli çevre yolu kavşağı cep noktası, Konya istikametine veya çarşıya giden öğrenciler için oturmuş bir otostop noktasıdır; öğrenci dostu sürücüler ve akademisyenler öğrencileri arabalarına sıkça alır.
 
 ---
 
-## 3. 🎓 Akademik ve Fiziki Altyapı
+## 2. 🏠 Barınma, Yurtlar ve Öğrenci Mahalleleri Dinamikleri
 
-* **Kütüphane İmkanları:**  
-  Kampüsün merkezinde bulunan **KMÜ Merkez Kütüphanesi**, geniş çalışma salonları, sessiz okuma alanları, bilgisayar laboratuvarı ve grup çalışma odalarıyla oldukça moderndir. Vize ve final dönemlerinde 7/24 açık tutulur ve öğrencilere ücretsiz çorba/çay ikram edilir.
-* **Laboratuvarlar, Atölyeler ve Derslikler:**  
-  Tüm fakültelerin aynı kampüste olması disiplinlerarası çalışmayı kolaylaştırır. **Tıp Fakültesi**, **Ahmet Keleşoğlu Diş Hekimliği Fakültesi** (modern üniteleri ve uygulama kliniği ile), **Mühendislik Fakültesi** (özellikle Gıda, Biyomühendislik, Enerji Sistemleri ve Bilgisayar laboratuvarları) ile **Bilimsel ve Teknolojik Araştırmalar Uygulama ve Araştırma Merkezi (BİLTEM)** güçlü donanıma sahiptir.
-* **İnternet (eduroam) ve Dijital Altyapı:**  
-  Kampüs genelinde `eduroam` kablosuz internet altyapısı hızlı ve stabildir.
-* **Öğrenci Toplulukları ve Kulüpler:**  
-  KMÜ'de 90'a yakın öğrenci topluluğu vardır. TEKNOFEST takımları, Tiyatro, Müzik, Bisiklet, Dağcılık ve Gastronomi toplulukları ile her yıl düzenlenen **Türk Dil Bayramı ve Yunus Emre Kültür Sanat Haftası** etkinlikleri kampüse hareket katar.
-
----
-
-## 4. 🍽️ Beslenme ve Kampüs İçi Yaşam
-
-* **Merkez Yemekhane:**  
-  Sağlık Kültür ve Spor Dairesi (SKS) binasındaki büyük merkezi yemekhanede hafta içi her gün öğle yemeği (4 çeşit) 25 - 35 TL bandında sunulur.
-* **Kantinler, Kafeler ve Çarşı:**  
-  Kampüs içi SKS Öğrenci Çarşısı'nda kafeler, yemek mekanları, kırtasiye, market, kuaför ve ATM'ler bulunur. Ayrıca kampüs kapısından dışarı adım attığınız anda **Üniversite Mahallesi**'ndeki onlarca öğrenci kafesi, dönerci, tatlıcı ve pub elinizin altındadır.
-* **Spor Tesisleri:**  
-  Spor Bilimleri Fakültesi'nin de kampüste yer alması sayesinde **Yarı Olimpik Kapalı Yüzme Havuzu**, devasa kapalı spor salonları, stadyum, atletizm pisti, tenis kortları ve halı sahalar öğrencilerin aktif kullanımındadır.
+* **Kampüs İçi ve Bitişiğindeki KYK Yurtları:**  
+  Karaman'da KYK yurdu bulmak Türkiye'nin en stressiz süreçlerinden biridir. Açıkta kalma riski neredeyse yoktur.
+  * **Kız Yurtları:** Kampüsün hemen girişinde yer alan **Hatuniye KYK Kız Yurdu**, **Nefise Sultan KYK Kız Yurdu** ve **Karaman KYK Kız Yurdu**. Odalar 3-4 kişilik olup çalışma masaları, dolapları ve bazaları moderndir.
+  * **Erkek Yurtları:** Kampüsün yanı başındaki **Piri Reis KYK Erkek Öğrenci Yurdu** geniş spor sahaları ve sessiz etüt salonlarıyla erkek öğrencilerin temel barınma noktasıdır.
+  * **Giriş-Çıkış Katılığı:** 23:00 giriş kuralı dijital parmak izi ve turnike ile dakikası dakikasına denetlenir; yurt içi çamaşırhaneler vize haftalarında yoğunlaşsa da hafta içi ders aralarında rahatça kullanılır.
+* **Üniversite Mahallesi: Karaman'ın Öğrenci Gettosu:**  
+  * Kampüs nizamiyesinin hemen karşısında yer alan **Üniversite Mahallesi** ve bitişiğindeki **İbrahim Hakkı Konyalı Mahallesi**, tamamen üniversite öğrencileri için tasarlanmış yüzlerce modern 1+1 stüdyo aparttan oluşur.
+  * Faturalar dahil (doğalgaz, sıcak su, internet) veya eşyalı kiralık daireler **7.500 - 12.500 TL** arasındadır.
+  * Sokak boyunca sıralanan üçüncü nesil kahveciler, fast-food restoranları, fotokopiciler ve marketler sayesinde şehre inmeden tüm ihtiyaçlar karşılanır.
 
 ---
 
-## 5. 🌆 Şehir / İlçe Dinamikleri ve Sosyal Hayat
+## 3. 🎓 Akademik Miras, Gıda Sanayii Gücü ve Araştırma
 
-* **Yerel Halkın Öğrenciye Yaklaşımı:**  
-  Karaman sakin, düzenli ve güvenli bir Anadolu şehridir. Özellikle Üniversite Mahallesi tamamen gençlerden oluştuğu için akşam geç saatlere kadar sokaklar ve kafeler cıvıl cıvıldır.
-* **Sosyal Alanlar ve Etkinlikler:**  
-  **Üniversite Mahallesi Kafe Sokakları**, **Park Karaman AVM**, **2. İstasyon Caddesi**, tarihi **Karaman Kalesi**, **Tartanzade Konağı**, **Taşkale Tahıl Ambarları ve İncesu Mağarası** ile Toroslar'daki muazzam **Göksu Şelalesi (Yerköprü)** ve **Ermenek Turkuaz Baraj Gölü** başlıca gezi noktalarıdır. Yöresel **Karaman Batırığı** ve **Calla Yemeği** mutlaka denenmelidir. Büyükşehir aktivitesi istendiğinde **YHT ile 40 dakikada Konya'ya** (Bosna Hersek Mah., Kentplaza/M1 AVM veya konserlere) gidip gelmek Karaman öğrencilerinin en büyük lüksüdür!
-* **Part-Time İş ve Staj Olanakları:**  
-  Karaman, Türkiye'nin gıda sanayi üssüdür (Bifa, Saray, Duru Bulgur, Slava Süt vb. yüzlerce fabrika). Gıda, Makine, Elektrik-Elektronik, Endüstri Mühendisliği ve İİBF öğrencileri için **Karaman OSB** ve kampüs içindeki **Karaman Teknokent** harika staj ve iş olanakları sunar.
+* **"Türk Dili Başkenti" Misyonu ve Sosyal Bilimler:**  
+  Karamanoğlu Mehmet Bey'in "Bugünden sonra divanda, dergahta, bargahta, mecliste ve meydanda Türkçeden başka dil kullanılmaya" fermanından ilham alan üniversite; Edebiyat, Tarih ve İslami İlimler fakültelerinde köklü bir akademik geleneğe sahiptir.
+* **Türkiye'nin Bisküvi Başkenti ile Entegre Gıda Mühendisliği:**  
+  Karaman, Türkiye'nin bisküvi, çikolata, kek ve bulgur üretim üssüdür. **Bifa, Şimşek, Saray, Duru Bulgur, Slava Süt** gibi uluslararası devlerin merkez fabrikaları buradadır. Mühendislik Fakültesi (Gıda, Makine, Biyomühendislik, Endüstri) öğrencileri için **Karaman OSB** ve **KMÜ Teknokent**; staj, AR-GE projeleri ve mezuniyet sonrası iş teklifleri için benzersiz bir sektörel ekosistem sunar.
+* **Tıp ve Ahmet Keleşoğlu Diş Hekimliği Fakülteleri:**  
+  Karaman Eğitim ve Araştırma Hastanesi entegrasyonu ve modern diş simülasyon poliklinikleriyle sağlık alanındaki öğrenciler güçlü pratik eğitim alır.
+* **KMÜ Merkez Kütüphanesi:**  
+  Geniş salonları, bireysel çalışma kabinleri ve zengin dijital kütüphane veri tabanıyla öğrencilerin gözdesidir. Vize ve final haftalarında **7/24 açık** tutulur; gece saatlerinde öğrencilere sıcak çorba ve çay ikramı yapılır. Fakültelerin çoğunda bağıl değerlendirme (çan eğrisi) sistemi aktiftir.
 
 ---
 
-## ⚖️ Artılar ve Eksiler (Filtresiz Özeti)
+## 4. 🍽️ Beslenme, Sokak Lezzetleri ve Kampüs Yaşamı
+
+* **Bisküvi Fabrikaları Satış Mağazaları Taktiği:**  
+  Karaman'da öğrenci olmanın en tatlı sırrı: Şehirdeki büyük bisküvi ve çikolata fabrikalarının merkez satış mağazalarıdır! Marketlerde pahalıya satılan bisküvi, gofret, çikolata ve krakerleri bu mağazalardan toptan ve fabrika çıkış fiyatıyla kilo işi almak, öğrenci evlerinin ve yurt odalarının atıştırmalık stokunu neredeyse bedavaya getirmektir.
+* **Meşhur Karaman Gastronomisi:**  
+  * **Calla Kebabı:** Güveç kabında kuzu eti, sarımsak, arpacık soğan ve patlıcanın odun fırınında saatlerce ağır ateşte pişirilmesiyle yapılan enfes bir yöresel lezzettir.
+  * **Karaman Guymacığı ve Batırık:** İnce bulgur, tahin, domates ve cevizle yapılan soğuk çorba kıvamındaki Batırık, özellikle sıcak günlerde öğrencilerin denediği yerel bir tattır.
+  * **Karaman Elması:** Türkiye elma üretiminin merkezlerinden olan Karaman'da kış aylarında çıtır çıtır elma tüketmek günlük rutindir.
+* **SKS Yemekhanesi ve Üniversite Mahallesi Mekanları:**  
+  Sağlık Kültür ve Spor Daire Başkanlığı yemekhanesinde 4 çeşit dengeli öğle yemeği **25 - 35 TL** bandında verilir. Akşamları ise Üniversite Mahallesi kafeler caddesindeki soslu Hatay dönercileri, tostçular ve köfteciler öğrencinin kurtarıcısıdır.
+
+---
+
+## 5. 🌆 Şehir Dinamikleri ve Sosyal Yaşam
+
+* **Sosyal Alanlar ve Şehir Kültürü:**  
+  Karaman'da sosyal yaşam iki ana eksende akar: Kampüs karşısındaki **Üniversite Mahallesi** ve şehir merkezindeki **İsmet Paşa Caddesi** ile **2. İstasyon Caddesi**. **Park Karaman AVM** sinema ve zincir mağazalarıyla kapalı alışveriş ihtiyacını karşılar.
+* **Doğa ve Tarih Rotaları:**  
+  * **Göksu Şelalesi (Yerköprü):** Toros Dağları'nın ortasında, kireç tüflerinin üzerinden dökülen turkuaz sularıyla öğrencilerin bahar aylarındaki bir numaralı piknik ve doğa rotasıdır.
+  * **Taşkale Tahıl Ambarları & Manazan Mağaraları:** Kayalara oyulmuş yüzlerce yıllık dev tahıl ambarları görsel olarak büyüleyicidir.
+  * **Ermenek Baraj Gölü:** Turkuaz renkli kanyon gölünde kano ve tekne turları düzenlenir.
+* **Halkın Öğrenciye Yaklaşımı:**  
+  Karaman halkı sakin, muhafazakar ve misafirperverdir. Şehirde suç oranı yok denecek kadar azdır; özellikle Üniversite Mahallesi gece yarısına kadar gençlerle dolu olduğu için tamamen güvenlidir.
+
+---
+
+## ⚖️ Artılar ve Eksiler (Filtresiz Öğrenci Yorumları)
 
 ### ✅ Artıları
-* **Kampüs + Yurt + Üniversite Mahallesi Bütünlüğü:** Yurtların, öğrenci apartlarının ve tüm fakültelerin yan yana ve düz ayak olması sayesinde ulaşım çilesi ve yol masrafı sıfırdır.
-* **Yüksek Hızlı Tren (YHT) ile Konya'ya 40 Dakika:** Hızlı trenle Konya'ya 40 dakikada, Ankara'ya 2,5 saatte, otobüsle Mersin sahiline 2 saatte ulaşılır.
-* **Güçlü Gıda/Sanayi OSB ve Teknopark:** Staj ve teknik uygulama imkanları çok geniştir.
+* **Kampüs, Yurt ve Öğrenci Mahallesi Bir Arada:** Her şeyin 5-10 dakikalık yürüme mesafesinde olması sayesinde sabah erken uyanma ve yol parası derdi yaşanmaz.
+* **YHT ile 40 Dakikada Konya / 2 Saatte Ankara:** Yüksek Hızlı Tren sayesinde büyükşehir etkinliklerine katılmak ve memlekete gidip gelmek inanılmaz kolaydır.
+* **Gıda Sanayiinde Eşsiz Staj Fırsatları:** Bisküvi ve gıda devlerinin şehirde olması mühendislik ve işletme öğrencilerine büyük avantaj sağlar.
+* **Ekonomik Yaşam:** Apart kiraları ve yeme-içme giderleri büyükşehirlere göre oldukça hesaplıdır.
 
-### ❌ Eksileri
-* **Sakin Şehir Merkezi:** Üniversite Mahallesi dışında Karaman çarşısı akşam 21:00'den sonra oldukça sessizleşir.
-* **Kuru ve Soğuk Kış Havası:** Bozkır iklimi nedeniyle kışları kurak ve ayazlı geçer.
+### ❌ Eksileri ve Kronik Sorunları (Filtresiz Öğrenci Yorumları)
+* **Merkezin Erken Sessizliğe Gömülmesi:** Üniversite Mahallesi hareketli olsa da Karaman şehir merkezi akşam 20:30-21:00'den sonra tamamen sessizleşir; gece hayatı ve kulüp kültürü yoktur.
+* **Kuru Bozkır Ayazı:** Kış mevsiminde kar yağışı az olsa da dondurucu kuru bir soğuk ve ayaz etkilidir.
+* **Hafta Sonu YHT Yüzünden Issızlaşan Kampüs:** Konya, Ankara ve Karaman çevre illerindeki öğrenciler cuma akşamı YHT'ye binip gittiği için hafta sonları kampüs ve apartlar oldukça tenhalaşır.
+* **Sosyal Mekanların Tekdüzeliği:** Birkaç kafe caddesi dışında şehir içi alternatif sosyal aktivite sayısı sınırlıdır.
 
 ---
 
 ## 💡 Tercih Edecek Adaylara Altın Tavsiyeler
 
 > 💬 **Öğrenci Notu:**  
-> "Karaman'da öğrencilik hayatı Türkiye'deki en zahmetsiz ve ekonomik düzenlerden biridir: Kampüsün hemen yanındaki KYK yurtlarında veya karşısındaki **Üniversite Mahallesi** apartlarında kalırsınız, derse 5 dakikada yürürsünüz, canınız büyükşehir çektiğinde de **Hızlı Tren'e (YHT)** atlayıp 40 dakika sonra Konya'da kahvenizi içersiniz! Karaman'a geldiğinizde meşhur **Batırık** yemeğini tatmayı ve fabrika satış mağazalarından koliyle bisküvi/çikolata stoklamayı unutmayın."
+> "Karaman'a gelirken telefonuna ilk indireceğin uygulama kesinlikle TCDD Taşımacılık olsun! Hızlı tren biletini cuma gününden alıp 40 dakikada Konya'ya ya da 2 saatte Ankara'ya kaçabilmek buradaki öğrenciliğin en büyük sihridir. Barınma konusunda hiç telaşlanma; kampüs karşısındaki KYK yurtları veya Üniversite Mahallesi'ndeki 1+1 apartlar sana yol parası harcatmadan konforlu bir hayat sunar. İlk hafta Bifa ve Saray'ın fabrika satış mağazalarına uğrayıp dolabını toptan atıştırmalıkla doldurmayı ve baharda Yerköprü Şelalesi gezisine katılmayı sakın unutma!"
