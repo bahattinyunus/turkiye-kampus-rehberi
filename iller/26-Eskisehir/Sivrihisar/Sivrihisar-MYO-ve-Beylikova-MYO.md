@@ -2,6 +2,7 @@
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçe:** Eskişehir / Sivrihisar & Beylikova  
+> **Üniversite Türü:** Devlet  
 > **Bağlı Üniversiteler:** Eskişehir Osmangazi Üniversitesi (ESOGÜ) & Eskişehir Teknik Üniversitesi (ESTÜ)  
 > **Kampüs Konumu:** Sivrihisar Ankara Yolu Yerleşkesi & Beylikova Demiryolu Aksı Yerleşkesi  
 > **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️☆☆ (3.5/5)

@@ -2,13 +2,25 @@
 
 > **Son Güncelleme:** Kasım 2026  
 > **İl / İlçeler:** İstanbul / Ataşehir, Beykoz, Kadıköy & Üsküdar  
-> **Üniversite Türleri:** Vakıf (Yeditepe) & Devlet (TAÜ, İMÜ, SBÜ)  
+> **Üniversite Türü:** Vakıf & Devlet (Yeditepe, TAÜ, İMÜ, SBÜ)  
 > **Kampüs Konumları:** Kayışdağı (Yeditepe), Şahinkaya Ormanı (TAÜ), Göztepe D-100 (İMÜ) ve Mekteb-i Tıbbiye-i Şahane / Haydarpaşa (SBÜ)  
 > **Öğrenci Dostu Endeksi:** ⭐️⭐️⭐️⭐️☆ (4.4/5)
 
 ---
 
 ## 📊 Hızlı Bakış (Özet Tablosu)
+
+| Metrik | Durum / Değerlendirme | Detay |
+| :--- | :--- | :--- |
+| **🚇 Şehir Merkezine Uzaklık** | 0 - 15 km | Metro ve Metrobüs aksı (M4, M8, Marmaray) |
+| **🏠 KYK Yurt İmkanı** | Yüksek | Kampüs içi dev yurtlar (Yeditepe) ve Kadıköy/Üsküdar KYK yurtları |
+| **💸 Aylık Ortalama Kira (Öğrenci Evi)** | 18.000 - 30.000 TL | Kayışdağı, Kavacık, Hasanpaşa ve Fikirtepe öğrenci evleri |
+| **🍽️ Yemekhane Ücreti & Kalitesi** | Çok İyi | Devlet ve vakıf yemekhaneleri, zengin menü |
+| **📚 Kütüphane Kapasitesi** | 7/24 Açık | Ziraat Bankası Kütüphanesi (İMÜ), Haydarpaşa ve Yeditepe |
+| **🌐 İnternet (eduroam)** | Çok Hızlı (Fiber) | Tüm kampüslerde Eduroam ve fiber Wi-Fi |
+| **🌆 Sosyal Yaşam & Çevre** | Kadıköy, Beykoz ve Ataşehir | Tarihi yarımada, sahil ve yeşil orman hattı |
+
+### 🏛️ Yerleşke Detay Tablosu
 
 | Üniversite / Kampüs | İlçe / Konum | Ulaşım Aksı | Barınma / Yurt Durumu | Öne Çıkan Fakülteler |
 | :--- | :--- | :--- | :--- | :--- |

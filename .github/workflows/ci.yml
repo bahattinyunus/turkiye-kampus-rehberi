@@ -1,4 +1,4 @@
-name: 🚀 CI - Doğrulama ve JSON Üretimi
+name: 🚀 CI - Doğrulama, Kalite Denetimi ve JSON API Üretimi
 
 on:
   push:
@@ -23,11 +23,15 @@ jobs:
       run: |
         python scripts/cli.py validate
 
+    - name: 📐 Şablon ve Format Uyumluluk Denetimi (Linter)
+      run: |
+        python scripts/validate_campuses.py
+
     - name: 📊 JSON Veritabanı Üretimi ve Testi
       run: |
         python scripts/export_json.py
         python scripts/cli.py stats
 
-    - name: 🧪 Birim Testleri Çalıştır (Unit Tests)
+    - name: 🧪 Birim ve Entegrasyon Testleri (Unit & API Tests)
       run: |
         python -m unittest discover tests

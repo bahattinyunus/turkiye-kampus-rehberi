@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Türkiye Kampüs Rehberi - Öğrenciden Öğrenciye Açık Kaynak Tercih Rehberi</title>
+  <title>Türkiye Kampüs Rehberi - 81 İl 300+ Kampüs Açık Tercih Ekosistemi</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <style>
@@ -11,82 +11,156 @@
     body { font-family: 'Plus Jakarta Sans', sans-serif; }
     .line-clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
     .line-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+    .custom-scrollbar::-webkit-scrollbar { width: 6px; height: 6px; }
+    .custom-scrollbar::-webkit-scrollbar-track { background: rgba(15, 23, 42, 0.6); }
+    .custom-scrollbar::-webkit-scrollbar-thumb { background: rgba(99, 102, 241, 0.4); border-radius: 9999px; }
+    .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: rgba(99, 102, 241, 0.8); }
   </style>
 </head>
-<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col antialiased selection:bg-indigo-500 selection:text-white">
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col antialiased selection:bg-indigo-500 selection:text-white custom-scrollbar">
 
   <!-- Header -->
   <header class="border-b border-slate-800/80 bg-slate-950/80 backdrop-blur-md sticky top-0 z-40">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-      <div class="flex items-center space-x-3 cursor-pointer" onclick="resetFilters()">
-        <span class="text-3xl">🎓</span>
+      <div class="flex items-center space-x-3 cursor-pointer" onclick="resetAllFilters()">
+        <span class="text-3xl animate-pulse">🎓</span>
         <div>
-          <h1 class="text-lg font-bold bg-gradient-to-r from-blue-400 via-indigo-300 to-purple-400 bg-clip-text text-transparent">Türkiye Kampüs Rehberi</h1>
-          <p class="text-[11px] text-slate-400 font-medium">81 İl • 250+ Kampüs • 100% Filtresiz ve Açık Kaynak</p>
+          <div class="flex items-center gap-2">
+            <h1 class="text-lg font-bold bg-gradient-to-r from-blue-400 via-indigo-300 to-purple-400 bg-clip-text text-transparent">Türkiye Kampüs Rehberi</h1>
+            <span class="text-[10px] font-extrabold uppercase px-2 py-0.5 rounded-full bg-indigo-500/20 text-indigo-300 border border-indigo-500/30">v2.0 Pro</span>
+          </div>
+          <p class="text-[11px] text-slate-400 font-medium">81 İl • 300+ Yerleşke • Öğrenciden Öğrenciye Filtresiz Ekosistem</p>
         </div>
       </div>
-      <div class="flex items-center space-x-3">
-        <a href="https://github.com/bahattinyunus/turkiye-kampus-rehberi" target="_blank" class="flex items-center space-x-2 bg-slate-900 hover:bg-slate-800 text-slate-200 px-3.5 py-1.5 rounded-lg border border-slate-700/80 text-xs font-semibold transition shadow-sm">
+      <div class="flex items-center space-x-2 sm:space-x-3">
+        <!-- AI Advisor Button -->
+        <button onclick="openAdvisorModal()" class="flex items-center space-x-1.5 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white px-3 py-1.5 rounded-xl text-xs font-semibold shadow-lg shadow-indigo-600/20 transition transform active:scale-95">
+          <i class="fa-solid fa-wand-magic-sparkles text-amber-300"></i>
+          <span class="hidden sm:inline">AI Tercih Danışmanı</span>
+          <span class="sm:hidden">Danışman</span>
+        </button>
+
+        <!-- Favorites Tab Button -->
+        <button onclick="toggleFavoritesView()" id="favToggleBtn" class="flex items-center space-x-1.5 bg-slate-900 hover:bg-slate-800 text-slate-300 px-3 py-1.5 rounded-xl border border-slate-700/80 text-xs font-semibold transition">
+          <i class="fa-solid fa-heart text-rose-500"></i>
+          <span class="hidden sm:inline">Favorilerim</span>
+          <span id="favHeaderCount" class="bg-rose-500/20 text-rose-400 px-1.5 py-0.2 rounded-full text-[10px] font-bold">0</span>
+        </button>
+
+        <!-- Random Button -->
+        <button onclick="pickRandomCampus()" title="Şansıma Rastgele Kampüs Öner" class="hidden md:flex items-center space-x-1 bg-slate-900 hover:bg-slate-800 text-amber-400 px-3 py-1.5 rounded-xl border border-slate-700/80 text-xs font-semibold transition">
+          <i class="fa-solid fa-dice"></i>
+          <span>Rastgele</span>
+        </button>
+
+        <a href="https://github.com/bahattinyunus/turkiye-kampus-rehberi" target="_blank" class="flex items-center space-x-2 bg-slate-900 hover:bg-slate-800 text-slate-200 px-3 py-1.5 rounded-xl border border-slate-700/80 text-xs font-semibold transition">
           <i class="fa-brands fa-github text-sm"></i>
-          <span>GitHub</span>
+          <span class="hidden md:inline">GitHub</span>
         </a>
       </div>
     </div>
   </header>
 
   <!-- Hero Section -->
-  <section class="max-w-6xl mx-auto px-4 pt-10 pb-6 text-center">
-    <span class="inline-flex items-center gap-1.5 py-1 px-3.5 rounded-full text-xs font-semibold bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 mb-3 shadow-inner">
+  <section class="max-w-6xl mx-auto px-4 pt-8 pb-4 text-center">
+    <div class="inline-flex items-center gap-2 py-1 px-3.5 rounded-full text-xs font-semibold bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 mb-3 shadow-inner">
       <i class="fa-solid fa-graduation-cap text-indigo-400"></i> Üniversite ve Kampüslerin Gerçek Yüzü
-    </span>
+    </div>
     <h2 class="text-3xl sm:text-5xl font-black tracking-tight mb-3">
       Tercih Yapmadan Önce <br class="hidden sm:inline">
       <span class="bg-gradient-to-r from-indigo-400 via-sky-300 to-emerald-400 bg-clip-text text-transparent">Öğrencilerin Deneyimini</span> İncele
     </h2>
-    <p class="text-sm sm:text-base text-slate-400 max-w-2xl mx-auto">
-      Ulaşım ağları, ring seferleri, KYK yurt mesafeleri, yemekhane kalitesi, kira ortalamaları ve öğrencilerin samimi altın tavsiyeleri bir arada.
+    <p class="text-xs sm:text-sm text-slate-400 max-w-2xl mx-auto">
+      Ulaşım ağları, ringler, KYK mesafeleri, yemekhane kalitesi, kira ortalamaları ve öğrencilerin samimi altın tavsiyeleri bir arada.
     </p>
 
-    <!-- Search & Filters -->
-    <div class="mt-8 bg-slate-900/90 border border-slate-800 p-4 rounded-2xl shadow-2xl flex flex-col md:flex-row gap-3">
+    <!-- Search & Filter Controls -->
+    <div class="mt-6 bg-slate-900/90 border border-slate-800 p-4 rounded-2xl shadow-2xl flex flex-col md:flex-row gap-3">
       <div class="relative flex-1">
         <i class="fa-solid fa-magnifying-glass absolute left-4 top-3.5 text-slate-400 text-sm"></i>
-        <input id="searchInput" type="text" placeholder="Üniversite, kampüs adı, ilçe veya anahtar kelime (metro, sahil, kyk)..." class="w-full bg-slate-950 border border-slate-800 rounded-xl pl-11 pr-4 py-2.5 text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 transition">
+        <input id="searchInput" type="text" placeholder="Üniversite, kampüs adı, ilçe veya anahtar kelime (metro, sahil, kyk)... [Kısayol: /]" class="w-full bg-slate-950 border border-slate-800 rounded-xl pl-11 pr-4 py-2.5 text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 transition">
       </div>
-      <div class="flex gap-2">
-        <select id="cityFilter" class="bg-slate-950 border border-slate-800 rounded-xl px-3 py-2.5 text-xs sm:text-sm text-slate-300 focus:outline-none focus:border-indigo-500 transition">
+      <div class="flex flex-wrap sm:flex-nowrap gap-2">
+        <select id="cityFilter" class="bg-slate-950 border border-slate-800 rounded-xl px-3 py-2 text-xs sm:text-sm text-slate-300 focus:outline-none focus:border-indigo-500 transition">
           <option value="">Tüm İller (81 İl)</option>
         </select>
-        <select id="typeFilter" class="bg-slate-950 border border-slate-800 rounded-xl px-3 py-2.5 text-xs sm:text-sm text-slate-300 focus:outline-none focus:border-indigo-500 transition">
+        <select id="typeFilter" class="bg-slate-950 border border-slate-800 rounded-xl px-3 py-2 text-xs sm:text-sm text-slate-300 focus:outline-none focus:border-indigo-500 transition">
           <option value="">Tüm Türler</option>
           <option value="Devlet">Devlet</option>
           <option value="Vakıf">Vakıf</option>
         </select>
+        <select id="sortFilter" class="bg-slate-950 border border-slate-800 rounded-xl px-3 py-2 text-xs sm:text-sm text-slate-300 focus:outline-none focus:border-indigo-500 transition">
+          <option value="default">Varsayılan Sıralama</option>
+          <option value="rating_desc">⭐ En Yüksek Puan</option>
+          <option value="rating_asc">⭐ En Düşük Puan</option>
+          <option value="title_asc">🔤 İsim (A-Z)</option>
+          <option value="city_asc">📍 Şehir (A-Z)</option>
+        </select>
       </div>
     </div>
 
-    <!-- Quick Tags -->
-    <div class="mt-4 flex flex-wrap items-center justify-center gap-2 text-xs">
+    <!-- Quick Filter Badges -->
+    <div class="mt-3 flex flex-wrap items-center justify-center gap-1.5 text-xs">
       <span class="text-slate-500 text-[11px] uppercase tracking-wider font-semibold mr-1">Hızlı Filtre:</span>
-      <button onclick="setSearch('metro')" class="px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-800 hover:border-indigo-500/60 text-slate-300 transition">🚇 Metrolu Kampüsler</button>
-      <button onclick="setSearch('deniz')" class="px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-800 hover:border-indigo-500/60 text-slate-300 transition">🌊 Deniz / Sahil Kıyısı</button>
+      <button onclick="setSearch('metro')" class="px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-800 hover:border-indigo-500/60 text-slate-300 transition">🚇 Metro</button>
+      <button onclick="setSearch('deniz')" class="px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-800 hover:border-indigo-500/60 text-slate-300 transition">🌊 Deniz / Sahil</button>
       <button onclick="setSearch('7/24')" class="px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-800 hover:border-indigo-500/60 text-slate-300 transition">📚 7/24 Kütüphane</button>
-      <button onclick="setSearch('tıp')" class="px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-800 hover:border-indigo-500/60 text-slate-300 transition">🩺 Tıp & Sağlık</button>
-      <button onclick="setSearch('mühendislik')" class="px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-800 hover:border-indigo-500/60 text-slate-300 transition">⚙️ Mühendislik & Teknoloji</button>
+      <button onclick="setSearch('tıp')" class="px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-800 hover:border-indigo-500/60 text-slate-300 transition">🩺 Tıp & Hastane</button>
+      <button onclick="setSearch('mühendislik')" class="px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-800 hover:border-indigo-500/60 text-slate-300 transition">⚙️ Mühendislik</button>
+      <button onclick="setSearch('kyk')" class="px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-800 hover:border-indigo-500/60 text-slate-300 transition">🏠 KYK Yurtları</button>
+      <button onclick="toggleMapSection()" id="mapToggleBtn" class="px-2.5 py-1 rounded-lg bg-indigo-950/40 border border-indigo-800/60 text-indigo-300 hover:bg-indigo-900/60 transition font-semibold">
+        🗺️ 81 İl Harita Seçicisi
+      </button>
+    </div>
+
+    <!-- 81 Province Regional Navigator (Collapsible) -->
+    <div id="mapSection" class="hidden mt-5 bg-slate-900/80 border border-slate-800 rounded-2xl p-4 text-left transition animate-fade-in shadow-xl">
+      <div class="flex items-center justify-between border-b border-slate-800 pb-2 mb-3">
+        <div class="flex items-center gap-2">
+          <span class="text-sm font-bold text-slate-200">🗺️ 81 İl Hızlı Keşif Haritası</span>
+          <span class="text-[11px] text-slate-400">İle tıklayarak doğrudan o ilin kampüslerine odaklanın</span>
+        </div>
+        <button onclick="toggleMapSection()" class="text-xs text-slate-400 hover:text-slate-200">
+          <i class="fa-solid fa-xmark"></i> Kapat
+        </button>
+      </div>
+
+      <!-- Region Tabs -->
+      <div class="flex flex-wrap gap-1 mb-3 text-xs" id="regionTabs">
+        <!-- Rendered dynamically -->
+      </div>
+
+      <!-- Province Pills Grid -->
+      <div id="provincesGrid" class="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-9 gap-1.5 max-h-56 overflow-y-auto custom-scrollbar p-1">
+        <!-- Rendered dynamically -->
+      </div>
     </div>
   </section>
 
   <!-- Main Grid Content -->
   <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex-1 w-full">
-    <div class="flex items-center justify-between mb-4 border-b border-slate-800 pb-3">
-      <div class="flex items-center space-x-2">
-        <h3 class="text-xs sm:text-sm font-bold uppercase tracking-wider text-slate-400">
+    <!-- Action / Status Bar -->
+    <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2 mb-4 border-b border-slate-800 pb-3">
+      <div class="flex items-center space-x-3">
+        <h3 id="currentViewTitle" class="text-xs sm:text-sm font-bold uppercase tracking-wider text-slate-400">
           Listelenen Yerleşkeler
         </h3>
         <span id="resultCount" class="bg-indigo-500/20 text-indigo-300 text-xs px-2.5 py-0.5 rounded-full font-bold">0</span>
+        <button id="clearFiltersBtn" onclick="resetAllFilters()" class="hidden text-[11px] text-rose-400 hover:underline">
+          Filtreleri Temizle
+        </button>
       </div>
-      <div id="statsSummary" class="text-xs text-slate-500 hidden sm:block">
-        Toplam 81 İl ve 250 Yerleşke Kayıtlı
+
+      <div class="flex items-center space-x-3 text-xs text-slate-400">
+        <div id="statsSummary" class="hidden sm:block">
+          81 İl • 309 Kampüs Kayıtlı
+        </div>
+        <button onclick="exportCurrentView('json')" title="Mevcut Listeyi JSON Olarak İndir" class="bg-slate-900 hover:bg-slate-800 px-2.5 py-1 rounded-lg border border-slate-800 text-[11px] text-slate-300 transition">
+          <i class="fa-solid fa-download"></i> JSON
+        </button>
+        <button onclick="exportCurrentView('csv')" title="Mevcut Listeyi CSV Olarak İndir" class="bg-slate-900 hover:bg-slate-800 px-2.5 py-1 rounded-lg border border-slate-800 text-[11px] text-slate-300 transition">
+          <i class="fa-solid fa-file-csv"></i> CSV
+        </button>
       </div>
     </div>
 
@@ -100,87 +174,277 @@
       <i class="fa-regular fa-face-frown text-5xl text-slate-600 mb-3"></i>
       <h4 class="text-base font-semibold text-slate-300">Aramanıza uygun bir kampüs bulunamadı</h4>
       <p class="text-xs text-slate-500 mt-1">Arama kelimesini değiştirebilir veya filtreleri sıfırlayabilirsiniz.</p>
-      <button onclick="resetFilters()" class="mt-4 px-4 py-2 bg-indigo-600 hover:bg-indigo-500 rounded-lg text-xs font-semibold transition">Filtreleri Temizle</button>
+      <button onclick="resetAllFilters()" class="mt-4 px-4 py-2 bg-indigo-600 hover:bg-indigo-500 rounded-lg text-xs font-semibold transition">Filtreleri Temizle</button>
     </div>
   </main>
 
-  <!-- Campus Detail Modal -->
+  <!-- Campus Detail Modal (Rich View with Tabs) -->
   <div id="detailModal" class="fixed inset-0 z-50 hidden bg-black/80 backdrop-blur-sm flex items-center justify-center p-4">
-    <div class="bg-slate-900 border border-slate-800 w-full max-w-3xl max-h-[90vh] rounded-2xl flex flex-col shadow-2xl overflow-hidden animate-fade-in">
+    <div class="bg-slate-900 border border-slate-800 w-full max-w-4xl max-h-[92vh] rounded-2xl flex flex-col shadow-2xl overflow-hidden animate-fade-in">
       <!-- Modal Header -->
-      <div class="p-5 border-b border-slate-800 flex items-start justify-between bg-slate-950/60">
+      <div class="p-5 border-b border-slate-800 flex items-start justify-between bg-slate-950/70">
         <div>
-          <div class="flex items-center gap-2 mb-1.5">
+          <div class="flex items-center gap-2 mb-1.5 flex-wrap">
             <span id="modalPlate" class="text-[11px] font-bold uppercase px-2 py-0.5 rounded bg-indigo-500/20 text-indigo-300"></span>
             <span id="modalType" class="text-[11px] font-medium text-slate-400"></span>
             <span id="modalRating" class="text-xs text-amber-400 font-bold ml-2"></span>
           </div>
-          <h3 id="modalTitle" class="text-lg font-bold text-slate-100"></h3>
+          <h3 id="modalTitle" class="text-lg sm:text-xl font-bold text-slate-100"></h3>
         </div>
-        <button onclick="closeModal()" class="text-slate-400 hover:text-slate-200 p-2 rounded-lg hover:bg-slate-800 text-lg transition">
-          <i class="fa-solid fa-xmark"></i>
+        <div class="flex items-center space-x-2">
+          <button id="modalFavBtn" onclick="toggleModalFav()" class="text-slate-400 hover:text-rose-500 p-2 rounded-lg hover:bg-slate-800 text-lg transition">
+            <i class="fa-regular fa-heart"></i>
+          </button>
+          <button onclick="closeModal()" class="text-slate-400 hover:text-slate-200 p-2 rounded-lg hover:bg-slate-800 text-lg transition">
+            <i class="fa-solid fa-xmark"></i>
+          </button>
+        </div>
+      </div>
+
+      <!-- Modal Tabs Navigation -->
+      <div class="flex border-b border-slate-800 bg-slate-950/40 text-xs px-4 overflow-x-auto">
+        <button onclick="switchModalTab('tab-summary')" id="tabBtn-summary" class="py-2.5 px-3 font-semibold text-indigo-400 border-b-2 border-indigo-500">
+          📊 Genel & Metrikler
+        </button>
+        <button onclick="switchModalTab('tab-ulasim')" id="tabBtn-ulasim" class="py-2.5 px-3 font-semibold text-slate-400 hover:text-slate-200 border-b-2 border-transparent">
+          🚌 Ulaşım
+        </button>
+        <button onclick="switchModalTab('tab-barinma')" id="tabBtn-barinma" class="py-2.5 px-3 font-semibold text-slate-400 hover:text-slate-200 border-b-2 border-transparent">
+          🏠 Barınma & KYK
+        </button>
+        <button onclick="switchModalTab('tab-beslenme')" id="tabBtn-beslenme" class="py-2.5 px-3 font-semibold text-slate-400 hover:text-slate-200 border-b-2 border-transparent">
+          🍽️ Beslenme
+        </button>
+        <button onclick="switchModalTab('tab-akademik')" id="tabBtn-akademik" class="py-2.5 px-3 font-semibold text-slate-400 hover:text-slate-200 border-b-2 border-transparent">
+          📚 Akademik Hayat
         </button>
       </div>
 
       <!-- Modal Body -->
-      <div class="p-6 overflow-y-auto space-y-6 text-sm">
-        <!-- Student Advice Banner -->
-        <div id="modalAdviceBox" class="bg-indigo-950/30 border border-indigo-800/40 rounded-xl p-4">
-          <h5 class="text-xs font-bold uppercase tracking-wider text-indigo-400 mb-1 flex items-center gap-1.5">
-            <i class="fa-solid fa-quote-left"></i> Öğrenci Notu & Tercih Tavsiyesi
-          </h5>
-          <p id="modalAdvice" class="text-slate-300 italic text-xs leading-relaxed"></p>
+      <div class="p-6 overflow-y-auto space-y-6 text-sm flex-1 custom-scrollbar">
+        <!-- Tab 1: Summary -->
+        <div id="tabContent-summary" class="space-y-5">
+          <!-- Student Advice Banner -->
+          <div id="modalAdviceBox" class="bg-indigo-950/30 border border-indigo-800/40 rounded-xl p-4">
+            <h5 class="text-xs font-bold uppercase tracking-wider text-indigo-400 mb-1 flex items-center gap-1.5">
+              <i class="fa-solid fa-quote-left"></i> Öğrenci Notu & Tercih Tavsiyesi
+            </h5>
+            <p id="modalAdvice" class="text-slate-300 italic text-xs leading-relaxed"></p>
+          </div>
+
+          <!-- Quick Metrics Table -->
+          <div>
+            <h5 class="text-xs font-bold uppercase tracking-wider text-slate-400 mb-2.5">
+              📊 Hızlı Bakış Metrikleri
+            </h5>
+            <div class="border border-slate-800 rounded-xl overflow-hidden">
+              <table class="w-full text-xs text-left">
+                <tbody id="modalMetricsTable" class="divide-y divide-slate-800">
+                  <!-- Dynamically populated -->
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- Pros & Cons Grid -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="bg-emerald-950/20 border border-emerald-800/30 rounded-xl p-4">
+              <h5 class="text-xs font-bold uppercase tracking-wider text-emerald-400 mb-2 flex items-center gap-1">
+                <i class="fa-solid fa-check"></i> Öne Çıkan Artıları
+              </h5>
+              <ul id="modalPros" class="space-y-1.5 text-xs text-slate-300 list-disc list-inside"></ul>
+            </div>
+            <div class="bg-rose-950/20 border border-rose-800/30 rounded-xl p-4">
+              <h5 class="text-xs font-bold uppercase tracking-wider text-rose-400 mb-2 flex items-center gap-1">
+                <i class="fa-solid fa-triangle-exclamation"></i> Bilinmesi Gereken Zorlukları
+              </h5>
+              <ul id="modalCons" class="space-y-1.5 text-xs text-slate-300 list-disc list-inside"></ul>
+            </div>
+          </div>
+
+          <!-- Gold Tips -->
+          <div id="modalTipsBox" class="bg-amber-950/20 border border-amber-800/30 rounded-xl p-4 hidden">
+            <h5 class="text-xs font-bold uppercase tracking-wider text-amber-400 mb-2 flex items-center gap-1.5">
+              <i class="fa-solid fa-lightbulb"></i> Altın Tavsiyeler (İlk Hafta Hayatta Kalma Kiti)
+            </h5>
+            <ul id="modalTipsList" class="space-y-1.5 text-xs text-slate-300 list-disc list-inside"></ul>
+          </div>
         </div>
 
-        <!-- Metrics Table -->
-        <div>
-          <h5 class="text-xs font-bold uppercase tracking-wider text-slate-400 mb-2.5">
-            📊 Hızlı Bakış Metrikleri
-          </h5>
-          <div class="border border-slate-800 rounded-xl overflow-hidden">
-            <table class="w-full text-xs text-left">
-              <tbody id="modalMetricsTable" class="divide-y divide-slate-800">
-                <!-- Dynamically populated -->
-              </tbody>
-            </table>
-          </div>
+        <!-- Tab 2: Ulaşım -->
+        <div id="tabContent-ulasim" class="hidden space-y-4">
+          <h4 class="text-sm font-bold text-indigo-300 flex items-center gap-2">
+            <i class="fa-solid fa-bus"></i> Ulaşım Rotaları, Ring Seferleri & Otostop Noktaları
+          </h4>
+          <div id="ulasimText" class="bg-slate-950/60 border border-slate-800 p-4 rounded-xl text-xs text-slate-300 leading-relaxed whitespace-pre-line"></div>
         </div>
 
-        <!-- Pros & Cons -->
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div class="bg-emerald-950/20 border border-emerald-800/30 rounded-xl p-4">
-            <h5 class="text-xs font-bold uppercase tracking-wider text-emerald-400 mb-2 flex items-center gap-1">
-              <i class="fa-solid fa-check"></i> Öne Çıkan Artıları
-            </h5>
-            <ul id="modalPros" class="space-y-1.5 text-xs text-slate-300 list-disc list-inside"></ul>
-          </div>
-          <div class="bg-rose-950/20 border border-rose-800/30 rounded-xl p-4">
-            <h5 class="text-xs font-bold uppercase tracking-wider text-rose-400 mb-2 flex items-center gap-1">
-              <i class="fa-solid fa-triangle-exclamation"></i> Bilinmesi Gereken Zorlukları
-            </h5>
-            <ul id="modalCons" class="space-y-1.5 text-xs text-slate-300 list-disc list-inside"></ul>
-          </div>
+        <!-- Tab 3: Barınma -->
+        <div id="tabContent-barinma" class="hidden space-y-4">
+          <h4 class="text-sm font-bold text-indigo-300 flex items-center gap-2">
+            <i class="fa-solid fa-hotel"></i> KYK Yurtları, Özel Yurtlar ve Öğrenci Evleri
+          </h4>
+          <div id="barinmaText" class="bg-slate-950/60 border border-slate-800 p-4 rounded-xl text-xs text-slate-300 leading-relaxed whitespace-pre-line"></div>
+        </div>
+
+        <!-- Tab 4: Beslenme -->
+        <div id="tabContent-beslenme" class="hidden space-y-4">
+          <h4 class="text-sm font-bold text-indigo-300 flex items-center gap-2">
+            <i class="fa-solid fa-utensils"></i> Yemekhane Sistemi, Fiyatlar ve Çevre Lezzetleri
+          </h4>
+          <div id="beslenmeText" class="bg-slate-950/60 border border-slate-800 p-4 rounded-xl text-xs text-slate-300 leading-relaxed whitespace-pre-line"></div>
+        </div>
+
+        <!-- Tab 5: Akademik -->
+        <div id="tabContent-akademik" class="hidden space-y-4">
+          <h4 class="text-sm font-bold text-indigo-300 flex items-center gap-2">
+            <i class="fa-solid fa-book-open"></i> Akademik İklim, Çan Eğrisi, Sınavlar ve Kütüphane
+          </h4>
+          <div id="akademikText" class="bg-slate-950/60 border border-slate-800 p-4 rounded-xl text-xs text-slate-300 leading-relaxed whitespace-pre-line"></div>
         </div>
       </div>
 
       <!-- Modal Footer -->
-      <div class="p-4 border-t border-slate-800 bg-slate-950/60 flex items-center justify-between">
-        <span class="text-xs text-slate-500">Açık Kaynak Türkiye Kampüs Rehberi</span>
-        <a id="modalGithubLink" href="#" target="_blank" class="flex items-center space-x-1.5 bg-indigo-600 hover:bg-indigo-500 text-white px-4 py-2 rounded-xl text-xs font-semibold transition">
-          <span>GitHub'da Dosyayı Aç</span>
-          <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
-        </a>
+      <div class="p-4 border-t border-slate-800 bg-slate-950/70 flex items-center justify-between">
+        <span class="text-xs text-slate-500 hidden sm:inline">Türkiye Kampüs Rehberi • MIT Lisansı</span>
+        <div class="flex items-center space-x-2">
+          <button onclick="copyCampusLink()" class="px-3 py-1.5 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-300 text-xs font-semibold transition">
+            <i class="fa-solid fa-share-nodes mr-1"></i> Paylaş
+          </button>
+          <a id="modalGithubLink" href="#" target="_blank" class="flex items-center space-x-1.5 bg-indigo-600 hover:bg-indigo-500 text-white px-4 py-1.5 rounded-xl text-xs font-semibold transition shadow-md">
+            <span>GitHub'da İncele</span>
+            <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Comparison Screen Modal (Side-by-Side) -->
+  <div id="compareModal" class="fixed inset-0 z-50 hidden bg-black/85 backdrop-blur-md flex items-center justify-center p-4">
+    <div class="bg-slate-900 border border-slate-800 w-full max-w-5xl max-h-[92vh] rounded-2xl flex flex-col shadow-2xl overflow-hidden animate-fade-in">
+      <div class="p-5 border-b border-slate-800 flex items-center justify-between bg-slate-950/70">
+        <div class="flex items-center gap-2">
+          <span class="text-xl">⚖️</span>
+          <div>
+            <h3 class="text-base font-bold text-slate-100">Yan Yana Kampüs Kıyaslama</h3>
+            <p class="text-xs text-slate-400">İki yerleşkenin metriklerini, puanlarını ve avantajlarını karşılaştırın</p>
+          </div>
+        </div>
+        <button onclick="closeCompareModal()" class="text-slate-400 hover:text-slate-200 p-2 rounded-lg hover:bg-slate-800 text-lg transition">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+
+      <div class="p-6 overflow-y-auto space-y-6 text-xs flex-1 custom-scrollbar">
+        <!-- Dual Header Cards -->
+        <div class="grid grid-cols-2 gap-4" id="compareCards">
+          <!-- Dynamically populated -->
+        </div>
+
+        <!-- Metrics Comparison Table -->
+        <div class="border border-slate-800 rounded-xl overflow-hidden">
+          <div class="bg-slate-950 px-4 py-2 font-bold text-slate-300 border-b border-slate-800">
+            📊 Hızlı Metrik Karşılaştırma Matrisi
+          </div>
+          <table class="w-full text-xs text-left">
+            <thead>
+              <tr class="bg-slate-950/60 border-b border-slate-800 text-slate-400">
+                <th class="p-3 w-1/4">Kriter</th>
+                <th class="p-3 w-3/8 text-indigo-300" id="cmpHeader1">1. Kampüs</th>
+                <th class="p-3 w-3/8 text-sky-300" id="cmpHeader2">2. Kampüs</th>
+              </tr>
+            </thead>
+            <tbody id="compareMetricsTbody" class="divide-y divide-slate-800">
+              <!-- Dynamically populated -->
+            </tbody>
+          </table>
+        </div>
+
+        <!-- Pros vs Pros -->
+        <div class="grid grid-cols-2 gap-4">
+          <div class="bg-slate-950/60 border border-slate-800 rounded-xl p-4">
+            <h5 class="font-bold text-emerald-400 mb-2 flex items-center gap-1">
+              <i class="fa-solid fa-check"></i> <span id="cmpProsTitle1">1. Kampüs Artıları</span>
+            </h5>
+            <ul id="cmpProsList1" class="space-y-1 list-disc list-inside text-slate-300"></ul>
+          </div>
+          <div class="bg-slate-950/60 border border-slate-800 rounded-xl p-4">
+            <h5 class="font-bold text-emerald-400 mb-2 flex items-center gap-1">
+              <i class="fa-solid fa-check"></i> <span id="cmpProsTitle2">2. Kampüs Artıları</span>
+            </h5>
+            <ul id="cmpProsList2" class="space-y-1 list-disc list-inside text-slate-300"></ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="p-4 border-t border-slate-800 bg-slate-950/70 flex items-center justify-between">
+        <button onclick="clearCompare()" class="text-rose-400 hover:text-rose-300 text-xs font-semibold">
+          <i class="fa-solid fa-trash mr-1"></i> Seçimleri Temizle
+        </button>
+        <button onclick="closeCompareModal()" class="bg-slate-800 hover:bg-slate-700 text-slate-200 px-4 py-2 rounded-xl text-xs font-semibold transition">
+          Kapat
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- AI Tercih Danışmanı Modal -->
+  <div id="advisorModal" class="fixed inset-0 z-50 hidden bg-black/85 backdrop-blur-md flex items-center justify-center p-4">
+    <div class="bg-slate-900 border border-slate-800 w-full max-w-3xl max-h-[92vh] rounded-2xl flex flex-col shadow-2xl overflow-hidden animate-fade-in">
+      <div class="p-5 border-b border-slate-800 flex items-center justify-between bg-slate-950/70">
+        <div class="flex items-center gap-2.5">
+          <div class="w-8 h-8 rounded-xl bg-gradient-to-tr from-indigo-500 to-purple-500 flex items-center justify-center text-white text-sm">
+            <i class="fa-solid fa-wand-magic-sparkles"></i>
+          </div>
+          <div>
+            <h3 class="text-base font-bold text-slate-100">Akıllı Tercih Danışmanı</h3>
+            <p class="text-xs text-slate-400">Hayalindeki kriterleri yaz, sana en uygun kampüsleri puanlayalım</p>
+          </div>
+        </div>
+        <button onclick="closeAdvisorModal()" class="text-slate-400 hover:text-slate-200 p-2 rounded-lg hover:bg-slate-800 text-lg transition">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+
+      <div class="p-6 overflow-y-auto space-y-5 text-xs flex-1 custom-scrollbar">
+        <!-- Input & Quick Prompts -->
+        <div class="space-y-3">
+          <div class="relative">
+            <textarea id="advisorQuestionInput" rows="2" placeholder="Örn: Deniz kıyısında, metroya yakın, kütüphanesi 7/24 açık olan tıp veya mühendislik fakültesi..." class="w-full bg-slate-950 border border-slate-800 rounded-xl p-3.5 text-xs sm:text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 transition resize-none"></textarea>
+          </div>
+          <div class="flex flex-wrap items-center justify-between gap-2">
+            <div class="flex flex-wrap gap-1.5">
+              <span class="text-slate-500 text-[11px] self-center">Örnek Sorular:</span>
+              <button onclick="setAdvisorPrompt('Deniz kıyısında, metroya yakın tıp ve mühendislikler')" class="px-2 py-0.5 rounded bg-slate-950 border border-slate-800 hover:border-indigo-500/50 text-[11px] text-slate-300">🌊 Deniz + Metro</button>
+              <button onclick="setAdvisorPrompt('Kirası uygun, KYK imkanı yüksek, ucuz öğrenci şehirleri')" class="px-2 py-0.5 rounded bg-slate-950 border border-slate-800 hover:border-indigo-500/50 text-[11px] text-slate-300">💰 Bütçe Dostu</button>
+              <button onclick="setAdvisorPrompt('7/24 kütüphanesi olan, teknofest takımları güçlü teknik üniversiteler')" class="px-2 py-0.5 rounded bg-slate-950 border border-slate-800 hover:border-indigo-500/50 text-[11px] text-slate-300">🚀 TEKNOFEST & Ar-Ge</button>
+            </div>
+            <button onclick="runAdvisor()" class="bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white px-4 py-2 rounded-xl font-bold shadow-md transition transform active:scale-95">
+              <i class="fa-solid fa-sparkles mr-1"></i> Tavsiye Bul
+            </button>
+          </div>
+        </div>
+
+        <!-- Advisor Results List -->
+        <div id="advisorResultsContainer" class="space-y-3 pt-3 border-t border-slate-800">
+          <div class="text-center py-8 text-slate-500">
+            <i class="fa-solid fa-robot text-3xl mb-2 text-slate-600"></i>
+            <p>Yukarıdaki alana tercih kriterlerinizi yazıp "Tavsiye Bul" butonuna tıklayın.</p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
 
   <!-- Comparison Floating Bar -->
-  <div id="compareBar" class="fixed bottom-4 left-1/2 -translate-x-1/2 z-30 hidden bg-slate-900 border border-slate-700 px-5 py-3 rounded-2xl shadow-2xl flex items-center space-x-4">
-    <div class="text-xs font-semibold">
-      <span id="compareCount" class="text-indigo-400">0</span> kampüs seçildi (Maksimum 2)
+  <div id="compareBar" class="fixed bottom-4 left-1/2 -translate-x-1/2 z-30 hidden bg-slate-900/95 backdrop-blur-md border border-slate-700 px-5 py-3 rounded-2xl shadow-2xl flex items-center space-x-4 animate-bounce-subtle">
+    <div class="text-xs font-semibold flex items-center gap-2">
+      <span class="w-2 h-2 rounded-full bg-indigo-500 animate-ping"></span>
+      <span><span id="compareCount" class="text-indigo-400 font-bold">0</span>/2 kampüs seçildi</span>
     </div>
-    <button onclick="openCompareModal()" class="bg-indigo-600 hover:bg-indigo-500 text-white px-3.5 py-1.5 rounded-lg text-xs font-bold transition">
-      Kıyasla
+    <button onclick="openCompareModal()" class="bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white px-4 py-1.5 rounded-xl text-xs font-bold transition shadow-lg">
+      <i class="fa-solid fa-scale-balanced mr-1"></i> Kıyasla
     </button>
     <button onclick="clearCompare()" class="text-slate-400 hover:text-slate-200 text-xs">
       Temizle
@@ -188,18 +452,47 @@
   </div>
 
   <!-- Footer -->
-  <footer class="border-t border-slate-900 py-6 text-center text-xs text-slate-500 mt-auto">
-    <p>Türkiye Kampüs Rehberi © 2026. MIT Lisansı ile açık kaynak olarak geliştirilmiştir.</p>
-    <p class="mt-1">Katkıda bulunmak ve yeni yerleşke eklemek için <a href="https://github.com/bahattinyunus/turkiye-kampus-rehberi" class="text-indigo-400 hover:underline">GitHub deposunu</a> ziyaret edin.</p>
+  <footer class="border-t border-slate-900 py-6 text-center text-xs text-slate-500 mt-auto bg-slate-950/60">
+    <div class="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-3">
+      <div>
+        <p class="font-semibold text-slate-400">Türkiye Kampüs Rehberi © 2026. MIT Lisansı ile açık kaynak olarak geliştirilmiştir.</p>
+        <p class="text-[11px] text-slate-500 mt-0.5">81 İl, 309 Kampüs, Python SDK, REST API ve Doğal Dil Tercih Danışmanı.</p>
+      </div>
+      <div class="flex items-center space-x-4">
+        <a href="https://github.com/bahattinyunus/turkiye-kampus-rehberi" target="_blank" class="text-indigo-400 hover:underline flex items-center gap-1">
+          <i class="fa-brands fa-github"></i> GitHub Reposu
+        </a>
+        <a href="#top" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="text-slate-400 hover:text-slate-200">
+          <i class="fa-solid fa-arrow-up"></i> Başa Dön
+        </a>
+      </div>
+    </div>
   </footer>
 
   <script>
     const GITHUB_REPO_URL = "https://github.com/bahattinyunus/turkiye-kampus-rehberi/blob/main/";
     let allCampuses = [];
     let compareList = [];
+    let favoritesList = JSON.parse(localStorage.getItem('kampus_favorites') || '[]');
+    let isShowingFavoritesOnly = false;
+    let currentModalCampusId = null;
+
+    // 7 Geographic Regions Mapping for 81 Provinces
+    const REGIONS = {
+      "Tümü": [],
+      "Marmara": ["10", "11", "16", "17", "22", "34", "39", "41", "54", "59", "77"],
+      "Ege": ["03", "09", "20", "35", "43", "45", "48", "64"],
+      "İç Anadolu": ["06", "18", "26", "38", "40", "42", "50", "51", "58", "66", "68", "70", "71"],
+      "Akdeniz": ["01", "07", "15", "31", "32", "33", "46", "80"],
+      "Karadeniz": ["05", "08", "14", "19", "28", "29", "37", "52", "53", "55", "57", "60", "61", "67", "74", "78", "81"],
+      "Doğu Anadolu": ["04", "12", "13", "23", "24", "25", "30", "36", "44", "49", "62", "65", "75", "76"],
+      "Güneydoğu Anadolu": ["02", "21", "27", "47", "56", "63", "72", "73", "79"]
+    };
+
+    let selectedRegion = "Tümü";
 
     async function init() {
-      const paths = ['data/kampusler.json', '../data/kampusler.json', './data/kampusler.json'];
+      const paths = ['data/kampusler.json', '../data/kampusler.json', './data/kampusler.json', 'web/data/kampusler.json'];
       for (const p of paths) {
         try {
           const res = await fetch(p);
@@ -209,46 +502,202 @@
           }
         } catch (e) {}
       }
+
+      updateFavHeaderCount();
       populateCityFilter();
+      renderRegionTabs();
+      renderProvincePills();
+
+      // Check URL params for direct sharing (?kampus=... or ?il=...)
+      const urlParams = new URLSearchParams(window.location.search);
+      const campusParam = urlParams.get('kampus');
+      const cityParam = urlParams.get('il');
+      const qParam = urlParams.get('q');
+
+      if (qParam) {
+        document.getElementById('searchInput').value = qParam;
+      }
+      if (cityParam) {
+        document.getElementById('cityFilter').value = cityParam;
+      }
+
       render();
+
+      if (campusParam) {
+        showModal(campusParam);
+      }
     }
 
     function populateCityFilter() {
       const citySelect = document.getElementById('cityFilter');
-      const cities = Array.from(new Set(allCampuses.map(c => c.il))).sort();
-      cities.forEach(city => {
+      const cityPlateMap = new Map();
+      allCampuses.forEach(c => {
+        if (!cityPlateMap.has(c.il)) {
+          cityPlateMap.set(c.il, c.plaka);
+        }
+      });
+
+      const sortedCities = Array.from(cityPlateMap.entries()).sort((a, b) => a[1].localeCompare(b[1]));
+      sortedCities.forEach(([cityName, plate]) => {
         const opt = document.createElement('option');
-        opt.value = city;
-        opt.textContent = city;
+        opt.value = cityName;
+        opt.textContent = `${plate} - ${cityName}`;
         citySelect.appendChild(opt);
       });
     }
 
+    function renderRegionTabs() {
+      const container = document.getElementById('regionTabs');
+      container.innerHTML = Object.keys(REGIONS).map(r => `
+        <button onclick="selectRegion('${r}')" class="px-2.5 py-1 rounded-lg border transition ${selectedRegion === r ? 'bg-indigo-600 text-white border-indigo-600 font-bold' : 'bg-slate-950 text-slate-400 border-slate-800 hover:border-slate-700'}">
+          ${r}
+        </button>
+      `).join('');
+    }
+
+    function selectRegion(region) {
+      selectedRegion = region;
+      renderRegionTabs();
+      renderProvincePills();
+    }
+
+    function renderProvincePills() {
+      const container = document.getElementById('provincesGrid');
+      const cityMap = new Map();
+      allCampuses.forEach(c => {
+        if (!cityMap.has(c.il)) {
+          cityMap.set(c.il, { plate: c.plaka, city: c.il, count: 0 });
+        }
+        cityMap.get(c.il).count++;
+      });
+
+      let cities = Array.from(cityMap.values()).sort((a, b) => a.plate.localeCompare(b.plate));
+
+      if (selectedRegion !== "Tümü") {
+        const platesInRegion = REGIONS[selectedRegion];
+        cities = cities.filter(c => platesInRegion.includes(c.plate));
+      }
+
+      container.innerHTML = cities.map(c => `
+        <button onclick="filterByCity('${c.city}')" class="text-left px-2 py-1.5 rounded-lg bg-slate-950 hover:bg-indigo-950/60 border border-slate-800 hover:border-indigo-600 text-[11px] transition flex items-center justify-between group">
+          <span class="truncate group-hover:text-indigo-300"><strong class="text-indigo-400">${c.plate}</strong> ${c.city}</span>
+          <span class="text-[10px] bg-slate-900 group-hover:bg-indigo-900 text-slate-400 group-hover:text-white px-1.5 py-0.2 rounded font-bold ml-1">${c.count}</span>
+        </button>
+      `).join('');
+    }
+
+    function toggleMapSection() {
+      const el = document.getElementById('mapSection');
+      el.classList.toggle('hidden');
+    }
+
+    function filterByCity(cityName) {
+      document.getElementById('cityFilter').value = cityName;
+      document.getElementById('searchInput').value = '';
+      isShowingFavoritesOnly = false;
+      render();
+      document.getElementById('grid').scrollIntoView({ behavior: 'smooth' });
+    }
+
     function setSearch(term) {
       document.getElementById('searchInput').value = term;
+      isShowingFavoritesOnly = false;
       render();
     }
 
-    function resetFilters() {
+    function resetAllFilters() {
       document.getElementById('searchInput').value = '';
       document.getElementById('cityFilter').value = '';
       document.getElementById('typeFilter').value = '';
+      document.getElementById('sortFilter').value = 'default';
+      isShowingFavoritesOnly = false;
+      document.getElementById('favToggleBtn').classList.remove('bg-rose-950/40', 'border-rose-700/60');
       render();
+    }
+
+    function toggleFavoritesView() {
+      isShowingFavoritesOnly = !isShowingFavoritesOnly;
+      const btn = document.getElementById('favToggleBtn');
+      if (isShowingFavoritesOnly) {
+        btn.classList.add('bg-rose-950/40', 'border-rose-700/60');
+      } else {
+        btn.classList.remove('bg-rose-950/40', 'border-rose-700/60');
+      }
+      render();
+    }
+
+    function toggleFavorite(id, event) {
+      if (event) event.stopPropagation();
+      if (favoritesList.includes(id)) {
+        favoritesList = favoritesList.filter(x => x !== id);
+      } else {
+        favoritesList.push(id);
+      }
+      localStorage.setItem('kampus_favorites', JSON.stringify(favoritesList));
+      updateFavHeaderCount();
+      render();
+      if (currentModalCampusId === id) {
+        updateModalFavButton(id);
+      }
+    }
+
+    function updateFavHeaderCount() {
+      document.getElementById('favHeaderCount').textContent = favoritesList.length;
+    }
+
+    function updateModalFavButton(id) {
+      const btn = document.getElementById('modalFavBtn');
+      const isFav = favoritesList.includes(id);
+      btn.innerHTML = isFav 
+        ? '<i class="fa-solid fa-heart text-rose-500"></i>' 
+        : '<i class="fa-regular fa-heart"></i>';
+    }
+
+    function toggleModalFav() {
+      if (currentModalCampusId) {
+        toggleFavorite(currentModalCampusId);
+      }
+    }
+
+    function pickRandomCampus() {
+      if (allCampuses.length === 0) return;
+      const randomItem = allCampuses[Math.floor(Math.random() * allCampuses.length)];
+      showModal(randomItem.id);
     }
 
     function render() {
       const search = document.getElementById('searchInput').value.toLowerCase().trim();
       const selectedCity = document.getElementById('cityFilter').value;
       const selectedType = document.getElementById('typeFilter').value;
+      const sort = document.getElementById('sortFilter').value;
 
-      const filtered = allCampuses.filter(c => {
+      const titleEl = document.getElementById('currentViewTitle');
+      const clearBtn = document.getElementById('clearFiltersBtn');
+
+      if (isShowingFavoritesOnly) {
+        titleEl.textContent = `Favori Yerleşkelerim (${favoritesList.length})`;
+        clearBtn.classList.remove('hidden');
+      } else if (selectedCity || search || selectedType) {
+        titleEl.textContent = `Filtrelenen Sonuçlar`;
+        clearBtn.classList.remove('hidden');
+      } else {
+        titleEl.textContent = `Tüm Üniversite ve Yerleşkeler`;
+        clearBtn.classList.add('hidden');
+      }
+
+      let filtered = allCampuses.filter(c => {
+        if (isShowingFavoritesOnly && !favoritesList.includes(c.id)) {
+          return false;
+        }
+
         const textToSearch = [
           c.baslik,
           c.il,
           c.ilce,
           c.ogrenci_notu || '',
-          ...c.artilar,
-          ...c.eksiler,
+          ...(c.artilar || []),
+          ...(c.eksiler || []),
+          ...(c.altin_tavsiyeler || []),
           ...Object.keys(c.metrikler || {})
         ].join(' ').toLowerCase();
 
@@ -258,6 +707,17 @@
 
         return matchesSearch && matchesCity && matchesType;
       });
+
+      // Sorting
+      if (sort === "rating_desc") {
+        filtered.sort((a, b) => (b.puan_sayisal || 4.0) - (a.puan_sayisal || 4.0));
+      } else if (sort === "rating_asc") {
+        filtered.sort((a, b) => (a.puan_sayisal || 4.0) - (b.puan_sayisal || 4.0));
+      } else if (sort === "title_asc") {
+        filtered.sort((a, b) => a.baslik.localeCompare(b.baslik));
+      } else if (sort === "city_asc") {
+        filtered.sort((a, b) => a.il.localeCompare(b.il));
+      }
 
       document.getElementById('resultCount').textContent = filtered.length;
       const grid = document.getElementById('grid');
@@ -272,20 +732,26 @@
 
       grid.innerHTML = filtered.map(c => {
         const isCompared = compareList.includes(c.id);
-        const artilarHtml = c.artilar.slice(0, 2).map(a => 
+        const isFav = favoritesList.includes(c.id);
+        const artilarHtml = (c.artilar || []).slice(0, 2).map(a => 
           `<span class="inline-block bg-emerald-500/10 text-emerald-400 text-[11px] px-2 py-0.5 rounded border border-emerald-500/20 mr-1 mb-1 truncate max-w-full">✓ ${a}</span>`
         ).join('');
 
         return `
-          <div class="bg-slate-900/70 border border-slate-800 hover:border-indigo-500/60 rounded-2xl p-5 flex flex-col justify-between transition hover:-translate-y-0.5 shadow-lg group">
+          <div class="bg-slate-900/70 border border-slate-800 hover:border-indigo-500/60 rounded-2xl p-5 flex flex-col justify-between transition hover:-translate-y-1 shadow-lg hover:shadow-indigo-500/10 group relative">
             <div>
               <div class="flex items-start justify-between gap-2 mb-2.5">
                 <span class="inline-block text-[10px] font-extrabold uppercase px-2.5 py-0.5 rounded-full bg-indigo-500/15 text-indigo-300 border border-indigo-500/20">
                   ${c.plaka} - ${c.il} / ${c.ilce}
                 </span>
-                <span class="text-xs text-amber-400 font-bold whitespace-nowrap">
-                  ${c.ogrenci_dostu_puani || '4.0/5'}
-                </span>
+                <div class="flex items-center space-x-1.5">
+                  <span class="text-xs text-amber-400 font-bold whitespace-nowrap">
+                    ⭐ ${c.puan_sayisal ? c.puan_sayisal + '/5' : (c.ogrenci_dostu_puani || '4.0/5')}
+                  </span>
+                  <button onclick="toggleFavorite('${c.id}', event)" class="p-1 text-slate-400 hover:text-rose-500 transition">
+                    <i class="${isFav ? 'fa-solid text-rose-500' : 'fa-regular'} fa-heart text-sm"></i>
+                  </button>
+                </div>
               </div>
               <h4 onclick="showModal('${c.id}')" class="font-bold text-slate-100 text-base leading-snug mb-2 group-hover:text-indigo-300 transition cursor-pointer">
                 ${c.baslik}
@@ -301,7 +767,7 @@
             </div>
             <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
               <div class="flex items-center space-x-2">
-                <button onclick="toggleCompare('${c.id}')" class="px-2.5 py-1 rounded-lg text-[11px] font-semibold border transition ${isCompared ? 'bg-indigo-600 text-white border-indigo-600' : 'bg-slate-950 hover:bg-slate-800 text-slate-300 border-slate-800'}">
+                <button onclick="toggleCompare('${c.id}')" class="px-2.5 py-1 rounded-lg text-[11px] font-semibold border transition ${isCompared ? 'bg-indigo-600 text-white border-indigo-600 shadow-sm' : 'bg-slate-950 hover:bg-slate-800 text-slate-300 border-slate-800'}">
                   ${isCompared ? '✓ Seçildi' : '+ Kıyasla'}
                 </button>
               </div>
@@ -319,9 +785,12 @@
       const c = allCampuses.find(item => item.id === id);
       if (!c) return;
 
+      currentModalCampusId = id;
+      updateModalFavButton(id);
+
       document.getElementById('modalPlate').textContent = `${c.plaka} - ${c.il} / ${c.ilce}`;
       document.getElementById('modalType').textContent = c.universite_turu || 'Devlet';
-      document.getElementById('modalRating').textContent = c.ogrenci_dostu_puani || '4.0/5';
+      document.getElementById('modalRating').textContent = `⭐ ${c.puan_sayisal ? c.puan_sayisal + '/5' : (c.ogrenci_dostu_puani || '4.0/5')}`;
       document.getElementById('modalTitle').textContent = c.baslik;
 
       if (c.ogrenci_notu) {
@@ -331,44 +800,87 @@
         document.getElementById('modalAdviceBox').classList.add('hidden');
       }
 
-      // Metrics
+      // Metrics Table
       const tbody = document.getElementById('modalMetricsTable');
       tbody.innerHTML = '';
       if (c.metrikler && Object.keys(c.metrikler).length > 0) {
         for (const [k, v] of Object.entries(c.metrikler)) {
           const row = document.createElement('tr');
           row.innerHTML = `
-            <td class="py-2 px-3 font-semibold text-slate-300 w-1/3 capitalize">${k}</td>
-            <td class="py-2 px-3 text-amber-300 w-1/4">${v.degerlendirme || '-'}</td>
-            <td class="py-2 px-3 text-slate-400">${v.detay || '-'}</td>
+            <td class="py-2.5 px-3 font-semibold text-slate-300 w-1/3 capitalize">${k}</td>
+            <td class="py-2.5 px-3 text-amber-300 w-1/4">${v.degerlendirme || '-'}</td>
+            <td class="py-2.5 px-3 text-slate-400">${v.detay || '-'}</td>
           `;
           tbody.appendChild(row);
         }
       } else {
-        tbody.innerHTML = `<tr><td colspan="3" class="py-2 px-3 text-slate-500">Metrik tablosu rehber dosyasında mevcuttur.</td></tr>`;
+        tbody.innerHTML = `<tr><td colspan="3" class="py-2.5 px-3 text-slate-500">Metrik tablosu rehber dosyasında mevcuttur.</td></tr>`;
       }
 
       // Pros & Cons
       const prosList = document.getElementById('modalPros');
-      prosList.innerHTML = c.artilar.length > 0 
+      prosList.innerHTML = (c.artilar && c.artilar.length > 0) 
         ? c.artilar.map(p => `<li>${p}</li>`).join('') 
         : '<li class="text-slate-500">Belirtilmedi</li>';
 
       const consList = document.getElementById('modalCons');
-      consList.innerHTML = c.eksiler.length > 0 
+      consList.innerHTML = (c.eksiler && c.eksiler.length > 0) 
         ? c.eksiler.map(p => `<li>${p}</li>`).join('') 
         : '<li class="text-slate-500">Belirtilmedi</li>';
+
+      // Gold Tips
+      const tipsBox = document.getElementById('modalTipsBox');
+      const tipsList = document.getElementById('modalTipsList');
+      if (c.altin_tavsiyeler && c.altin_tavsiyeler.length > 0) {
+        tipsBox.classList.remove('hidden');
+        tipsList.innerHTML = c.altin_tavsiyeler.map(t => `<li>${t}</li>`).join('');
+      } else {
+        tipsBox.classList.add('hidden');
+      }
+
+      // Detail Tabs Content
+      const summaries = c.bolum_ozetleri || {};
+      document.getElementById('ulasimText').textContent = summaries.ulasim || 'Ulaşım rotaları ve ring seferleri rehber dosyasında detaylandırılmıştır.';
+      document.getElementById('barinmaText').textContent = summaries.barinma || 'KYK yurtları ve ev kiralama taktikleri rehber dosyasında detaylandırılmıştır.';
+      document.getElementById('beslenmeText').textContent = summaries.beslenme || 'Yemekhane fiyatları ve çevre lezzetleri rehber dosyasında detaylandırılmıştır.';
+      document.getElementById('akademikText').textContent = summaries.akademik || 'Akademik iklim, çan eğrisi ve kütüphane rehber dosyasında detaylandırılmıştır.';
 
       // GitHub link
       document.getElementById('modalGithubLink').href = GITHUB_REPO_URL + c.dosya_yolu;
 
+      switchModalTab('tab-summary');
       document.getElementById('detailModal').classList.remove('hidden');
+    }
+
+    function switchModalTab(tabId) {
+      const tabs = ['tab-summary', 'tab-ulasim', 'tab-barinma', 'tab-beslenme', 'tab-akademik'];
+      tabs.forEach(t => {
+        const btn = document.getElementById(`tabBtn-${t.replace('tab-', '')}`);
+        const content = document.getElementById(`tabContent-${t.replace('tab-', '')}`);
+        if (t === tabId) {
+          btn.className = 'py-2.5 px-3 font-semibold text-indigo-400 border-b-2 border-indigo-500';
+          content.classList.remove('hidden');
+        } else {
+          btn.className = 'py-2.5 px-3 font-semibold text-slate-400 hover:text-slate-200 border-b-2 border-transparent';
+          content.classList.add('hidden');
+        }
+      });
     }
 
     function closeModal() {
       document.getElementById('detailModal').classList.add('hidden');
+      currentModalCampusId = null;
     }
 
+    function copyCampusLink() {
+      if (!currentModalCampusId) return;
+      const shareUrl = `${window.location.origin}${window.location.pathname}?kampus=${encodeURIComponent(currentModalCampusId)}`;
+      navigator.clipboard.writeText(shareUrl).then(() => {
+        alert('Kampüs bağlantısı panoya kopyalandı:\n' + shareUrl);
+      });
+    }
+
+    // Comparison Logic
     function toggleCompare(id) {
       if (compareList.includes(id)) {
         compareList = compareList.filter(x => x !== id);
@@ -397,6 +909,7 @@
     function clearCompare() {
       compareList = [];
       updateCompareBar();
+      closeCompareModal();
       render();
     }
 
@@ -409,29 +922,208 @@
       const c2 = allCampuses.find(x => x.id === compareList[1]);
       if (!c1 || !c2) return;
 
-      const msg = `
-⚖️ KARŞILAŞTIRMA ÖZETİ:
----------------------------------------------
-1. ${c1.baslik} (${c1.il})
-   • Puan: ${c1.ogrenci_dostu_puani}
-   • Tür: ${c1.universite_turu}
-
-2. ${c2.baslik} (${c2.il})
-   • Puan: ${c2.ogrenci_dostu_puani}
-   • Tür: ${c2.universite_turu}
----------------------------------------------
-Detaylı analiz için terminalden:
-python -m kampus_rehberi.cli compare "${c1.id}" "${c2.id}"
+      // Fill Cards
+      document.getElementById('compareCards').innerHTML = `
+        <div class="bg-indigo-950/30 border border-indigo-800/40 p-4 rounded-xl">
+          <span class="text-[10px] uppercase font-bold text-indigo-400">${c1.plaka} - ${c1.il} / ${c1.ilce}</span>
+          <h4 class="font-bold text-sm text-slate-100 mt-1">${c1.baslik}</h4>
+          <div class="flex items-center gap-2 mt-2">
+            <span class="text-xs text-amber-400 font-bold">⭐ ${c1.puan_sayisal ? c1.puan_sayisal + '/5' : c1.ogrenci_dostu_puani}</span>
+            <span class="text-[11px] text-slate-400">• ${c1.universite_turu}</span>
+          </div>
+        </div>
+        <div class="bg-sky-950/30 border border-sky-800/40 p-4 rounded-xl">
+          <span class="text-[10px] uppercase font-bold text-sky-400">${c2.plaka} - ${c2.il} / ${c2.ilce}</span>
+          <h4 class="font-bold text-sm text-slate-100 mt-1">${c2.baslik}</h4>
+          <div class="flex items-center gap-2 mt-2">
+            <span class="text-xs text-amber-400 font-bold">⭐ ${c2.puan_sayisal ? c2.puan_sayisal + '/5' : c2.ogrenci_dostu_puani}</span>
+            <span class="text-[11px] text-slate-400">• ${c2.universite_turu}</span>
+          </div>
+        </div>
       `;
-      alert(msg);
+
+      document.getElementById('cmpHeader1').textContent = c1.baslik;
+      document.getElementById('cmpHeader2').textContent = c2.baslik;
+
+      // Common metric keys
+      const m1 = c1.metrikler || {};
+      const m2 = c2.metrikler || {};
+      const allMetricKeys = Array.from(new Set([...Object.keys(m1), ...Object.keys(m2)]));
+
+      const tbody = document.getElementById('compareMetricsTbody');
+      tbody.innerHTML = allMetricKeys.map(k => {
+        const val1 = m1[k] ? `${m1[k].degerlendirme || ''} <span class="text-slate-500 block text-[10px]">${m1[k].detay || ''}</span>` : '-';
+        const val2 = m2[k] ? `${m2[k].degerlendirme || ''} <span class="text-slate-500 block text-[10px]">${m2[k].detay || ''}</span>` : '-';
+        return `
+          <tr>
+            <td class="p-3 font-semibold text-slate-300 capitalize">${k}</td>
+            <td class="p-3 text-slate-300">${val1}</td>
+            <td class="p-3 text-slate-300">${val2}</td>
+          </tr>
+        `;
+      }).join('');
+
+      document.getElementById('cmpProsTitle1').textContent = `${c1.baslik.substring(0, 30)}... Artıları`;
+      document.getElementById('cmpProsTitle2').textContent = `${c2.baslik.substring(0, 30)}... Artıları`;
+
+      document.getElementById('cmpProsList1').innerHTML = (c1.artilar || []).map(p => `<li>${p}</li>`).join('') || '<li>Belirtilmedi</li>';
+      document.getElementById('cmpProsList2').innerHTML = (c2.artilar || []).map(p => `<li>${p}</li>`).join('') || '<li>Belirtilmedi</li>';
+
+      document.getElementById('compareModal').classList.remove('hidden');
     }
 
+    function closeCompareModal() {
+      document.getElementById('compareModal').classList.add('hidden');
+    }
+
+    // AI Advisor
+    function openAdvisorModal() {
+      document.getElementById('advisorModal').classList.remove('hidden');
+    }
+
+    function closeAdvisorModal() {
+      document.getElementById('advisorModal').classList.add('hidden');
+    }
+
+    function setAdvisorPrompt(text) {
+      document.getElementById('advisorQuestionInput').value = text;
+      runAdvisor();
+    }
+
+    function runAdvisor() {
+      const q = document.getElementById('advisorQuestionInput').value.toLowerCase().trim();
+      if (!q) return;
+
+      const scored = [];
+      const weights = {
+        "metro": 5, "metrobüs": 5, "tramvay": 4, "deniz": 5, "sahil": 5,
+        "göl": 4, "doğa": 4, "yeşil": 3, "orman": 4, "kyk": 5, "yurt": 4,
+        "ucuz": 4, "uygun": 3, "kira": 3, "kütüphane": 4, "7/24": 5,
+        "mühendislik": 5, "tıp": 5, "hukuk": 5, "teknik": 4, "teknofest": 4
+      };
+
+      allCampuses.forEach(c => {
+        let score = 0;
+        const reasons = [];
+
+        // City match
+        if (q.includes(c.il.toLowerCase())) {
+          score += 15;
+          reasons.push(`İl: ${c.il}`);
+        }
+
+        const textBlob = [
+          c.baslik, c.il, c.ilce, c.universite_turu,
+          ...(c.artilar || []), ...(c.eksiler || []), ...(c.altin_tavsiyeler || []),
+          c.ogrenci_notu || '',
+          ...Object.entries(c.metrikler || {}).map(([k, v]) => `${k} ${v.degerlendirme} ${v.detay}`)
+        ].join(' ').toLowerCase();
+
+        for (const [kw, w] of Object.entries(weights)) {
+          if (q.includes(kw) && textBlob.includes(kw)) {
+            score += w;
+            reasons.push(kw.toUpperCase());
+          }
+        }
+
+        score += ((c.puan_sayisal || 4.0) - 3.0) * 2.5;
+
+        if (score > 0) {
+          scored.push({ campus: c, score, reasons: Array.from(new Set(reasons)) });
+        }
+      });
+
+      scored.sort((a, b) => b.score - a.score);
+      const top5 = scored.slice(0, 5);
+      const container = document.getElementById('advisorResultsContainer');
+
+      if (top5.length === 0) {
+        container.innerHTML = `<div class="text-center py-6 text-slate-400">Eşleşen sonuç bulunamadı. Lütfen kriterlerinizi değiştirin.</div>`;
+        return;
+      }
+
+      const maxScore = top5[0].score || 1;
+      container.innerHTML = top5.map((item, idx) => {
+        const c = item.campus;
+        const matchPct = Math.min(100, Math.round((item.score / maxScore) * 100));
+        return `
+          <div class="bg-slate-950/70 border border-slate-800 rounded-xl p-4 hover:border-indigo-500/60 transition">
+            <div class="flex items-start justify-between gap-2 mb-1.5">
+              <div>
+                <span class="text-[10px] font-bold uppercase text-indigo-400">${c.plaka} - ${c.il} / ${c.ilce} • ${c.universite_turu}</span>
+                <h4 class="font-bold text-sm text-slate-100 hover:text-indigo-300 cursor-pointer" onclick="closeAdvisorModal(); showModal('${c.id}')">${idx + 1}. ${c.baslik}</h4>
+              </div>
+              <div class="text-right">
+                <span class="bg-gradient-to-r from-emerald-500/20 to-teal-500/20 text-emerald-400 border border-emerald-500/30 px-2 py-0.5 rounded-full text-[11px] font-bold">%${matchPct} Uyum</span>
+              </div>
+            </div>
+            ${c.ogrenci_notu ? `<p class="text-xs text-slate-400 italic mb-2">"${c.ogrenci_notu.substring(0, 130)}..."</p>` : ''}
+            <div class="flex items-center justify-between mt-2 pt-2 border-t border-slate-900 text-[11px]">
+              <div class="flex flex-wrap gap-1">
+                ${item.reasons.map(r => `<span class="bg-slate-900 text-slate-300 px-1.5 py-0.2 rounded border border-slate-800">🎯 ${r}</span>`).join('')}
+              </div>
+              <button onclick="closeAdvisorModal(); showModal('${c.id}')" class="text-indigo-400 hover:text-indigo-300 font-semibold ml-2 whitespace-nowrap">
+                İncele →
+              </button>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    // Export current view (JSON/CSV)
+    function exportCurrentView(fmt) {
+      const search = document.getElementById('searchInput').value.toLowerCase().trim();
+      const selectedCity = document.getElementById('cityFilter').value;
+      const selectedType = document.getElementById('typeFilter').value;
+
+      const filtered = allCampuses.filter(c => {
+        if (isShowingFavoritesOnly && !favoritesList.includes(c.id)) return false;
+        const textToSearch = [c.baslik, c.il, c.ilce, c.ogrenci_notu || '', ...(c.artilar || [])].join(' ').toLowerCase();
+        return (!search || textToSearch.includes(search)) &&
+               (!selectedCity || c.il === selectedCity) &&
+               (!selectedType || (c.universite_turu && c.universite_turu.includes(selectedType)));
+      });
+
+      let content = "";
+      let filename = `kampusler_${new Date().toISOString().slice(0, 10)}`;
+      let mimeType = "text/plain";
+
+      if (fmt === "json") {
+        content = JSON.stringify(filtered, null, 2);
+        filename += ".json";
+        mimeType = "application/json";
+      } else {
+        const rows = [["Plaka", "İl", "İlçe", "Kampüs", "Tür", "Puan", "Dosya"]];
+        filtered.forEach(c => rows.push([c.plaka, c.il, c.ilce, `"${c.baslik.replace(/"/g, '""')}"`, c.universite_turu, c.puan_sayisal || 4.0, c.dosya_yolu]));
+        content = "\uFEFF" + rows.map(r => r.join(",")).join("\n");
+        filename += ".csv";
+        mimeType = "text/csv;charset=utf-8";
+      }
+
+      const blob = new Blob([content], { type: mimeType });
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = filename;
+      link.click();
+    }
+
+    // Event listeners
     document.getElementById('searchInput').addEventListener('input', render);
     document.getElementById('cityFilter').addEventListener('change', render);
     document.getElementById('typeFilter').addEventListener('change', render);
+    document.getElementById('sortFilter').addEventListener('change', render);
 
     window.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') closeModal();
+      if (e.key === 'Escape') {
+        closeModal();
+        closeCompareModal();
+        closeAdvisorModal();
+      }
+      if (e.key === '/' && document.activeElement.tagName !== 'INPUT' && document.activeElement.tagName !== 'TEXTAREA') {
+        e.preventDefault();
+        document.getElementById('searchInput').focus();
+      }
     });
 
     init();

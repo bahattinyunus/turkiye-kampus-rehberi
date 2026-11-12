@@ -107,17 +107,19 @@ turkiye-kampus-rehberi/
 
 ---
 
-## 🌐 Canlı Web Uygulaması
+## 🌐 Canlı Web Portalı (v2.0 Pro)
 
 Rehberin web sürümü **GitHub Pages** üzerinde canlı olarak yayınlanmaktadır:
 
-👉 **[Web Uygulamasını Aç (bahattinyunus.github.io/turkiye-kampus-rehberi)](https://bahattinyunus.github.io/turkiye-kampus-rehberi/)**
+👉 **[Web Portalı Aç (bahattinyunus.github.io/turkiye-kampus-rehberi)](https://bahattinyunus.github.io/turkiye-kampus-rehberi/)**
 
-* 🔍 **Anlık Arama:** Üniversite, kampüs adı, fakülte veya anahtar kelimeye göre milisaniyelik filtreleme.
-* 📍 **İl ve Tür Filtresi:** 81 il veya Devlet/Vakıf ayrımıyla filtreleme.
-* 🏷️ **Hızlı Etiketler:** "Metrolu", "Deniz Kıyısı", "7/24 Kütüphane", "Tıp & Sağlık", "Mühendislik".
-* 📊 **Detay Modalı:** Sayfadan ayrılmadan tüm metrikleri, artıları, eksileri ve öğrenci notunu inceleme.
-* ⚖️ **Kampüs Kıyaslama:** İki yerleşkeyi seçip yan yana avantajlarını kıyaslama.
+* 🗺️ **81 İl & 7 Coğrafi Bölge Harita Seçicisi:** Marmara, Ege, İç Anadolu ve tüm bölgeleri tek tıkla filtreleyip keşfetme.
+* ⚖️ **Çift Kampüs Yan Yana Kıyaslama:** İki yerleşkeyi seçip tüm metriklerini, puanlarını, yurt/ulaşım farklarını yan yana tablolarda kıyaslama.
+* 🤖 **Akıllı Tercih Danışmanı Modalı:** Doğal dilde tercih sorusu sorarak anlık % uyum puanı ve eşleşme nedenlerini görme.
+* ❤️ **Favoriler Sistemi (Bookmarks):** Beğendiğiniz kampüsleri yerel hafızaya kaydedip sadece favorilerinizi görüntüleme ve tek tıkla indirme.
+* 🎲 **Rastgele Kampüs Keşfi:** Kararsız kalanlar için tek tıkla şansına kampüs önerme motoru.
+* 📥 **JSON & CSV Dışa Aktarma:** Seçili veya filtrelenmiş kampüs listesini anında Excel/CSV veya JSON formatında indirme.
+* 🔗 **Doğrudan Paylaşım Linki (Deep-linking):** Belirli bir kampüsü veya şehri URL parametreleriyle (`?kampus=...`) doğrudan paylaşabilme.
 
 <p align="center">
   <img src="./assets/campus-life.jpg" alt="3D Kampüs Yaşamı ve Ulaşım Ekosistemi" width="100%" style="border-radius: 14px;" />
@@ -125,37 +127,74 @@ Rehberin web sürümü **GitHub Pages** üzerinde canlı olarak yayınlanmaktad�
 
 ---
 
-## 🐍 Python SDK & Kütüphane Kullanımı
+## 🐍 Python SDK & Kütüphane Kullanımı (v2.0)
 
 Projeyi doğrudan kendi Python betiklerinize veya Ed-Tech yazılımlarınıza dahil edebilirsiniz:
 
 ```bash
-# Repoyu kurun
-pip install .
+# Repoyu kurun (veya geliştirici modunda)
+pip install -e .
 ```
 
 ```python
-from kampus_rehberi import KampusRehberi, TercihDanismani
+from kampus_rehberi import KampusRehberi, TercihDanismani, run_api_server
 
 rehber = KampusRehberi()
 
-# 1. Kampüs sorgulama
+# 1. Kampüs sorgulama & özet kart
 odtu = rehber.get_by_id("06-Ankara/Cankaya/ODTU-Merkez-Kampusu")
-print(f"Kampüs: {odtu.title} | Puan: {odtu.rating}")
-print(f"Öğrenci Tavsiyesi: {odtu.student_note}")
+print(f"Kampüs: {odtu.title} | Puan: {odtu.rating_num}/5.0")
+print(odtu.to_markdown())
 
-# 2. Şehir bazlı arama (Örn: İzmir yerleşkeleri)
-izmir_kampusleri = rehber.search(city="35")
+# 2. Şehir bazlı arama ve puana göre sıralama
+izmir_kampusleri = rehber.search(city="35", min_rating=4.2, sort_by="rating_desc")
 for k in izmir_kampusleri:
-    print(f"- {k.title} ({k.district})")
+    print(f"- {k.title} ({k.district}) -> {k.rating_num}/5.0")
 
-# 3. İki kampüsü kıyaslama
+# 3. Zirvedeki kampüsleri listeleme & Rastgele seçim
+top10 = rehber.get_top_rated(n=10)
+sans_kampusu = rehber.get_random()
+
+# 4. İki kampüsü kıyaslama
 karsilastirma = rehber.compare(
     "06-Ankara/Cankaya/ODTU-Merkez-Kampusu",
     "34-Istanbul/Sariyer/ITU-Ayazaga-ve-Macka-Taskisla-Kampusleri"
 )
-print(karsilastirma["karsilastirma"])
+
+# 5. CSV veya Markdown olarak dışa aktarma
+rehber.export(format="csv", output_path="kampusler.csv")
+
+# 6. Akıllı Tercih Danışmanı
+danisman = TercihDanismani(rehber)
+oneriler = danisman.danis("Deniz kıyısında, metroya yakın mühendislik fakülteleri", top_k=3)
+for o in oneriler:
+    print(f"{o['kampus']} -> Uyum: {o['uyum_yuzdesi']} | Nedenler: {o['eslesen_kriterler']}")
 ```
+
+---
+
+## 📡 Dahili REST API Sunucusu
+
+Proje, harici bir framework (Flask/FastAPI) kurma zorunluluğu olmadan, standart Python ortamında çalışan yüksek performanslı ve CORS destekli bir REST API içerir:
+
+```bash
+# REST API ve Web Portalını Başlat
+kampus-rehberi serve --port 8000
+# veya
+python scripts/cli.py serve --port 8000
+```
+
+### 🔗 API Uç Noktaları (Endpoints):
+
+| Uç Nokta (Endpoint) | Açıklama ve Parametreler |
+| :--- | :--- |
+| `GET /api/stats` | Toplam kampüs sayısı, il sayısı ve tür dağılımları |
+| `GET /api/cities` | 81 ilin kampüs sayılarıyla birlikte tam listesi |
+| `GET /api/campuses` | Filtreli liste (`?city=Ankara&type=Devlet&min_rating=4.5&sort_by=rating_desc`) |
+| `GET /api/campuses/{id}` | Tek bir kampüsün tüm metrikleri, artıları, eksileri ve özetleri |
+| `GET /api/advisor?q=...` | Doğal dil soru analizi ve % uyum skorlarıyla öneri listesi |
+| `GET /api/compare?c1=...&c2=...` | İki kampüsün yan yana metrik ve avantaj kıyaslaması |
+| `GET /api/random` | Rastgele 1 veya N adet kampüs (`?count=3`) |
 
 ---
 
@@ -168,27 +207,39 @@ print(karsilastirma["karsilastirma"])
 Terminal üzerinden doğal dilde tercih soruları sorabilir ve yerleşkeleri kıyaslayabilirsiniz:
 
 ```bash
-# 🎯 Doğal dilde soru sorarak en uygun kampüsleri bul
-python scripts/cli.py ask "Deniz kenarında olan mühendislik kampüsleri"
-python scripts/cli.py ask "Ankara'da KYK yurdu kampüs içinde olan üniversiteler"
+# 🎯 Doğal dilde soru sorarak en uygun kampüsleri puanla
+kampus-rehberi ask "Deniz kenarında olan mühendislik kampüsleri"
+kampus-rehberi ask "Ankara'da KYK yurdu kampüs içinde olan üniversiteler"
+
+# 🧙 İnteraktif Tercih Sihirbazı (Adım Adım Soru-Cevap)
+kampus-rehberi wizard
+
+# 🏆 En yüksek puanlı 10 kampüsü listele (İsteğe bağlı il filtresi)
+kampus-rehberi top -n 10
+kampus-rehberi top -n 5 --city "34"
+
+# 🎲 Rastgele bir kampüs kartı keşfet
+kampus-rehberi random
 
 # ⚖️ İki kampüsü terminalde yan yana kıyasla
-python scripts/cli.py compare "06-Ankara/Cankaya/ODTU-Merkez-Kampusu" "34-Istanbul/Sariyer/ITU-Ayazaga-ve-Macka-Taskisla-Kampusleri"
+kampus-rehberi compare "06-Ankara/Cankaya/ODTU-Merkez-Kampusu" "34-Istanbul/Sariyer/ITU-Ayazaga-ve-Macka-Taskisla-Kampusleri"
+
+# 📥 Verileri dışa aktar (JSON, CSV veya Markdown)
+kampus-rehberi export --format csv -o liste.csv
+kampus-rehberi export --format md -o liste.md
 
 # 📊 Depo istatistiklerini görüntüle
-python scripts/cli.py stats
+kampus-rehberi stats
 
-# 🔍 Kampüs ve kelime ara
-python scripts/cli.py search "metro"
+# 🔍 Filtreli arama ve sıralama
+kampus-rehberi search "metro" --city "06" --sort rating_desc
 
-# 📍 Şehir bazlı listele
-python scripts/cli.py city 06
+# 🚀 Web portalı ve REST API'yi yerelde aç
+kampus-rehberi serve --port 8000
 
-# 🚀 Web arayüzünü yerel sunucuda başlat
-python scripts/cli.py serve --port 8000
-
-# 🛡️ Tüm bağlantıların ve Markdown dosyalarının bütünlüğünü test et
+# 🛡️ Kalite ve Format Kontrolleri (Linter & Bağlantı Doğrulayıcı)
 python scripts/cli.py validate
+python scripts/validate_campuses.py
 ```
 
 ---
