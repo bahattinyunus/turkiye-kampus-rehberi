@@ -113,13 +113,14 @@ Rehberin web sürümü **GitHub Pages** üzerinde canlı olarak yayınlanmaktad�
 
 👉 **[Web Portalı Aç (bahattinyunus.github.io/turkiye-kampus-rehberi)](https://bahattinyunus.github.io/turkiye-kampus-rehberi/)**
 
-* 🗺️ **81 İl & 7 Coğrafi Bölge Harita Seçicisi:** Marmara, Ege, İç Anadolu ve tüm bölgeleri tek tıkla filtreleyip keşfetme.
+* 🗺️ **Leaflet.js Tabanlı İnteraktif Türkiye Haritası:** 81 ilin tüm işaretçileriyle harita üzerinden görsel kampüs keşfi.
+* 💰 **Öğrenci Yaşam Maliyeti & Bütçe Hesaplayıcı:** Barınma türü, yemekhane ve yaşam tarzına göre kalem kalem aylık tahmini masraf simülasyonu.
+* 🎓 **YKS 2026 Tercih Sepeti Robotu:** 24 tercihe kadar kişisel liste oluşturma, sıralama ve Markdown olarak indirme.
 * ⚖️ **Çift Kampüs Yan Yana Kıyaslama:** İki yerleşkeyi seçip tüm metriklerini, puanlarını, yurt/ulaşım farklarını yan yana tablolarda kıyaslama.
 * 🤖 **Akıllı Tercih Danışmanı Modalı:** Doğal dilde tercih sorusu sorarak anlık % uyum puanı ve eşleşme nedenlerini görme.
 * ❤️ **Favoriler Sistemi (Bookmarks):** Beğendiğiniz kampüsleri yerel hafızaya kaydedip sadece favorilerinizi görüntüleme ve tek tıkla indirme.
 * 🎲 **Rastgele Kampüs Keşfi:** Kararsız kalanlar için tek tıkla şansına kampüs önerme motoru.
 * 📥 **JSON & CSV Dışa Aktarma:** Seçili veya filtrelenmiş kampüs listesini anında Excel/CSV veya JSON formatında indirme.
-* 🔗 **Doğrudan Paylaşım Linki (Deep-linking):** Belirli bir kampüsü veya şehri URL parametreleriyle (`?kampus=...`) doğrudan paylaşabilme.
 
 <p align="center">
   <img src="./assets/campus-life.jpg" alt="3D Kampüs Yaşamı ve Ulaşım Ekosistemi" width="100%" style="border-radius: 14px;" />

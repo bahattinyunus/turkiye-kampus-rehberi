@@ -13,6 +13,8 @@ if hasattr(sys.stdout, 'reconfigure'):
 
 from .core import KampusRehberi
 from .advisor import TercihDanismani
+from .budget import CostCalculator
+from .yks import TercihListesi
 from .api import run_api_server
 
 def print_banner():
@@ -145,6 +147,32 @@ def cmd_ask(rehber, args):
             print(f"   💬 Tavsiye : \"{r['ogrenci_notu']}\"")
     print("\n" + "=" * 70)
 
+def cmd_budget(rehber, args):
+    calc = CostCalculator(rehber)
+    res = calc.calculate_monthly(
+        args.city,
+        housing_type=args.housing or "kyk",
+        meals_on_campus=args.meals if args.meals is not None else 1,
+        lifestyle=args.lifestyle or "moderate"
+    )
+    print("\n" + "=" * 70)
+    print(f"💰 {res['sehir'].upper()} ÖĞRENCİ AYLIK YAŞAM MALİYETİ RAPORU")
+    print("=" * 70)
+    print(f"Barınma Modeli : {res['barinma_turu'].upper()}")
+    print(f"Yaşam Tarzı    : {res['yasam_tarzi'].capitalize()}")
+    print("-" * 70)
+    print("Gider Kalemleri (Aylık):")
+    k = res['kalemler']
+    print(f"  • Kira / Yurt Bedeli        : {k['barinma_kira']:>6,d} TL".replace(',', '.'))
+    print(f"  • Faturalar & Aidat         : {k['faturalar_aidat']:>6,d} TL".replace(',', '.'))
+    print(f"  • Yemekhane & Gıda          : {k['yemekhane_ve_gida']:>6,d} TL".replace(',', '.'))
+    print(f"  • Ulaşım (Öğrenci Abonman)  : {k['ulasim_abonman']:>6,d} TL".replace(',', '.'))
+    print(f"  • Sosyal & Kişisel Giderler : {k['sosyal_ve_kisisel']:>6,d} TL".replace(',', '.'))
+    print("-" * 70)
+    print(f"💵 TAHMİNİ TOPLAM AYLIK : {res['tahmini_aylik_toplam_tl']:,d} TL / Ay".replace(',', '.'))
+    print(f"\n💡 Not: {res['ogrenci_butce_yorumu']}")
+    print("=" * 70)
+
 def cmd_wizard(rehber, args):
     """Terminalde interaktif tercih danışmanlığı sihirbazı."""
     print_banner()
@@ -200,7 +228,6 @@ def cmd_validate():
     print("🔍 Depo bütünlüğü, dosya yapısı ve bağlantıları doğrulanıyor...")
     broken = 0
     checked_files = 0
-    missing_sections = 0
     root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     
     for r, dirs, files in os.walk(root):
@@ -214,7 +241,6 @@ def cmd_validate():
             with open(fpath, 'r', encoding='utf-8') as f:
                 content = f.read()
 
-            # Link validation
             import re
             for m in re.finditer(r'\]\(([^)\s]+)\)', content):
                 link = m.group(1)
@@ -280,6 +306,12 @@ def main():
     ask_p.add_argument("question", help="Sorunuz (örn: 'Deniz kıyısında olan mühendislikler')")
     ask_p.add_argument("--top-k", type=int, default=5, help="Döndürülecek sonuç sayısı")
 
+    budget_p = subparsers.add_parser("budget", help="Bir ildeki tahmini öğrenci yaşam maliyetini hesapla")
+    budget_p.add_argument("city", help="Şehir adı veya plaka (örn: 'Eskisehir' veya '06')")
+    budget_p.add_argument("--housing", choices=["kyk", "shared_flat", "studio", "private_dorm"], default="kyk", help="Barınma tipi")
+    budget_p.add_argument("--meals", type=int, default=1, help="Günde kampüste yenilen öğün sayısı")
+    budget_p.add_argument("--lifestyle", choices=["budget", "moderate", "comfortable"], default="moderate", help="Yaşam tarzı")
+
     subparsers.add_parser("wizard", help="İnteraktif adım adım tercih sihirbazı")
 
     export_p = subparsers.add_parser("export", help="Kampüs verilerini dışa aktar")
@@ -322,6 +354,8 @@ def main():
         cmd_compare(rehber, args)
     elif args.subcommand == "ask":
         cmd_ask(rehber, args)
+    elif args.subcommand == "budget":
+        cmd_budget(rehber, args)
     elif args.subcommand == "wizard":
         cmd_wizard(rehber, args)
     elif args.subcommand == "export":

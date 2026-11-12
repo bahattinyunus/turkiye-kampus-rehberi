@@ -10,10 +10,13 @@ from http.server import SimpleHTTPRequestHandler, HTTPServer
 from typing import Optional
 from .core import KampusRehberi
 from .advisor import TercihDanismani
+from .budget import CostCalculator
+from .geo_data import PROVINCE_COORDINATES, get_province_geo
 
 class KampusAPIHandler(SimpleHTTPRequestHandler):
     rehber: Optional[KampusRehberi] = None
     advisor: Optional[TercihDanismani] = None
+    budget_calc: Optional[CostCalculator] = None
 
     def _send_cors_headers(self):
         self.send_header("Access-Control-Allow-Origin", "*")
@@ -43,6 +46,8 @@ class KampusAPIHandler(SimpleHTTPRequestHandler):
             self.rehber = KampusRehberi()
         if self.advisor is None:
             self.advisor = TercihDanismani(self.rehber)
+        if self.budget_calc is None:
+            self.budget_calc = CostCalculator(self.rehber)
 
         # /api/stats
         if path == "/api/stats":
@@ -52,6 +57,21 @@ class KampusAPIHandler(SimpleHTTPRequestHandler):
         # /api/cities
         if path == "/api/cities":
             self._send_json_response(self.rehber.get_cities())
+            return
+
+        # /api/coords
+        if path == "/api/coords":
+            self._send_json_response(PROVINCE_COORDINATES)
+            return
+
+        # /api/budget
+        if path == "/api/budget":
+            city = qs.get("city", ["Ankara"])[0]
+            housing = qs.get("housing", ["kyk"])[0]
+            meals = int(qs.get("meals", [1])[0])
+            lifestyle = qs.get("lifestyle", ["moderate"])[0]
+            res = self.budget_calc.calculate_monthly(city, housing_type=housing, meals_on_campus=meals, lifestyle=lifestyle)
+            self._send_json_response(res)
             return
 
         # /api/random
@@ -135,6 +155,7 @@ def run_api_server(port: int = 8000, rehber: Optional[KampusRehberi] = None):
     if rehber:
         KampusAPIHandler.rehber = rehber
         KampusAPIHandler.advisor = TercihDanismani(rehber)
+        KampusAPIHandler.budget_calc = CostCalculator(rehber)
 
     server_address = ("", port)
     httpd = HTTPServer(server_address, KampusAPIHandler)
@@ -142,9 +163,10 @@ def run_api_server(port: int = 8000, rehber: Optional[KampusRehberi] = None):
     print(f"📡 API Endpoints:")
     print(f"   • http://localhost:{port}/api/stats")
     print(f"   • http://localhost:{port}/api/cities")
+    print(f"   • http://localhost:{port}/api/coords")
+    print(f"   • http://localhost:{port}/api/budget?city=Eskisehir&housing=kyk")
     print(f"   • http://localhost:{port}/api/campuses?city=Ankara&min_rating=4.5")
     print(f"   • http://localhost:{port}/api/advisor?q=Deniz+ve+t%C4%B1p")
-    print(f"   • http://localhost:{port}/api/random")
     print(f"   • http://localhost:{port}/web/index.html (Web Portalı)\n")
     try:
         httpd.serve_forever()

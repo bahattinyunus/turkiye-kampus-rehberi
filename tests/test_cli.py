@@ -2,10 +2,9 @@
 import unittest
 import io
 from contextlib import redirect_stdout
-from unittest.mock import patch
 from kampus_rehberi.core import KampusRehberi
 from kampus_rehberi.cli import (
-    cmd_stats, cmd_search, cmd_city, cmd_top, cmd_random, cmd_compare, cmd_ask, cmd_export
+    cmd_stats, cmd_search, cmd_city, cmd_top, cmd_random, cmd_compare, cmd_ask, cmd_budget
 )
 
 class DummyArgs:
@@ -69,6 +68,14 @@ class TestCLI(unittest.TestCase):
             cmd_ask(self.rehber, DummyArgs(question="Metro ve doğa", top_k=2))
         output = buf.getvalue()
         self.assertIn("AKILLI TERCİH DANIŞMANI", output)
+
+    def test_cmd_budget(self):
+        buf = io.StringIO()
+        with redirect_stdout(buf):
+            cmd_budget(self.rehber, DummyArgs(city="Ankara", housing="kyk", meals=1, lifestyle="moderate"))
+        output = buf.getvalue()
+        self.assertIn("YAŞAM MALİYETİ RAPORU", output)
+        self.assertIn("TAHMİNİ TOPLAM AYLIK", output)
 
 if __name__ == '__main__':
     unittest.main()

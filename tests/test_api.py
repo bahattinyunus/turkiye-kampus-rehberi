@@ -43,6 +43,22 @@ class TestAPI(unittest.TestCase):
             data = json.loads(resp.read().decode('utf-8'))
             self.assertEqual(len(data), 81)
 
+    def test_api_coords(self):
+        url = f"http://127.0.0.1:{self.port}/api/coords"
+        with urllib.request.urlopen(url) as resp:
+            self.assertEqual(resp.status, 200)
+            data = json.loads(resp.read().decode('utf-8'))
+            self.assertEqual(len(data), 81)
+            self.assertIn("06", data)
+
+    def test_api_budget(self):
+        url = f"http://127.0.0.1:{self.port}/api/budget?city=Ankara&housing=kyk"
+        with urllib.request.urlopen(url) as resp:
+            self.assertEqual(resp.status, 200)
+            data = json.loads(resp.read().decode('utf-8'))
+            self.assertIn("tahmini_aylik_toplam_tl", data)
+            self.assertGreater(data["tahmini_aylik_toplam_tl"], 0)
+
     def test_api_campuses_search(self):
         url = f"http://127.0.0.1:{self.port}/api/campuses?city=Ankara&min_rating=4.5"
         with urllib.request.urlopen(url) as resp:
